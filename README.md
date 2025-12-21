@@ -20,7 +20,7 @@
 | Track Award (Life Sciences) | 1st | NasoCoustics      | $10,000 | Wireless, child-friendly nasometry device for speech therapy in cleft palate patients. | Dave Soliven, Jordan Ulibarri, Kenji Inducta, Natalie Benneian, Neha Muvvala, Neharika Gopikrishnan |
 | Track Award (Life Sciences) | 2nd | Oslo              | $5,000  | (See Audience Favorite)                                                         | Not Listed                                        |
 | Track Award (Social Enterprise) | 1st | CleanHydro        | $10,000 | AI-powered app for real-time analysis of water quality test strips and samples. | Not Listed                                        |
-| Track Award (Social Enterprise) | 2nd | Grad2Go           | $5,000  | (See Grand Prize)                                                               | (See Grand Prize)                                 |
+| Track Award (Social Enterprise) | 2nd | Grad2Go           | $5,000  | (None)                                                               | (None)                                 |
 
 ## 2024 Competition
 
@@ -30,7 +30,7 @@
 |----------------------|------------|-------------------|----------|---------------------------------------------------------------------------------|---------------------------------------------------|
 | Grand Prize          | Winner     | Sentinel          | $20,000 | AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped). | Kyle Deck, Michael Ross, Cody He, Spike O'Carrol, Natan Ampudia, Kevin Wu |
 | Runner-Up            | Winner     | NeoMold           | $5,000  | Customizable, 3D-printed ear molds for non-surgical correction of newborn ear deformities. | Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong |
-| Track Award (Business Products) | 1st | Sentinel          | $10,000 | (See Grand Prize)                                                               | (See Grand Prize)                                 |
+| Track Award (Business Products) | 1st | Sentinel          | $10,000 | (None)                                                               | (None)                                 |
 | Track Award (Business Products) | 2nd | BagIt             | $5,000  | Platform revolutionizing student savings with on-demand discounts.              | Not Listed                                        |
 | Track Award (Consumer Products) | 1st | Flare             | $10,000 | Smart safety glove for cyclists with LED indicators for signaling.              | Not Listed                                        |
 | Track Award (Consumer Products) | 2nd | Lynne             | $5,000  | Discreet, cooling wallet designed for carrying birth control.                   | Not Listed                                        |
@@ -56,7 +56,7 @@
 | Track Award (Consumer Services) | 1st | Leprendo              | $10,000 | (See Runner-Up)                                                                 | (See Runner-Up)                                   |
 | Track Award (Consumer Services) | 2nd | ChewRank              | $5,000  | Restaurant/Pet food discovery app based on trusted rankings.                    | Chi Wei Chen, Hsin-yi Lin, Wei-Chia Hsu, Xiaohan Li, XinYao Xu |
 | Track Award (Life Sciences) | 1st | Hyperion Therapeutics | $10,000 | Therapeutic agents for treating early-stage retinal diseases (AMD, DR).         | Timothy Luu, Krzysztof Palczewski                 |
-| Track Award (Life Sciences) | 2nd | VagAligna             | $5,000  | (See Grand Prize)                                                               | (See Grand Prize)                                 |
+| Track Award (Life Sciences) | 2nd | VagAligna             | $5,000  | (None)                                                               | (None)                                 |
 | Track Award (Social Enterprise) | 1st | Shower Power          | $10,000 | Shower system that recycles the 5% of water wasted while warming up.            | Not Listed                                        |
 | Track Award (Social Enterprise) | 2nd | TeamMade              | $5,000  | Modular Accessory Dwelling Units (ADUs) for affordable housing.                 | UCI/OCC Partnership Team                          |
 
@@ -68,7 +68,7 @@
 |----------------------|------------|-----------------------|----------|---------------------------------------------------------------------------------|---------------------------------------------------|
 | Grand Prize          | Winner     | Noveil                | $20,000 | Video dating app for Gen Z students eliminating "swiping" and profiles.         | Michael Allotey                                   |
 | Runner-Up            | Winner     | Enjovu Paper          | $5,000  | Sustainable paper produced from regenerated fibers in elephant feces.           | Not Listed                                        |
-| Track Award (Consumer Services) | 1st | Noveil                | $10,000 | (See Grand Prize)                                                               | (See Grand Prize)                                 |
+| Track Award (Consumer Services) | 1st | Noveil                | $10,000 | (None)                                                               | (None)                                 |
 | Track Award (Consumer Services) | 2nd | SnapHealth            | $5,000  | App empowering patients to control their sensitive health record data.          | Ashraf Hammouri                                   |
 | Track Award (Life Sciences) | 1st | forMED Technologies   | $10,000 | At-home eye pressure monitoring system to prevent blindness from glaucoma.      | Aryan Agarwal, Ruben Shakya, Francis Aguas        |
 | Track Award (Life Sciences) | 2nd | Sayenza Biosciences   | $5,000  | Automated platform for processing liposuction fat for regenerative medicine.    | Dr. Derek Banyard                                 |
@@ -87,7 +87,7 @@
 |----------------------|----------------|-------------------|------------|---------------------------------------------------------------------------------|---------------------------------------------------|
 | Grand Prize          | Winner         | Shaka             | Undisclosed| Culture-building app for remote teams to maintain engagement.                   | Melanie Wertzberger, Austin Chauncey, Preston Le, Agustine Pimentel |
 | Audience Favorite    | Winner         | MONI              | $1,000     | NFC-activated pet tag and community safety app.                                 | Not Listed                                        |
-| Track Award (Business Products) | 1st | Shaka             | Undisclosed| (See Grand Prize)                                                               | (See Grand Prize)                                 |
+| Track Award (Business Products) | 1st | Shaka             | Undisclosed| (None)                                                               | (None)                                 |
 | Track Award (Business Products) | 2nd | Health Libero     | Undisclosed| Marketplace redefining healthcare price transparency.                           | Not Listed                                        |
 | Track Award (Consumer Products) | 1st | MONI              | Undisclosed| (See Audience Favorite)                                                         | Not Listed                                        |
 | Track Award (Consumer Products) | 2nd | Hydroflow         | Undisclosed| Smart water bottle cap tracking hydration levels.                               | Not Listed                                        |
@@ -106,7 +106,7 @@
 |----------------------|------------|-----------------------|----------|---------------------------------------------------------------------------------|---------------------------------------------------|
 | Grand Prize          | Winner     | Baby Box              | $25,000 | AI-powered subscription for age-tailored baby products (0-3 years).             | Zarina Bahadur (MIE '20)                          |
 | Audience Favorite    | Winner     | Bottle Built          | $1,000  | Affordable housing construction using recycled PETE plastics.                   | Aryan Ghanadan                                    |
-| Track Award (Consumer Products) | 1st | Baby Box              | $10,000 | (See Grand Prize)                                                               | (See Grand Prize)                                 |
+| Track Award (Consumer Products) | 1st | Baby Box              | $10,000 | (None)                                                               | (None)                                 |
 | Track Award (Consumer Products) | 2nd | Voltek                | $5,000  | Blind spot detection device for bicycles using camera sensors.                  | Not Listed                                        |
 | Track Award (Consumer Services) | 1st | No Decaf Allowed      | $10,000 | Premium coffee subscription delivering fresh beans from roasters.               | Jim Robertson                                     |
 | Track Award (Consumer Services) | 2nd | Prophet Modeling      | $5,000  | Predictive modeling for money management services.                              | Not Listed                                        |
@@ -162,7 +162,7 @@
 | Award Category       | Place      | Team                  | Prize    | Project Details                                                                 | Team Members                                      |
 |----------------------|------------|-----------------------|----------|---------------------------------------------------------------------------------|---------------------------------------------------|
 | Grand Prize (School of Medicine) | Winner | Purist                | $15,000 | Localized nuclear reactors for cancer treatment isotopes.                        | Daniel Dai, Mikael Nilsson, Kim Westerbeck, Leila Safavi-Tehrani, Donald Magnuson |
-| Tech Surge (Technology) | 1st | Purist                | $10,000 | (See Grand Prize)                                                               | (See Grand Prize)                                 |
+| Tech Surge (Technology) | 1st | Purist                | $10,000 | (None)                                                               | (None)                                 |
 | Tech Surge (Technology) | 2nd | APIC Diagnostics      | $7,500  | Non-invasive saliva diagnostic device.                                          | Pravin Surana, Anandkumar Surendrarao, Cyril Soliman, Ishita Gulati |
 | Track Award (Life Sciences) | 1st | Venom-Aid             | $4,000  | Broad-spectrum anti-venom material.                                             | Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien |
 | Track Award (Life Sciences) | 2nd | Salux Diagnostics     | $1,500  | Rapid diagnostic technology for burn injuries.                                  | Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Kevin Trieu |
