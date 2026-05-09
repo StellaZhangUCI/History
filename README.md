@@ -1,8 +1,8 @@
-# UCI New Venture Competition: Complete Historical Archive (2017–2025)
+# UCI New Venture Competition: Complete Historical Archive (2009–2026)
 
-A community-maintained archive of finalists, projects, and prizes from the **UCI New Venture Competition (NVC)** — UC Irvine's flagship startup competition, hosted by the Beall Center for Innovation & Entrepreneurship at the Paul Merage School of Business.
+A community-maintained archive of finalists, projects, and prizes from the **UCI New Venture Competition (NVC)**, UC Irvine's flagship startup competition, hosted by the Beall Center for Innovation & Entrepreneurship at the Paul Merage School of Business.
 
-This document records each year's award categories, finalist teams, prize amounts, project descriptions, and (where available) team members. The goal is one durable, queryable record of what UCI's student and alumni founders have built — the kind of institutional memory that otherwise scatters across press releases, LinkedIn posts, and Wayback captures.
+This document records each year's award categories, finalist teams, prize amounts, project descriptions, and (where available) team members. The goal is one durable, queryable record of what UCI's student and alumni founders have built. It's the kind of institutional memory that otherwise scatters across press releases, LinkedIn posts, and Wayback captures.
 
 > Spotted an error or have data to add? See [`CONTRIBUTING.md`](CONTRIBUTING.md). PRs welcome.
 
@@ -11,6 +11,7 @@ This document records each year's award categories, finalist teams, prize amount
 - [About the Competition](#about-the-competition)
 - [How to Read This Archive](#how-to-read-this-archive)
 - [Cross-Year Analytics](#cross-year-analytics)
+- [2026 Competition (Upcoming)](#2026-competition-upcoming)
 - [2025 Competition](#2025-competition)
 - [2024 Competition](#2024-competition)
 - [2023 Competition](#2023-competition)
@@ -20,14 +21,18 @@ This document records each year's award categories, finalist teams, prize amount
 - [2019 Competition](#2019-competition)
 - [2018 Competition](#2018-competition)
 - [2017 Competition](#2017-competition)
+- [Pre-2017 Editions (2009–2016)](#pre-2017-editions-20092016)
+- [Sources & Notes](#sources--notes)
 
 ## About the Competition
 
-- **Host:** UCI Paul Merage School of Business — Beall Center for Innovation & Entrepreneurship
+- **Official name:** Stella Zhang New Venture Competition (since 2022)
+- **Naming history:** Originally the *Merage Business Plan Competition*; renamed *UCI New Venture Competition* in the 2016–2017 cycle; renamed again to *Stella Zhang New Venture Competition* in 2022 following a naming gift from Stella Zhang (FEMBA '05). All three names refer to the same competition lineage.
+- **Host:** UCI Paul Merage School of Business, Beall Center for Innovation & Entrepreneurship
 - **Eligibility:** UCI students, alumni, faculty, and partner-school teams
-- **Format:** Multi-round competition culminating in a Grand Finale, with track awards across Business Products, Consumer Products, Consumer Services, Life Sciences, and Social Enterprise (categories vary slightly by year), plus overall Grand Prize, Runner-Up, and specialty awards
-- **Prizes:** Cash plus in-kind professional services (legal, accounting, mentorship, prototyping access)
-- **First held:** 2009 — this archive begins at 2017
+- **Format:** Multi-round (Concept, Quarter, Semi-final / Board Room Pitch, Grand Finale) with track awards across Business Products & Services, Consumer Products, Consumer Services, Life Sciences, and Social Enterprise (categories vary slightly by year), plus overall Grand Prize, Runner-Up, and specialty awards (MIE, Audience Favorite)
+- **Prizes:** Cash plus in-kind professional services (legal, accounting, mentorship, prototyping access). The 2026 cash pool exceeds $100,000.
+- **First held:** 2009 (22nd annual edition in 2026). This archive's main per-year tables start at 2017; pre-2017 winners are summarized in the [Pre-2017 Editions](#pre-2017-editions-20092016) section.
 
 ## How to Read This Archive
 
@@ -48,12 +53,12 @@ All numbers below are computed directly from the tables in this archive and cove
 | 2024      | ~$100,000       |                                                             |
 | 2023      | ~$100,000       |                                                             |
 | 2022      | ~$100,000       |                                                             |
-| 2021      | ~$11,000        | Most track-award amounts were undisclosed                   |
+| 2021      | ~$28,500        | Several track-award amounts still undisclosed               |
 | 2020      | ~$101,000       | Highest Grand Prize on record at $25,000                    |
 | 2019      | ~$70,000        | Several rows undisclosed (Tech Surge 1st, CS 2nd tie, CP 2nd) |
 | 2018      | ~$92,500        | No overall Grand Prize / Runner-Up awarded that year        |
 | 2017      | ~$64,500        | Smaller per-track prizes ($4,000 / $1,500) before 2018 reset |
-| **Total** | **~$742,500**   | Excludes undisclosed amounts and the value of in-kind services |
+| **Total** | **~$760,000**   | Excludes undisclosed amounts and the value of in-kind services |
 
 ### Theme evolution
 
@@ -69,7 +74,7 @@ All numbers below are computed directly from the tables in this archive and cove
 | 2024 | Artificial Intelligence (AI) and Industrial Safety         |
 | 2025 | Sustainability, Student Life Solutions, and Medical Tech   |
 
-Themes are inferred from the dominant project areas of each year's finalists and aren't always official UCI labels. Three currents recur across nearly every year: **medical / life sciences**, **sustainability**, and **consumer-facing platforms** — they appear under different banners but rarely disappear entirely.
+Themes are inferred from the dominant project areas of each year's finalists and aren't always official UCI labels. Three currents recur across nearly every year: **medical / life sciences**, **sustainability**, and **consumer-facing platforms**. They appear under different banners but rarely disappear entirely.
 
 ### Repeat finalists across years
 
@@ -77,8 +82,8 @@ People who appeared on a finalist team in more than one year:
 
 | Founder        | First appearance                                          | Later appearance                                  |
 |----------------|-----------------------------------------------------------|---------------------------------------------------|
-| Daniel Dai     | 2017 — Purist (Grand Prize, School of Medicine; Tech Surge 1st) | 2018 — Graduate Data (Consumer Services 2nd)      |
-| Dylan Riffle   | 2023 — Leprendo (Runner-Up; Consumer Services 1st)        | 2024 — Two Cube (Life Sciences 1st)               |
+| Daniel Dai     | 2017: Purist (Grand Prize, School of Medicine; Tech Surge 1st) | 2018: Graduate Data (Consumer Services 2nd)      |
+| Dylan Riffle   | 2023: Leprendo (Runner-Up; Consumer Services 1st)        | 2024: Two Cube (Life Sciences 1st)               |
 
 Founders who appeared on two finalist teams in the **same** year:
 
@@ -86,17 +91,35 @@ Founders who appeared on two finalist teams in the **same** year:
 |-------------------------|------|-------------------------------------------------|-------------------------------------|
 | Donald "Don" Magnuson   | 2017 | Purist (Grand Prize, SoM; Tech Surge 1st)       | COMPAS (Business Products 2nd)      |
 
-Possible same-person matches still to confirm:
-
-- "Ishita" (2018, *Mechanodontics*) and "Ishita Gulati" (2017, *APIC Diagnostics*) likely refer to the same founder. If you can confirm, please open a PR.
-
 ### How prizes have shifted over time
 
 - **Grand Prize size:** $15,000 (2017, School-of-Medicine award) → $25,000 (2020, the pandemic-era peak) → $20,000 (2022–2025, current standard)
-- **Standard track payouts:** $4,000 / $1,500 in 2017 → $10,000 / $5,000 from 2018 onward — roughly a 6× jump in a single year
+- **Standard track payouts:** $4,000 / $1,500 in 2017 → $10,000 / $5,000 from 2018 onward, roughly a 6× jump in a single year
 - **Number of tracks:** 6 in 2017 (Tech Surge and Poverty Alleviation alongside the four standard tracks) → 5 standard tracks (Business Products, Consumer Products, Consumer Services, Life Sciences, Social Enterprise) plus specialty awards from 2022 forward
 - **MIE Award:** introduced in 2020 (Baby Box was the first Master-of-Innovation-and-Entrepreneurship-affiliated Grand Prize winner); now a recurring specialty award
 - **Audience Favorite:** appears intermittently (2020, 2021, 2025); typically a $1,000 prize
+
+## 2026 Competition (Upcoming)
+
+**Date:** May 21, 2026, 5:00–9:00 PM PT
+**Venue:** SB1 Merage Auditorium, 4291 Pereira Drive, Suite 2300, Irvine, CA 92627
+**Edition:** 22nd annual
+
+The 2026 Stella Zhang New Venture Competition Grand Finale is scheduled for May 21, 2026. As of this archive's last update (2026-05-09), the Board Room Pitch (semi-final) had taken place on May 8, 2026, and 55 teams had advanced from earlier rounds. Final winners had not yet been announced.
+
+### Confirmed structure (2026)
+
+- **Tracks (5):** Business Products & Services, Consumer Products, Consumer Services, Life Sciences, Social Enterprise
+- **Cash pool:** Over $100,000 total, plus AWS credits for all semi-finalists
+- **Grand Prize:** $20,000
+- **Runner-Up:** $5,000
+- **Per-track (semi-final stage):** $10,000 (1st) / $5,000 (2nd)
+
+### Notable semi-finalists (publicly named)
+
+AegleBio, Billify, NeuroBoost, plus 2025 Grand Prize winner **Grad2Go** competing again.
+
+> Full results will be added after the May 21, 2026 Grand Finale.
 
 ## 2025 Competition
 
@@ -107,7 +130,7 @@ Possible same-person matches still to confirm:
 |----------------------|------------|-------------------|----------|---------------------------------------------------------------------------------|---------------------------------------------------|
 | Grand Prize          | Winner     | Grad2Go           | $20,000 | A sustainable furniture resale and storage service for students during move-out/move-in cycles to reduce waste. | Yifan "May" Mei, Chengxi Li, Xinyu Zhang, Yuhan Yue, Yilin Shen, Hannah |
 | Runner-Up            | Winner     | GlowGuard         | $5,000  | Smart dental retainer case with UV-C sanitization and Bluetooth tracking capabilities. | Not Listed                                        |
-| Specialty (MIE Award)| Winner     | PCOSitive Buddy   | $2,500  | AI-based app supporting women with Polycystic Ovary Syndrome (PCOS) through tracking and community. | Master of Innovation & Entrepreneurship Students |
+| Specialty (MIE Award)| Winner     | PCOSitive Buddy   | $2,500  | AI-based app supporting women with Polycystic Ovary Syndrome (PCOS) through tracking and community. | Ricianne "Chi" Rey (MIE) |
 | Specialty (Audience Favorite) | Winner | Oslo              | $1,000  | Passive thermal/optical vital-sign monitoring system for seniors ("Birdhouse by Oslo"). | Not Listed                                        |
 | Track Award (Business Products) | 1st | TransMobile VR    | $10,000 | Immersive VR safety training simulations for waste-management drivers.          | Not Listed                                        |
 | Track Award (Business Products) | 2nd | ServEasy          | $5,000  | Reverse-bidding auction platform connecting homeowners with home service providers. | Not Listed                                        |
@@ -126,7 +149,7 @@ Possible same-person matches still to confirm:
 
 | Award Category       | Place      | Team              | Prize    | Project Details                                                                 | Team Members                                      |
 |----------------------|------------|-------------------|----------|---------------------------------------------------------------------------------|---------------------------------------------------|
-| Grand Prize          | Winner     | Sentinel          | $20,000 | AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped). | Kyle Deck, Michael Ross, Cody He, Spike O'Carrol, Natan Ampudia, Kevin Wu |
+| Grand Prize          | Winner     | Sentinel          | $20,000 | AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped). | Kyle Deck, Michael Ross, Cody He, Spike O'Carroll, Natán Ampudia, Kevin Wu |
 | Runner-Up            | Winner     | NeoMold           | $5,000  | Customizable, 3D-printed ear molds for non-surgical correction of newborn ear deformities. | Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong |
 | Track Award (Business Products) | 1st | Sentinel          | $10,000 | (See Grand Prize)                                                    | (See Grand Prize)                      |
 | Track Award (Business Products) | 2nd | BagIt             | $5,000  | Platform revolutionizing student savings with on-demand discounts.              | Not Listed                                        |
@@ -189,9 +212,9 @@ Possible same-person matches still to confirm:
 | Track Award (Business Products) | 2nd | Health Libero     | Undisclosed| Marketplace redefining healthcare price transparency.                           | Not Listed                                        |
 | Track Award (Consumer Products) | 1st | MONI              | Undisclosed| (See Audience Favorite)                                                         | Not Listed                                        |
 | Track Award (Consumer Products) | 2nd | Hydroflow         | Undisclosed| Smart water bottle cap tracking hydration levels.                               | Not Listed                                        |
-| Track Award (Consumer Services) | 1st (Tie) | MoodCloud         | Undisclosed| AI lifestyle/health management app.                                             | Jimmy Nguyen                                      |
-| Track Award (Consumer Services) | 1st (Tie) | REMSYS            | Undisclosed| Resume management system for college students.                                  | Victoria Sahrai                                   |
-| Track Award (Life Sciences) | 1st | StyloSonic        | Undisclosed| Handpiece for early gingivitis diagnosis using periodontal metrics.             | Not Listed                                        |
+| Track Award (Consumer Services) | 1st (Tie) | MoodCloud         | $5,000     | AI lifestyle/health management app.                                             | Jimmy Nguyen                                      |
+| Track Award (Consumer Services) | 1st (Tie) | REMSYS            | $5,000     | Resume management system for college students.                                  | Victoria Sahrai                                   |
+| Track Award (Life Sciences) | 1st | StyloSonic        | $7,500     | Handpiece for early gingivitis diagnosis using periodontal metrics.             | Not Listed                                        |
 | Track Award (Life Sciences) | 2nd | HydroVasc         | Undisclosed| Injectable hydrogel platform for tissue regeneration.                           | Not Listed                                        |
 | Track Award (Social Enterprise) | 1st | Circular          | $7,500     | Closed-loop food waste system using worm composting and vertical farming.       | Caleb Finn, Anjan Rana Magar                      |
 | Track Award (Social Enterprise) | 2nd | Tooke Fabrics     | $2,500     | Fabric produced from banana stems, employing marginalized widows.               | Anthea Mudanye, Anthony Eduafo, Hamza Ibrahim, Emmanuel Fiagbe |
@@ -271,3 +294,45 @@ Possible same-person matches still to confirm:
 | Track Award (Business Products) | 1st | Element: B2B2C        | $4,000  | E-commerce automation for patient delivery.                                     | Simon Loo, Brianne Pena, Shifa Safeeq, Scott Winter |
 | Track Award (Business Products) | 2nd | COMPAS                | $1,500  | Patient flow visualization system.                                              | Dr. Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover |
 | Track Award (Poverty Alleviation) | 1st | Esqalate              | $10,000 | Web platforms providing legal access to low-income Americans.                   | Joubin Khazaie, Mahan Naeim, Chad Trainer, Ilja Goushcha |
+
+## Pre-2017 Editions (2009–2016)
+
+This archive's main per-year tables begin in 2017. For completeness, here are confirmed Grand Prize / overall winners from earlier editions, when the competition was known as the *Merage Business Plan Competition*. Track structures and prize amounts varied considerably during these years, and several years' results aren't preserved in indexed public sources.
+
+| Year | Grand Prize Team               | Project                                                                                  | Prize                                              | Team Members                                                              |
+|------|--------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
+| 2009 | ZeroWatt Technologies          | Low-power data converter ICs to extend battery life in portable electronics              | $15,000                                            | Payam Heydari (faculty advisor), Fred Tzeng, Vipul Jain, Howard Ko, Thomas Pearson |
+| 2010 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
+| 2011 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
+| 2012 | Prescient Imaging              | Compact PET-imaging hardware for medical diagnostics                                     | Not Disclosed                                      | Farhad Daghighian (CEO), Ariel Beroukhim                                  |
+| 2013 | Laser Associated Sciences (LAS)| Laser-based vascular diagnostics medical device                                          | $15,000                                            | Sean White, Bruce Yang, Charlene Ong, Tyler Rice                          |
+| 2014 | iBesties                       | Books, dolls, and online entertainment to inspire entrepreneurship and tech learning in girls aged 6–10 | $15,000                                            | Gina Heitkamp, Jenae Heitkamp                                             |
+| 2015 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
+| 2016 | EmbryLux                       | Device screening embryos pre-implantation for IVF                                        | $20,000 (Life Sciences 1st + UCI IP Award)         | Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran        |
+
+**Other 2016 finalist teams** (confirmed but with full results not comprehensively documented): CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots.
+
+**2009 Undergraduate division** (separate from the main Grand Prize): *Happy Sleep* (Praveen De Silva, Kevin Hung), Bluetooth wristband alarm.
+
+## Sources & Notes
+
+Primary sources used to compile this archive:
+
+- UCI Paul Merage School of Business news releases (`merage.uci.edu/news/`)
+- UCI Beall Applied Innovation press releases (`beallinnovation.uci.edu`)
+- UCI Samueli School of Engineering coverage (`engineering.uci.edu/news/`)
+- ANTrepreneur (`antrepreneur.uci.edu`)
+- Business Wire press releases for the competition's announcements
+- OC Startup Council, OC Register, and OC Business Journal coverage
+- Beall / Butterworth Engineering Competition records (`bbcomp.tech.uci.edu`)
+
+### Outstanding source: the official annual reports
+
+The Beall Center publishes a comprehensive end-of-year PDF report for each NVC edition (2021 onward), posted under `merage.uci.edu/_files/documents/beall-center/nvc/` and `merage.uci.edu/_files/images/centers/innovation-entrepreneurship/`. As of this archive's last update, **all of these reports are password-protected**. They are the canonical source for the team rosters that currently read `Not Listed` here. If you can request access through the Beall Center, please open a PR to fill the gaps.
+
+### Methodology notes
+
+- "Confirmed" facts in this archive cite at least one durable public source.
+- "Likely" facts (single source, reasonable provenance) are accepted but flagged in PR descriptions when added.
+- Prize amounts are reported as announced and aren't inflation-adjusted.
+- Spotted an error or have data to add? See [`CONTRIBUTING.md`](CONTRIBUTING.md).
