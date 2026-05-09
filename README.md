@@ -10,6 +10,7 @@ This document records each year's award categories, finalist teams, prize amount
 
 - [`README.md`](README.md): this file. Cross-cutting overview, analytics, and the per-year index
 - [`years/`](years/): one markdown file per edition with the full awards table for that year
+- [`OUTCOMES.md`](OUTCOMES.md): "Where Are They Now?" post-competition outcomes for past finalists
 - [`data/nvc.json`](data/nvc.json): the same data as a structured machine-readable JSON
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): how to submit corrections and additions
 
@@ -20,6 +21,7 @@ This document records each year's award categories, finalist teams, prize amount
 - [Cross-Year Analytics](#cross-year-analytics)
 - [Year-by-Year Index](#year-by-year-index)
 - [Pre-2017 Editions (2009–2016)](#pre-2017-editions-20092016)
+- [Where Are They Now?](#where-are-they-now)
 - [Sources & Notes](#sources--notes)
 
 ## About the Competition
@@ -181,6 +183,18 @@ This archive's main per-year tables begin in 2017. For completeness, here are co
 **Other 2016 finalist teams** (confirmed but with full results not comprehensively documented): CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots.
 
 **2009 Undergraduate division** (separate from the main Grand Prize): *Happy Sleep* (Praveen De Silva, Kevin Hung), Bluetooth wristband alarm.
+
+## Where Are They Now?
+
+A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). Quick highlights:
+
+- **Two clean exits, both medical:** Laser Associated Sciences (acquired by Medtronic, 2020) and Mechanodontics (rebranded BRIUS Technologies, ~$46M total raised, commercial launch).
+- **Strongest non-medical operating company:** **123 Baby Box** (2020 Grand Prize), $1.2M oversubscribed seed in 2023, reportedly 7-figure 2025 revenue.
+- **Medical / life-sciences teams have the highest survival rate;** consumer-app and social-enterprise winners from 2018 to 2022 have largely gone dark.
+- **Most surprising decline:** Closed Loop Plastics (2018 Tech Surge 2nd), website now a parked domain in 2026.
+- **2024 Grand Prize Sentinel** appears to have been absorbed by Spotter.ai (no explicit press release found).
+
+See [`OUTCOMES.md`](OUTCOMES.md) for the full breakdown, sources, and confidence levels.
 
 ## Sources & Notes
 
