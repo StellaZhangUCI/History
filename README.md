@@ -10,6 +10,7 @@ This document records each year's award categories, finalist teams, prize amount
 
 - [About the Competition](#about-the-competition)
 - [How to Read This Archive](#how-to-read-this-archive)
+- [Cross-Year Analytics](#cross-year-analytics)
 - [2025 Competition](#2025-competition)
 - [2024 Competition](#2024-competition)
 - [2023 Competition](#2023-competition)
@@ -34,6 +35,68 @@ This document records each year's award categories, finalist teams, prize amount
 - **"Undisclosed"** in *Prize* → the dollar amount was not announced publicly
 - **"(See …)"** → row is a cross-reference; the full detail lives in another row of the same year's table (typically the Grand Prize / Runner-Up / Audience Favorite row)
 - **Repeating team names** within a single year mean the team won both an overall award and a track award
+
+## Cross-Year Analytics
+
+All numbers below are computed directly from the tables in this archive and cover **disclosed cash prizes only**. Several years included additional in-kind services (legal counsel, accounting, mentorship, lab/prototyping access) that are not counted here, and 2021's track-award amounts were largely undisclosed.
+
+### Disclosed cash prizes by year
+
+| Year      | Disclosed Total | Notes                                                       |
+|-----------|-----------------|-------------------------------------------------------------|
+| 2025      | ~$103,500       | Announced pool of "$150,000+" includes in-kind services     |
+| 2024      | ~$100,000       |                                                             |
+| 2023      | ~$100,000       |                                                             |
+| 2022      | ~$100,000       |                                                             |
+| 2021      | ~$11,000        | Most track-award amounts were undisclosed                   |
+| 2020      | ~$101,000       | Highest Grand Prize on record at $25,000                    |
+| 2019      | ~$70,000        | Several rows undisclosed (Tech Surge 1st, CS 2nd tie, CP 2nd) |
+| 2018      | ~$92,500        | No overall Grand Prize / Runner-Up awarded that year        |
+| 2017      | ~$64,500        | Smaller per-track prizes ($4,000 / $1,500) before 2018 reset |
+| **Total** | **~$742,500**   | Excludes undisclosed amounts and the value of in-kind services |
+
+### Theme evolution
+
+| Year | Theme as recorded in this archive                          |
+|------|------------------------------------------------------------|
+| 2017 | Deep Tech and Medical Innovation                           |
+| 2018 | Orthodontics and Social Good                               |
+| 2019 | Medical Devices and Social Platforms                       |
+| 2020 | Pandemic Resilience and First MIE Winner                   |
+| 2021 | Remote Work Solutions and Digital Health                   |
+| 2022 | Gen Z Technology and Sustainability                        |
+| 2023 | Hardware Innovation and Marketplace Platforms              |
+| 2024 | Artificial Intelligence (AI) and Industrial Safety         |
+| 2025 | Sustainability, Student Life Solutions, and Medical Tech   |
+
+Themes are inferred from the dominant project areas of each year's finalists and aren't always official UCI labels. Three currents recur across nearly every year: **medical / life sciences**, **sustainability**, and **consumer-facing platforms** — they appear under different banners but rarely disappear entirely.
+
+### Repeat finalists across years
+
+People who appeared on a finalist team in more than one year:
+
+| Founder        | First appearance                                          | Later appearance                                  |
+|----------------|-----------------------------------------------------------|---------------------------------------------------|
+| Daniel Dai     | 2017 — Purist (Grand Prize, School of Medicine; Tech Surge 1st) | 2018 — Graduate Data (Consumer Services 2nd)      |
+| Dylan Riffle   | 2023 — Leprendo (Runner-Up; Consumer Services 1st)        | 2024 — Two Cube (Life Sciences 1st)               |
+
+Founders who appeared on two finalist teams in the **same** year:
+
+| Founder                 | Year | Team A                                          | Team B                              |
+|-------------------------|------|-------------------------------------------------|-------------------------------------|
+| Donald "Don" Magnuson   | 2017 | Purist (Grand Prize, SoM; Tech Surge 1st)       | COMPAS (Business Products 2nd)      |
+
+Possible same-person matches still to confirm:
+
+- "Ishita" (2018, *Mechanodontics*) and "Ishita Gulati" (2017, *APIC Diagnostics*) likely refer to the same founder. If you can confirm, please open a PR.
+
+### How prizes have shifted over time
+
+- **Grand Prize size:** $15,000 (2017, School-of-Medicine award) → $25,000 (2020, the pandemic-era peak) → $20,000 (2022–2025, current standard)
+- **Standard track payouts:** $4,000 / $1,500 in 2017 → $10,000 / $5,000 from 2018 onward — roughly a 6× jump in a single year
+- **Number of tracks:** 6 in 2017 (Tech Surge and Poverty Alleviation alongside the four standard tracks) → 5 standard tracks (Business Products, Consumer Products, Consumer Services, Life Sciences, Social Enterprise) plus specialty awards from 2022 forward
+- **MIE Award:** introduced in 2020 (Baby Box was the first Master-of-Innovation-and-Entrepreneurship-affiliated Grand Prize winner); now a recurring specialty award
+- **Audience Favorite:** appears intermittently (2020, 2021, 2025); typically a $1,000 prize
 
 ## 2025 Competition
 
