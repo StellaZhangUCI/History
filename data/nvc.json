@@ -1,0 +1,1243 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-05-09",
+  "competition": {
+    "name": "Stella Zhang New Venture Competition",
+    "former_names": ["Merage Business Plan Competition", "UCI New Venture Competition"],
+    "host_school": "UCI Paul Merage School of Business",
+    "host_center": "Beall Center for Innovation & Entrepreneurship",
+    "first_held": 2009,
+    "naming_gift": {
+      "donor": "Stella Zhang",
+      "donor_affiliation": "FEMBA '05",
+      "year": 2022
+    }
+  },
+  "years": [
+    {
+      "year": 2026,
+      "status": "upcoming",
+      "edition": "22nd annual",
+      "grand_finale": {
+        "date": "2026-05-21",
+        "time": "5:00-9:00 PM PT",
+        "venue": "SB1 Merage Auditorium, 4291 Pereira Drive, Suite 2300, Irvine, CA 92627"
+      },
+      "tracks": ["Business Products & Services", "Consumer Products", "Consumer Services", "Life Sciences", "Social Enterprise"],
+      "prize_pool_announced": "Over $100,000 plus AWS credits for all semi-finalists",
+      "structure": {
+        "grand_prize_usd": 20000,
+        "runner_up_usd": 5000,
+        "track_first_usd": 10000,
+        "track_second_usd": 5000
+      },
+      "named_semifinalists": ["AegleBio", "Billify", "NeuroBoost", "Grad2Go"],
+      "semifinalist_count": 55,
+      "awards": []
+    },
+    {
+      "year": 2025,
+      "status": "completed",
+      "theme": "Sustainability, Student Life Solutions, and Medical Tech",
+      "prize_pool_announced": "Over $150,000 (Cash & In-Kind)",
+      "awards": [
+        {
+          "category": "Grand Prize",
+          "place": "Winner",
+          "team": "Grad2Go",
+          "prize_text": "$20,000",
+          "prize_amount_usd": 20000,
+          "project": "A sustainable furniture resale and storage service for students during move-out/move-in cycles to reduce waste.",
+          "members": ["Yifan \"May\" Mei", "Chengxi Li", "Xinyu Zhang", "Yuhan Yue", "Yilin Shen", "Hannah"]
+        },
+        {
+          "category": "Runner-Up",
+          "place": "Winner",
+          "team": "GlowGuard",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Smart dental retainer case with UV-C sanitization and Bluetooth tracking capabilities.",
+          "members": []
+        },
+        {
+          "category": "Specialty (MIE Award)",
+          "place": "Winner",
+          "team": "PCOSitive Buddy",
+          "prize_text": "$2,500",
+          "prize_amount_usd": 2500,
+          "project": "AI-based app supporting women with Polycystic Ovary Syndrome (PCOS) through tracking and community.",
+          "members": ["Ricianne \"Chi\" Rey (MIE)"]
+        },
+        {
+          "category": "Specialty (Audience Favorite)",
+          "place": "Winner",
+          "team": "Oslo",
+          "prize_text": "$1,000",
+          "prize_amount_usd": 1000,
+          "project": "Passive thermal/optical vital-sign monitoring system for seniors (\"Birdhouse by Oslo\").",
+          "members": []
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "TransMobile VR",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Immersive VR safety training simulations for waste-management drivers.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "ServEasy",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Reverse-bidding auction platform connecting homeowners with home service providers.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "GlowGuard",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Smart dental retainer case with UV-C sanitization and Bluetooth tracking capabilities.",
+          "members": [],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Runner-Up", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "NūCo",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Biodegradable leather handbags made from waste coconut water.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "PCOSitive Buddy",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI-based app supporting women with Polycystic Ovary Syndrome (PCOS) through tracking and community.",
+          "members": ["Ricianne \"Chi\" Rey (MIE)"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Specialty (MIE Award)", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "MinuTax",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "AI-powered automated tax-filing platform tailored for international students.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "NasoCoustics",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Wireless, child-friendly nasometry device for speech therapy in cleft palate patients.",
+          "members": ["Dave Soliven", "Jordan Ulibarri", "Kenji Inducta", "Natalie Benneian", "Neha Muvvala", "Neharika Gopikrishnan"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "Oslo",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Passive thermal/optical vital-sign monitoring system for seniors (\"Birdhouse by Oslo\").",
+          "members": [],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Specialty (Audience Favorite)", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "CleanHydro",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI-powered app for real-time analysis of water quality test strips and samples.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "Grad2Go",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "A sustainable furniture resale and storage service for students during move-out/move-in cycles to reduce waste.",
+          "members": ["Yifan \"May\" Mei", "Chengxi Li", "Xinyu Zhang", "Yuhan Yue", "Yilin Shen", "Hannah"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "status": "completed",
+      "theme": "Artificial Intelligence (AI) and Industrial Safety",
+      "awards": [
+        {
+          "category": "Grand Prize",
+          "place": "Winner",
+          "team": "Sentinel",
+          "prize_text": "$20,000",
+          "prize_amount_usd": 20000,
+          "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
+          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carroll", "Natán Ampudia", "Kevin Wu"]
+        },
+        {
+          "category": "Runner-Up",
+          "place": "Winner",
+          "team": "NeoMold",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Customizable, 3D-printed ear molds for non-surgical correction of newborn ear deformities.",
+          "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "Sentinel",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
+          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carroll", "Natán Ampudia", "Kevin Wu"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "BagIt",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Platform revolutionizing student savings with on-demand discounts.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "Flare",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Smart safety glove for cyclists with LED indicators for signaling.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "Lynne",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Discreet, cooling wallet designed for carrying birth control.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "Quiver",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Subscription service offering surfers access to a vast board library.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "Crafty Palate",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Marketplace connecting foodies with local artisan cooks.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "Two Cube",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Autonomous bioinformatics platform streamlining single-cell RNA analysis.",
+          "members": ["Dylan Riffle", "Shushrruth Sai Srinivasan"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "NeoMold",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Customizable, 3D-printed ear molds for non-surgical correction of newborn ear deformities.",
+          "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Runner-Up", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "PZ Nanopure",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Piezoelectric nanopore membranes to enhance \"Blue Energy\" (osmotic power) efficiency.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "DermaVision",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Forensic imaging tool detecting bruising across diverse skin tones.",
+          "members": ["Ashley Im", "Alejandra Reyes", "Mitchell Frazeur", "Hao Ngo"]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "status": "completed",
+      "theme": "Hardware Innovation and Marketplace Platforms",
+      "awards": [
+        {
+          "category": "Grand Finale",
+          "place": "Winner",
+          "team": "VagAligna",
+          "prize_text": "$20,000",
+          "prize_amount_usd": 20000,
+          "project": "Medical device designed to expedite the healing of vaginal tissue after childbirth or injury.",
+          "members": ["Fiza Qureshi", "Hailey Matyac", "Angie Espino", "Maile Adams"]
+        },
+        {
+          "category": "Grand Finale",
+          "place": "Runner-Up",
+          "team": "Leprendo",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Specialty food marketplace using short-form video to connect farmers to consumers.",
+          "members": ["Dan Ta", "Dylan Riffle", "Kanu Chandra", "Nina Nguyen"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "Helios",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Aftermarket license plate kit with radar/cameras for 360-degree driver safety.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "Orii.AI",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Generative AI scheduling platform for student time management.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "Help Belt",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Universal seat belt aid for individuals with limited mobility or arthritis.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "Omni Pet Club",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Multi-way configurable leash system for multi-pet owners.",
+          "members": ["Penny Love", "Rae Chen"]
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "Leprendo",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Specialty food marketplace using short-form video to connect farmers to consumers.",
+          "members": ["Dan Ta", "Dylan Riffle", "Kanu Chandra", "Nina Nguyen"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Finale", "place": "Runner-Up"}
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "ChewRank",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Restaurant/Pet food discovery app based on trusted rankings.",
+          "members": ["Chi Wei Chen", "Hsin-yi Lin", "Wei-Chia Hsu", "Xiaohan Li", "XinYao Xu"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "Hyperion Therapeutics",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Therapeutic agents for treating early-stage retinal diseases (AMD, DR).",
+          "members": ["Timothy Luu", "Krzysztof Palczewski"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "VagAligna",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Medical device designed to expedite the healing of vaginal tissue after childbirth or injury.",
+          "members": ["Fiza Qureshi", "Hailey Matyac", "Angie Espino", "Maile Adams"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Finale", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "Shower Power",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Shower system that recycles the 5% of water wasted while warming up.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "TeamMade",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Modular Accessory Dwelling Units (ADUs) for affordable housing.",
+          "members": [],
+          "members_note": "UCI/OCC Partnership Team"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "status": "completed",
+      "theme": "Gen Z Technology and Sustainability",
+      "awards": [
+        {
+          "category": "Grand Prize",
+          "place": "Winner",
+          "team": "Noveil",
+          "prize_text": "$20,000",
+          "prize_amount_usd": 20000,
+          "project": "Video dating app for Gen Z students eliminating \"swiping\" and profiles.",
+          "members": ["Michael Allotey"]
+        },
+        {
+          "category": "Runner-Up",
+          "place": "Winner",
+          "team": "Enjovu Paper",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Sustainable paper produced from regenerated fibers in elephant feces.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "Noveil",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Video dating app for Gen Z students eliminating \"swiping\" and profiles.",
+          "members": ["Michael Allotey"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "SnapHealth",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "App empowering patients to control their sensitive health record data.",
+          "members": ["Ashraf Hammouri"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "forMED Technologies",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "At-home eye pressure monitoring system to prevent blindness from glaucoma.",
+          "members": ["Aryan Agarwal", "Ruben Shakya", "Francis Aguas"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "Sayenza Biosciences",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Automated platform for processing liposuction fat for regenerative medicine.",
+          "members": ["Dr. Derek Banyard"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "Nutripair",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Clinical nutrition platform pairing users with foods based on dietary needs.",
+          "members": ["Catlin Tran"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "EmpowerMi",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Technology-driven mental wellness platform.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "HAI",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Sustainable jewelry made from upcycled ocean plastic.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "GaleGauge",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Golf training tool using wind/temp data to adjust swing calculations.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "Blue Aqua Food Tech",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Insect-based alternative protein for fish feed to solve fishmeal shortages.",
+          "members": ["Hamoon Shishechian", "Parham Mansor Safain", "Kendyll Trenary"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "Enjovu Paper",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Sustainable paper produced from regenerated fibers in elephant feces.",
+          "members": [],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Runner-Up", "place": "Winner"}
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "status": "completed",
+      "theme": "Remote Work Solutions and Digital Health",
+      "awards": [
+        {
+          "category": "Grand Prize",
+          "place": "Winner",
+          "team": "Shaka",
+          "prize_text": "Undisclosed",
+          "prize_amount_usd": null,
+          "project": "Culture-building app for remote teams to maintain engagement.",
+          "members": ["Melanie Wertzberger", "Austin Chauncey", "Preston Le", "Agustine Pimentel"]
+        },
+        {
+          "category": "Audience Favorite",
+          "place": "Winner",
+          "team": "MONI",
+          "prize_text": "$1,000",
+          "prize_amount_usd": 1000,
+          "project": "NFC-activated pet tag and community safety app.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "Shaka",
+          "prize_text": "Undisclosed",
+          "prize_amount_usd": null,
+          "project": "Culture-building app for remote teams to maintain engagement.",
+          "members": ["Melanie Wertzberger", "Austin Chauncey", "Preston Le", "Agustine Pimentel"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "Health Libero",
+          "prize_text": "Undisclosed",
+          "prize_amount_usd": null,
+          "project": "Marketplace redefining healthcare price transparency.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "MONI",
+          "prize_text": "Undisclosed",
+          "prize_amount_usd": null,
+          "project": "NFC-activated pet tag and community safety app.",
+          "members": [],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Audience Favorite", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "Hydroflow",
+          "prize_text": "Undisclosed",
+          "prize_amount_usd": null,
+          "project": "Smart water bottle cap tracking hydration levels.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st (Tie)",
+          "team": "MoodCloud",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "AI lifestyle/health management app.",
+          "members": ["Jimmy Nguyen"]
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st (Tie)",
+          "team": "REMSYS",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Resume management system for college students.",
+          "members": ["Victoria Sahrai"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "StyloSonic",
+          "prize_text": "$7,500",
+          "prize_amount_usd": 7500,
+          "project": "Handpiece for early gingivitis diagnosis using periodontal metrics.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "HydroVasc",
+          "prize_text": "Undisclosed",
+          "prize_amount_usd": null,
+          "project": "Injectable hydrogel platform for tissue regeneration.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "Circular",
+          "prize_text": "$7,500",
+          "prize_amount_usd": 7500,
+          "project": "Closed-loop food waste system using worm composting and vertical farming.",
+          "members": ["Caleb Finn", "Anjan Rana Magar"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "Tooke Fabrics",
+          "prize_text": "$2,500",
+          "prize_amount_usd": 2500,
+          "project": "Fabric produced from banana stems, employing marginalized widows.",
+          "members": ["Anthea Mudanye", "Anthony Eduafo", "Hamza Ibrahim", "Emmanuel Fiagbe"]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "status": "completed",
+      "theme": "Pandemic Resilience and First MIE Winner",
+      "awards": [
+        {
+          "category": "Grand Prize",
+          "place": "Winner",
+          "team": "Baby Box",
+          "prize_text": "$25,000",
+          "prize_amount_usd": 25000,
+          "project": "AI-powered subscription for age-tailored baby products (0-3 years).",
+          "members": ["Zarina Bahadur (MIE '20)"]
+        },
+        {
+          "category": "Audience Favorite",
+          "place": "Winner",
+          "team": "Bottle Built",
+          "prize_text": "$1,000",
+          "prize_amount_usd": 1000,
+          "project": "Affordable housing construction using recycled PETE plastics.",
+          "members": ["Aryan Ghanadan"]
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "Baby Box",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI-powered subscription for age-tailored baby products (0-3 years).",
+          "members": ["Zarina Bahadur (MIE '20)"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "Voltek",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Blind spot detection device for bicycles using camera sensors.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "No Decaf Allowed",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Premium coffee subscription delivering fresh beans from roasters.",
+          "members": ["Jim Robertson"]
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "Prophet Modeling",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Predictive modeling for money management services.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "Ardha Health",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Collaboration software for post-acute care (PAC) teams.",
+          "members": ["Drew Park"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "Instinct",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Software measuring real-time stress levels to improve productivity.",
+          "members": ["Sumanth Pallamreddy"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "ImmunoTarget",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Personalized cancer immunotherapies.",
+          "members": ["Stephanie Hachey"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "CannTek",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Electrochemical device for detecting THC levels (law enforcement).",
+          "members": ["Oren"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "Conshus Clothing",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Sustainable fair-trade fashion brand empowering women.",
+          "members": ["Arneeb Mahbub", "Parth"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "Bottle Built",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Affordable housing construction using recycled PETE plastics.",
+          "members": ["Aryan Ghanadan"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Audience Favorite", "place": "Winner"}
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "status": "completed",
+      "theme": "Medical Devices and Social Platforms",
+      "awards": [
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "1st",
+          "team": "ELF Therapeutics",
+          "prize_text": "Funded",
+          "prize_amount_usd": null,
+          "project": "Handheld device using electrochemical reaction to destroy fat cells.",
+          "members": []
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "2nd",
+          "team": "P-FLAPs",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Projection surgical device for stenciling on patients.",
+          "members": ["R Sayadi", "A Majumder"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "VolunteerCrowd",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Marketplace connecting students with nonprofits for transcripts.",
+          "members": ["Amy von Kaenel"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "giv",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Charitable giving platform similar to Instagram.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "UniSafe",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Campus safety app with location sharing and escort features.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "Jiffal",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Event management proposal.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "myHealth Today",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Senior-friendly voice assistant for tracking medical appointments.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd (Tie)",
+          "team": "Curbd / SwappIt",
+          "prize_text": "-",
+          "prize_amount_usd": null,
+          "project": "Driveway parking app / Streetwear trading platform.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "Poo Pal",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Clip for dog waste bags.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "Steth 'n Go",
+          "prize_text": "Undisclosed",
+          "prize_amount_usd": null,
+          "project": "Magnetic stethoscope holder.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "ELF Therapeutics",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Handheld device using electrochemical reaction to destroy fat cells.",
+          "members": [],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Tech Surge (Technology)", "place": "1st"}
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "Embryologic",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Noninvasive imaging to assess embryo quality for IVF.",
+          "members": []
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "status": "completed",
+      "theme": "Orthodontics and Social Good",
+      "notes": "No overall Grand Prize / Runner-Up was awarded that year.",
+      "awards": [
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "Mechanodontics",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Behind-the-teeth braces reducing treatment time to 1 year.",
+          "members": ["Zahra Mamaghani", "Mahdi Tehrani", "Mehdi Peikar", "Ishita", "James Wratten"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "First Step Diagnostics",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Early diagnosis of infant behavioral issues (3 weeks old).",
+          "members": ["Max Lechner", "Hannah Mylabathula", "Dr. Elizabeth Chao", "Dave Ferguson"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "Apeel Juice",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Juice made from cosmetically defective produce to reduce waste.",
+          "members": ["Keene Do", "Jacqueline Kao", "Matthew Nguyen", "Huan Quach"]
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "CarDana",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Platform democratizing charitable vehicle donations.",
+          "members": ["Anthony Glenn", "Jan Biermeyer", "Gonzalo Vargas", "Derek Singh"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "Celebrate in a Snap",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "All-in-one party supply packages.",
+          "members": ["Jyothi Pradhan", "Emily Chan", "Jose Hernandez", "Junaid Ahmed"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "SolarLab",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Design tool for solar PV systems.",
+          "members": ["Hao Peng", "Yanchen Wu", "Jiale Chen", "Edward Li"]
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "ARTEM",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Marketplace for underground artists aged 18-24.",
+          "members": ["Emily Vu", "Cesar Corral", "Matthew Peterson"]
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "Gimme",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "App helping consumers decide where to eat.",
+          "members": ["Dhananjay Kumar", "Philip Erford", "Brenton Higa", "John Dang", "Justin McDonald"]
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "Wing",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Tech for corporate sustainable competitiveness.",
+          "members": ["Karan Kanwar", "Martin Gomez", "Tod Srisengfa", "Monish Ramadoss", "Jackson Wickman"]
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "Graduate Data",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Social networking for student mentorship.",
+          "members": ["Mohammad Fidaali", "Daniel Dai", "Emily Walker", "David Liu"]
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "1st",
+          "team": "First Step Diagnostics",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Early diagnosis of infant behavioral issues (3 weeks old).",
+          "members": ["Max Lechner", "Hannah Mylabathula", "Dr. Elizabeth Chao", "Dave Ferguson"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Track Award (Life Sciences)", "place": "2nd"}
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "2nd",
+          "team": "Closed Loop Plastics",
+          "prize_text": "$7,500",
+          "prize_amount_usd": 7500,
+          "project": "Localized plastic recycling infrastructure.",
+          "members": ["William Amos", "Aldrin Lupisan", "Jesse Jackson", "Sharon To", "Ivette Morales"]
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "status": "completed",
+      "theme": "Deep Tech and Medical Innovation",
+      "awards": [
+        {
+          "category": "Grand Prize (School of Medicine)",
+          "place": "Winner",
+          "team": "Purist",
+          "prize_text": "$15,000",
+          "prize_amount_usd": 15000,
+          "project": "Localized nuclear reactors for cancer treatment isotopes.",
+          "members": ["Daniel Dai", "Mikael Nilsson", "Kim Westerbeck", "Leila Safavi-Tehrani", "Donald Magnuson"]
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "1st",
+          "team": "Purist",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Localized nuclear reactors for cancer treatment isotopes.",
+          "members": ["Daniel Dai", "Mikael Nilsson", "Kim Westerbeck", "Leila Safavi-Tehrani", "Donald Magnuson"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Prize (School of Medicine)", "place": "Winner"}
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "2nd",
+          "team": "APIC Diagnostics",
+          "prize_text": "$7,500",
+          "prize_amount_usd": 7500,
+          "project": "Non-invasive saliva diagnostic device.",
+          "members": ["Pravin Surana", "Anandkumar Surendrarao", "Cyril Soliman", "Ishita Gulati"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "Venom-Aid",
+          "prize_text": "$4,000",
+          "prize_amount_usd": 4000,
+          "project": "Broad-spectrum anti-venom material.",
+          "members": ["Nicole Chow", "Luana Okumura", "Lisa Mae Dominia", "Jeffrey O'Brien"]
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "Salux Diagnostics",
+          "prize_text": "$1,500",
+          "prize_amount_usd": 1500,
+          "project": "Rapid diagnostic technology for burn injuries.",
+          "members": ["Dimple Patel", "Eashani Sathialibgam", "Akshita Agrawal", "Kevin Trieu"]
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "BrainCheck",
+          "prize_text": "$4,000",
+          "prize_amount_usd": 4000,
+          "project": "Portable brain-computer interface (BCI).",
+          "members": ["Garvin Arellano", "Tina Chan", "Thomas Tran", "Junghyun Kim"]
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "Failsafe",
+          "prize_text": "$1,500",
+          "prize_amount_usd": 1500,
+          "project": "Personal safety mobile application.",
+          "members": ["Natalie Sweis", "Jasmine Yu", "Issa Sweis"]
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "Memorlane",
+          "prize_text": "$4,000",
+          "prize_amount_usd": 4000,
+          "project": "Collaborative photo-sharing iOS app.",
+          "members": ["Evan Schein", "Yocelyn Recinos"]
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "Eater Zone",
+          "prize_text": "$1,500",
+          "prize_amount_usd": 1500,
+          "project": "Homemade-style cuisine delivery for campuses.",
+          "members": ["Jonathan Kumamoto", "Anna Zhang", "Angela Lao", "Helen Hu"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "1st",
+          "team": "Element: B2B2C",
+          "prize_text": "$4,000",
+          "prize_amount_usd": 4000,
+          "project": "E-commerce automation for patient delivery.",
+          "members": ["Simon Loo", "Brianne Pena", "Shifa Safeeq", "Scott Winter"]
+        },
+        {
+          "category": "Track Award (Business Products)",
+          "place": "2nd",
+          "team": "COMPAS",
+          "prize_text": "$1,500",
+          "prize_amount_usd": 1500,
+          "project": "Patient flow visualization system.",
+          "members": ["Dr. Scott Ruskin", "Don Magnuson", "Curtis Hendrick", "Michael Glover"]
+        },
+        {
+          "category": "Track Award (Poverty Alleviation)",
+          "place": "1st",
+          "team": "Esqalate",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Web platforms providing legal access to low-income Americans.",
+          "members": ["Joubin Khazaie", "Mahan Naeim", "Chad Trainer", "Ilja Goushcha"]
+        }
+      ]
+    }
+  ],
+  "pre_2017_editions": [
+    {
+      "year": 2009,
+      "competition_name_at_time": "Merage Business Plan Competition",
+      "grand_prize": {
+        "team": "ZeroWatt Technologies",
+        "project": "Low-power data converter ICs to extend battery life in portable electronics",
+        "prize_text": "$15,000",
+        "prize_amount_usd": 15000,
+        "members": ["Payam Heydari (faculty advisor)", "Fred Tzeng", "Vipul Jain", "Howard Ko", "Thomas Pearson"]
+      },
+      "undergraduate_winner": {
+        "team": "Happy Sleep",
+        "project": "Bluetooth wristband alarm",
+        "members": ["Praveen De Silva", "Kevin Hung"]
+      }
+    },
+    {"year": 2010, "status": "no_public_record"},
+    {"year": 2011, "status": "no_public_record"},
+    {
+      "year": 2012,
+      "competition_name_at_time": "Merage Business Plan Competition",
+      "grand_prize": {
+        "team": "Prescient Imaging",
+        "project": "Compact PET-imaging hardware for medical diagnostics",
+        "prize_text": "Not Disclosed",
+        "prize_amount_usd": null,
+        "members": ["Farhad Daghighian (CEO)", "Ariel Beroukhim"]
+      }
+    },
+    {
+      "year": 2013,
+      "competition_name_at_time": "Merage Business Plan Competition",
+      "grand_prize": {
+        "team": "Laser Associated Sciences (LAS)",
+        "project": "Laser-based vascular diagnostics medical device",
+        "prize_text": "$15,000",
+        "prize_amount_usd": 15000,
+        "members": ["Sean White", "Bruce Yang", "Charlene Ong", "Tyler Rice"]
+      }
+    },
+    {
+      "year": 2014,
+      "competition_name_at_time": "Merage Business Plan Competition",
+      "grand_prize": {
+        "team": "iBesties",
+        "project": "Books, dolls, and online entertainment to inspire entrepreneurship and tech learning in girls aged 6-10",
+        "prize_text": "$15,000",
+        "prize_amount_usd": 15000,
+        "members": ["Gina Heitkamp", "Jenae Heitkamp"]
+      }
+    },
+    {"year": 2015, "status": "no_public_record"},
+    {
+      "year": 2016,
+      "competition_name_at_time": "Merage Business Plan Competition",
+      "grand_prize": {
+        "team": "EmbryLux",
+        "project": "Device screening embryos pre-implantation for IVF",
+        "prize_text": "$20,000 (Life Sciences 1st + UCI IP Award)",
+        "prize_amount_usd": 20000,
+        "members": ["Tiffany Chien", "Yingkai Su", "Thai Nguyen", "Shin Fukazawa", "Daniel Tran"]
+      },
+      "other_finalists_named": [
+        "CeleriBio",
+        "Dental Insights",
+        "Jam",
+        "FunBand",
+        "Curaflow",
+        "Carbo",
+        "Sher Biomedical",
+        "Negocios & Etc.",
+        "Bottle Rocket",
+        "Maslow Construction Robots"
+      ]
+    }
+  ],
+  "cross_year_notes": {
+    "repeat_finalists": [
+      {
+        "name": "Daniel Dai",
+        "appearances": [
+          {"year": 2017, "team": "Purist", "awards": ["Grand Prize (School of Medicine)", "Tech Surge 1st"]},
+          {"year": 2018, "team": "Graduate Data", "awards": ["Track Award (Consumer Services) 2nd"]}
+        ]
+      },
+      {
+        "name": "Dylan Riffle",
+        "appearances": [
+          {"year": 2023, "team": "Leprendo", "awards": ["Grand Finale Runner-Up", "Track Award (Consumer Services) 1st"]},
+          {"year": 2024, "team": "Two Cube", "awards": ["Track Award (Life Sciences) 1st"]}
+        ]
+      }
+    ],
+    "two_teams_same_year": [
+      {
+        "name": "Donald \"Don\" Magnuson",
+        "year": 2017,
+        "teams": ["Purist (Grand Prize SoM, Tech Surge 1st)", "COMPAS (Business Products 2nd)"]
+      }
+    ],
+    "disclosed_cash_totals_by_year_usd": {
+      "2025": 103500,
+      "2024": 100000,
+      "2023": 100000,
+      "2022": 100000,
+      "2021": 28500,
+      "2020": 101000,
+      "2019": 70000,
+      "2018": 92500,
+      "2017": 64500,
+      "total_2017_to_2025": 760000
+    }
+  }
+}
