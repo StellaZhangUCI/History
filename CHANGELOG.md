@@ -6,6 +6,23 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-10
 
+### Added (judging-panel research, third pass)
+
+- **Full judging panels added for 2021 and 2022:**
+  - 2021: Gina Heitkamp, Pam Moellenhoff, Ken Neeld, Carrie Reynolds, Hicham Semaan
+  - 2022: Isabelle Bart, Rodrigo Mahs, Lori Mazan, Debbie Lin
+- **Partial judging info added for 2018, 2019, 2020:**
+  - 2018: Chris Halliwell (Beall Center Board Member)
+  - 2019: Ken & Carla Neeld, Mansoor & Fiza Shah, Dr. Emanuel Shaoulian, Matt Bailey, Johnson Chuang (named partners/sponsors); David Ochi (financial-modeling judge)
+  - 2020: Ken Neeld (only confirmed name)
+- **First documented finalist-to-judge transition: Gina Heitkamp** (2014 iBesties Grand Prize co-founder) returned in 2021 as a final-round judge. Added to README's repeat-finalists analytics section and to `data/nvc.json` years[2021].judges_note.
+- **2018.notes** corrected: 2018 final round had 54 finalist teams (only the winners are in the awards array).
+- **`data/nvc.json` years[2018-2022]** now have edition_number and judges / confirmed_judges_partial fields where data exists.
+- **`SPONSORS-AND-JUDGES.md`**: new sub-sections for 2018, 2019, 2020, 2021, 2022.
+- **`BACKLOG.md`** Priority 8 status updated: full panels for 2021/2022/2023/2024 now documented; only 2018, 2019, 2020 (full), 2025 (full), 2026 (upcoming), and 2017-earlier remain as gaps.
+- Pre-2017 missing years (2010, 2011, 2015) still NOT FOUND after a third search angle; Wayback Machine inaccessibility blocks deeper search.
+- "Not Listed" rosters for PZ Nanopure, CleanHydro, GlowGuard also NOT FOUND.
+
 ### Changed (propagation of outcome data into README and human-readable surfaces)
 
 - **README "Where Are They Now?" teaser refreshed**: now reflects three documented exits (was two), names the two pivots-to-going-concern (First Step -> NeuroQure, Wing -> Wing Assistant), adds TeamMade's LuminOCity social-impact outcome, and reports the 54-of-112 research progress.

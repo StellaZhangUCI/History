@@ -101,6 +101,8 @@ Founders who appeared on two finalist teams in the **same** year:
 |-------------------------|------|-------------------------------------------------|-------------------------------------|
 | Donald "Don" Magnuson   | 2017 | Purist (Grand Prize, SoM; Tech Surge 1st)       | COMPAS (Business Products 2nd)      |
 
+**Finalist-to-judge transitions:** Gina Heitkamp won the 2014 Grand Prize with iBesties (with sister Jenae). She returned in 2021 as a member of the final-round judging panel: the first documented finalist-to-judge transition in the archive. See [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md#2021-17th-annual).
+
 ### Outcome distribution (researched teams)
 
 Of the **54 teams researched** as of 2026-05-10 (out of 112 total in the archive):

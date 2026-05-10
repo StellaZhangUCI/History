@@ -498,6 +498,15 @@
       "year": 2022,
       "status": "completed",
       "theme": "Gen Z Technology and Sustainability",
+      "edition_number": "18th annual",
+      "judges": [
+        "Isabelle Bart",
+        "Rodrigo Mahs",
+        "Lori Mazan",
+        "Debbie Lin"
+      ],
+      "judges_note": "Final-round Shark Tank style panel.",
+      "judges_source": "https://bli.uci.edu/stella_zhang/",
       "awards": [
         {
           "category": "Grand Prize",
@@ -617,6 +626,16 @@
       "year": 2021,
       "status": "completed",
       "theme": "Remote Work Solutions and Digital Health",
+      "edition_number": "17th annual",
+      "judges": [
+        "Gina Heitkamp",
+        "Pam Moellenhoff",
+        "Ken Neeld",
+        "Carrie Reynolds",
+        "Hicham Semaan"
+      ],
+      "judges_note": "Gina Heitkamp is also a former NVC finalist (2014 Grand Prize with iBesties), making her the first documented finalist-to-judge transition in the archive.",
+      "judges_source": "https://merage.uci.edu/news/2021/06/Shaka-Takes-Home-First-Place-at-the-2021-New-Venture-Competition.html",
       "awards": [
         {
           "category": "Grand Prize",
@@ -736,6 +755,10 @@
       "year": 2020,
       "status": "completed",
       "theme": "Pandemic Resilience and First MIE Winner",
+      "edition_number": "16th annual",
+      "confirmed_judges_partial": ["Ken Neeld (Chair, Beall Center; judge in NVC for five years)"],
+      "judges_note": "Press release otherwise refers to 'five Orange County investors and entrepreneur ecosystem influencers' without naming them.",
+      "judges_source": "https://merage.uci.edu/news/2020/06/baby-box-wins-25,000-grand-prize-at-2020-new-venture-competition.html",
       "awards": [
         {
           "category": "Grand Prize",
@@ -855,6 +878,17 @@
       "year": 2019,
       "status": "completed",
       "theme": "Medical Devices and Social Platforms",
+      "edition_number": "15th annual",
+      "named_partners_and_sponsors": [
+        "Ken & Carla Neeld",
+        "Mansoor & Fiza Shah",
+        "Dr. Emanuel Shaoulian",
+        "Matt Bailey",
+        "Johnson Chuang"
+      ],
+      "confirmed_judges_partial": ["David Ochi (financial-modeling judge)"],
+      "judges_note": "Full final-round judging panel not preserved in indexed sources; named partners/sponsors above are not necessarily all final-round judges.",
+      "judges_source": "https://merage.uci.edu/events/2019/04/nvc-workshop-6-financial-models.html",
       "awards": [
         {
           "category": "Tech Surge (Technology)",
@@ -972,7 +1006,11 @@
       "year": 2018,
       "status": "completed",
       "theme": "Orthodontics and Social Good",
-      "notes": "No overall Grand Prize / Runner-Up was awarded that year.",
+      "edition_number": "14th annual",
+      "notes": "No overall Grand Prize / Runner-Up was awarded that year. 2018 final round had 54 finalist teams; only winners are listed in the awards array below.",
+      "confirmed_judges_partial": ["Chris Halliwell (Beall Center Board Member)"],
+      "judges_note": "Press release otherwise describes judges only as 'experienced investors, entrepreneurs, and senior business practitioners.'",
+      "judges_source": "https://merage.uci.edu/news/2018/fourteen-teams-walk-away-with-more-than-100,000-in-cash-and-prizes-following-final-round-of-uci-new-venture-competition.html",
       "awards": [
         {
           "category": "Track Award (Life Sciences)",

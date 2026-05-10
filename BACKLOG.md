@@ -155,14 +155,14 @@ Most facts in the per-year tables currently lack row-level citations. The [Sourc
 
 This is low priority: the data itself is more valuable than the citations, and contributors are already asked to cite sources in PR descriptions per [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-## Priority 8: Sponsors, judges, and mentors (partially addressed in 2026-05-10)
+## Priority 8: Sponsors, judges, and mentors (largely addressed in 2026-05-10)
 
-Initial institutional context is now captured in [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md), including:
+Institutional context now captured in [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md):
 
 - The Stella Zhang naming gift (2022 initial + $750,000 March 2025 extension)
 - Recurring competition-level sponsors
-- Confirmed 2023 judging panel
-- Confirmed 2024 judges and coaches
+- **Full judging panels** for 2021, 2022, 2023, 2024
+- Partial panels for 2018, 2019, 2020
 - Blum Center partnership with the Social Enterprise track
 - Program staff and mentor/coach structure
 - Seven-month workshop format
@@ -170,9 +170,10 @@ Initial institutional context is now captured in [`SPONSORS-AND-JUDGES.md`](SPON
 **Remaining gaps:**
 
 - Full 2025 grand-finale judging panel (likely in the password-protected 2025 NVC report PDF)
-- 2018 to 2022 judging panels (not preserved in indexed public sources)
+- Full 2018, 2019, 2020 panels (only partial fragments preserved in indexed sources)
 - Per-track judging assignments (not published)
 - 2026 judging panel (will be in the May 21, 2026 press release)
+- 2017 and earlier judging panels (likely lost to time)
 - Track sponsorship is **confirmed to not exist per-track** in the current structure; sponsors fund the program collectively, so this item is closed as "no per-track sponsor exists" rather than "unknown."
 
 ## How to claim a backlog item

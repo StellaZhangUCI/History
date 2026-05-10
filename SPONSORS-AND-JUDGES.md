@@ -91,9 +91,60 @@ The full Grand Finale judging panel is not preserved in indexed press materials.
 
 Source: [UCI Blum Center NVC page](https://blumcenter.uci.edu/students/new-venture-competition/)
 
-### 2018 to 2022 and earlier
+### 2022 (18th annual)
 
-Per-year judging panels are not preserved in indexed public sources beyond scattered fragments. See [`BACKLOG.md`](BACKLOG.md) for the open items.
+Final-round "Shark Tank" judge panel:
+
+- Isabelle Bart
+- Rodrigo Mahs
+- Lori Mazan
+- Debbie Lin
+
+Source: [UCI Blum Initiative Stella Zhang page](https://bli.uci.edu/stella_zhang/)
+
+### 2021 (17th annual)
+
+Full final-round judging panel:
+
+- Gina Heitkamp
+- Pam Moellenhoff
+- Ken Neeld
+- Carrie Reynolds
+- Hicham Semaan
+
+**Notable cross-year pattern:** Gina Heitkamp is also a former NVC finalist. She and her sister Jenae Heitkamp won the 2014 Grand Prize with iBesties (which later rebranded to Middle School Moguls). This makes her the first documented finalist-to-judge transition in the archive.
+
+Source: [Merage News (Jun 2021)](https://merage.uci.edu/news/2021/06/Shaka-Takes-Home-First-Place-at-the-2021-New-Venture-Competition.html)
+
+### 2020 (16th annual)
+
+Partial. Only **Ken Neeld** (Chair, Beall Center; "judge in NVC for five years") is named in the press release. The release otherwise refers to "five Orange County investors and entrepreneur ecosystem influencers" without naming them.
+
+Source: [Merage News (Jun 2020)](https://merage.uci.edu/news/2020/06/baby-box-wins-25,000-grand-prize-at-2020-new-venture-competition.html)
+
+### 2019 (15th annual)
+
+Partial. Named partners / sponsors associated with the 2019 cycle:
+
+- Ken & Carla Neeld
+- Mansoor & Fiza Shah
+- Dr. Emanuel Shaoulian
+- Matt Bailey
+- Johnson Chuang
+
+**David Ochi** is referenced as a 2019-era NVC judge (financial modeling).
+
+Sources: [Merage NVC workshop page](https://merage.uci.edu/events/2019/04/nvc-workshop-6-financial-models.html), [OC Startup Council 2019 winners coverage](http://ocstartupcouncil.org/oc-startups-news/uci-paul-merage-school-of-business-announces-2019-new-venture-competition-winners)
+
+### 2018 (14th annual)
+
+Partial. Only **Chris Halliwell** (Beall Center Board Member) is named. The press release otherwise describes judges only as "experienced investors, entrepreneurs, and senior business practitioners."
+
+Source: [Merage News (2018)](https://merage.uci.edu/news/2018/fourteen-teams-walk-away-with-more-than-100,000-in-cash-and-prizes-following-final-round-of-uci-new-venture-competition.html)
+
+### 2017 and earlier
+
+Per-year judging panels are not preserved in indexed public sources. See [`BACKLOG.md`](BACKLOG.md) for the open items.
 
 ## Program Staff
 
