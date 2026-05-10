@@ -116,7 +116,7 @@ For years where this archive currently records only the Grand Prize / overall wi
 - **2012:** tracks beyond Prescient Imaging
 - **2013:** tracks beyond Laser Associated Sciences
 - **2014:** tracks beyond iBesties
-- **2016:** track placements among the 10 other named finalists (CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots)
+- **2016:** track placements among the 10 other named finalists (members are now confirmed for all 10; placements within the Life Sciences / CleanTech / IP Award structure are still missing)
 
 ## Priority 5: Outcome research (extending OUTCOMES.md)
 

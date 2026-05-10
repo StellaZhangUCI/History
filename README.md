@@ -82,10 +82,12 @@ Themes are inferred from the dominant project areas of each year's finalists and
 
 People who appeared on a finalist team in more than one year:
 
-| Founder        | First appearance                                          | Later appearance                                  |
-|----------------|-----------------------------------------------------------|---------------------------------------------------|
-| Daniel Dai     | 2017: Purist (Grand Prize, School of Medicine; Tech Surge 1st) | 2018: Graduate Data (Consumer Services 2nd)      |
-| Dylan Riffle   | 2023: Leprendo (Runner-Up; Consumer Services 1st)        | 2024: Two Cube (Life Sciences 1st)               |
+| Founder        | First appearance                                                | Later appearance                                  |
+|----------------|-----------------------------------------------------------------|---------------------------------------------------|
+| Simon Loo      | 2016: FunBand                                                   | 2017: Element: B2B2C (Business Products 1st)      |
+| Pravin Surana  | 2016: Negocios & Etc.                                           | 2017: APIC Diagnostics (Tech Surge 2nd)           |
+| Daniel Dai     | 2017: Purist (Grand Prize, School of Medicine; Tech Surge 1st)  | 2018: Graduate Data (Consumer Services 2nd)       |
+| Dylan Riffle   | 2023: Leprendo (Runner-Up; Consumer Services 1st)               | 2024: Two Cube (Life Sciences 1st)                |
 
 Founders who appeared on two finalist teams in the **same** year:
 
@@ -182,7 +184,22 @@ This archive's main per-year tables begin in 2017. For completeness, here are co
 | 2015 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2016 | EmbryLux                       | Device screening embryos pre-implantation for IVF                                        | $20,000 (Life Sciences 1st + UCI IP Award)         | Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran        |
 
-**Other 2016 finalist teams** (confirmed but with full results not comprehensively documented): CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots.
+**Other 2016 finalist teams** (confirmed but with full track placements not preserved in indexed sources):
+
+| Team                       | Members                                                                                  |
+|----------------------------|------------------------------------------------------------------------------------------|
+| CeleriBio                  | Sean Freeman, Nikki Koe, Louai Labanieh, Binh Le, Sadaf Mirnia                           |
+| Dental Insights            | Michael Bennett, Andy Fields, Vang Kou Khang                                             |
+| Jam                        | Emilio Miranda, Miguel Cabral, Jakob Jansson                                             |
+| FunBand                    | Rehema Feleke, Simon Loo, Cliff Wang                                                     |
+| Curaflow                   | Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin                       |
+| Carbo                      | Pooja Raja, Rickesh Patel, Xuemei Zhang, Ahmed Khorshid, Ting-Shuo Chou                  |
+| Sher Biomedical            | Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick     |
+| Negocios & Etc.            | Caroline Cypriano, Pravin Surana, Fabio Sato                                             |
+| Bottle Rocket              | Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai                              |
+| Maslow Construction Robots | Andy Truong                                                                              |
+
+Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Element: B2B2C, winning Business Products 1st; Pravin Surana joined APIC Diagnostics, winning Tech Surge 2nd), captured in the [Repeat finalists](#repeat-finalists-across-years) table above.
 
 **2009 Undergraduate division** (separate from the main Grand Prize): *Happy Sleep* (Praveen De Silva, Kevin Hung), Bluetooth wristband alarm.
 

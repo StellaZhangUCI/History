@@ -1189,22 +1189,36 @@
         "prize_amount_usd": 20000,
         "members": ["Tiffany Chien", "Yingkai Su", "Thai Nguyen", "Shin Fukazawa", "Daniel Tran"]
       },
-      "other_finalists_named": [
-        "CeleriBio",
-        "Dental Insights",
-        "Jam",
-        "FunBand",
-        "Curaflow",
-        "Carbo",
-        "Sher Biomedical",
-        "Negocios & Etc.",
-        "Bottle Rocket",
-        "Maslow Construction Robots"
+      "other_finalists": [
+        {"team": "CeleriBio", "members": ["Sean Freeman", "Nikki Koe", "Louai Labanieh", "Binh Le", "Sadaf Mirnia"]},
+        {"team": "Dental Insights", "members": ["Michael Bennett", "Andy Fields", "Vang Kou Khang"]},
+        {"team": "Jam", "members": ["Emilio Miranda", "Miguel Cabral", "Jakob Jansson"]},
+        {"team": "FunBand", "members": ["Rehema Feleke", "Simon Loo", "Cliff Wang"]},
+        {"team": "Curaflow", "members": ["Jeffrey Chum", "Josh Drum", "Michael Shenk", "Matthew Vasquez", "Sam Pasin"]},
+        {"team": "Carbo", "members": ["Pooja Raja", "Rickesh Patel", "Xuemei Zhang", "Ahmed Khorshid", "Ting-Shuo Chou"]},
+        {"team": "Sher Biomedical", "members": ["Rachel Gurlin", "Avid Najdahmadi", "Bhupinder Shergill", "Jonathan Lakey", "Elliot Botnivick"]},
+        {"team": "Negocios & Etc.", "members": ["Caroline Cypriano", "Pravin Surana", "Fabio Sato"]},
+        {"team": "Bottle Rocket", "members": ["Arthur Avetisov", "Brian Leung", "Eric Tam", "Lisa Tran", "Tina Mai"]},
+        {"team": "Maslow Construction Robots", "members": ["Andy Truong"]}
       ]
     }
   ],
   "cross_year_notes": {
     "repeat_finalists": [
+      {
+        "name": "Simon Loo",
+        "appearances": [
+          {"year": 2016, "team": "FunBand", "awards": []},
+          {"year": 2017, "team": "Element: B2B2C", "awards": ["Track Award (Business Products) 1st"]}
+        ]
+      },
+      {
+        "name": "Pravin Surana",
+        "appearances": [
+          {"year": 2016, "team": "Negocios & Etc.", "awards": []},
+          {"year": 2017, "team": "APIC Diagnostics", "awards": ["Tech Surge 2nd"]}
+        ]
+      },
       {
         "name": "Daniel Dai",
         "appearances": [
