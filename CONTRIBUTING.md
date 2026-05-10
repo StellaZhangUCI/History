@@ -16,8 +16,6 @@ npx --yes ajv-cli@5 validate -s data/teams.schema.json -d data/teams.json
 
 All three should print `data/<file>.json valid`. If validation fails, the error message will name the offending path inside the JSON.
 
-**Continuous Integration:** the same validation runs automatically on every push and pull request via [`.github/workflows/validate.yml`](.github/workflows/validate.yml). The workflow also enforces the no-em-dash style rule (see [Style](#style) below); PRs that introduce U+2014 characters in `.md` or `.json` files will fail CI.
-
 ## Ways to contribute
 
 1. **Open an issue** if you spot incorrect data (wrong prize amount, mis-attributed project, misspelled team member) and have a source to back it up.

@@ -15,9 +15,6 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ### Infrastructure
 
-- **GitHub Actions CI** added at [`.github/workflows/validate.yml`](.github/workflows/validate.yml). Two jobs run on every push to main and on every PR:
-  - `validate-json`: installs `ajv-cli@5` and validates each of `data/nvc.json`, `data/outcomes.json`, `data/teams.json` against its schema. Fails the PR if any data file violates its contract.
-  - `no-em-dash`: greps the repo for U+2014 em dash characters in `.md` and `.json` files; fails the PR if any are found. Mechanically enforces the project style rule.
 - **JSON Schemas (draft-07)** added for the three data files:
   - [`data/nvc.schema.json`](data/nvc.schema.json): canonical archive schema (competition, years, awards, pre-2017 editions, cross-year notes).
   - [`data/outcomes.schema.json`](data/outcomes.schema.json): outcome entries with enum-typed `category` field constraining values to `OPERATING`, `ACQUIRED`, `EXITED_OTHER`, `PIVOTED`, `DORMANT`, `SHUT_DOWN`, `NO_PUBLIC_OUTCOME_FOUND`.

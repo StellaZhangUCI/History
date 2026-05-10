@@ -1,7 +1,5 @@
 # UCI New Venture Competition: Complete Historical Archive (2009–2026)
 
-![Validate archive](https://github.com/ImanM02/History/actions/workflows/validate.yml/badge.svg)
-
 A community-maintained archive of finalists, projects, and prizes from the **UCI New Venture Competition (NVC)**, UC Irvine's flagship startup competition, hosted by the Beall Center for Innovation & Entrepreneurship at the Paul Merage School of Business.
 
 This document records each year's award categories, finalist teams, prize amounts, project descriptions, and (where available) team members. The goal is one durable, queryable record of what UCI's student and alumni founders have built. It's the kind of institutional memory that otherwise scatters across press releases, LinkedIn posts, and Wayback captures.
