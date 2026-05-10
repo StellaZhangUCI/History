@@ -118,20 +118,27 @@ For years where this archive currently records only the Grand Prize / overall wi
 - **2014:** tracks beyond iBesties
 - **2016:** track placements among the 10 other named finalists (members are now confirmed for all 10; placements within the Life Sciences / CleanTech / IP Award structure are still missing)
 
-## Priority 5: Outcome research (extending OUTCOMES.md)
+## Priority 5: Outcome research (extending OUTCOMES.md) - partially addressed 2026-05-10
 
-[`OUTCOMES.md`](OUTCOMES.md) currently focuses on Grand Prize winners, Runner-Ups, and selected specialty / Life Sciences winners. Many track winners haven't been researched. The largest unresearched groups:
+A research-extension pass on 2026-05-10 covered 56 previously-unresearched track winners and added 18 confirmed-status entries to OUTCOMES.md. Highlights:
 
-- 2018 track winners not yet covered: First Step Diagnostics, CarDana, Celebrate in a Snap, SolarLab, Gimme, Wing, Graduate Data
-- 2019 track winners not yet covered: P-FLAPs, giv, UniSafe, Jiffal, myHealth Today, Curbd, SwappIt, Poo Pal, Steth 'n Go, Embryologic
-- 2020 track winners not yet covered: Voltek, No Decaf Allowed, Prophet Modeling, Ardha Health, Instinct, CannTek
-- 2021 track winners not yet covered: MONI, Health Libero, Hydroflow, MoodCloud, REMSYS, HydroVasc, Tooke Fabrics
-- 2022 track winners not yet covered: SnapHealth, Sayenza Biosciences, Nutripair, EmpowerMi, HAI, GaleGauge
-- 2023 track winners not yet covered: Helios, Orii.AI, Help Belt, Omni Pet Club, ChewRank, TeamMade
-- 2024 track winners not yet covered: BagIt, Flare, Lynne, Quiver, Crafty Palate, PZ Nanopure, DermaVision
-- 2025: PCOSitive Buddy, TransMobile VR, ServEasy, NūCo, MinuTax, CleanHydro, Oslo
+- First Step Diagnostics PIVOTED to NeuroQure (CLIA-certified ASD Insight autism test, UCI patent acquired 2024)
+- No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022; third documented exit)
+- Wing rebranded to Wing Assistant, $2.1M seed in 2021
+- Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision: all OPERATING
 
-A research pass for any single year would yield roughly 10 outcome data points.
+**Still unresearched (remaining gaps, mostly consumer / social-enterprise teams 2018-2024):**
+
+- 2018: Celebrate in a Snap, SolarLab, Gimme, Graduate Data
+- 2019: P-FLAPs, giv, UniSafe, Jiffal, myHealth Today, Curbd, SwappIt, Embryologic (all came up empty in the second pass but may yield to deeper search)
+- 2020: Voltek, Prophet Modeling, Ardha Health, Instinct, CannTek
+- 2021: MONI, Health Libero, Hydroflow, MoodCloud, HydroVasc, Tooke Fabrics
+- 2022: EmpowerMi, HAI, GaleGauge
+- 2023: Helios, Orii.AI, Help Belt, ChewRank
+- 2024: BagIt, Flare, Lynne, PZ Nanopure
+- 2025: TransMobile VR, NūCo, MinuTax, CleanHydro
+
+The pattern from two outcomes-research passes: most of these consumer / social-enterprise teams from 2019-2022 simply produced no public footprint after the competition. A third research pass on this list will yield diminishing returns.
 
 ## Priority 6: Confirming ambiguous items
 

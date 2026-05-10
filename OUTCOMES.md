@@ -18,14 +18,19 @@ Each entry includes a confidence label: *confirmed* (multiple or authoritative s
 
 ## Pattern summary
 
-1. **Medical-device and life-sciences teams have the highest survival rate.** Long FDA timelines and grant pipelines keep even pre-revenue companies alive for years. Of roughly 13 medical/biotech teams researched, about 10 are still operating in some form.
-2. **Two clean documented exits, both medical:** Laser Associated Sciences (acquired by Medtronic, 2020) and Mechanodontics (rebranded as BRIUS Technologies, roughly $46M total funding, commercial launch).
-3. **Consumer-app and social-enterprise winners from 2018 through 2022 have largely gone dark.** ARTEM, Apeel Juice, Conshus, Bottle Built, Circular, VolunteerCrowd, Esqalate, Enjovu Paper, and Shower Power: nearly all show no public outcome or have shut down.
-4. **Strongest non-medical operating company is 123 Baby Box** (Grand Prize 2020): raised $1.2M oversubscribed seed in 2023, reportedly 7-figure 2025 revenue, TechCrunch coverage.
-5. **The 2017 cohort aged poorly.** Of the four highest-profile teams, only Purist has a traceable forward trajectory.
-6. **Closed Loop Plastics is the most surprising decline:** real press coverage, a Long Beach facility, and outside investment, yet the website is a parked domain in 2026.
-7. **Sentinel (2024 Grand Prize) appears to have been absorbed by Spotter.ai** based on identical product name and category, though no explicit acquisition press release was located.
-8. **Recent winners (2024 to 2025) are too early to evaluate.** Most are still on UCI subdomains in design-review or pre-incorporation stages.
+1. **Medical-device and life-sciences teams have the highest survival rate.** Long FDA timelines and grant pipelines keep even pre-revenue companies alive for years. The 2022 LS 2nd (Sayenza Biosciences, ~$1.16M raised) and the 2018 LS 2nd / Tech Surge 1st (First Step Diagnostics, pivoted to NeuroQure with UCI patent acquired 2024) reinforce this pattern.
+2. **Three documented exits in the archive:**
+   - Laser Associated Sciences acquired by Medtronic (April 2020, terms undisclosed).
+   - Mechanodontics rebranded as BRIUS Technologies (~$46M total funding, commercial launch).
+   - No Decaf Allowed's subscription absorbed into Moongoat Coffee Roasters (December 2022). Smaller and asset-only rather than equity, but a real exit.
+3. **Two real pivots that became going concerns:** First Step Diagnostics -> NeuroQure (autism diagnostics) and Wing -> Wing Assistant (managed-VA service, $2.1M seed in 2021). Both still operating in 2025 to 2026.
+4. **Consumer-app and social-enterprise winners from 2018 to 2022 have largely gone dark**, but with notable exceptions: CarDana (2018 SE 2nd, operating); Wing / Wing Assistant; Nutripair (2022 BP 1st, $25K Verizon grant 2025); Omni Pet Club (2023 CP 2nd, retail distribution on Chewy / Walmart / Amazon).
+5. **Strongest non-medical operating company is 123 Baby Box** (Grand Prize 2020): raised $1.2M oversubscribed seed in 2023, reportedly 7-figure 2025 revenue, TechCrunch coverage.
+6. **The 2017 cohort aged poorly.** Of the four highest-profile teams, only Purist has a traceable forward trajectory.
+7. **Closed Loop Plastics is the most surprising decline:** real press coverage, a Long Beach facility, and outside investment, yet the website is a parked domain in 2026.
+8. **Sentinel (2024 Grand Prize) appears to have been absorbed by Spotter.ai** based on identical product name and category, though no explicit acquisition press release was located.
+9. **Recent winners (2024 to 2025) are too early to evaluate.** Most are still on UCI subdomains in design-review or pre-incorporation stages.
+10. **TeamMade (2023 SE 2nd)** has the most concrete social-impact outcome: their LuminOCity modular ADU was donated to Homeless Intervention Services-OC and opened to house at-risk youth in July 2025, though the team remains non-commercial.
 
 ## Pre-2017
 
@@ -85,6 +90,18 @@ Sources: [closedloopplastics.com](https://www.closedloopplastics.com/), [LB Busi
 A UCI undergrad team's online marketplace for underground artists 18 to 24. No Crunchbase, no surviving site, no LinkedIn company page traceable.
 Sources: [ANTrepreneur profile](http://antrepreneur.uci.edu/blog/startups/artem-nvc/)
 
+**First Step Diagnostics** (Life Sciences 2nd + Tech Surge 1st): PIVOTED. *Confidence: confirmed.*
+Evolved into **NeuroQure**, which launched in 2023 and acquired the underlying patent portfolio from UCI in 2024. Its CLIA-certified "ASD Insight" test is marketed as the first biological test for autism. A real pivot from infant behavioral-issue diagnostics into a focused autism-diagnostics product.
+Sources: [OC Business Journal](https://www.ocbj.com/healthcare/neuroqure-launches-first-biological-test-for-autism/), [UCI Innovation](https://innovation.uci.edu/news/neuroqure/)
+
+**CarDana** (Social Enterprise 2nd): OPERATING. *Confidence: confirmed.*
+Transparent charitable vehicle-donation platform; site live at `cardana.co` with active KBB-based donation flow, partner / charity onboarding, and a 20% flat-fee model.
+Sources: [cardana.co/about](https://cardana.co/about/)
+
+**Wing** (Consumer Services 1st): OPERATING. *Confidence: confirmed.*
+Rebranded as **Wing Assistant**. Raised a $2.1M seed in 2021. Continues as a subscription managed-virtual-assistant service in 2025 to 2026 with newer tooling (Pie by Wing).
+Sources: [Merage News (Dec 2021)](https://merage.uci.edu/news/2021/12/A-Pandemic-Pivot-Results-in-2.1-Million-in-Seed-Funding-for-Wing-Assistant.html), [Technology.org review (2025)](https://www.technology.org/2025/12/16/wing-assistant-review-2025-is-it-the-best-unlimited-va-service/)
+
 ## 2019
 
 **ELF Therapeutics / eLysis** (Tech Surge 1st + Life Sciences 1st): OPERATING. *Confidence: confirmed.*
@@ -94,6 +111,14 @@ Sources: [UCI Innovation profile](https://innovation.uci.edu/news/elysis-uses-sa
 **VolunteerCrowd** (Social Enterprise 1st): PIVOTED, NOW LIKELY SHUT DOWN. *Confidence: confirmed pivot, likely shut down.*
 Effective January 1, 2023, the company discontinued membership plans, verification, PVSA certification, and its app, pivoting to "student experiential learning and workforce development." As of research time, `volunteercrowd.com` returns HTTP 404. Founder: Amy Von Kaenel.
 Sources: [ZoomInfo profile](https://www.zoominfo.com/c/volunteercrowd-llc/478814814), [UCI Innovation 2020 profile](https://innovation.uci.edu/2020/09/volunteercrowd-helps-students-give-back-and-stand-out/)
+
+**Poo Pal** (Consumer Products 1st): DORMANT. *Confidence: likely.*
+Product listings still appear on Amazon / Etsy but no recent company-side activity.
+Sources: [Amazon listing](https://www.amazon.com/Poo-Pal-Hands-Free-Carrier-Holder/dp/B07DR43X91)
+
+**Steth 'n Go** (Consumer Products 2nd): OPERATING. *Confidence: confirmed.*
+Magnetic stethoscope holder still selling at `stethngo.com` with an active product line and bulk pricing for healthcare facilities.
+Sources: [stethngo.com](https://stethngo.com/)
 
 ## 2020
 
@@ -113,6 +138,10 @@ Sources: [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.03.17.6
 Beyond the 2020 NVC win and an F6S profile, no surviving e-commerce site, social presence, or news after 2020 to 2021. Likely dormant.
 Sources: [F6S profile](https://www.f6s.com/conshus)
 
+**No Decaf Allowed** (Consumer Services 1st): ACQUIRED. *Confidence: confirmed.*
+Subscription absorbed into **Moongoat Coffee Roasters'** subscription program in December 2022 (terms not disclosed; an asset / subscriber transfer rather than an equity transaction). The third confirmed exit in the archive after LAS to Medtronic and the Mechanodontics / BRIUS rebrand.
+Sources: [nodecafallowed.com](https://nodecafallowed.com/)
+
 ## 2021
 
 **Shaka** (Grand Prize): OPERATING. *Confidence: confirmed.*
@@ -126,6 +155,10 @@ Sources: [UCI Innovation profile](https://innovation.uci.edu/news/uci-green-tech
 **StyloSonic** (Life Sciences 1st): OPERATING. *Confidence: likely, research / early stage.*
 StyloSonic, LLC has a PitchBook profile. Co-founders R.K., A.H., and J.V.J. (UCI/UCSD alumni). 2022 peer-reviewed paper in *Photoacoustics* demonstrating in-vivo periodontal imaging. Continues in the Wayfinder accelerator. No announced funding round.
 Sources: [PitchBook profile](https://pitchbook.com/profiles/company/471934-63), [PMC paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9530592/)
+
+**REMSYS** (Consumer Services 1st, tied): DORMANT. *Confidence: likely.*
+Site `remsys.app` is reachable and lists AI resume features, but no marketing or blog activity past 2021 surfaces.
+Sources: [remsys.app](https://remsys.app/home)
 
 ## 2022
 
@@ -145,6 +178,18 @@ Sources: [Samueli engineering coverage](https://engineering.uci.edu/news/2022/6/
 The site `bafoodtech.com` is live with an insect-protein product page. Co-founders Hamoon Shishechian and Parham Mansor Safain (brothers-in-law) are operating a black soldier fly farm. No announced funding round; appears pre-revenue / early.
 Sources: [bafoodtech.com](https://www.bafoodtech.com/), [Sunstone profile](https://www.sunstoneinvestment.com/news/founder-focused-blue-aqua-food-tech/)
 
+**Sayenza Biosciences** (Life Sciences 2nd): OPERATING. *Confidence: confirmed.*
+Clinical-stage adipose-tissue regenerative-medicine company. Raised approximately $1.16M; joined the California Life Sciences FAST Spring 2024 cohort; published industry-trend commentary as recently as Q1 2025.
+Sources: [sayenza.com/2025trends](https://sayenza.com/2025trends/), [Crunchbase](https://www.crunchbase.com/organization/sayenza-biosciences)
+
+**Nutripair** (Business Products 1st): OPERATING. *Confidence: confirmed.*
+Founder Catlin Tran's dietary-restriction restaurant-matching app received a $25,000 Verizon grant in 2025 and was profiled by UCI Social Sciences in March 2025.
+Sources: [UCI Social Sciences (Mar 2025)](https://www.socsci.uci.edu/newsevents/news/2025/2025-03-06-catlin-tran-nutripair), [SignalBase coverage](https://www.trysignalbase.com/news/funding/nutripair-secures-25k-grant-to-transform-personalized-nutrition-and-local-dining-experiences)
+
+**SnapHealth** (Consumer Services 2nd): DORMANT. *Confidence: likely.*
+`mysnaphealth.com` remains up describing patient data stewardship, but no funding or product news surfaces.
+Sources: [mysnaphealth.com/about](https://www.mysnaphealth.com/about)
+
 ## 2023
 
 **VagAligna** (Grand Finale Winner): NO PUBLIC OUTCOME FOUND. *Confidence: likely early-stage R&D or dormant.*
@@ -163,6 +208,14 @@ Sources: [hyperioneye.com](https://www.hyperioneye.com/company), [PitchBook prof
 A 2023 NVC finalist with no incorporated company, no traceable site, and no follow-on funding.
 Sources: [Business Wire 2023](https://www.businesswire.com/news/home/20230524005864/en/Students-Vie-for-100000-Thursday-at-the-UCI-Stella-Zhang-New-Venture-Competition)
 
+**Omni Pet Club** (Consumer Products 2nd): OPERATING. *Confidence: confirmed.*
+Modular multi-pet leash system on sale at `omnipetclub.com` with active social channels (Instagram, Threads) and retail distribution via Chewy, Walmart, and Amazon.
+Sources: [omnipetclub.com](https://omnipetclub.com/)
+
+**TeamMade** (Social Enterprise 2nd): OPERATING (non-commercial). *Confidence: confirmed.*
+The UCI / Orange Coast College student team continues iterating on modular Accessory Dwelling Units (ADUs). Their **LuminOCity** unit was donated to Homeless Intervention Services-OC and opened to house at-risk youth in July 2025.
+Sources: [Samueli engineering coverage](https://engineering.uci.edu/news/2025/7/student-designed-home-homeless-youth-opens), [teammade.eng.uci.edu](https://teammade.eng.uci.edu/)
+
 ## 2024
 
 **Sentinel** (Grand Prize): PIVOTED / LIKELY ABSORBED. *Confidence: likely.*
@@ -177,6 +230,18 @@ Sources: [neomold.uci.design](http://neomold.uci.design/), [eScholarship paper](
 Confirmed only as a 2024 NVC winner; no website, Crunchbase, or follow-on traceable.
 Sources: [American Lending Center coverage](https://usa-rc.com/news-before-2020/american-lending-center-acknowledges-semi-finalists-in-2024-stella-zhang-new-venture-competition/)
 
+**Quiver** (Consumer Services 1st): OPERATING. *Confidence: confirmed.*
+Surfboard-rental marketplace at `thequiver.com` is active across 20+ countries with a paid membership tier and a live app / marketplace as of 2025 to 2026.
+Sources: [thequiver.com](https://www.thequiver.com/)
+
+**Crafty Palate** (Consumer Services 2nd): DORMANT. *Confidence: likely.*
+Surfaces only as an early-stage signup form; no operating storefront found.
+Sources: [Signup form](https://docs.google.com/forms/d/e/1FAIpQLSfUjyioGQE6uaL7Pt6O4Ekeof4fOf_Owx-Vsb0wJ3Wr5hByXQ/viewform)
+
+**DermaVision** (Social Enterprise 2nd): OPERATING. *Confidence: likely, student-team stage.*
+DermaVision Technologies' multispectral bruise-imaging tool placed third at the 2024 BMES Medtronic Design Competition. UC has listed the underlying intellectual property as available for licensing.
+Sources: [UC Tech Transfer listing](https://techtransfer.universityofcalifornia.edu/NCD/34412.html), [dermavisiontech.com/team](https://www.dermavisiontech.com/team.html)
+
 ## 2025
 
 **Grad2Go** (Grand Prize): OPERATING. *Confidence: confirmed; brand new.*
@@ -190,6 +255,18 @@ Sources: [Merage announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-
 **NasoCoustics** (Life Sciences 1st): OPERATING. *Confidence: confirmed; design stage.*
 A UCI senior bioengineering design project. `nasocoustics.uci.design` is up; LinkedIn presence. Child-friendly nasometry device for cleft-palate care. Pre-incorporation; design-review stage. Too recent for outcome data.
 Sources: [nasocoustics.uci.design](http://www.nasocoustics.uci.design/), [Beall/Butterworth Engineering Competition](https://bbcomp.tech.uci.edu/)
+
+**PCOSitive Buddy** (MIE Award + Consumer Services 1st): OPERATING. *Confidence: likely.*
+Founder Ricianne "Chi" Rey was hired in October 2025 as the UCI ANTrepreneur Center Program Lead and continues to be described as a PCOS-platform co-founder.
+Sources: [ANTrepreneur profile (Jan 2026)](https://antrepreneur.uci.edu/2026/01/28/meet-chi-rey/)
+
+**ServEasy** (Business Products 2nd): OPERATING. *Confidence: likely, finalist stage.*
+Confirmed as a 2025 Stella Zhang finalist; no independent product traction yet.
+Sources: [Merage announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html)
+
+**Oslo / Birdhouse by Oslo** (Audience Favorite + Life Sciences 2nd): OPERATING. *Confidence: likely, finalist stage.*
+Passive thermal-imaging vitals monitor for seniors; confirmed as a 2025 Stella Zhang finalist. No independent funding or launch news.
+Sources: [Beall / Butterworth competition records](https://bbcomp.tech.uci.edu/)
 
 ## How to contribute
 

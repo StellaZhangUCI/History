@@ -170,6 +170,46 @@
       ]
     },
     {
+      "team": "First Step Diagnostics",
+      "team_aliases": ["NeuroQure"],
+      "year": 2018,
+      "award": "Track Award (Life Sciences) 2nd + Tech Surge 1st",
+      "category": "PIVOTED",
+      "confidence": "confirmed",
+      "summary": "Evolved into NeuroQure (launched 2023), which acquired the underlying patent portfolio from UCI in 2024. Its CLIA-certified ASD Insight test is marketed as the first biological test for autism.",
+      "rebranded_to": "NeuroQure",
+      "sources": [
+        "https://www.ocbj.com/healthcare/neuroqure-launches-first-biological-test-for-autism/",
+        "https://innovation.uci.edu/news/neuroqure/"
+      ]
+    },
+    {
+      "team": "CarDana",
+      "year": 2018,
+      "award": "Track Award (Social Enterprise) 2nd",
+      "category": "OPERATING",
+      "confidence": "confirmed",
+      "summary": "Transparent charitable vehicle-donation platform; site live at cardana.co with active KBB-based donation flow, partner/charity onboarding, and a 20% flat-fee model.",
+      "sources": [
+        "https://cardana.co/about/"
+      ]
+    },
+    {
+      "team": "Wing",
+      "team_aliases": ["Wing Assistant"],
+      "year": 2018,
+      "award": "Track Award (Consumer Services) 1st",
+      "category": "OPERATING",
+      "confidence": "confirmed",
+      "summary": "Rebranded as Wing Assistant. Raised a $2.1M seed in 2021. Continues as a subscription managed-virtual-assistant service in 2025-2026 with newer tooling (Pie by Wing).",
+      "rebranded_to": "Wing Assistant",
+      "total_funding_usd_approx": 2100000,
+      "sources": [
+        "https://merage.uci.edu/news/2021/12/A-Pandemic-Pivot-Results-in-2.1-Million-in-Seed-Funding-for-Wing-Assistant.html",
+        "https://www.technology.org/2025/12/16/wing-assistant-review-2025-is-it-the-best-unlimited-va-service/"
+      ]
+    },
+    {
       "team": "ELF Therapeutics",
       "team_aliases": ["eLysis"],
       "year": 2019,
@@ -192,6 +232,28 @@
       "sources": [
         "https://www.zoominfo.com/c/volunteercrowd-llc/478814814",
         "https://innovation.uci.edu/2020/09/volunteercrowd-helps-students-give-back-and-stand-out/"
+      ]
+    },
+    {
+      "team": "Poo Pal",
+      "year": 2019,
+      "award": "Track Award (Consumer Products) 1st",
+      "category": "DORMANT",
+      "confidence": "likely",
+      "summary": "Product listings still appear on Amazon/Etsy but no recent company-side activity.",
+      "sources": [
+        "https://www.amazon.com/Poo-Pal-Hands-Free-Carrier-Holder/dp/B07DR43X91"
+      ]
+    },
+    {
+      "team": "Steth 'n Go",
+      "year": 2019,
+      "award": "Track Award (Consumer Products) 2nd",
+      "category": "OPERATING",
+      "confidence": "confirmed",
+      "summary": "Magnetic stethoscope holder still selling at stethngo.com with an active product line and bulk pricing for healthcare facilities.",
+      "sources": [
+        "https://stethngo.com/"
       ]
     },
     {
@@ -244,6 +306,20 @@
       ]
     },
     {
+      "team": "No Decaf Allowed",
+      "year": 2020,
+      "award": "Track Award (Consumer Services) 1st",
+      "category": "ACQUIRED",
+      "confidence": "confirmed",
+      "summary": "Subscription absorbed into Moongoat Coffee Roasters' subscription program in December 2022 (asset/subscriber transfer rather than equity transaction).",
+      "acquirer": "Moongoat Coffee Roasters",
+      "acquisition_date": "2022-12",
+      "acquisition_terms": "asset/subscriber transfer, not equity; terms undisclosed",
+      "sources": [
+        "https://nodecafallowed.com/"
+      ]
+    },
+    {
       "team": "Shaka",
       "year": 2021,
       "award": "Grand Prize",
@@ -277,6 +353,17 @@
       "sources": [
         "https://pitchbook.com/profiles/company/471934-63",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC9530592/"
+      ]
+    },
+    {
+      "team": "REMSYS",
+      "year": 2021,
+      "award": "Track Award (Consumer Services) 1st (tied)",
+      "category": "DORMANT",
+      "confidence": "likely",
+      "summary": "Site remsys.app is reachable and lists AI resume features, but no marketing or blog activity past 2021 surfaces.",
+      "sources": [
+        "https://remsys.app/home"
       ]
     },
     {
@@ -323,6 +410,43 @@
       "sources": [
         "https://www.bafoodtech.com/",
         "https://www.sunstoneinvestment.com/news/founder-focused-blue-aqua-food-tech/"
+      ]
+    },
+    {
+      "team": "Sayenza Biosciences",
+      "year": 2022,
+      "award": "Track Award (Life Sciences) 2nd",
+      "category": "OPERATING",
+      "confidence": "confirmed",
+      "summary": "Clinical-stage adipose-tissue regenerative-medicine company. Raised ~$1.16M; joined California Life Sciences FAST Spring 2024 cohort; published 2025-trend commentary as recently as Q1 2025.",
+      "total_funding_usd_approx": 1160000,
+      "sources": [
+        "https://sayenza.com/2025trends/",
+        "https://www.crunchbase.com/organization/sayenza-biosciences"
+      ]
+    },
+    {
+      "team": "Nutripair",
+      "year": 2022,
+      "award": "Track Award (Business Products) 1st",
+      "category": "OPERATING",
+      "confidence": "confirmed",
+      "summary": "Founder Catlin Tran's dietary-restriction restaurant-matching app received a $25K Verizon grant in 2025 and was profiled by UCI Social Sciences in March 2025.",
+      "total_funding_usd_approx": 25000,
+      "sources": [
+        "https://www.socsci.uci.edu/newsevents/news/2025/2025-03-06-catlin-tran-nutripair",
+        "https://www.trysignalbase.com/news/funding/nutripair-secures-25k-grant-to-transform-personalized-nutrition-and-local-dining-experiences"
+      ]
+    },
+    {
+      "team": "SnapHealth",
+      "year": 2022,
+      "award": "Track Award (Consumer Services) 2nd",
+      "category": "DORMANT",
+      "confidence": "likely",
+      "summary": "mysnaphealth.com remains up describing patient data stewardship, but no funding or product news surfaces.",
+      "sources": [
+        "https://www.mysnaphealth.com/about"
       ]
     },
     {
@@ -373,6 +497,29 @@
       ]
     },
     {
+      "team": "Omni Pet Club",
+      "year": 2023,
+      "award": "Track Award (Consumer Products) 2nd",
+      "category": "OPERATING",
+      "confidence": "confirmed",
+      "summary": "Modular multi-pet leash system on sale at omnipetclub.com with active social channels (Instagram, Threads) and retail distribution via Chewy, Walmart, and Amazon.",
+      "sources": [
+        "https://omnipetclub.com/"
+      ]
+    },
+    {
+      "team": "TeamMade",
+      "year": 2023,
+      "award": "Track Award (Social Enterprise) 2nd",
+      "category": "OPERATING",
+      "confidence": "confirmed (non-commercial student project)",
+      "summary": "UCI/Orange Coast College student team continues iterating on modular ADUs. Their LuminOCity unit was donated to Homeless Intervention Services-OC and opened to house at-risk youth in July 2025.",
+      "sources": [
+        "https://engineering.uci.edu/news/2025/7/student-designed-home-homeless-youth-opens",
+        "https://teammade.eng.uci.edu/"
+      ]
+    },
+    {
       "team": "Sentinel",
       "year": 2024,
       "award": "Grand Prize",
@@ -409,6 +556,41 @@
       ]
     },
     {
+      "team": "Quiver",
+      "year": 2024,
+      "award": "Track Award (Consumer Services) 1st",
+      "category": "OPERATING",
+      "confidence": "confirmed",
+      "summary": "Surfboard-rental marketplace thequiver.com active across 20+ countries with a paid membership tier and a live app/marketplace as of 2025-2026.",
+      "sources": [
+        "https://www.thequiver.com/"
+      ]
+    },
+    {
+      "team": "Crafty Palate",
+      "year": 2024,
+      "award": "Track Award (Consumer Services) 2nd",
+      "category": "DORMANT",
+      "confidence": "likely",
+      "summary": "Surfaces only as an early-stage signup form; no operating storefront found.",
+      "sources": [
+        "https://docs.google.com/forms/d/e/1FAIpQLSfUjyioGQE6uaL7Pt6O4Ekeof4fOf_Owx-Vsb0wJ3Wr5hByXQ/viewform"
+      ]
+    },
+    {
+      "team": "DermaVision",
+      "team_aliases": ["DermaVision Technologies"],
+      "year": 2024,
+      "award": "Track Award (Social Enterprise) 2nd",
+      "category": "OPERATING",
+      "confidence": "likely; student-team stage",
+      "summary": "DermaVision Technologies' multispectral bruise-imaging tool placed third at the 2024 BMES Medtronic Design Competition. UC has listed the underlying intellectual property as available for licensing.",
+      "sources": [
+        "https://techtransfer.universityofcalifornia.edu/NCD/34412.html",
+        "https://www.dermavisiontech.com/team.html"
+      ]
+    },
+    {
       "team": "Grad2Go",
       "year": 2025,
       "award": "Grand Prize",
@@ -441,21 +623,60 @@
         "http://www.nasocoustics.uci.design/",
         "https://bbcomp.tech.uci.edu/"
       ]
+    },
+    {
+      "team": "PCOSitive Buddy",
+      "year": 2025,
+      "award": "Specialty (MIE Award) + Track Award (Consumer Services) 1st",
+      "category": "OPERATING",
+      "confidence": "likely",
+      "summary": "Founder Ricianne 'Chi' Rey was hired in October 2025 as the UCI ANTrepreneur Center Program Lead and continues to be described as a PCOS-platform co-founder.",
+      "sources": [
+        "https://antrepreneur.uci.edu/2026/01/28/meet-chi-rey/"
+      ]
+    },
+    {
+      "team": "ServEasy",
+      "year": 2025,
+      "award": "Track Award (Business Products) 2nd",
+      "category": "OPERATING",
+      "confidence": "likely; finalist stage",
+      "summary": "Confirmed as a 2025 Stella Zhang finalist; no independent product traction yet.",
+      "sources": [
+        "https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html"
+      ]
+    },
+    {
+      "team": "Oslo",
+      "team_aliases": ["Birdhouse by Oslo"],
+      "year": 2025,
+      "award": "Audience Favorite + Track Award (Life Sciences) 2nd",
+      "category": "OPERATING",
+      "confidence": "likely; finalist stage",
+      "summary": "Passive thermal-imaging vitals monitor for seniors; confirmed as a 2025 Stella Zhang finalist. No independent funding or launch news.",
+      "sources": [
+        "https://bbcomp.tech.uci.edu/"
+      ]
     }
   ],
   "summary_stats": {
-    "teams_researched": 35,
+    "teams_researched": 54,
     "by_category": {
-      "OPERATING": 15,
-      "ACQUIRED": 1,
-      "PIVOTED": 3,
-      "DORMANT": 1,
+      "OPERATING": 27,
+      "ACQUIRED": 2,
+      "PIVOTED": 4,
+      "DORMANT": 5,
       "SHUT_DOWN": 1,
       "NO_PUBLIC_OUTCOME_FOUND": 14
     },
     "notable_exits": [
       {"team": "Laser Associated Sciences", "type": "ACQUIRED", "by": "Medtronic", "year": 2020},
-      {"team": "Mechanodontics (BRIUS Technologies)", "type": "OPERATING_FUNDED", "total_funding_usd_approx": 46000000}
+      {"team": "Mechanodontics (BRIUS Technologies)", "type": "OPERATING_FUNDED", "total_funding_usd_approx": 46000000},
+      {"team": "No Decaf Allowed", "type": "ACQUIRED", "by": "Moongoat Coffee Roasters", "year": 2022, "terms": "asset/subscriber transfer"}
+    ],
+    "notable_pivots": [
+      {"team": "First Step Diagnostics", "rebranded_to": "NeuroQure", "year": 2024, "note": "Now CLIA-certified ASD Insight autism test"},
+      {"team": "Wing", "rebranded_to": "Wing Assistant", "total_funding_usd_approx": 2100000, "note": "$2.1M seed in 2021, still operating in 2025-2026"}
     ]
   }
 }

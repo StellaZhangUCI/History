@@ -6,6 +6,23 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-10
 
+### Added (outcome research, second pass)
+
+- **18 new confirmed-status outcomes** added to [`OUTCOMES.md`](OUTCOMES.md) and [`data/outcomes.json`](data/outcomes.json) from a second research pass on previously-unresearched track winners. Highlights:
+  - **First Step Diagnostics -> NeuroQure** (PIVOTED 2018, confirmed): CLIA-certified ASD Insight autism test, UCI patent acquired 2024.
+  - **No Decaf Allowed -> Moongoat Coffee Roasters** (ACQUIRED 2022, confirmed): the third documented exit in the archive after Laser Associated Sciences and the Mechanodontics rebrand.
+  - **Wing -> Wing Assistant** (OPERATING 2018, confirmed): $2.1M seed in 2021, still operating in 2025-2026.
+  - **Sayenza Biosciences** (OPERATING 2022, confirmed): ~$1.16M raised; joined California Life Sciences FAST Spring 2024.
+  - **Nutripair** (OPERATING 2022, confirmed): $25K Verizon grant 2025; UCI Social Sciences profile March 2025.
+  - **CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver** (OPERATING, confirmed): all with active product or project footprints.
+  - **DermaVision Technologies** (OPERATING 2024, likely): student-team stage; placed 3rd at 2024 BMES Medtronic Design Competition.
+  - **PCOSitive Buddy, ServEasy, Oslo** (OPERATING 2025, likely finalist stage).
+  - **Poo Pal, REMSYS, SnapHealth, Crafty Palate** (DORMANT, likely): real websites or listings but no recent activity.
+- **OUTCOMES.md pattern summary updated**: three documented exits now (was two); two real pivots that became going concerns (First Step -> NeuroQure, Wing -> Wing Assistant); TeamMade's LuminOCity unit donated for at-risk youth housing in July 2025 added as a social-impact highlight.
+- **[`data/teams.json`](data/teams.json)**: outcome field populated for 18 newly-researched teams.
+- **[`BACKLOG.md`](BACKLOG.md) Priority 5**: marked partially addressed; remaining unresearched list updated; pattern note added.
+- **summary_stats in [`data/outcomes.json`](data/outcomes.json)** updated: teams_researched grew from 35 to 54; by_category breakdown adjusted; `notable_pivots` block added.
+
 ### Added
 
 - **[`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md)**: institutional context document covering the Stella Zhang naming gift (with newly-documented **$750,000 March 2025 extension** that raised the announced pool from $100K to $150K+), recurring competition-level sponsors, judging panels for 2023 and 2024 (where named publicly), the Blum Center partnership with the Social Enterprise track, program staff (Jenn Huynh, Sara Heimann), and the seven-month workshop format.
