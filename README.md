@@ -13,6 +13,7 @@ This document records each year's award categories, finalist teams, prize amount
 - [`OUTCOMES.md`](OUTCOMES.md): "Where Are They Now?" post-competition outcomes for past finalists
 - [`BACKLOG.md`](BACKLOG.md): concrete list of gaps in the archive (missing rosters, prize amounts, years, outcomes)
 - [`data/nvc.json`](data/nvc.json): the same data as a structured machine-readable JSON
+- [`data/outcomes.json`](data/outcomes.json): structured mirror of `OUTCOMES.md` with categories, confidence, and source URLs
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): how to submit corrections and additions
 
 ## Table of Contents
