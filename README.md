@@ -11,6 +11,7 @@ This document records each year's award categories, finalist teams, prize amount
 - [`README.md`](README.md): this file. Cross-cutting overview, analytics, and the per-year index
 - [`years/`](years/): one markdown file per edition with the full awards table for that year
 - [`OUTCOMES.md`](OUTCOMES.md): "Where Are They Now?" post-competition outcomes for past finalists
+- [`BACKLOG.md`](BACKLOG.md): concrete list of gaps in the archive (missing rosters, prize amounts, years, outcomes)
 - [`data/nvc.json`](data/nvc.json): the same data as a structured machine-readable JSON
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): how to submit corrections and additions
 

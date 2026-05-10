@@ -2,6 +2,8 @@
 
 This is a community archive of the UCI New Venture Competition. Corrections and additions are welcome. Most rows started with publicly available data and many cells are still incomplete (`Not Listed`, `Undisclosed`).
 
+> **Looking for something concrete to work on?** [`BACKLOG.md`](BACKLOG.md) lists every known gap in the archive (missing rosters, prize amounts, untouched outcomes) organized by priority. That's the menu.
+
 ## Ways to contribute
 
 1. **Open an issue** if you spot incorrect data (wrong prize amount, mis-attributed project, misspelled team member) and have a source to back it up.
