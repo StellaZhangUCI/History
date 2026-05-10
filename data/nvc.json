@@ -8,9 +8,62 @@
     "host_center": "Beall Center for Innovation & Entrepreneurship",
     "first_held": 2009,
     "naming_gift": {
-      "donor": "Stella Zhang",
+      "primary_donor": "Stella Zhang",
       "donor_affiliation": "FEMBA '05",
-      "year": 2022
+      "co_donor": "John Shen (spouse)",
+      "initial_gift_year": 2022,
+      "initial_gift_term_years": 5,
+      "initial_gift_amount_usd": null,
+      "extension_gift_year": 2025,
+      "extension_gift_amount_usd": 750000,
+      "extension_gift_term_years": 5,
+      "extension_raised_pool_from_usd": 100000,
+      "extension_raised_pool_to_usd": 150000,
+      "naming_through_year": 2031,
+      "bridge_to_competition": "Zarina Bahadur (Baby Box, MIE '20, 2020 Grand Prize) joined Zhang's Long Beach Accelerator portfolio, exposing Zhang to the NVC.",
+      "sources": [
+        "https://merage.uci.edu/news/2022/01/New-Venture-Competition-Receives-Naming-Gift-from-Stella-Zhang-FEMBA-05.html",
+        "https://merage.uci.edu/press-releases/2025/03/Stella-Zhang-Gives-750K-to-UC-Irvine-New-Venture-Competition.html"
+      ]
+    },
+    "sponsors": [
+      "The Beall Family",
+      "Experian",
+      "John Chuang",
+      "Emanuel Shaoulian MD",
+      "David Ochi",
+      "Stella Zhang",
+      "Elvin Kay",
+      "Ken & Carla Neeld",
+      "Withum",
+      "Finance Agents",
+      "Ingram Micro",
+      "Larry Wilk"
+    ],
+    "sponsors_note": "Sponsors fund the program collectively. Per-track corporate sponsorship does not exist in this competition's structure; tracks are funded from the pool and named only by category.",
+    "track_partnerships": [
+      {
+        "track": "Social Enterprise",
+        "partner_organization": "UCI Blum Center",
+        "named_faculty_judge": "Richard Matthew (Blum Center Faculty Director)"
+      }
+    ],
+    "program_staff": [
+      {"name": "Jenn Huynh", "role": "Program Manager"},
+      {"name": "Sara Heimann", "role": "Innovation & Entrepreneurship Librarian", "contact": "sheimann@uci.edu"}
+    ],
+    "mentor_structure": {
+      "named_program": null,
+      "sources_of_mentors": ["Beall Center industry mentors", "SCORE mentors"],
+      "note": "Coach and judge roles overlap; named individuals like Dan Jenkins, David Ochi, and Larry Wilk function as both."
+    },
+    "format": {
+      "workshop_series_length_months": 7,
+      "sample_workshops": [
+        "How to Come up with a Billion Dollar Idea",
+        "From Idea to Business",
+        "Is there a Market for Your Product?"
+      ]
     }
   },
   "years": [
@@ -39,7 +92,11 @@
       "year": 2025,
       "status": "completed",
       "theme": "Sustainability, Student Life Solutions, and Medical Tech",
+      "edition_number": "21st annual",
       "prize_pool_announced": "Over $150,000 (Cash & In-Kind)",
+      "prize_pool_note": "Pool jumped from $100,000+ to $150,000+ following Stella Zhang's $750,000 March 2025 naming-gift extension; see competition.naming_gift.",
+      "confirmed_judges_partial": ["Richard Matthew (Blum Center Faculty Director, Social Enterprise track judge)"],
+      "judges_note": "Full grand-finale judging panel not preserved in indexed press materials; likely published in the password-protected 2025 NVC report PDF.",
       "awards": [
         {
           "category": "Grand Prize",
@@ -181,6 +238,18 @@
       "year": 2024,
       "status": "completed",
       "theme": "Artificial Intelligence (AI) and Industrial Safety",
+      "edition_number": "20th annual",
+      "judges_and_coaches": [
+        "Stella Zhang",
+        "Elvin Kay",
+        "Ken & Carla Neeld",
+        "Jeff Freud",
+        "Shalabh Gupta",
+        "Fiza & Mansoor Shah",
+        "Dan Jenkins"
+      ],
+      "judges_note": "Plus representatives from the UCI ANTrepreneur Center and Beall Applied Innovation; the line between judge and coach overlaps in NVC documentation.",
+      "judges_source": "https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html",
       "awards": [
         {
           "category": "Grand Prize",
@@ -300,6 +369,15 @@
       "year": 2023,
       "status": "completed",
       "theme": "Hardware Innovation and Marketplace Platforms",
+      "edition_number": "19th annual",
+      "judges": [
+        "Ken Neeld",
+        "Karin Koch",
+        "Isabelle Bart",
+        "Michelle Khine",
+        "Rodrigo C. Mahs"
+      ],
+      "judges_source": "https://www.businesswire.com/news/home/20230526005328/en",
       "awards": [
         {
           "category": "Grand Finale",

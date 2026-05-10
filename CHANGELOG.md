@@ -13,6 +13,22 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 - **[`data/teams.json`](data/teams.json)**: slim machine-readable mirror of `TEAMS.md` (schema v1). Avoids duplication by referencing `data/nvc.json` for full member/project data and `OUTCOMES.md` anchors for outcome detail.
 - **[`CHANGELOG.md`](CHANGELOG.md)** (this file): chronological iteration log.
 
+### Changed (data canonicalization)
+
+- **`data/nvc.json` `competition` object** substantially enriched with the institutional findings from `SPONSORS-AND-JUDGES.md`:
+  - `naming_gift`: expanded from 3 fields (donor, affiliation, year) to a structured 12-field object covering primary donor, co-donor (John Shen), initial gift (2022, 5-year term, amount undisclosed), $750,000 March 2025 extension (5-year term to 2031, raised pool $100K -> $150K), the Zarina Bahadur / Long Beach Accelerator bridge, and source URLs.
+  - New `sponsors` array: 12 named competition-level sponsors.
+  - New `sponsors_note`: clarifies per-track corporate sponsorship does not exist.
+  - New `track_partnerships` array: UCI Blum Center partnership with the Social Enterprise track (faculty judge Richard Matthew).
+  - New `program_staff` array: Jenn Huynh (Program Manager), Sara Heimann (contact for archival data).
+  - New `mentor_structure` object: documents that no standalone named program exists; mentors come from Beall Center and SCORE.
+  - New `format` object: seven-month workshop series with sample workshop titles.
+- **Per-year judges captured in `data/nvc.json`** where publicly named:
+  - `years[2024]`: `judges_and_coaches` array (Stella Zhang, Elvin Kay, Ken & Carla Neeld, Jeff Freud, Shalabh Gupta, Fiza & Mansoor Shah, Dan Jenkins) with source.
+  - `years[2023]`: `judges` array (Ken Neeld, Karin Koch, Isabelle Bart, Michelle Khine, Rodrigo C. Mahs) with Business Wire source.
+  - `years[2025]`: `confirmed_judges_partial` and `judges_note` documenting the partial panel and the password-protected report gap.
+- Each entry includes a source URL for traceability.
+
 ### Discovered
 
 - Two previously-undocumented repeat finalists, surfaced by cross-checking the confirmed 2016 finalist roster against 2017+ team rosters:
