@@ -34,7 +34,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 
 - **CannTek** ([2020](years/2020.md): LS 2nd). Oren.
 - **Carbo** ([2016](README.md#pre-2017-editions-20092016)). Pooja Raja, Rickesh Patel, Xuemei Zhang, Ahmed Khorshid, Ting-Shuo Chou.
-- **CarDana** ([2018](years/2018.md): SE 2nd). Anthony Glenn, Jan Biermeyer, Gonzalo Vargas, Derek Singh.
+- **CarDana** ([2018](years/2018.md): SE 2nd). Anthony Glenn, Jan Biermeyer, Gonzalo Vargas, Derek Singh. *Operating; transparent vehicle-donation platform at cardana.co.*
 - **Celebrate in a Snap** ([2018](years/2018.md): BP 1st). Jyothi Pradhan, Emily Chan, Jose Hernandez, Junaid Ahmed.
 - **CeleriBio** ([2016](README.md#pre-2017-editions-20092016)). Sean Freeman, Nikki Koe, Louai Labanieh, Binh Le, Sadaf Mirnia.
 - **ChewRank** ([2023](years/2023.md): CS 2nd). Chi Wei Chen, Hsin-yi Lin, Wei-Chia Hsu, Xiaohan Li, XinYao Xu.
@@ -43,14 +43,14 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 - **Closed Loop Plastics** ([2018](years/2018.md): TS 2nd). William Amos, Aldrin Lupisan, Jesse Jackson, Sharon To, Ivette Morales. *Likely shut down; closedloopplastics.com now serves a Sedo parking page.*
 - **COMPAS** ([2017](years/2017.md): BP 2nd). Dr. Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover.
 - **Conshus Clothing** ([2020](years/2020.md): SE 1st). Arneeb Mahbub, Parth. *No public outcome found; likely dormant.*
-- **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed.
+- **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *Dormant (likely); surfaces only as an early-stage signup form.*
 - **Curaflow** ([2016](README.md#pre-2017-editions-20092016)). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin.
 - **Curbd / SwappIt** ([2019](years/2019.md): CS 2nd, tied). Not Listed.
 
 ## D
 
 - **Dental Insights** ([2016](README.md#pre-2017-editions-20092016)). Michael Bennett, Andy Fields, Vang Kou Khang.
-- **DermaVision** ([2024](years/2024.md): SE 2nd). Ashley Im, Alejandra Reyes, Mitchell Frazeur, Hao Ngo.
+- **DermaVision** ([2024](years/2024.md): SE 2nd). Ashley Im, Alejandra Reyes, Mitchell Frazeur, Hao Ngo. *Operating (likely, student-team stage as **DermaVision Technologies**); placed 3rd at 2024 BMES Medtronic Design Competition; UC IP available for licensing.*
 
 ## E
 
@@ -66,7 +66,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 ## F
 
 - **Failsafe** ([2017](years/2017.md): CP 2nd). Natalie Sweis, Jasmine Yu, Issa Sweis.
-- **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson.
+- **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson. *Pivoted to **NeuroQure** (launched 2023); CLIA-certified ASD Insight autism test; UCI patent acquired 2024.*
 - **Flare** ([2024](years/2024.md): CP 1st). Not Listed.
 - **forMED Technologies** ([2022](years/2022.md): LS 1st). Aryan Agarwal, Ruben Shakya, Francis Aguas. *No public outcome found.*
 - **FunBand** ([2016](README.md#pre-2017-editions-20092016)). Rehema Feleke, Simon Loo, Cliff Wang. *Simon Loo returned to compete in 2017 with Element: B2B2C.*
@@ -124,22 +124,22 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 - **Negocios & Etc.** ([2016](README.md#pre-2017-editions-20092016)). Caroline Cypriano, Pravin Surana, Fabio Sato. *Pravin Surana returned to compete in 2017 with APIC Diagnostics.*
 - **NeoMold** ([2024](years/2024.md): RU, LS 2nd). Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong. *Operating; very early stage; pre-incorporation/design-review.*
 - **NeuroBoost** ([2026](years/2026.md): semi-finalist). Not Listed.
-- **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson.
+- **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson. *Acquired by **Moongoat Coffee Roasters** in December 2022 (asset / subscriber transfer; terms undisclosed). Third documented exit in the archive.*
 - **Noveil** ([2022](years/2022.md): GP, CS 1st). Michael Allotey. *Operating but quiet; Arch Grants recipient (St. Louis); Tracxn shows still active in early 2026 with low engagement.*
 - **NūCo** ([2025](years/2025.md): CP 2nd). Not Listed.
-- **Nutripair** ([2022](years/2022.md): BP 1st). Catlin Tran.
+- **Nutripair** ([2022](years/2022.md): BP 1st). Catlin Tran. *Operating; received a $25,000 Verizon grant in 2025; UCI Social Sciences profile March 2025.*
 
 ## O
 
-- **Omni Pet Club** ([2023](years/2023.md): CP 2nd). Penny Love, Rae Chen.
+- **Omni Pet Club** ([2023](years/2023.md): CP 2nd). Penny Love, Rae Chen. *Operating; modular multi-pet leash system; retail distribution via Chewy, Walmart, Amazon.*
 - **Orii.AI** ([2023](years/2023.md): BP 2nd). Not Listed.
-- **Oslo / Birdhouse by Oslo** ([2025](years/2025.md): AF, LS 2nd). Not Listed.
+- **Oslo / Birdhouse by Oslo** ([2025](years/2025.md): AF, LS 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
 
 ## P
 
 - **P-FLAPs** ([2019](years/2019.md): TS 2nd). R Sayadi, A Majumder.
-- **PCOSitive Buddy** ([2025](years/2025.md): MIE Award, CS 1st). Ricianne "Chi" Rey (MIE).
-- **Poo Pal** ([2019](years/2019.md): CP 1st). Not Listed.
+- **PCOSitive Buddy** ([2025](years/2025.md): MIE Award, CS 1st). Ricianne "Chi" Rey (MIE). *Operating (likely); founder hired as UCI ANTrepreneur Center Program Lead in October 2025 and continues to be described as a PCOS-platform co-founder.*
+- **Poo Pal** ([2019](years/2019.md): CP 1st). Not Listed. *Dormant (likely); Amazon / Etsy listings remain but no recent company-side activity.*
 - **Prescient Imaging** ([2012](README.md#pre-2017-editions-20092016): GP). Farhad Daghighian (CEO), Ariel Beroukhim. *Operating; received 510(k) FDA clearance in March 2021 for the BBX-PET portable PET scanner; over $8M raised.*
 - **Prophet Modeling** ([2020](years/2020.md): CS 2nd). Not Listed.
 - **Purist** ([2017](years/2017.md): GP SoM, TS 1st). Daniel Dai, Mikael Nilsson, Kim Westerbeck, Leila Safavi-Tehrani, Donald Magnuson. *Operating; ORNL Innovation Crossroads fellow; received $223K NIH SBIR (2019).*
@@ -147,29 +147,29 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 
 ## Q
 
-- **Quiver** ([2024](years/2024.md): CS 1st). Not Listed.
+- **Quiver** ([2024](years/2024.md): CS 1st). Not Listed. *Operating; surfboard-rental marketplace thequiver.com active across 20+ countries with paid membership tier.*
 
 ## R
 
-- **REMSYS** ([2021](years/2021.md): CS 1st, tied). Victoria Sahrai.
+- **REMSYS** ([2021](years/2021.md): CS 1st, tied). Victoria Sahrai. *Dormant (likely); remsys.app reachable but no marketing activity past 2021.*
 
 ## S
 
 - **Salux Diagnostics** ([2017](years/2017.md): LS 2nd). Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Kevin Trieu.
-- **Sayenza Biosciences** ([2022](years/2022.md): LS 2nd). Dr. Derek Banyard.
+- **Sayenza Biosciences** ([2022](years/2022.md): LS 2nd). Dr. Derek Banyard. *Operating; clinical-stage adipose-tissue regenerative-medicine company; ~$1.16M raised; California Life Sciences FAST Spring 2024 cohort.*
 - **Sentinel** ([2024](years/2024.md): GP, BP 1st). Kyle Deck, Michael Ross, Cody He, Spike O'Carroll, Natán Ampudia, Kevin Wu. *Pivoted; product/team appears to have been absorbed into Spotter.ai's Sentinel platform (no explicit acquisition press release located).*
-- **ServEasy** ([2025](years/2025.md): BP 2nd). Not Listed.
+- **ServEasy** ([2025](years/2025.md): BP 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
 - **Shaka** ([2021](years/2021.md): GP, BP 1st). Melanie Wertzberger, Austin Chauncey, Preston Le, Agustine Pimentel. *Operating as Shaka Culture Inc. (Kansas City, MO); raised ~$120K; Microsoft Teams certified.*
 - **Sher Biomedical** ([2016](README.md#pre-2017-editions-20092016)). Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick.
 - **Shower Power** ([2023](years/2023.md): SE 1st). Not Listed. *No public outcome found.*
-- **SnapHealth** ([2022](years/2022.md): CS 2nd). Ashraf Hammouri.
+- **SnapHealth** ([2022](years/2022.md): CS 2nd). Ashraf Hammouri. *Dormant (likely); mysnaphealth.com remains up but no funding or product news.*
 - **SolarLab** ([2018](years/2018.md): BP 2nd). Hao Peng, Yanchen Wu, Jiale Chen, Edward Li.
-- **Steth 'n Go** ([2019](years/2019.md): CP 2nd). Not Listed.
+- **Steth 'n Go** ([2019](years/2019.md): CP 2nd). Not Listed. *Operating; magnetic stethoscope holder still selling at stethngo.com with bulk pricing for healthcare facilities.*
 - **StyloSonic** ([2021](years/2021.md): LS 1st). Not Listed in archive. *Operating; PitchBook profile current; 2022 paper in Photoacoustics; in Wayfinder accelerator.*
 
 ## T
 
-- **TeamMade** ([2023](years/2023.md): SE 2nd). UCI/OCC Partnership Team (individual roster not published).
+- **TeamMade** ([2023](years/2023.md): SE 2nd). UCI/OCC Partnership Team (individual roster not published). *Operating (non-commercial student project); their **LuminOCity** modular ADU unit was donated to Homeless Intervention Services-OC and opened to house at-risk youth in July 2025.*
 - **Tooke Fabrics** ([2021](years/2021.md): SE 2nd). Anthea Mudanye, Anthony Eduafo, Hamza Ibrahim, Emmanuel Fiagbe.
 - **TransMobile VR** ([2025](years/2025.md): BP 1st). Not Listed.
 - **Two Cube** ([2024](years/2024.md): LS 1st). Dylan Riffle, Shushrruth Sai Srinivasan. *No public outcome found. Dylan Riffle previously appeared on Leprendo in 2023.*
@@ -187,7 +187,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 
 ## W
 
-- **Wing** ([2018](years/2018.md): CS 1st). Karan Kanwar, Martin Gomez, Tod Srisengfa, Monish Ramadoss, Jackson Wickman.
+- **Wing** ([2018](years/2018.md): CS 1st). Karan Kanwar, Martin Gomez, Tod Srisengfa, Monish Ramadoss, Jackson Wickman. *Operating as **Wing Assistant**; raised a $2.1M seed in 2021; still a subscription managed-VA service in 2025/26.*
 
 ## Z
 
