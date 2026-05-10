@@ -101,6 +101,21 @@ Founders who appeared on two finalist teams in the **same** year:
 |-------------------------|------|-------------------------------------------------|-------------------------------------|
 | Donald "Don" Magnuson   | 2017 | Purist (Grand Prize, SoM; Tech Surge 1st)       | COMPAS (Business Products 2nd)      |
 
+### Outcome distribution (researched teams)
+
+Of the **54 teams researched** as of 2026-05-10 (out of 112 total in the archive):
+
+| Outcome category          | Count | % of researched |
+|---------------------------|-------|-----------------|
+| OPERATING                 | 27    | 50.0%           |
+| NO PUBLIC OUTCOME FOUND   | 14    | 25.9%           |
+| DORMANT                   | 5     | 9.3%            |
+| PIVOTED                   | 4     | 7.4%            |
+| ACQUIRED                  | 2     | 3.7%            |
+| SHUT DOWN                 | 1     | 1.9%            |
+
+About half of researched teams are still operating in some form; about a quarter produced no traceable post-competition footprint. The remaining 58 teams have not yet been researched; see [`BACKLOG.md`](BACKLOG.md) Priority 5 for the list. The pattern across two outcomes-research passes: medical / life-sciences teams survive at the highest rate (long FDA timelines keep them alive); consumer apps and social-enterprise winners from 2018 to 2022 disproportionately produced no findable outcome.
+
 ### How prizes have shifted over time
 
 - **Grand Prize size:** $15,000 (2017, School-of-Medicine award) → $25,000 (2020, the pandemic-era peak) → $20,000 (2022–2025, current standard)
@@ -211,13 +226,20 @@ Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Elemen
 
 ## Where Are They Now?
 
-A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). Quick highlights:
+A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-10, **54 of 112 teams** in the archive have been researched. Quick highlights:
 
-- **Two clean exits, both medical:** Laser Associated Sciences (acquired by Medtronic, 2020) and Mechanodontics (rebranded BRIUS Technologies, ~$46M total raised, commercial launch).
+- **Three documented exits:**
+  - Laser Associated Sciences (2013 GP) acquired by **Medtronic**, April 2020 (terms undisclosed).
+  - Mechanodontics (2018 LS 1st) rebranded as **BRIUS Technologies**, ~$46M total raised, commercial launch.
+  - No Decaf Allowed (2020 CS 1st) acquired by **Moongoat Coffee Roasters**, December 2022 (asset / subscriber transfer, terms undisclosed).
+- **Two real pivots that became going concerns:**
+  - First Step Diagnostics (2018 LS 2nd) -> **NeuroQure**: CLIA-certified ASD Insight autism test, UCI patent acquired 2024.
+  - Wing (2018 CS 1st) -> **Wing Assistant**: $2.1M seed in 2021, still operating as a managed-VA service in 2025/26.
 - **Strongest non-medical operating company:** **123 Baby Box** (2020 Grand Prize), $1.2M oversubscribed seed in 2023, reportedly 7-figure 2025 revenue.
 - **Medical / life-sciences teams have the highest survival rate;** consumer-app and social-enterprise winners from 2018 to 2022 have largely gone dark.
 - **Most surprising decline:** Closed Loop Plastics (2018 Tech Surge 2nd), website now a parked domain in 2026.
 - **2024 Grand Prize Sentinel** appears to have been absorbed by Spotter.ai (no explicit press release found).
+- **TeamMade's LuminOCity** (2023 SE 2nd) modular ADU was donated for at-risk-youth housing and opened in July 2025: the most concrete social-impact outcome in the archive.
 
 See [`OUTCOMES.md`](OUTCOMES.md) for the full breakdown, sources, and confidence levels.
 

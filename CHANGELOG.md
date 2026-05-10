@@ -6,6 +6,13 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-10
 
+### Changed (propagation of outcome data into README and human-readable surfaces)
+
+- **README "Where Are They Now?" teaser refreshed**: now reflects three documented exits (was two), names the two pivots-to-going-concern (First Step -> NeuroQure, Wing -> Wing Assistant), adds TeamMade's LuminOCity social-impact outcome, and reports the 54-of-112 research progress.
+- **README Cross-Year Analytics**: new "Outcome distribution (researched teams)" sub-section with the category breakdown (50.0% OPERATING, 25.9% NO_PUBLIC_OUTCOME_FOUND, 9.3% DORMANT, 7.4% PIVOTED, 3.7% ACQUIRED, 1.9% SHUT DOWN).
+- **TEAMS.md**: 18 entries gained inline italic outcome notes corresponding to the second-pass research findings.
+- **years/2018.md through years/2025.md**: each year's "Post-competition outcomes (selected)" section updated with new bullets where applicable (10 new outcome bullets total across the 8 year files).
+
 ### Added (outcome research, second pass)
 
 - **18 new confirmed-status outcomes** added to [`OUTCOMES.md`](OUTCOMES.md) and [`data/outcomes.json`](data/outcomes.json) from a second research pass on previously-unresearched track winners. Highlights:
