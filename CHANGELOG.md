@@ -13,6 +13,15 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 - **[`data/teams.json`](data/teams.json)**: slim machine-readable mirror of `TEAMS.md` (schema v1). Avoids duplication by referencing `data/nvc.json` for full member/project data and `OUTCOMES.md` anchors for outcome detail.
 - **[`CHANGELOG.md`](CHANGELOG.md)** (this file): chronological iteration log.
 
+### Infrastructure
+
+- **JSON Schemas (draft-07)** added for the three data files:
+  - [`data/nvc.schema.json`](data/nvc.schema.json): canonical archive schema (competition, years, awards, pre-2017 editions, cross-year notes).
+  - [`data/outcomes.schema.json`](data/outcomes.schema.json): outcome entries with enum-typed `category` field constraining values to `OPERATING`, `ACQUIRED`, `EXITED_OTHER`, `PIVOTED`, `DORMANT`, `SHUT_DOWN`, `NO_PUBLIC_OUTCOME_FOUND`.
+  - [`data/teams.schema.json`](data/teams.schema.json): team-index schema; `outcome.category` enum matches outcomes.schema.json.
+- All three data files validated against their schemas via `npx ajv-cli@5 validate -s data/X.schema.json -d data/X.json` and pass.
+- Contributors can run the same command to validate their changes before opening a PR.
+
 ### Changed (data canonicalization)
 
 - **`data/nvc.json` `competition` object** substantially enriched with the institutional findings from `SPONSORS-AND-JUDGES.md`:

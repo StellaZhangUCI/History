@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/ImanM02/History/blob/main/data/outcomes.schema.json",
+  "title": "UCI NVC Outcomes Data",
+  "description": "Schema for data/outcomes.json: post-competition outcome data for researched teams.",
+  "type": "object",
+  "required": ["schema_version", "outcomes"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"type": "integer", "minimum": 1},
+    "last_updated": {"type": "string"},
+    "outcome_categories": {
+      "type": "object",
+      "description": "Documentation of category enum values; keys are the enum values, values are human-readable descriptions."
+    },
+    "outcomes": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/outcome"}
+    },
+    "summary_stats": {"type": "object"}
+  },
+  "definitions": {
+    "outcome": {
+      "type": "object",
+      "required": ["team", "year", "category"],
+      "additionalProperties": true,
+      "properties": {
+        "team": {"type": "string"},
+        "team_aliases": {"type": "array", "items": {"type": "string"}},
+        "year": {"type": "integer", "minimum": 2009, "maximum": 2030},
+        "award": {"type": "string"},
+        "category": {
+          "enum": [
+            "OPERATING",
+            "ACQUIRED",
+            "EXITED_OTHER",
+            "PIVOTED",
+            "DORMANT",
+            "SHUT_DOWN",
+            "NO_PUBLIC_OUTCOME_FOUND"
+          ]
+        },
+        "confidence": {"type": "string"},
+        "summary": {"type": "string"},
+        "sources": {"type": "array", "items": {"type": "string"}},
+        "acquirer": {"type": "string"},
+        "acquisition_date": {"type": "string"},
+        "acquisition_terms": {"type": "string"},
+        "rebranded_to": {"type": "string"},
+        "absorbed_by": {"type": "string"},
+        "total_funding_usd_approx": {"type": "integer", "minimum": 0}
+      }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/ImanM02/History/blob/main/data/nvc.schema.json",
+  "title": "UCI New Venture Competition Archive",
+  "description": "Schema for data/nvc.json: the canonical structured archive of the Stella Zhang New Venture Competition. See README.md for documentation.",
+  "type": "object",
+  "required": ["schema_version", "competition", "years"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"type": "integer", "minimum": 1},
+    "last_updated": {"type": "string", "description": "ISO date YYYY-MM-DD"},
+    "competition": {"$ref": "#/definitions/competition"},
+    "years": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/year"}
+    },
+    "pre_2017_editions": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/preYearEntry"}
+    },
+    "cross_year_notes": {"$ref": "#/definitions/crossYearNotes"}
+  },
+  "definitions": {
+    "competition": {
+      "type": "object",
+      "required": ["name", "first_held"],
+      "additionalProperties": true,
+      "properties": {
+        "name": {"type": "string"},
+        "former_names": {"type": "array", "items": {"type": "string"}},
+        "host_school": {"type": "string"},
+        "host_center": {"type": "string"},
+        "first_held": {"type": "integer", "minimum": 2000, "maximum": 2030},
+        "naming_gift": {"type": "object"},
+        "sponsors": {"type": "array", "items": {"type": "string"}},
+        "sponsors_note": {"type": "string"},
+        "track_partnerships": {"type": "array", "items": {"type": "object"}},
+        "program_staff": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "role"],
+            "properties": {
+              "name": {"type": "string"},
+              "role": {"type": "string"},
+              "contact": {"type": "string"}
+            }
+          }
+        },
+        "mentor_structure": {"type": "object"},
+        "format": {"type": "object"}
+      }
+    },
+    "year": {
+      "type": "object",
+      "required": ["year", "status"],
+      "additionalProperties": true,
+      "properties": {
+        "year": {"type": "integer", "minimum": 2009, "maximum": 2030},
+        "status": {"enum": ["upcoming", "completed"]},
+        "theme": {"type": "string"},
+        "edition_number": {"type": "string"},
+        "prize_pool_announced": {"type": "string"},
+        "prize_pool_note": {"type": "string"},
+        "judges": {"type": "array", "items": {"type": "string"}},
+        "judges_and_coaches": {"type": "array", "items": {"type": "string"}},
+        "judges_note": {"type": "string"},
+        "judges_source": {"type": "string"},
+        "confirmed_judges_partial": {"type": "array", "items": {"type": "string"}},
+        "named_semifinalists": {"type": "array", "items": {"type": "string"}},
+        "semifinalist_count": {"type": "integer"},
+        "tracks": {"type": "array", "items": {"type": "string"}},
+        "grand_finale": {"type": "object"},
+        "structure": {"type": "object"},
+        "awards": {
+          "type": "array",
+          "items": {"$ref": "#/definitions/award"}
+        }
+      }
+    },
+    "award": {
+      "type": "object",
+      "required": ["category", "place", "team"],
+      "additionalProperties": true,
+      "properties": {
+        "category": {"type": "string"},
+        "place": {"type": "string"},
+        "team": {"type": "string"},
+        "prize_text": {"type": "string"},
+        "prize_amount_usd": {"type": ["integer", "null"]},
+        "project": {"type": "string"},
+        "members": {"type": "array", "items": {"type": "string"}},
+        "members_note": {"type": "string"},
+        "is_cross_listing": {"type": "boolean"},
+        "cross_listed_with": {
+          "type": "object",
+          "properties": {
+            "category": {"type": "string"},
+            "place": {"type": "string"}
+          }
+        }
+      }
+    },
+    "preYearEntry": {
+      "type": "object",
+      "required": ["year"],
+      "additionalProperties": true,
+      "properties": {
+        "year": {"type": "integer", "minimum": 2009, "maximum": 2016},
+        "status": {"enum": ["no_public_record", "completed"]},
+        "competition_name_at_time": {"type": "string"},
+        "grand_prize": {"type": "object"},
+        "undergraduate_winner": {"type": "object"},
+        "other_finalists": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["team"],
+            "properties": {
+              "team": {"type": "string"},
+              "members": {"type": "array", "items": {"type": "string"}}
+            }
+          }
+        }
+      }
+    },
+    "crossYearNotes": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "repeat_finalists": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "appearances"],
+            "properties": {
+              "name": {"type": "string"},
+              "appearances": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["year", "team"],
+                  "properties": {
+                    "year": {"type": "integer"},
+                    "team": {"type": "string"},
+                    "awards": {"type": "array", "items": {"type": "string"}}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "two_teams_same_year": {"type": "array"},
+        "disclosed_cash_totals_by_year_usd": {"type": "object"}
+      }
+    }
+  }
+}

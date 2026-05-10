@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/ImanM02/History/blob/main/data/teams.schema.json",
+  "title": "UCI NVC Teams Index",
+  "description": "Schema for data/teams.json: slim by-team index for quick lookup. Authoritative member rosters and project data live in data/nvc.json.",
+  "type": "object",
+  "required": ["schema_version", "teams"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"type": "integer", "minimum": 1},
+    "last_updated": {"type": "string"},
+    "comment": {"type": "string"},
+    "teams": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/teamEntry"}
+    },
+    "stats": {"type": "object"}
+  },
+  "definitions": {
+    "teamEntry": {
+      "type": "object",
+      "required": ["name", "years", "top_award"],
+      "additionalProperties": false,
+      "properties": {
+        "name": {"type": "string"},
+        "name_aliases": {"type": "array", "items": {"type": "string"}},
+        "years": {
+          "type": "array",
+          "items": {"type": "integer", "minimum": 2009, "maximum": 2030},
+          "minItems": 1
+        },
+        "top_award": {"type": "string"},
+        "outcome": {
+          "oneOf": [
+            {"type": "null"},
+            {
+              "type": "object",
+              "required": ["category", "see"],
+              "additionalProperties": true,
+              "properties": {
+                "category": {
+                  "enum": [
+                    "OPERATING",
+                    "ACQUIRED",
+                    "EXITED_OTHER",
+                    "PIVOTED",
+                    "DORMANT",
+                    "SHUT_DOWN",
+                    "NO_PUBLIC_OUTCOME_FOUND"
+                  ]
+                },
+                "see": {"type": "string"},
+                "note": {"type": "string"},
+                "rebranded_to": {"type": "string"},
+                "absorbed_by": {"type": "string"},
+                "acquirer": {"type": "string"},
+                "acquisition_date": {"type": "string"},
+                "total_funding_usd_approx": {"type": "integer"}
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

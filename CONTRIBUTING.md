@@ -4,6 +4,18 @@ This is a community archive of the UCI New Venture Competition. Corrections and 
 
 > **Looking for something concrete to work on?** [`BACKLOG.md`](BACKLOG.md) lists every known gap in the archive (missing rosters, prize amounts, untouched outcomes) organized by priority. That's the menu.
 
+## Validating your data changes
+
+Each JSON file under `data/` has a matching `.schema.json` (JSON Schema draft-07). Before opening a PR that changes a data file, validate it locally:
+
+```bash
+npx --yes ajv-cli@5 validate -s data/nvc.schema.json -d data/nvc.json
+npx --yes ajv-cli@5 validate -s data/outcomes.schema.json -d data/outcomes.json
+npx --yes ajv-cli@5 validate -s data/teams.schema.json -d data/teams.json
+```
+
+All three should print `data/<file>.json valid`. If validation fails, the error message will name the offending path inside the JSON.
+
 ## Ways to contribute
 
 1. **Open an issue** if you spot incorrect data (wrong prize amount, mis-attributed project, misspelled team member) and have a source to back it up.

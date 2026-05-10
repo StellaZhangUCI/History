@@ -18,6 +18,7 @@ This document records each year's award categories, finalist teams, prize amount
 - [`data/nvc.json`](data/nvc.json): the canonical structured data: competition metadata, per-year awards, members, prizes
 - [`data/outcomes.json`](data/outcomes.json): structured mirror of `OUTCOMES.md` with categories, confidence, and source URLs
 - [`data/teams.json`](data/teams.json): slim by-team index for quick lookup (name -> years, top award, outcome category)
+- [`data/*.schema.json`](data/): JSON Schema (draft-07) definitions for each data file; the three data files validate against their schemas via `npx ajv-cli@5 validate -s data/X.schema.json -d data/X.json`
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): how to submit corrections and additions
 
 ## Table of Contents
