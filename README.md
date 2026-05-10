@@ -12,7 +12,9 @@ This document records each year's award categories, finalist teams, prize amount
 - [`years/`](years/): one markdown file per edition with the full awards table for that year
 - [`OUTCOMES.md`](OUTCOMES.md): "Where Are They Now?" post-competition outcomes for past finalists
 - [`TEAMS.md`](TEAMS.md): alphabetical master index of all 112 teams across 2009 to 2026
+- [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md): institutional context (naming gift, sponsors, judging panels by year, program staff)
 - [`BACKLOG.md`](BACKLOG.md): concrete list of gaps in the archive (missing rosters, prize amounts, years, outcomes)
+- [`CHANGELOG.md`](CHANGELOG.md): chronological log of substantive changes to the archive
 - [`data/nvc.json`](data/nvc.json): the canonical structured data: competition metadata, per-year awards, members, prizes
 - [`data/outcomes.json`](data/outcomes.json): structured mirror of `OUTCOMES.md` with categories, confidence, and source URLs
 - [`data/teams.json`](data/teams.json): slim by-team index for quick lookup (name -> years, top award, outcome category)
@@ -31,7 +33,8 @@ This document records each year's award categories, finalist teams, prize amount
 ## About the Competition
 
 - **Official name:** Stella Zhang New Venture Competition (since 2022)
-- **Naming history:** Originally the *Merage Business Plan Competition*; renamed *UCI New Venture Competition* in the 2016–2017 cycle; renamed again to *Stella Zhang New Venture Competition* in 2022 following a naming gift from Stella Zhang (FEMBA '05). All three names refer to the same competition lineage.
+- **Naming history:** Originally the *Merage Business Plan Competition*; renamed *UCI New Venture Competition* in the 2016–2017 cycle; renamed again to *Stella Zhang New Venture Competition* in 2022 following a naming gift from Stella Zhang (FEMBA '05) and her husband John Shen. All three names refer to the same competition lineage.
+- **Naming gift renewal (March 2025):** Stella Zhang added **$750,000** to extend the naming commitment for another five years (through 2031). This is the gift that raised the announced annual prize pool from $100,000 to $150,000+ (visible in the 2025 archive entry). See [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md) for full context.
 - **Host:** UCI Paul Merage School of Business, Beall Center for Innovation & Entrepreneurship
 - **Eligibility:** UCI students, alumni, faculty, and partner-school teams
 - **Format:** Multi-round (Concept, Quarter, Semi-final / Board Room Pitch, Grand Finale) with track awards across Business Products & Services, Consumer Products, Consumer Services, Life Sciences, and Social Enterprise (categories vary slightly by year), plus overall Grand Prize, Runner-Up, and specialty awards (MIE, Audience Favorite)
