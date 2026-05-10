@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-05-10",
+  "comment": "Slim by-team index. Authoritative members + project + prize data live in data/nvc.json; full outcome detail lives in data/outcomes.json. This file is a quick lookup keyed by team name.",
+  "teams": [
+    {"name": "AegleBio", "years": [2026], "top_award": "Semi-finalist", "outcome": null},
+    {"name": "Apeel Juice", "years": [2018], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2018"}},
+    {"name": "APIC Diagnostics", "years": [2017], "top_award": "Tech Surge 2nd", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2017"}},
+    {"name": "Ardha Health", "years": [2020], "top_award": "Track Award (Business Products) 1st", "outcome": null},
+    {"name": "ARTEM", "years": [2018], "top_award": "Track Award (Consumer Products) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2018"}},
+
+    {"name": "Baby Box", "name_aliases": ["123 Baby Box"], "years": [2020], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "rebranded_to": "123 Baby Box", "total_funding_usd_approx": 1200000, "see": "OUTCOMES.md#2020"}},
+    {"name": "BagIt", "years": [2024], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+    {"name": "Billify", "years": [2026], "top_award": "Semi-finalist", "outcome": null},
+    {"name": "Blue Aqua Food Tech", "years": [2022], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2022"}},
+    {"name": "Bottle Built", "years": [2020], "top_award": "Audience Favorite", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2020"}},
+    {"name": "Bottle Rocket", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "BrainCheck", "years": [2017], "top_award": "Track Award (Consumer Products) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2017"}},
+
+    {"name": "CannTek", "years": [2020], "top_award": "Track Award (Life Sciences) 2nd", "outcome": null},
+    {"name": "Carbo", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "CarDana", "years": [2018], "top_award": "Track Award (Social Enterprise) 2nd", "outcome": null},
+    {"name": "Celebrate in a Snap", "years": [2018], "top_award": "Track Award (Business Products) 1st", "outcome": null},
+    {"name": "CeleriBio", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "ChewRank", "years": [2023], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
+    {"name": "Circular", "years": [2021], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2021"}},
+    {"name": "CleanHydro", "years": [2025], "top_award": "Track Award (Social Enterprise) 1st", "outcome": null},
+    {"name": "Closed Loop Plastics", "years": [2018], "top_award": "Tech Surge 2nd", "outcome": {"category": "SHUT_DOWN", "see": "OUTCOMES.md#2018"}},
+    {"name": "COMPAS", "years": [2017], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+    {"name": "Conshus Clothing", "years": [2020], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2020"}},
+    {"name": "Crafty Palate", "years": [2024], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
+    {"name": "Curaflow", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "Curbd / SwappIt", "years": [2019], "top_award": "Track Award (Consumer Services) 2nd (tied)", "outcome": null},
+
+    {"name": "Dental Insights", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "DermaVision", "years": [2024], "top_award": "Track Award (Social Enterprise) 2nd", "outcome": null},
+
+    {"name": "Eater Zone", "years": [2017], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
+    {"name": "ELF Therapeutics", "name_aliases": ["eLysis"], "years": [2019], "top_award": "Tech Surge 1st + Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "rebranded_to": "eLysis", "see": "OUTCOMES.md#2019"}},
+    {"name": "Element: B2B2C", "years": [2017], "top_award": "Track Award (Business Products) 1st", "outcome": null},
+    {"name": "EmbryLux", "years": [2016], "top_award": "Grand Prize", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#pre-2017"}},
+    {"name": "Embryologic", "years": [2019], "top_award": "Track Award (Life Sciences) 2nd", "outcome": null},
+    {"name": "EmpowerMi", "years": [2022], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+    {"name": "Enjovu Paper", "years": [2022], "top_award": "Runner-Up", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2022"}},
+    {"name": "Esqalate", "years": [2017], "top_award": "Track Award (Poverty Alleviation) 1st", "outcome": {"category": "DORMANT", "see": "OUTCOMES.md#2017"}},
+
+    {"name": "Failsafe", "years": [2017], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "First Step Diagnostics", "years": [2018], "top_award": "Tech Surge 1st + Track Award (Life Sciences) 2nd", "outcome": null},
+    {"name": "Flare", "years": [2024], "top_award": "Track Award (Consumer Products) 1st", "outcome": null},
+    {"name": "forMED Technologies", "years": [2022], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2022"}},
+    {"name": "FunBand", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+
+    {"name": "GaleGauge", "years": [2022], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "Gimme", "years": [2018], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "giv", "years": [2019], "top_award": "Track Award (Social Enterprise) 2nd", "outcome": null},
+    {"name": "GlowGuard", "years": [2025], "top_award": "Runner-Up", "outcome": {"category": "OPERATING", "note": "brand new", "see": "OUTCOMES.md#2025"}},
+    {"name": "Grad2Go", "years": [2025, 2026], "top_award": "Grand Prize (2025); semi-finalist (2026)", "outcome": {"category": "OPERATING", "note": "brand new; competing again in 2026", "see": "OUTCOMES.md#2025"}},
+    {"name": "Graduate Data", "years": [2018], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
+
+    {"name": "HAI", "years": [2022], "top_award": "Track Award (Consumer Products) 1st", "outcome": null},
+    {"name": "Happy Sleep", "years": [2009], "top_award": "Undergraduate division winner", "outcome": null},
+    {"name": "Health Libero", "years": [2021], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+    {"name": "Helios", "years": [2023], "top_award": "Track Award (Business Products) 1st", "outcome": null},
+    {"name": "Help Belt", "years": [2023], "top_award": "Track Award (Consumer Products) 1st", "outcome": null},
+    {"name": "Hydroflow", "years": [2021], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "HydroVasc", "years": [2021], "top_award": "Track Award (Life Sciences) 2nd", "outcome": null},
+    {"name": "Hyperion Therapeutics", "years": [2023], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2023"}},
+
+    {"name": "iBesties", "name_aliases": ["Middle School Moguls"], "years": [2014], "top_award": "Grand Prize", "outcome": {"category": "PIVOTED", "rebranded_to": "Middle School Moguls", "see": "OUTCOMES.md#pre-2017"}},
+    {"name": "ImmunoTarget", "name_aliases": ["ImmunoTarget Therapeutics"], "years": [2020], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2020"}},
+    {"name": "Instinct", "years": [2020], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+
+    {"name": "Jam", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "Jiffal", "years": [2019], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+
+    {"name": "Laser Associated Sciences", "name_aliases": ["LAS"], "years": [2013], "top_award": "Grand Prize", "outcome": {"category": "ACQUIRED", "acquirer": "Medtronic", "acquisition_date": "2020-04-14", "see": "OUTCOMES.md#pre-2017"}},
+    {"name": "Leprendo", "years": [2023], "top_award": "Runner-Up", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2023"}},
+    {"name": "Lynne", "years": [2024], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+
+    {"name": "Maslow Construction Robots", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "Mechanodontics", "name_aliases": ["BRIUS Technologies"], "years": [2018], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "rebranded_to": "BRIUS Technologies", "total_funding_usd_approx": 46000000, "see": "OUTCOMES.md#2018"}},
+    {"name": "Memorlane", "years": [2017], "top_award": "Track Award (Consumer Services) 1st", "outcome": null},
+    {"name": "MinuTax", "years": [2025], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
+    {"name": "MONI", "years": [2021], "top_award": "Audience Favorite", "outcome": null},
+    {"name": "MoodCloud", "years": [2021], "top_award": "Track Award (Consumer Services) 1st (tied)", "outcome": null},
+    {"name": "myHealth Today", "years": [2019], "top_award": "Track Award (Consumer Services) 1st", "outcome": null},
+
+    {"name": "NasoCoustics", "years": [2025], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "note": "design stage; pre-incorporation", "see": "OUTCOMES.md#2025"}},
+    {"name": "Negocios & Etc.", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "NeoMold", "years": [2024], "top_award": "Runner-Up", "outcome": {"category": "OPERATING", "note": "very early stage", "see": "OUTCOMES.md#2024"}},
+    {"name": "NeuroBoost", "years": [2026], "top_award": "Semi-finalist", "outcome": null},
+    {"name": "No Decaf Allowed", "years": [2020], "top_award": "Track Award (Consumer Services) 1st", "outcome": null},
+    {"name": "Noveil", "years": [2022], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "note": "low recent activity", "see": "OUTCOMES.md#2022"}},
+    {"name": "NūCo", "years": [2025], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "Nutripair", "years": [2022], "top_award": "Track Award (Business Products) 1st", "outcome": null},
+
+    {"name": "Omni Pet Club", "years": [2023], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "Orii.AI", "years": [2023], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+    {"name": "Oslo", "name_aliases": ["Birdhouse by Oslo"], "years": [2025], "top_award": "Audience Favorite", "outcome": null},
+
+    {"name": "P-FLAPs", "years": [2019], "top_award": "Tech Surge 2nd", "outcome": null},
+    {"name": "PCOSitive Buddy", "years": [2025], "top_award": "Specialty (MIE Award)", "outcome": null},
+    {"name": "Poo Pal", "years": [2019], "top_award": "Track Award (Consumer Products) 1st", "outcome": null},
+    {"name": "Prescient Imaging", "years": [2012], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#pre-2017"}},
+    {"name": "Prophet Modeling", "years": [2020], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
+    {"name": "Purist", "years": [2017], "top_award": "Grand Prize (School of Medicine) + Tech Surge 1st", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2017"}},
+    {"name": "PZ Nanopure", "years": [2024], "top_award": "Track Award (Social Enterprise) 1st", "outcome": null},
+
+    {"name": "Quiver", "years": [2024], "top_award": "Track Award (Consumer Services) 1st", "outcome": null},
+
+    {"name": "REMSYS", "years": [2021], "top_award": "Track Award (Consumer Services) 1st (tied)", "outcome": null},
+
+    {"name": "Salux Diagnostics", "years": [2017], "top_award": "Track Award (Life Sciences) 2nd", "outcome": null},
+    {"name": "Sayenza Biosciences", "years": [2022], "top_award": "Track Award (Life Sciences) 2nd", "outcome": null},
+    {"name": "Sentinel", "years": [2024], "top_award": "Grand Prize", "outcome": {"category": "PIVOTED", "note": "likely absorbed by Spotter.ai", "absorbed_by": "Spotter.ai", "see": "OUTCOMES.md#2024"}},
+    {"name": "ServEasy", "years": [2025], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+    {"name": "Shaka", "name_aliases": ["Shaka Culture Inc."], "years": [2021], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "total_funding_usd_approx": 120000, "see": "OUTCOMES.md#2021"}},
+    {"name": "Sher Biomedical", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "Shower Power", "years": [2023], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2023"}},
+    {"name": "SnapHealth", "years": [2022], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
+    {"name": "SolarLab", "years": [2018], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
+    {"name": "Steth 'n Go", "years": [2019], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "StyloSonic", "years": [2021], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2021"}},
+
+    {"name": "TeamMade", "years": [2023], "top_award": "Track Award (Social Enterprise) 2nd", "outcome": null},
+    {"name": "Tooke Fabrics", "years": [2021], "top_award": "Track Award (Social Enterprise) 2nd", "outcome": null},
+    {"name": "TransMobile VR", "years": [2025], "top_award": "Track Award (Business Products) 1st", "outcome": null},
+    {"name": "Two Cube", "years": [2024], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2024"}},
+
+    {"name": "UniSafe", "years": [2019], "top_award": "Track Award (Business Products) 1st", "outcome": null},
+
+    {"name": "VagAligna", "years": [2023], "top_award": "Grand Finale Winner", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2023"}},
+    {"name": "Venom-Aid", "years": [2017], "top_award": "Track Award (Life Sciences) 1st", "outcome": null},
+    {"name": "Voltek", "years": [2020], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
+    {"name": "VolunteerCrowd", "years": [2019], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "PIVOTED", "see": "OUTCOMES.md#2019"}},
+
+    {"name": "Wing", "years": [2018], "top_award": "Track Award (Consumer Services) 1st", "outcome": null},
+
+    {"name": "ZeroWatt Technologies", "years": [2009], "top_award": "Grand Prize", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "note": "likely defunct", "see": "OUTCOMES.md#pre-2017"}}
+  ],
+  "stats": {
+    "total_unique_teams": 112,
+    "teams_with_outcome_researched": 35,
+    "teams_appearing_in_multiple_years": 1,
+    "teams_appearing_in_multiple_years_list": ["Grad2Go (2025, 2026)"]
+  }
+}

@@ -13,8 +13,9 @@ This document records each year's award categories, finalist teams, prize amount
 - [`OUTCOMES.md`](OUTCOMES.md): "Where Are They Now?" post-competition outcomes for past finalists
 - [`TEAMS.md`](TEAMS.md): alphabetical master index of all 112 teams across 2009 to 2026
 - [`BACKLOG.md`](BACKLOG.md): concrete list of gaps in the archive (missing rosters, prize amounts, years, outcomes)
-- [`data/nvc.json`](data/nvc.json): the same data as a structured machine-readable JSON
+- [`data/nvc.json`](data/nvc.json): the canonical structured data: competition metadata, per-year awards, members, prizes
 - [`data/outcomes.json`](data/outcomes.json): structured mirror of `OUTCOMES.md` with categories, confidence, and source URLs
+- [`data/teams.json`](data/teams.json): slim by-team index for quick lookup (name -> years, top award, outcome category)
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): how to submit corrections and additions
 
 ## Table of Contents
