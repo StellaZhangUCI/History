@@ -83,8 +83,8 @@ Founder Keene Do's juice startup has no traceable commercial presence post-2018.
 Sources: [UCI Blum Center](https://uciblumcenter.medium.com/uci-new-venture-competition-social-enterprise-track-f595002d462e)
 
 **Closed Loop Plastics** (Tech Surge 2nd): LIKELY SHUT DOWN. *Confidence: likely.*
-`closedloopplastics.com` now serves a Sedo parking page (no product or store). The LinkedIn page exists but the most recent press coverage is from 2021. The company moved from UCI to Long Beach for a brief expansion phase but appears to have wound down operations.
-Sources: [closedloopplastics.com](https://www.closedloopplastics.com/), [LB Business Journal](https://lbbusinessjournal.com/business/news/long-beach-startup-closed-loop-plastics-looks-to-expand/)
+`closedloopplastics.com` now serves a Sedo parking page (verified 2026-05-11). LB Business Journal (2021) described the company as "Long Beach-based" with plans to expand beyond their Westside warehouse. That source names the three core co-founders as Sharon To, Aldrin Lupisan, and Will Amos (a subset of the 2018 NVC team roster of five). The UCI origin is mentioned in the original NVC archive but not in the LBBJ piece. Status: likely shut down based on the parked-domain observation alone; the 2021 expansion never appears to have produced lasting operations.
+Sources: [closedloopplastics.com (parked)](https://www.closedloopplastics.com/), [LB Business Journal](https://lbbusinessjournal.com/business/news/long-beach-startup-closed-loop-plastics-looks-to-expand/)
 
 **ARTEM** (Consumer Products 1st): NO PUBLIC OUTCOME FOUND.
 A UCI undergrad team's online marketplace for underground artists 18 to 24. No Crunchbase, no surviving site, no LinkedIn company page traceable.
@@ -123,7 +123,7 @@ Sources: [stethngo.com](https://stethngo.com/)
 ## 2020
 
 **Baby Box / 123 Baby Box** (Grand Prize): OPERATING (strongest consumer outcome in the archive). *Confidence: confirmed.*
-Founder Zarina Bahadur. Raised a $1.2M oversubscribed round in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund, plus angel investors including Mark Friedman, Demos Parneros, Sanjay Malhotra, and Naren Parihar). Reportedly hit 7-figure 2025 revenue per LinkedIn updates. Launched a 123 Book Box product line for toddlers. Featured in TechCrunch in 2023. Plans for 2026 expansion. 2 to 10 employees.
+Founder Zarina Bahadur. Raised a $1.2M oversubscribed round in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund, plus angel investors including Mark Friedman, Demos Parneros, Sanjay Malhotra, and Naren Parihar). Per TechCrunch (March 2023), the company grew 245%, tripled revenue, and saw 5x MRR growth over 2021, with a stated target of $100K MRR / $1M ARR (Series A metrics). Earlier draft of this archive claimed "7-figure 2025 revenue per LinkedIn"; verification on 2026-05-11 against TechCrunch could not confirm a specific 2025 revenue figure, so that specific claim is removed. Launched a 123 Book Box product line for toddlers. 2 to 10 employees.
 Sources: [Merage announcement](https://merage.uci.edu/news/2023/04/123-Baby-Box-raises-oversubscribed-round-of-1.2-million.html), [TechCrunch coverage](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/)
 
 **Bottle Built** (Audience Favorite): NO PUBLIC OUTCOME FOUND.
@@ -197,7 +197,7 @@ Team leader Fiza Qureshi's LinkedIn shows she is now a Product Analyst at Reynol
 Sources: [Founder LinkedIn](https://www.linkedin.com/in/fiza-qureshi/), [Business Wire 2023 announcement](https://www.businesswire.com/news/home/20230526005328/en/Healing-System-for-Vaginal-Tears-Takes-Top-Prize-at-UCI-Stella-Zhang-New-Venture-Competition)
 
 **Leprendo** (Runner-Up): OPERATING. *Confidence: confirmed.*
-`leprendo.com` is live with a 2026 copyright notice, an active product catalog (specialty produce, dried fruits, oils, etc.), promotional banners, and free-shipping markers. Co-founders Dylan Riffle and Dan Ta. Reported $400K first-year sales. Pivoted from a "short-form-video food marketplace" framing to a more conventional online farmer's market.
+`leprendo.com` is live with active product catalog (specialty produce, dried fruits, oils, etc.). Co-founders Dylan Riffle and Dan Ta. **$400,000 first-year sales confirmed** via Sunstone Investment profile (2026-05-11 verification). $15,000 total NVC prize ($5K Runner-Up + $10K Consumer Services 1st) matches the Sunstone profile. Pivoted from a "short-form-video food marketplace" framing to a more conventional online farmer's market. Note: the Sunstone article erroneously dates Leprendo's NVC win to 2022; UCI primary sources confirm the win was at the 2023 cycle.
 Sources: [leprendo.com](https://leprendo.com/), [Sunstone profile](https://www.sunstoneinvestment.com/news/the-next-step-online-marketplace-for-artisan-foods-gets-boost-from-stella-zhang-competition/)
 
 **Hyperion Therapeutics** (Life Sciences 1st): OPERATING. *Confidence: confirmed.*
@@ -238,9 +238,9 @@ Sources: [thequiver.com](https://www.thequiver.com/)
 Surfaces only as an early-stage signup form; no operating storefront found.
 Sources: [Signup form](https://docs.google.com/forms/d/e/1FAIpQLSfUjyioGQE6uaL7Pt6O4Ekeof4fOf_Owx-Vsb0wJ3Wr5hByXQ/viewform)
 
-**DermaVision** (Social Enterprise 2nd): OPERATING. *Confidence: likely, student-team stage.*
-DermaVision Technologies' multispectral bruise-imaging tool placed third at the 2024 BMES Medtronic Design Competition. UC has listed the underlying intellectual property as available for licensing.
-Sources: [UC Tech Transfer listing](https://techtransfer.universityofcalifornia.edu/NCD/34412.html), [dermavisiontech.com/team](https://www.dermavisiontech.com/team.html)
+**DermaVision** (Social Enterprise 2nd): OPERATING (likely, student-team stage). *Confidence: likely.*
+DermaVision Technologies' multispectral bruise-imaging tool ("Portable Bruise Spectroscopy Across All Skin Tones") competed in the 2024 Medtronic / BMES Student Design Competition. **Note: sources conflict on placement** - the BMES official results page lists DermaVision as the First Place winner (represented by Gerald Lee and Elian Lintag), while the team's own website lists third place in the Mechanical and Electrical track. Both placements verified on 2026-05-11. The team also earned UCI's Dean's Choice Award at the Engineering Annual Design Review and became IRB-approved for pre-clinical imaging in collaboration with the UCI Trauma Center. UC Tech Transfer (NCD/34412) listed as "currently not available for licensing" as of 2026-05-11 (an earlier draft claimed "available for licensing"; that has either changed or been misread). Note: the original 2024 NVC roster (Ashley Im, Alejandra Reyes, Mitchell Frazeur, Hao Ngo) differs from the current website's team (Siana Jimenez Vences, Matthew Lo, Gerald Lee) since UCI senior design rotates yearly.
+Sources: [BMES 2024 winners](https://www.bmes.org/news/2024-medtronic/bmes-student-design-competition-winners), [dermavisiontech.com/team](https://www.dermavisiontech.com/team.html), [UC Tech Transfer NCD/34412](https://techtransfer.universityofcalifornia.edu/NCD/34412.html)
 
 ## 2025
 
