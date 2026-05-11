@@ -6,6 +6,12 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (third verification pass: Sentinel, spelling reversion)
+
+- **Sentinel -> Spotter.ai absorption claim DISCONFIRMED.** The ANTrepreneur 2024-09 source (which the agent cited) does not mention Spotter.ai; the Spotter.ai Sentinel page does not mention UCI. The connection was inferred from product-name overlap and is unverified. Sentinel's category moved from PIVOTED to OPERATING (likely, MVP stage as of September 2024). Updated in OUTCOMES.md (pattern summary + entry), years/2024.md, data/outcomes.json (category + summary), data/teams.json, README.md, BACKLOG.md.
+- **Sentinel team-member spellings REVERTED.** Earlier "spelling fixes" in the archive (`O'Carrol` -> `O'Carroll` and `Natan` -> `Natán`) were actually introducing errors per the first research agent. Verification on 2026-05-11 against multiple primary sources (Business Wire May 2024 press release; Merage 2024 announcement; ANTrepreneur 2024 profile) confirms the original spellings used by all primary sources are **Spike O'Carrol** (single L) and **Natan Ampudia** (no diacritic). Reverted in years/2024.md, data/nvc.json, TEAMS.md.
+- **Outcome distribution counts updated** in README and data/outcomes.json summary_stats: OPERATING 27 -> 28, PIVOTED 3 -> 2 (reflecting Sentinel's reclassification).
+
 ### Fixed (second verification pass: Hyperion, Sayenza, eLysis, BRIUS, iBesties)
 
 Additional verification surfaced more corrections plus genuine new data:

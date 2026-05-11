@@ -143,7 +143,7 @@ The pattern from two outcomes-research passes: most of these consumer / social-e
 
 Items currently flagged as "likely" or "no findable outcome" in OUTCOMES.md that would benefit from a stronger source:
 
-- **Sentinel (2024 Grand Prize)** absorption into Spotter.ai is currently inferred from product naming and category overlap. An explicit acquisition or acqui-hire press release would confirm.
+- **Sentinel (2024 Grand Prize)** previously listed as "likely absorbed by Spotter.ai"; verification on 2026-05-11 disconfirmed that inference (no source documents the connection). Status is now OPERATING (MVP as of Sept 2024). A post-2024 update on the UCI team would confirm whether they're still operating independently.
 - **Closed Loop Plastics (2018 Tech Surge 2nd)** marked "likely shut down" based on a parked domain. A founder LinkedIn post or news article confirming closure would upgrade confidence.
 - **ZeroWatt Technologies (2009 Grand Prize)** marked "likely defunct" based on absent web presence. An SBIR final report or founder statement would confirm.
 - **VagAligna (2023 Grand Finale Winner)** has no public outcome but the project requires FDA approval that takes years; a check-in in 2027 may yield more data.

@@ -157,7 +157,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 
 - **Salux Diagnostics** ([2017](years/2017.md): LS 2nd). Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Kevin Trieu.
 - **Sayenza Biosciences** ([2022](years/2022.md): LS 2nd). Dr. Derek Banyard. *Operating; clinical-stage adipose-tissue regenerative-medicine company; ~$1.16M raised; California Life Sciences FAST Spring 2024 cohort.*
-- **Sentinel** ([2024](years/2024.md): GP, BP 1st). Kyle Deck, Michael Ross, Cody He, Spike O'Carroll, Natán Ampudia, Kevin Wu. *Pivoted; product/team appears to have been absorbed into Spotter.ai's Sentinel platform (no explicit acquisition press release located).*
+- **Sentinel** ([2024](years/2024.md): GP, BP 1st). Kyle Deck, Michael Ross, Cody He, Spike O'Carrol, Natan Ampudia, Kevin Wu. *Status unclear as of 2024-09 (working MVP per ANTrepreneur). An earlier draft inferred a connection to Spotter.ai's "Sentinel" product based on naming overlap; verification on 2026-05-11 could not confirm the connection. Treat the absorption claim as unverified.*
 - **ServEasy** ([2025](years/2025.md): BP 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
 - **Shaka** ([2021](years/2021.md): GP, BP 1st). Melanie Wertzberger, Austin Chauncey, Preston Le, Agustine Pimentel. *Operating as Shaka Culture Inc. (Kansas City, MO); raised ~$120K; Microsoft Teams certified.*
 - **Sher Biomedical** ([2016](README.md#pre-2017-editions-20092016)). Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick.

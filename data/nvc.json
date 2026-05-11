@@ -258,7 +258,7 @@
           "prize_text": "$20,000",
           "prize_amount_usd": 20000,
           "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
-          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carroll", "Natán Ampudia", "Kevin Wu"]
+          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carrol", "Natan Ampudia", "Kevin Wu"]
         },
         {
           "category": "Runner-Up",
@@ -276,7 +276,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
-          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carroll", "Natán Ampudia", "Kevin Wu"],
+          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carrol", "Natan Ampudia", "Kevin Wu"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
         },

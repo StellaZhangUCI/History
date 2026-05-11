@@ -112,7 +112,7 @@
 
     {"name": "Salux Diagnostics", "years": [2017], "top_award": "Track Award (Life Sciences) 2nd", "outcome": null},
     {"name": "Sayenza Biosciences", "years": [2022], "top_award": "Track Award (Life Sciences) 2nd", "outcome": {"category": "OPERATING", "total_funding_usd_approx": 1160000, "see": "OUTCOMES.md#2022"}},
-    {"name": "Sentinel", "years": [2024], "top_award": "Grand Prize", "outcome": {"category": "PIVOTED", "note": "likely absorbed by Spotter.ai", "absorbed_by": "Spotter.ai", "see": "OUTCOMES.md#2024"}},
+    {"name": "Sentinel", "years": [2024], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "note": "MVP stage as of September 2024; an earlier draft inferred absorption by Spotter.ai but that connection is unverified on 2026-05-11", "see": "OUTCOMES.md#2024"}},
     {"name": "ServEasy", "years": [2025], "top_award": "Track Award (Business Products) 2nd", "outcome": {"category": "OPERATING", "note": "Finalist stage", "see": "OUTCOMES.md#2025"}},
     {"name": "Shaka", "name_aliases": ["Shaka Culture Inc."], "years": [2021], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "total_funding_usd_approx": 120000, "see": "OUTCOMES.md#2021"}},
     {"name": "Sher Biomedical", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},

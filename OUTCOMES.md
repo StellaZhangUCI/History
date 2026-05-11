@@ -28,7 +28,7 @@ Each entry includes a confidence label: *confirmed* (multiple or authoritative s
 5. **Strongest non-medical operating company is 123 Baby Box** (Grand Prize 2020): raised $1.2M oversubscribed seed in 2023, reportedly 7-figure 2025 revenue, TechCrunch coverage.
 6. **The 2017 cohort aged poorly.** Of the four highest-profile teams, only Purist has a traceable forward trajectory.
 7. **Closed Loop Plastics is the most surprising decline:** real press coverage, a Long Beach facility, and outside investment, yet the website is a parked domain in 2026.
-8. **Sentinel (2024 Grand Prize) appears to have been absorbed by Spotter.ai** based on identical product name and category, though no explicit acquisition press release was located.
+8. **Sentinel (2024 Grand Prize)** had a working MVP as of September 2024 (per ANTrepreneur). A research-agent claim that the team was absorbed by Spotter.ai was inferred from product-name overlap but is **unverified** on 2026-05-11; neither the cited UCI source nor the Spotter.ai page documents a connection. Current status: likely still operating independently in some form; no post-September-2024 coverage located.
 9. **Recent winners (2024 to 2025) are too early to evaluate.** Most are still on UCI subdomains in design-review or pre-incorporation stages.
 10. **TeamMade (2023 SE 2nd)** has the most concrete social-impact outcome: their LuminOCity modular ADU was donated to Homeless Intervention Services-OC and opened to house at-risk youth in July 2025, though the team remains non-commercial.
 
@@ -218,9 +218,9 @@ Sources: [Samueli engineering coverage](https://engineering.uci.edu/news/2025/7/
 
 ## 2024
 
-**Sentinel** (Grand Prize): PIVOTED / LIKELY ABSORBED. *Confidence: likely.*
-Founders developed a driver-monitoring AI dashcam. The product/concept now appears as part of Spotter.ai's "Sentinel" platform: same name, same trucking-safety vertical, but Spotter.ai expanded the offering into AI-powered hiring/compliance/screening solutions in 2026. The team appears to have folded into Spotter.ai (soft acqui-hire) but no explicit acquisition press release was located.
-Sources: [sentinel.spotter.ai](https://sentinel.spotter.ai/), [ANTrepreneur 2024 profile](https://antrepreneur.uci.edu/2024/09/12/the-power-of-persistence-how-uc-irvine-entrepreneurs-built-success-through-multiple-competitions/)
+**Sentinel** (Grand Prize): OPERATING (likely, MVP stage). *Confidence: likely.*
+Founders developed a driver-monitoring AI dashcam. As of September 2024 (ANTrepreneur profile), the team had a working MVP and had recently competed in multiple competitions. A research-agent claim that Sentinel was absorbed by Spotter.ai's "Sentinel" Fleet Safety Platform was inferred from product-name overlap; verification on 2026-05-11 found that the cited ANTrepreneur source does not mention Spotter.ai at all, and the Spotter.ai Sentinel page does not mention UCI. **The absorption claim is unverified.** Current status: most likely still operating as an independent venture in some form, but no public coverage past September 2024 has been located.
+Sources: [ANTrepreneur 2024 profile](https://antrepreneur.uci.edu/2024/09/12/the-power-of-persistence-how-uc-irvine-entrepreneurs-built-success-through-multiple-competitions/), [Business Wire 2024](https://www.businesswire.com/news/home/20240528246919/en/System-Improves-Trucker-Safety-Wins-Stella-Zhang-New-Venture-Competition-Grand-Prize-at-UCI)
 
 **NeoMold** (Runner-Up): OPERATING. *Confidence: likely, very early stage.*
 Team Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong. The site `neomold.uci.design` is up. No incorporation, funding, or FDA filing yet. Design-stage academic project. A separate established competitor (TalexMedical / InfantEar) operates in the same space.

@@ -109,10 +109,10 @@ Of the **54 teams researched** as of 2026-05-11 (out of 112 total in the archive
 
 | Outcome category          | Count | % of researched |
 |---------------------------|-------|-----------------|
-| OPERATING                 | 27    | 50.0%           |
+| OPERATING                 | 28    | 51.9%           |
 | NO PUBLIC OUTCOME FOUND   | 15    | 27.8%           |
 | DORMANT                   | 5     | 9.3%            |
-| PIVOTED                   | 3     | 5.6%            |
+| PIVOTED                   | 2     | 3.7%            |
 | ACQUIRED                  | 2     | 3.7%            |
 | SHUT DOWN                 | 1     | 1.9%            |
 
@@ -238,7 +238,7 @@ A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.m
 - **Strongest non-medical operating company:** **123 Baby Box** (2020 Grand Prize), $1.2M oversubscribed seed in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund), reportedly 7-figure 2025 revenue.
 - **Medical / life-sciences teams have the highest survival rate;** consumer-app and social-enterprise winners from 2018 to 2022 have largely gone dark.
 - **Most surprising decline:** Closed Loop Plastics (2018 Tech Surge 2nd), website now a parked domain in 2026.
-- **2024 Grand Prize Sentinel** appears to have been absorbed by Spotter.ai (inferred from product naming and category overlap; no explicit press release).
+- **2024 Grand Prize Sentinel** had a working MVP as of September 2024. An earlier draft inferred absorption by Spotter.ai's same-named Fleet Safety Platform; verification on 2026-05-11 could not confirm that connection. Treat the absorption claim as unverified.
 - **TeamMade's LuminOCity** (2023 SE 2nd) modular ADU was donated for at-risk-youth housing and opened in July 2025: the most concrete social-impact outcome in the archive.
 
 See [`OUTCOMES.md`](OUTCOMES.md) for the full breakdown, sources, and confidence levels.

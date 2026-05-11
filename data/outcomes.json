@@ -519,10 +519,9 @@
       "team": "Sentinel",
       "year": 2024,
       "award": "Grand Prize",
-      "category": "PIVOTED",
-      "confidence": "likely absorbed by Spotter.ai",
-      "summary": "Driver-monitoring AI dashcam now appears as part of Spotter.ai's 'Sentinel' platform: same name, same trucking-safety vertical, expanded scope. Team appears to have folded into Spotter.ai (soft acqui-hire) but no explicit acquisition press release was located.",
-      "absorbed_by": "Spotter.ai",
+      "category": "OPERATING",
+      "confidence": "likely (MVP stage as of September 2024)",
+      "summary": "Driver-monitoring AI dashcam; working MVP stage as of September 2024 per ANTrepreneur profile. An earlier draft of this archive inferred absorption by Spotter.ai's 'Sentinel' Fleet Safety Platform based on product-name overlap; verification on 2026-05-11 could not confirm that connection (neither the UCI source nor the Spotter.ai page documents it). Treat the absorption claim as unverified; status is currently best described as OPERATING (MVP stage) rather than PIVOTED.",
       "sources": [
         "https://sentinel.spotter.ai/",
         "https://antrepreneur.uci.edu/2024/09/12/the-power-of-persistence-how-uc-irvine-entrepreneurs-built-success-through-multiple-competitions/"
@@ -658,9 +657,9 @@
   "summary_stats": {
     "teams_researched": 54,
     "by_category": {
-      "OPERATING": 27,
+      "OPERATING": 28,
       "ACQUIRED": 2,
-      "PIVOTED": 3,
+      "PIVOTED": 2,
       "DORMANT": 5,
       "SHUT_DOWN": 1,
       "NO_PUBLIC_OUTCOME_FOUND": 15
