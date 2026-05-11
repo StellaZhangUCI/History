@@ -1258,7 +1258,9 @@
       "undergraduate_winner": {
         "team": "Happy Sleep",
         "project": "Bluetooth wristband alarm",
-        "members": ["Praveen De Silva", "Kevin Hung"]
+        "prize_text": "$3,500 + Best Concept Paper (undergraduate division)",
+        "prize_amount_usd": 3500,
+        "members": ["Praveen De Silva (Mechanical & Materials Science Engineering)", "Kevin Hung (Mechanical & Materials Science Engineering)"]
       }
     },
     {"year": 2010, "status": "no_public_record"},
@@ -1299,10 +1301,11 @@
       "competition_name_at_time": "Merage Business Plan Competition",
       "grand_prize": {
         "team": "iBesties",
-        "project": "Books, dolls, and online entertainment to inspire entrepreneurship and tech learning in girls aged 6-10",
+        "project": "Books, dolls, and online entertainment to inspire entrepreneurship and tech learning in girls aged 6-10. Six middle school girls in an Internet startup story.",
         "prize_text": "$15,000",
         "prize_amount_usd": 15000,
-        "members": ["Gina Heitkamp", "Jenae Heitkamp"]
+        "members": ["Gina Heitkamp (MBA, Merage; previously worked with social networking startups)", "Jenae Heitkamp (child therapist, 15 years experience)"],
+        "historical_notes": "First all-female team to win the competition, first sister team to make the finals, and the first toy idea in the (then) 11-year-old contest."
       }
     },
     {"year": 2015, "status": "no_public_record"},

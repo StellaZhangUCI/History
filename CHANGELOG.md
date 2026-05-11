@@ -6,6 +6,13 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Added / Confirmed (ninth verification pass: more pre-2017 enrichment + Hyperion pipeline confirmed)
+
+- **2009 Happy Sleep undergraduate winner**: $3,500 prize + Best Concept Paper for undergraduate division (NEW data; previously the archive had no prize amount). Both team members confirmed as Mechanical & Materials Science Engineering undergraduates. Updated in README + data/nvc.json `pre_2017_editions[2009].undergraduate_winner`.
+- **2014 iBesties Heitkamp sisters enriched**: confirmed they were the first all-female team to win, the first sister team to make the finals, and the first toy idea in the (then) 11-year-old contest. Gina = MBA Merage + previous social-networking startup experience; Jenae = child therapist with 15 years of experience. Source: UCI News + universityofcalifornia.edu. Updated in README + data/nvc.json. (The specific Target / Nickelodeon claims about the post-2016 rebrand to Middle School Moguls remain unverifiable from primary sources.)
+- **Hyperion Therapeutics pipeline confirmed**: SP3, SP4, SP5 are real named formulations in preclinical validation; 2023 PNAS publication referenced on hyperioneye.com/investors. No funding amounts disclosed publicly. Validates the agent's earlier claim about the SRED pipeline.
+- **Conshus Clothing**: concept paper PDF exists at merage.uci.edu/_files/documents/beall-center/nvc/conshus-clothing-concept-paper.pdf; full content not searchable. Founder names (Arneeb Mahbub, Parth) from original NVC archive entry remain as-is.
+
 ### Fixed (eighth verification pass: pre-2017 team rosters)
 
 - **Prescient Imaging (2012) founder dynamics clarified**. Merage source confirms Farhad Daghighian as Co-Founder and CEO (founded Prescient Imaging in 2008, four years before the NVC win). Ariel Beroukhim's role clarified: she originally developed the business model "for a class project," then joined Daghighian's NVC team. She is not described as a co-founder in the source. Updated in README's Pre-2017 Editions table and data/nvc.json.

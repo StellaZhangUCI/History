@@ -203,7 +203,7 @@ This archive's main per-year tables begin in 2017. For completeness, here are co
 | 2011 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2012 | Prescient Imaging              | Compact PET-imaging hardware for medical diagnostics                                     | Not Disclosed                                      | Farhad Daghighian (Co-Founder, CEO; company founded 2008), Ariel Beroukhim (joined via class-project business model) |
 | 2013 | Laser Associated Sciences (LAS)| Medical device using laser technology for diagnostic instrumentation (Campus Wide 1st)   | $15,000                                            | Charlene Ong, Tyler Rice, Sean White (BME / Edwards Lifesciences), Bruce Yang (BME); coach Dale Sadlik |
-| 2014 | iBesties                       | Books, dolls, and online entertainment to inspire entrepreneurship and tech learning in girls aged 6–10 | $15,000                                            | Gina Heitkamp, Jenae Heitkamp                                             |
+| 2014 | iBesties                       | Books, dolls, and online entertainment to inspire entrepreneurship and tech learning in girls aged 6–10. First all-female team to win, first sister team to make the finals, first toy idea in the contest. | $15,000                                            | Gina Heitkamp (MBA, Merage), Jenae Heitkamp (child therapist)             |
 | 2015 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2016 | EmbryLux                       | Device screening embryos pre-implantation for IVF                                        | $20,000 (Life Sciences 1st + UCI IP Award)         | Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran        |
 
@@ -232,7 +232,7 @@ This archive's main per-year tables begin in 2017. For completeness, here are co
 
 Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Element: B2B2C, winning Business Products 1st; Pravin Surana joined APIC Diagnostics, winning Tech Surge 2nd), captured in the [Repeat finalists](#repeat-finalists-across-years) table above.
 
-**2009 Undergraduate division** (separate from the main Grand Prize): *Happy Sleep* (Praveen De Silva, Kevin Hung), Bluetooth wristband alarm.
+**2009 Undergraduate division** (separate from the main Grand Prize): *Happy Sleep*, $3,500 + Best Concept Paper. Team: Praveen De Silva and Kevin Hung, both Mechanical & Materials Science Engineering undergraduates. Bluetooth wristband alarm.
 
 ## Where Are They Now?
 
