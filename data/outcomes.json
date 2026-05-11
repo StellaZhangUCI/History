@@ -355,9 +355,9 @@
       "team": "REMSYS",
       "year": 2021,
       "award": "Track Award (Consumer Services) 1st (tied)",
-      "category": "DORMANT",
-      "confidence": "likely",
-      "summary": "Site remsys.app is reachable and lists AI resume features, but no marketing or blog activity past 2021 surfaces.",
+      "category": "OPERATING",
+      "confidence": "likely (BETA stage)",
+      "summary": "Site remsys.app is in active BETA development as of 2026-05-11. Operating as REMSYS LLC (©2024). AI-powered features include resume tailoring, generative AI cover letter creation, and AI-powered mock interviews. Earlier draft marked REMSYS as DORMANT based on 'no marketing activity past 2021'; verification finds the platform actively under development.",
       "sources": [
         "https://remsys.app/home"
       ]
@@ -657,10 +657,10 @@
   "summary_stats": {
     "teams_researched": 54,
     "by_category": {
-      "OPERATING": 28,
+      "OPERATING": 29,
       "ACQUIRED": 2,
       "PIVOTED": 3,
-      "DORMANT": 4,
+      "DORMANT": 3,
       "SHUT_DOWN": 1,
       "NO_PUBLIC_OUTCOME_FOUND": 15
     },

@@ -1279,11 +1279,20 @@
       "competition_name_at_time": "Merage Business Plan Competition",
       "grand_prize": {
         "team": "Laser Associated Sciences (LAS)",
-        "project": "Laser-based vascular diagnostics medical device",
+        "division": "Campus Wide",
+        "project": "Medical device company using laser technology for medical diagnostic instrumentation",
         "prize_text": "$15,000",
         "prize_amount_usd": 15000,
-        "members": ["Sean White", "Bruce Yang", "Charlene Ong", "Tyler Rice"]
-      }
+        "members": ["Charlene Ong", "Tyler Rice", "Sean White (BME / Edwards Lifesciences)", "Bruce Yang (BME)"],
+        "coach": "Dale Sadlik"
+      },
+      "other_winners": [
+        {"place": "2nd (Campus Wide)", "team": "ValveStrong", "project": "Hybrid heart valve prostheses", "prize_text": "$7,500", "prize_amount_usd": 7500},
+        {"place": "3rd (Campus Wide)", "team": "NoreGen", "project": "Cancer detection device", "prize_text": "$3,500", "prize_amount_usd": 3500},
+        {"place": "Undergraduate Division winner", "team": "Nobles Medical Technology", "project": "Artificial heart system for surgical practice", "prize_text": "$2,500", "prize_amount_usd": 2500},
+        {"place": "TechPortal Calit2 Residency Award", "team": "MEGAL!NE"},
+        {"place": "UC Irvine Environment Institute Award", "team": "Bloom Diagnostics"}
+      ]
     },
     {
       "year": 2014,

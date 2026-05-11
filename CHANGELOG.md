@@ -6,6 +6,14 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (seventh verification pass: REMSYS recategorization, 2013 NVC expansion, CarDana caveat)
+
+- **REMSYS recategorized DORMANT -> OPERATING (BETA).** Verification on 2026-05-11 finds `remsys.app` in active BETA development as REMSYS LLC (©2024), offering AI resume tailoring, generative AI cover-letter creation, and AI-powered mock interviews. Earlier draft's "DORMANT" assessment was based on "no marketing activity past 2021" but the platform itself is active.
+- **2013 NVC expanded with verified other winners** from Samueli engineering source: ValveStrong (Campus Wide 2nd, $7,500, hybrid heart valve prostheses), NoreGen (Campus Wide 3rd, $3,500, cancer detection device), Nobles Medical Technology (Undergraduate Division, $2,500, artificial heart system for surgical practice), MEGAL!NE (TechPortal Calit2 Residency Award), Bloom Diagnostics (UC Irvine Environment Institute Award). LAS team confirmed (Charlene Ong, Tyler Rice, Sean White, Bruce Yang) with coach Dale Sadlik; Sean White from BME/Edwards Lifesciences; Bruce Yang from BME.
+- **CarDana 20% flat-fee claim**: not verified on cardana.co (the homepage references KBB integration and a 4-step process but doesn't disclose specific commission rates). Existing OUTCOMES.md entry already softened in previous passes.
+- **Apeel Juice (2018) and LAS Charlene Ong** confirmed via search and Samueli source; no fabrication.
+- **Outcome distribution counts updated**: OPERATING 28 -> 29 (REMSYS); DORMANT 4 -> 3.
+
 ### Fixed (sixth verification pass: ZeroWatt founders, SnapHealth recategorization, Blue Aqua, Esqalate)
 
 - **ZeroWatt Technologies (2009 Grand Prize): Payam Heydari was a co-founder, NOT a "faculty advisor" as previously labeled.** The 2009 Samueli engineering source explicitly identifies him as a full team member and co-founder of the company alongside Fred Tzeng. The coaching figure was actually Goran Matijasevic, PhD MBA. Updated in README's Pre-2017 Editions table and `data/nvc.json` `pre_2017_editions[2009].grand_prize.members` (now lists Payam Heydari as "Associate Professor of EECS & co-founder", Fred Tzeng as "PhD student & co-founder", with student/alumni roles for the other three; coach added).

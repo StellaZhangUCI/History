@@ -151,7 +151,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 
 ## R
 
-- **REMSYS** ([2021](years/2021.md): CS 1st, tied). Victoria Sahrai. *Dormant (likely); remsys.app reachable but no marketing activity past 2021.*
+- **REMSYS** ([2021](years/2021.md): CS 1st, tied). Victoria Sahrai. *Operating (BETA); remsys.app in active development as REMSYS LLC; AI resume / cover letter / mock interview features.*
 
 ## S
 

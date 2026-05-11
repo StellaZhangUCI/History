@@ -108,7 +108,7 @@
 
     {"name": "Quiver", "years": [2024], "top_award": "Track Award (Consumer Services) 1st", "outcome": {"category": "OPERATING", "note": "Active across 20+ countries", "see": "OUTCOMES.md#2024"}},
 
-    {"name": "REMSYS", "years": [2021], "top_award": "Track Award (Consumer Services) 1st (tied)", "outcome": {"category": "DORMANT", "see": "OUTCOMES.md#2021"}},
+    {"name": "REMSYS", "years": [2021], "top_award": "Track Award (Consumer Services) 1st (tied)", "outcome": {"category": "OPERATING", "note": "BETA stage; remsys.app in active development as of 2026-05-11", "see": "OUTCOMES.md#2021"}},
 
     {"name": "Salux Diagnostics", "years": [2017], "top_award": "Track Award (Life Sciences) 2nd", "outcome": null},
     {"name": "Sayenza Biosciences", "years": [2022], "top_award": "Track Award (Life Sciences) 2nd", "outcome": {"category": "OPERATING", "total_funding_usd_approx": 1160000, "see": "OUTCOMES.md#2022"}},

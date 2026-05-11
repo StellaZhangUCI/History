@@ -109,9 +109,9 @@ Of the **54 teams researched** as of 2026-05-11 (out of 112 total in the archive
 
 | Outcome category          | Count | % of researched |
 |---------------------------|-------|-----------------|
-| OPERATING                 | 28    | 51.9%           |
+| OPERATING                 | 29    | 53.7%           |
 | NO PUBLIC OUTCOME FOUND   | 15    | 27.8%           |
-| DORMANT                   | 4     | 7.4%            |
+| DORMANT                   | 3     | 5.6%            |
 | PIVOTED                   | 3     | 5.6%            |
 | ACQUIRED                  | 2     | 3.7%            |
 | SHUT DOWN                 | 1     | 1.9%            |
@@ -202,10 +202,18 @@ This archive's main per-year tables begin in 2017. For completeness, here are co
 | 2010 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2011 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2012 | Prescient Imaging              | Compact PET-imaging hardware for medical diagnostics                                     | Not Disclosed                                      | Farhad Daghighian (CEO), Ariel Beroukhim                                  |
-| 2013 | Laser Associated Sciences (LAS)| Laser-based vascular diagnostics medical device                                          | $15,000                                            | Sean White, Bruce Yang, Charlene Ong, Tyler Rice                          |
+| 2013 | Laser Associated Sciences (LAS)| Medical device using laser technology for diagnostic instrumentation (Campus Wide 1st)   | $15,000                                            | Charlene Ong, Tyler Rice, Sean White (BME / Edwards Lifesciences), Bruce Yang (BME); coach Dale Sadlik |
 | 2014 | iBesties                       | Books, dolls, and online entertainment to inspire entrepreneurship and tech learning in girls aged 6–10 | $15,000                                            | Gina Heitkamp, Jenae Heitkamp                                             |
 | 2015 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2016 | EmbryLux                       | Device screening embryos pre-implantation for IVF                                        | $20,000 (Life Sciences 1st + UCI IP Award)         | Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran        |
+
+**Other 2013 winners** (confirmed via Samueli Engineering coverage, 2026-05-11 verification):
+
+- 2nd Place (Campus Wide, $7,500): **ValveStrong**, hybrid heart valve prostheses
+- 3rd Place (Campus Wide, $3,500): **NoreGen**, cancer detection device
+- Undergraduate Division ($2,500): **Nobles Medical Technology**, artificial heart system for surgical practice
+- TechPortal Calit2 Residency Award: **MEGAL!NE**
+- UC Irvine Environment Institute Award: **Bloom Diagnostics**
 
 **Other 2016 finalist teams** (confirmed but with full track placements not preserved in indexed sources):
 

@@ -156,8 +156,8 @@ Sources: [UCI Innovation profile](https://innovation.uci.edu/news/uci-green-tech
 StyloSonic, LLC has a PitchBook profile. Co-founders R.K., A.H., and J.V.J. (UCI/UCSD alumni). 2022 peer-reviewed paper in *Photoacoustics* demonstrating in-vivo periodontal imaging. Continues in the Wayfinder accelerator. No announced funding round.
 Sources: [PitchBook profile](https://pitchbook.com/profiles/company/471934-63), [PMC paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9530592/)
 
-**REMSYS** (Consumer Services 1st, tied): DORMANT. *Confidence: likely.*
-Site `remsys.app` is reachable and lists AI resume features, but no marketing or blog activity past 2021 surfaces.
+**REMSYS** (Consumer Services 1st, tied): OPERATING (BETA). *Confidence: likely.*
+Site `remsys.app` is in active BETA development as of 2026-05-11. Operating as REMSYS LLC (©2024). AI-powered features include resume tailoring, generative AI cover letter creation, and AI-powered mock interviews with recruiter simulations. Earlier draft of this archive marked REMSYS as DORMANT based on "no marketing activity past 2021"; verification on 2026-05-11 finds the platform actively under development with current functionality.
 Sources: [remsys.app](https://remsys.app/home)
 
 ## 2022
