@@ -95,12 +95,12 @@ Teams below have no individual member names in indexed public sources. Best cand
 ## Priority 3: Undisclosed prize amounts
 
 ### 2021
-- Shaka (Grand Prize)
-- Shaka (Track Business Products 1st)
-- Health Libero (Track Business Products 2nd)
-- MONI (Track Consumer Products 1st)
-- Hydroflow (Track Consumer Products 2nd)
-- HydroVasc (Track Life Sciences 2nd)
+- ~~Shaka (Grand Prize)~~ - resolved 2026-05-11: $17,500 total (GP + BP 1st combined) per Merage source
+- ~~Shaka (Track Business Products 1st)~~ - same as above; combined total
+- Health Libero (Track Business Products 2nd) - still undisclosed
+- MONI (Track Consumer Products 1st) - still undisclosed
+- Hydroflow (Track Consumer Products 2nd) - still undisclosed
+- HydroVasc (Track Life Sciences 2nd) - still undisclosed
 
 ### 2019
 - ELF Therapeutics (Tech Surge 1st; reported as "Funded" with no specific amount)

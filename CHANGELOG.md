@@ -6,6 +6,16 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (eleventh verification pass: consistency audit of derived totals)
+
+After 13 corrections across the prior passes, the derived Cross-Year Analytics totals were re-audited for staleness. Found one stale figure:
+
+- **2021 disclosed cash total updated $28,500 -> $46,000** to incorporate Shaka's previously-confirmed $17,500 (GP + BP 1st combined per Merage source). The Shaka prize was confirmed in the fifth pass (2026-05-11) but the Cross-Year Analytics table wasn't recalculated then. Now fixed.
+- **Cumulative 2017-2025 disclosed total $760,000 -> $777,500** (same delta).
+- **BACKLOG.md Priority 3**: Shaka GP and Shaka BP 1st rows struck-through with resolved note (other 2021 undisclosed amounts remain: Health Libero, MONI, Hydroflow, HydroVasc).
+- **data/nvc.json `cross_year_notes.disclosed_cash_totals_by_year_usd`** updated with 2021_note documenting the change.
+- **years/2021.md notes** updated to reflect the new total and the remaining undisclosed list.
+
 ### Confirmed (tenth verification pass: 2010/2011/2015 gap confirmed structural; Conshus Mahbub via PDF metadata)
 
 - **2010, 2011, 2015 missing years: GENUINELY UNFINDABLE.** Confirmed conclusive after three research-agent passes plus four direct WebSearch / WebFetch attempts on 2026-05-11. Wayback Machine returns ECONNREFUSED for archived merage.uci.edu pages. The competition was held each of those years (a 2010 3rd-place reference exists; 2015 was the kick-off for the 2016 cycle), but 1st-place winner announcements are not preserved in any indexed source. BACKLOG.md updated to reflect that this is a structural public-record gap, not a research effort failure.

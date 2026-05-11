@@ -61,12 +61,12 @@ All numbers below are computed directly from the tables in this archive and cove
 | 2024      | ~$100,000       |                                                             |
 | 2023      | ~$100,000       |                                                             |
 | 2022      | ~$100,000       |                                                             |
-| 2021      | ~$28,500        | Several track-award amounts still undisclosed               |
+| 2021      | ~$46,000        | Shaka $17,500 total (GP + BP 1st combined) confirmed 2026-05-11; several track-award amounts still undisclosed |
 | 2020      | ~$101,000       | Highest Grand Prize on record at $25,000                    |
 | 2019      | ~$70,000        | Several rows undisclosed (Tech Surge 1st, CS 2nd tie, CP 2nd) |
 | 2018      | ~$92,500        | No overall Grand Prize / Runner-Up awarded that year        |
 | 2017      | ~$64,500        | Smaller per-track prizes ($4,000 / $1,500) before 2018 reset |
-| **Total** | **~$760,000**   | Excludes undisclosed amounts and the value of in-kind services |
+| **Total** | **~$777,500**   | Excludes still-undisclosed amounts and the value of in-kind services |
 
 ### Theme evolution
 
