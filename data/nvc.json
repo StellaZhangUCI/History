@@ -1250,9 +1250,10 @@
       "grand_prize": {
         "team": "ZeroWatt Technologies",
         "project": "Low-power data converter ICs to extend battery life in portable electronics",
-        "prize_text": "$15,000",
+        "prize_text": "$15,000 + Best Concept Paper",
         "prize_amount_usd": 15000,
-        "members": ["Payam Heydari (faculty advisor)", "Fred Tzeng", "Vipul Jain", "Howard Ko", "Thomas Pearson"]
+        "members": ["Payam Heydari (Associate Professor of EECS & co-founder)", "Fred Tzeng (PhD student & co-founder)", "Vipul Jain (PhD student)", "Howard Ko (MBA student)", "Thomas Pearson (Merage MBA alumnus)"],
+        "coach": "Goran Matijasevic, PhD, MBA"
       },
       "undergraduate_winner": {
         "team": "Happy Sleep",

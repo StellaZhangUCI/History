@@ -117,7 +117,7 @@
     {"name": "Shaka", "name_aliases": ["Shaka Culture Inc."], "years": [2021], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "total_funding_usd_approx": 120000, "see": "OUTCOMES.md#2021"}},
     {"name": "Sher Biomedical", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
     {"name": "Shower Power", "years": [2023], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2023"}},
-    {"name": "SnapHealth", "years": [2022], "top_award": "Track Award (Consumer Services) 2nd", "outcome": {"category": "DORMANT", "see": "OUTCOMES.md#2022"}},
+    {"name": "SnapHealth", "years": [2022], "top_award": "Track Award (Consumer Services) 2nd", "outcome": {"category": "PIVOTED", "note": "Site active but pivoted from 'patient health record control' to a health coverage platform", "see": "OUTCOMES.md#2022"}},
     {"name": "SolarLab", "years": [2018], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
     {"name": "Steth 'n Go", "years": [2019], "top_award": "Track Award (Consumer Products) 2nd", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2019"}},
     {"name": "StyloSonic", "years": [2021], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2021"}},

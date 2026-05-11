@@ -438,9 +438,9 @@
       "team": "SnapHealth",
       "year": 2022,
       "award": "Track Award (Consumer Services) 2nd",
-      "category": "DORMANT",
+      "category": "PIVOTED",
       "confidence": "likely",
-      "summary": "mysnaphealth.com remains up describing patient data stewardship, but no funding or product news surfaces.",
+      "summary": "mysnaphealth.com is operating (verified 2026-05-11) but its current product is a 'health coverage' platform (insurance) with a coverage calculator for families and broker tools. This is a pivot from the 2022 NVC concept of 'patient health record data control'. An earlier draft marked SnapHealth as DORMANT; the site is active and updated through 2024. The 2022 founder Ashraf Hammouri is not named on the current about page.",
       "sources": [
         "https://www.mysnaphealth.com/about"
       ]
@@ -659,8 +659,8 @@
     "by_category": {
       "OPERATING": 28,
       "ACQUIRED": 2,
-      "PIVOTED": 2,
-      "DORMANT": 5,
+      "PIVOTED": 3,
+      "DORMANT": 4,
       "SHUT_DOWN": 1,
       "NO_PUBLIC_OUTCOME_FOUND": 15
     },

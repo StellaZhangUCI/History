@@ -162,7 +162,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 - **Shaka** ([2021](years/2021.md): GP, BP 1st). Melanie Wertzberger, Austin Chauncey, Preston Le, Agustine Pimentel. *Operating as Shaka Culture Inc. (Kansas City, MO); raised ~$120K; Microsoft Teams certified.*
 - **Sher Biomedical** ([2016](README.md#pre-2017-editions-20092016)). Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick.
 - **Shower Power** ([2023](years/2023.md): SE 1st). Not Listed. *No public outcome found.*
-- **SnapHealth** ([2022](years/2022.md): CS 2nd). Ashraf Hammouri. *Dormant (likely); mysnaphealth.com remains up but no funding or product news.*
+- **SnapHealth** ([2022](years/2022.md): CS 2nd). Ashraf Hammouri. *Pivoted (likely); mysnaphealth.com active with a new "health coverage" platform (different from the 2022 NVC concept of patient health-record control). 2022 founder Ashraf Hammouri not named on the current site.*
 - **SolarLab** ([2018](years/2018.md): BP 2nd). Hao Peng, Yanchen Wu, Jiale Chen, Edward Li.
 - **Steth 'n Go** ([2019](years/2019.md): CP 2nd). Not Listed. *Operating; magnetic stethoscope holder still selling at stethngo.com with bulk pricing for healthcare facilities.*
 - **StyloSonic** ([2021](years/2021.md): LS 1st). Not Listed in archive. *Operating; PitchBook profile current; 2022 paper in Photoacoustics; in Wayfinder accelerator.*

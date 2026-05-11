@@ -6,6 +6,14 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (sixth verification pass: ZeroWatt founders, SnapHealth recategorization, Blue Aqua, Esqalate)
+
+- **ZeroWatt Technologies (2009 Grand Prize): Payam Heydari was a co-founder, NOT a "faculty advisor" as previously labeled.** The 2009 Samueli engineering source explicitly identifies him as a full team member and co-founder of the company alongside Fred Tzeng. The coaching figure was actually Goran Matijasevic, PhD MBA. Updated in README's Pre-2017 Editions table and `data/nvc.json` `pre_2017_editions[2009].grand_prize.members` (now lists Payam Heydari as "Associate Professor of EECS & co-founder", Fred Tzeng as "PhD student & co-founder", with student/alumni roles for the other three; coach added).
+- **SnapHealth recategorized from DORMANT to PIVOTED.** Verification on 2026-05-11 finds `mysnaphealth.com` operating (©SnapHealth 2024) with a new health-coverage / insurance platform product (a coverage calculator for families plus broker tools), distinct from the 2022 NVC concept of "patient health record data control." Founder Ashraf Hammouri is not named on the current site. Updated in OUTCOMES.md, TEAMS.md, years/2022.md, data/outcomes.json, data/teams.json. Outcome distribution counts updated: DORMANT 5 -> 4, PIVOTED 2 -> 3.
+- **Blue Aqua Food Tech** verified operating; `bafoodtech.com` active with insect-protein products line (Insect Protein, Oil, Fertilizer) though current product stock shows "Out of stock"; founder names not on the visible page.
+- **Esqalate** Crunchbase profile returned 403; could not re-verify the "$100K nonprofit" claim directly. Existing entry left as-is with the "DORMANT (likely)" assessment supported by the parked-domain observation.
+- **LAS team verification**: the 2020 Medtronic acquisition article confirms Sean White (CEO), Tyler Rice (CTO), Bruce Yang (Chief Engineer); Charlene Ong does not appear in that article (the 2013 NVC team may have had a different roster than the 2015-formed company). LAS was "formed" at UCI's Beckman Laser Institute in 2015 per the same article; the 2013 NVC team likely existed as a UCI research project before formal incorporation.
+
 ### Fixed (fifth verification pass: 123 Baby Box revenue, DermaVision, Closed Loop, Leprendo)
 
 - **123 Baby Box "7-figure 2025 revenue" claim removed.** Verification of the cited TechCrunch source confirmed the 2023 growth metrics (245% growth, tripled revenue, 5x MRR over 2021) and the company's *target* of $100K MRR / $1M ARR, but did not confirm an actual 2025 revenue figure. The "7-figure 2025 revenue per LinkedIn" claim from the agent could not be verified through the cited source and was removed; the verified 2023 figures remain.

@@ -111,8 +111,8 @@ Of the **54 teams researched** as of 2026-05-11 (out of 112 total in the archive
 |---------------------------|-------|-----------------|
 | OPERATING                 | 28    | 51.9%           |
 | NO PUBLIC OUTCOME FOUND   | 15    | 27.8%           |
-| DORMANT                   | 5     | 9.3%            |
-| PIVOTED                   | 2     | 3.7%            |
+| DORMANT                   | 4     | 7.4%            |
+| PIVOTED                   | 3     | 5.6%            |
 | ACQUIRED                  | 2     | 3.7%            |
 | SHUT DOWN                 | 1     | 1.9%            |
 
@@ -198,7 +198,7 @@ This archive's main per-year tables begin in 2017. For completeness, here are co
 
 | Year | Grand Prize Team               | Project                                                                                  | Prize                                              | Team Members                                                              |
 |------|--------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|
-| 2009 | ZeroWatt Technologies          | Low-power data converter ICs to extend battery life in portable electronics              | $15,000                                            | Payam Heydari (faculty advisor), Fred Tzeng, Vipul Jain, Howard Ko, Thomas Pearson |
+| 2009 | ZeroWatt Technologies          | Low-power data converter ICs to extend battery life in portable electronics              | $15,000 + Best Concept Paper                       | Payam Heydari (Associate Professor & co-founder), Fred Tzeng (PhD student & co-founder), Vipul Jain (PhD student), Howard Ko (MBA), Thomas Pearson (MBA alumnus); coach Goran Matijasevic |
 | 2010 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2011 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2012 | Prescient Imaging              | Compact PET-imaging hardware for medical diagnostics                                     | Not Disclosed                                      | Farhad Daghighian (CEO), Ariel Beroukhim                                  |

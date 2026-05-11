@@ -186,8 +186,8 @@ Sources: [sayenza.com/2025trends](https://sayenza.com/2025trends/), [Crunchbase]
 Founder Catlin Tran's dietary-restriction restaurant-matching app received a $25,000 Verizon grant in 2025 and was profiled by UCI Social Sciences in March 2025.
 Sources: [UCI Social Sciences (Mar 2025)](https://www.socsci.uci.edu/newsevents/news/2025/2025-03-06-catlin-tran-nutripair), [SignalBase coverage](https://www.trysignalbase.com/news/funding/nutripair-secures-25k-grant-to-transform-personalized-nutrition-and-local-dining-experiences)
 
-**SnapHealth** (Consumer Services 2nd): DORMANT. *Confidence: likely.*
-`mysnaphealth.com` remains up describing patient data stewardship, but no funding or product news surfaces.
+**SnapHealth** (Consumer Services 2nd): PIVOTED. *Confidence: likely.*
+`mysnaphealth.com` is operating (verified 2026-05-11, © SnapHealth 2024) but its current product is a **health-coverage / insurance platform** ("the bridge that connects caregivers to curated health coverage") with a coverage calculator for families and consent / intake tools for brokers. This is a pivot from the 2022 NVC concept of "patient health record data control." An earlier draft of this archive marked SnapHealth as DORMANT; verification on 2026-05-11 finds an active, updated site with a different product. The 2022 founder Ashraf Hammouri is not named on the current about page.
 Sources: [mysnaphealth.com/about](https://www.mysnaphealth.com/about)
 
 ## 2023
