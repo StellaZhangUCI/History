@@ -6,6 +6,14 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (fourth verification pass: Omni Pet Club, TeamMade LuminOCity confirmation)
+
+- **Omni Pet Club retail distribution claim REMOVED.** Earlier draft claimed retail distribution via Chewy / Walmart / Amazon. Verification on 2026-05-11 found those listings are for a **different brand** called **OmniPet** (made by Leather Brothers in Conway, AR, founded 1976), not the UCI 2023 NVC startup Omni Pet Club. The agent confused two similarly-named brands. The UCI Omni Pet Club is still operating but sells direct through their own site. Updated in OUTCOMES.md, TEAMS.md, years/2023.md, data/outcomes.json. This is the third documented case of agent confusion via name overlap (after First Step / NeuroQure and Sentinel / Spotter.ai).
+- **TeamMade LuminOCity confirmed.** July 2025 donation to Homeless Intervention Services-OC verified via engineering.uci.edu and teammade.eng.uci.edu. The ADU is officially named "luminOCity" (stylized lowercase l + capital OC); 750 sq ft, two-bedroom, opened July 9, 2025 in Placentia. Team stylization is "teamMADE" (MADE = Modular Affordable Dwellings for the Environment). Our archive keeps "TeamMade" as the original 2023 NVC team name.
+- **Chi Rey / PCOSitive Buddy confirmed.** ANTrepreneur 2026-01 article confirms Ricianne "Chi" Rey was hired as UCI ANTrepreneur Center Program Lead in October 2025 and continues to be described as a PCOSitive Buddy co-founder.
+- **CarDana confirmed operating** with UCI NVC + Wayfinder Incubator history. (Specific "20% flat-fee" claim not visible on their About page; left in the OUTCOMES.md entry per first-agent claim but not independently verified.)
+- **Quiver confirmed**: 20+ countries, $49/year paid membership, peer-to-peer marketplace.
+
 ### Fixed (third verification pass: Sentinel, spelling reversion)
 
 - **Sentinel -> Spotter.ai absorption claim DISCONFIRMED.** The ANTrepreneur 2024-09 source (which the agent cited) does not mention Spotter.ai; the Spotter.ai Sentinel page does not mention UCI. The connection was inferred from product-name overlap and is unverified. Sentinel's category moved from PIVOTED to OPERATING (likely, MVP stage as of September 2024). Updated in OUTCOMES.md (pattern summary + entry), years/2024.md, data/outcomes.json (category + summary), data/teams.json, README.md, BACKLOG.md.

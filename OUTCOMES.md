@@ -209,7 +209,7 @@ A 2023 NVC finalist with no incorporated company, no traceable site, and no foll
 Sources: [Business Wire 2023](https://www.businesswire.com/news/home/20230524005864/en/Students-Vie-for-100000-Thursday-at-the-UCI-Stella-Zhang-New-Venture-Competition)
 
 **Omni Pet Club** (Consumer Products 2nd): OPERATING. *Confidence: confirmed.*
-Modular multi-pet leash system on sale at `omnipetclub.com` with active social channels (Instagram, Threads) and retail distribution via Chewy, Walmart, and Amazon.
+Modular multi-pet leash system on sale at `omnipetclub.com` with an active product catalog. Note: an earlier draft of this archive listed retail distribution via Chewy / Walmart / Amazon; verification on 2026-05-11 found that those listings are for a different brand called **OmniPet** (made by Leather Brothers, Conway, AR, founded 1976), not the UCI startup Omni Pet Club. The UCI team currently sells direct through their own site.
 Sources: [omnipetclub.com](https://omnipetclub.com/)
 
 **TeamMade** (Social Enterprise 2nd): OPERATING (non-commercial). *Confidence: confirmed.*

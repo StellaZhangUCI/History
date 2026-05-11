@@ -131,7 +131,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 
 ## O
 
-- **Omni Pet Club** ([2023](years/2023.md): CP 2nd). Penny Love, Rae Chen. *Operating; modular multi-pet leash system; retail distribution via Chewy, Walmart, Amazon.*
+- **Omni Pet Club** ([2023](years/2023.md): CP 2nd). Penny Love, Rae Chen. *Operating; modular multi-pet leash system selling direct at omnipetclub.com. Earlier draft claimed retail distribution via Chewy / Walmart / Amazon; verification on 2026-05-11 found those listings are for a different brand (OmniPet by Leather Brothers), not the UCI startup.*
 - **Orii.AI** ([2023](years/2023.md): BP 2nd). Not Listed.
 - **Oslo / Birdhouse by Oslo** ([2025](years/2025.md): AF, LS 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
 
