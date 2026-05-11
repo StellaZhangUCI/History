@@ -44,7 +44,8 @@
       "confidence": "confirmed",
       "summary": "Acquired by Medtronic on April 14, 2020 for undisclosed terms. Received FlowMet-R 510(k) FDA clearance in 2019. Founder/CEO Sean White now leads Medtronic's diagnostics & monitoring group.",
       "acquirer": "Medtronic",
-      "acquisition_date": "2020-04-14",
+      "acquisition_date": "2020-04",
+      "acquisition_date_note": "OC Business Journal reported the news on 2020-04-14; UCI Innovation announcement dated 2020-04-29. Exact deal-close date not pinned to a single day across sources.",
       "acquisition_terms": "undisclosed",
       "sources": [
         "https://innovation.uci.edu/2020/04/medtronic-acquires-cove-tenant-laser-associated-sciences/",
@@ -171,17 +172,12 @@
     },
     {
       "team": "First Step Diagnostics",
-      "team_aliases": ["NeuroQure"],
       "year": 2018,
       "award": "Track Award (Life Sciences) 2nd + Tech Surge 1st",
-      "category": "PIVOTED",
-      "confidence": "confirmed",
-      "summary": "Evolved into NeuroQure (launched 2023), which acquired the underlying patent portfolio from UCI in 2024. Its CLIA-certified ASD Insight test is marketed as the first biological test for autism.",
-      "rebranded_to": "NeuroQure",
-      "sources": [
-        "https://www.ocbj.com/healthcare/neuroqure-launches-first-biological-test-for-autism/",
-        "https://innovation.uci.edu/news/neuroqure/"
-      ]
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome",
+      "summary": "No traceable follow-on commercial activity for the 2018 First Step Diagnostics team (Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson). An earlier draft of this archive incorrectly linked First Step Diagnostics to NeuroQure; verification on 2026-05-11 confirmed NeuroQure was independently founded by Dave Justus based on Prof. John Jay Gargus's CART research, with no documented connection to First Step Diagnostics.",
+      "sources": []
     },
     {
       "team": "CarDana",
@@ -263,7 +259,7 @@
       "award": "Grand Prize",
       "category": "OPERATING",
       "confidence": "confirmed; strongest non-medical outcome in the archive",
-      "summary": "Raised $1.2M oversubscribed seed in 2023 (XRC Ventures, Sunstone Management, Salt Lake City Angels, Crescent Fund). Reportedly 7-figure 2025 revenue. Launched 123 Book Box product line for toddlers. TechCrunch coverage (2023). 2-10 employees.",
+      "summary": "Raised $1.2M oversubscribed round in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund, plus angel investors Mark Friedman, Demos Parneros, Sanjay Malhotra, Naren Parihar). Reportedly 7-figure 2025 revenue. Launched 123 Book Box product line for toddlers. TechCrunch coverage (2023). 2-10 employees.",
       "rebranded_to": "123 Baby Box",
       "total_funding_usd_approx": 1200000,
       "sources": [
@@ -664,19 +660,18 @@
     "by_category": {
       "OPERATING": 27,
       "ACQUIRED": 2,
-      "PIVOTED": 4,
+      "PIVOTED": 3,
       "DORMANT": 5,
       "SHUT_DOWN": 1,
-      "NO_PUBLIC_OUTCOME_FOUND": 14
+      "NO_PUBLIC_OUTCOME_FOUND": 15
     },
     "notable_exits": [
       {"team": "Laser Associated Sciences", "type": "ACQUIRED", "by": "Medtronic", "year": 2020},
-      {"team": "Mechanodontics (BRIUS Technologies)", "type": "OPERATING_FUNDED", "total_funding_usd_approx": 46000000},
+      {"team": "Mechanodontics (BRIUS Technologies)", "type": "OPERATING_FUNDED", "note": "Rebrand confirmed via Crunchbase / CB Insights; total funding figures from PitchBook are not independently verified here."},
       {"team": "No Decaf Allowed", "type": "ACQUIRED", "by": "Moongoat Coffee Roasters", "year": 2022, "terms": "asset/subscriber transfer"}
     ],
     "notable_pivots": [
-      {"team": "First Step Diagnostics", "rebranded_to": "NeuroQure", "year": 2024, "note": "Now CLIA-certified ASD Insight autism test"},
-      {"team": "Wing", "rebranded_to": "Wing Assistant", "total_funding_usd_approx": 2100000, "note": "$2.1M seed in 2021, still operating in 2025-2026"}
+      {"team": "Wing", "rebranded_to": "Wing Assistant", "total_funding_usd_approx": 2100000, "note": "$2.1M seed in October 2021, still operating in 2025-2026"}
     ]
   }
 }

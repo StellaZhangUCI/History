@@ -122,8 +122,7 @@ For years where this archive currently records only the Grand Prize / overall wi
 
 A research-extension pass on 2026-05-10 covered 56 previously-unresearched track winners and added 18 confirmed-status entries to OUTCOMES.md. Highlights:
 
-- First Step Diagnostics PIVOTED to NeuroQure (CLIA-certified ASD Insight autism test, UCI patent acquired 2024)
-- No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022; third documented exit)
+- No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022; third documented major outcome)
 - Wing rebranded to Wing Assistant, $2.1M seed in 2021
 - Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision: all OPERATING
 

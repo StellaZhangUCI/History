@@ -4,6 +4,19 @@
 
 This file captures substantive changes to the archive. For per-commit detail, run `git log`.
 
+## 2026-05-11
+
+### Fixed (verification pass against cited sources)
+
+A systematic verification of high-stakes claims against their cited sources surfaced one fabricated connection by a research agent plus two minor data errors. All corrected:
+
+- **First Step Diagnostics -> NeuroQure: REMOVED.** The connection was unsupported. Verification (WebFetch of both ocbj.com and innovation.uci.edu sources) confirmed NeuroQure was independently founded by Dave Justus in 2023 based on Prof. John "Jay" Gargus's research at UCI's Center for Autism Research and Translation (CART), with no documented relationship to First Step Diagnostics. First Step's 2018 NVC team (Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson) is not mentioned in any NeuroQure source. The First Step Diagnostics outcome is now `NO_PUBLIC_OUTCOME_FOUND`. Affected files: OUTCOMES.md, data/outcomes.json, data/teams.json, TEAMS.md, years/2018.md, README.md (Where Are They Now? and Outcome distribution).
+- **LAS acquisition date precision relaxed**: was "2020-04-14"; OC Business Journal reported the news on 2020-04-14 but UCI Innovation announcement is dated 2020-04-29. Updated to "2020-04" with a date_note in data/outcomes.json.
+- **123 Baby Box investor name corrected**: "Sunstone Management" -> "Sunstone Fund" (the correct fund name per the Merage announcement). Investor list expanded to include the named angel investors (Mark Friedman, Demos Parneros, Sanjay Malhotra, Naren Parihar) from the Merage source.
+- **Outcome distribution table** in README updated: PIVOTED 4 -> 3, NO_PUBLIC_OUTCOME_FOUND 14 -> 15.
+- **Pattern summary** in OUTCOMES.md updated: "Three documented exits" -> "Three documented major outcomes" (acknowledging Mechanodontics/BRIUS is a rebrand, not an exit in the M&A sense); "Two real pivots" -> "One real pivot" (Wing -> Wing Assistant remains; First Step -> NeuroQure removed).
+- **Mechanodontics/BRIUS funding caveat added**: rebrand confirmed via Crunchbase + CB Insights; $46M total funding figure (per PitchBook) flagged as not-independently-verified.
+
 ## 2026-05-10
 
 ### Added (judging-panel research, third pass)

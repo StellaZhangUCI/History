@@ -45,7 +45,7 @@
     {"name": "Esqalate", "years": [2017], "top_award": "Track Award (Poverty Alleviation) 1st", "outcome": {"category": "DORMANT", "see": "OUTCOMES.md#2017"}},
 
     {"name": "Failsafe", "years": [2017], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
-    {"name": "First Step Diagnostics", "name_aliases": ["NeuroQure"], "years": [2018], "top_award": "Tech Surge 1st + Track Award (Life Sciences) 2nd", "outcome": {"category": "PIVOTED", "rebranded_to": "NeuroQure", "see": "OUTCOMES.md#2018"}},
+    {"name": "First Step Diagnostics", "years": [2018], "top_award": "Tech Surge 1st + Track Award (Life Sciences) 2nd", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2018"}},
     {"name": "Flare", "years": [2024], "top_award": "Track Award (Consumer Products) 1st", "outcome": null},
     {"name": "forMED Technologies", "years": [2022], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2022"}},
     {"name": "FunBand", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
@@ -73,7 +73,7 @@
     {"name": "Jam", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
     {"name": "Jiffal", "years": [2019], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
 
-    {"name": "Laser Associated Sciences", "name_aliases": ["LAS"], "years": [2013], "top_award": "Grand Prize", "outcome": {"category": "ACQUIRED", "acquirer": "Medtronic", "acquisition_date": "2020-04-14", "see": "OUTCOMES.md#pre-2017"}},
+    {"name": "Laser Associated Sciences", "name_aliases": ["LAS"], "years": [2013], "top_award": "Grand Prize", "outcome": {"category": "ACQUIRED", "acquirer": "Medtronic", "acquisition_date": "2020-04", "see": "OUTCOMES.md#pre-2017"}},
     {"name": "Leprendo", "years": [2023], "top_award": "Runner-Up", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2023"}},
     {"name": "Lynne", "years": [2024], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
 

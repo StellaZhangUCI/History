@@ -18,12 +18,12 @@ Each entry includes a confidence label: *confirmed* (multiple or authoritative s
 
 ## Pattern summary
 
-1. **Medical-device and life-sciences teams have the highest survival rate.** Long FDA timelines and grant pipelines keep even pre-revenue companies alive for years. The 2022 LS 2nd (Sayenza Biosciences, ~$1.16M raised) and the 2018 LS 2nd / Tech Surge 1st (First Step Diagnostics, pivoted to NeuroQure with UCI patent acquired 2024) reinforce this pattern.
-2. **Three documented exits in the archive:**
+1. **Medical-device and life-sciences teams have the highest survival rate.** Long FDA timelines and grant pipelines keep even pre-revenue companies alive for years. The 2022 LS 2nd (Sayenza Biosciences, clinical-stage adipose-tissue regenerative medicine) reinforces this pattern.
+2. **Three documented major outcomes in the archive:**
    - Laser Associated Sciences acquired by Medtronic (April 2020, terms undisclosed).
-   - Mechanodontics rebranded as BRIUS Technologies (~$46M total funding, commercial launch).
-   - No Decaf Allowed's subscription absorbed into Moongoat Coffee Roasters (December 2022). Smaller and asset-only rather than equity, but a real exit.
-3. **Two real pivots that became going concerns:** First Step Diagnostics -> NeuroQure (autism diagnostics) and Wing -> Wing Assistant (managed-VA service, $2.1M seed in 2021). Both still operating in 2025 to 2026.
+   - Mechanodontics rebranded as BRIUS Technologies (Carrollton, TX; commercial launch of Brava hidden-braces system in 2022). Rebrand confirmed via Crunchbase / CB Insights; total funding figures are sourced from PitchBook and not independently verified here.
+   - No Decaf Allowed's subscription absorbed into Moongoat Coffee Roasters (December 2022). Smaller and asset-only rather than equity, but a real outcome.
+3. **One real pivot that became a going concern:** Wing -> Wing Assistant (managed-VA service, $2.1M seed October 2021). Still operating in 2025 to 2026 per UCI Beall Innovation coverage.
 4. **Consumer-app and social-enterprise winners from 2018 to 2022 have largely gone dark**, but with notable exceptions: CarDana (2018 SE 2nd, operating); Wing / Wing Assistant; Nutripair (2022 BP 1st, $25K Verizon grant 2025); Omni Pet Club (2023 CP 2nd, retail distribution on Chewy / Walmart / Amazon).
 5. **Strongest non-medical operating company is 123 Baby Box** (Grand Prize 2020): raised $1.2M oversubscribed seed in 2023, reportedly 7-figure 2025 revenue, TechCrunch coverage.
 6. **The 2017 cohort aged poorly.** Of the four highest-profile teams, only Purist has a traceable forward trajectory.
@@ -90,9 +90,9 @@ Sources: [closedloopplastics.com](https://www.closedloopplastics.com/), [LB Busi
 A UCI undergrad team's online marketplace for underground artists 18 to 24. No Crunchbase, no surviving site, no LinkedIn company page traceable.
 Sources: [ANTrepreneur profile](http://antrepreneur.uci.edu/blog/startups/artem-nvc/)
 
-**First Step Diagnostics** (Life Sciences 2nd + Tech Surge 1st): PIVOTED. *Confidence: confirmed.*
-Evolved into **NeuroQure**, which launched in 2023 and acquired the underlying patent portfolio from UCI in 2024. Its CLIA-certified "ASD Insight" test is marketed as the first biological test for autism. A real pivot from infant behavioral-issue diagnostics into a focused autism-diagnostics product.
-Sources: [OC Business Journal](https://www.ocbj.com/healthcare/neuroqure-launches-first-biological-test-for-autism/), [UCI Innovation](https://innovation.uci.edu/news/neuroqure/)
+**First Step Diagnostics** (Life Sciences 2nd + Tech Surge 1st): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+The 2018 team (Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson) worked on early diagnosis of infant behavioral issues (3-week-old). No traceable follow-on commercial activity for this specific team.
+Note: an earlier draft of this archive incorrectly linked First Step Diagnostics to NeuroQure (a 2023 UCI-spinout autism-diagnostics company). Verification on 2026-05-11 confirmed that NeuroQure was independently founded by Dave Justus based on Prof. John "Jay" Gargus's research at UCI's Center for Autism Research and Translation (CART), with no documented relationship to First Step Diagnostics.
 
 **CarDana** (Social Enterprise 2nd): OPERATING. *Confidence: confirmed.*
 Transparent charitable vehicle-donation platform; site live at `cardana.co` with active KBB-based donation flow, partner / charity onboarding, and a 20% flat-fee model.
@@ -123,7 +123,7 @@ Sources: [stethngo.com](https://stethngo.com/)
 ## 2020
 
 **Baby Box / 123 Baby Box** (Grand Prize): OPERATING (strongest consumer outcome in the archive). *Confidence: confirmed.*
-Founder Zarina Bahadur. Raised a $1.2M oversubscribed seed in 2023 (XRC Ventures, Sunstone Management, Salt Lake City Angels, Crescent Fund). Reportedly hit 7-figure 2025 revenue per LinkedIn updates. Launched a 123 Book Box product line for toddlers. Featured in TechCrunch in 2023. Plans for 2026 expansion. 2 to 10 employees.
+Founder Zarina Bahadur. Raised a $1.2M oversubscribed round in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund, plus angel investors including Mark Friedman, Demos Parneros, Sanjay Malhotra, and Naren Parihar). Reportedly hit 7-figure 2025 revenue per LinkedIn updates. Launched a 123 Book Box product line for toddlers. Featured in TechCrunch in 2023. Plans for 2026 expansion. 2 to 10 employees.
 Sources: [Merage announcement](https://merage.uci.edu/news/2023/04/123-Baby-Box-raises-oversubscribed-round-of-1.2-million.html), [TechCrunch coverage](https://techcrunch.com/2023/03/13/123-baby-box-subscription-commerce/)
 
 **Bottle Built** (Audience Favorite): NO PUBLIC OUTCOME FOUND.

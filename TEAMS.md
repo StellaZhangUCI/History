@@ -66,7 +66,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 ## F
 
 - **Failsafe** ([2017](years/2017.md): CP 2nd). Natalie Sweis, Jasmine Yu, Issa Sweis.
-- **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson. *Pivoted to **NeuroQure** (launched 2023); CLIA-certified ASD Insight autism test; UCI patent acquired 2024.*
+- **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson. *No public outcome found. An earlier draft of this archive linked First Step Diagnostics to NeuroQure; verification on 2026-05-11 disconfirmed that connection (see OUTCOMES.md).*
 - **Flare** ([2024](years/2024.md): CP 1st). Not Listed.
 - **forMED Technologies** ([2022](years/2022.md): LS 1st). Aryan Agarwal, Ruben Shakya, Francis Aguas. *No public outcome found.*
 - **FunBand** ([2016](README.md#pre-2017-editions-20092016)). Rehema Feleke, Simon Loo, Cliff Wang. *Simon Loo returned to compete in 2017 with Element: B2B2C.*
@@ -104,7 +104,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 
 ## L
 
-- **Laser Associated Sciences (LAS)** ([2013](README.md#pre-2017-editions-20092016): GP). Sean White, Bruce Yang, Charlene Ong, Tyler Rice. *Acquired by Medtronic on 2020-04-14 (terms undisclosed). Cleanest documented exit in the archive.*
+- **Laser Associated Sciences (LAS)** ([2013](README.md#pre-2017-editions-20092016): GP). Sean White, Bruce Yang, Charlene Ong, Tyler Rice. *Acquired by Medtronic in April 2020 (terms undisclosed; OCBJ reported 2020-04-14, UCI Innovation announcement 2020-04-29). Cleanest documented exit in the archive.*
 - **Leprendo** ([2023](years/2023.md): RU, CS 1st). Dan Ta, Dylan Riffle, Kanu Chandra, Nina Nguyen. *Operating; leprendo.com live with active product catalog; reported $400K first-year sales.*
 - **Lynne** ([2024](years/2024.md): CP 2nd). Not Listed.
 
