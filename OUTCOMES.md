@@ -46,9 +46,9 @@ Sources: [FDA 510(k) K210450](https://www.accessdata.fda.gov/cdrh_docs/pdf21/K21
 Acquired by Medtronic on April 14, 2020 for undisclosed terms. Received FlowMet-R 510(k) FDA clearance in 2019. Founder/CEO Sean White now leads Medtronic's diagnostics & monitoring group in their peripheral and endovascular unit. The most cleanly documented exit in this archive.
 Sources: [UCI Innovation announcement](https://innovation.uci.edu/2020/04/medtronic-acquires-cove-tenant-laser-associated-sciences/), [OC Business Journal](https://www.ocbj.com/news/2020/apr/14/medtronic-buys-device-maker/)
 
-**iBesties** (2014 Grand Prize): PIVOTED, then likely DORMANT. *Confidence: confirmed pivot, likely dormant.*
-Rebranded as "Middle School Moguls" in 2016, hit Target shelves in fall 2016, and adapted into a 4-episode CG miniseries with Nickelodeon in 2019. No evidence of activity past 2021; current consumer-facing presence is minimal.
-Sources: [Dollect database](https://dollect.net/database/middle-school-moguls/), [The Mary Sue coverage](https://www.themarysue.com/ibesties/)
+**iBesties** (2014 Grand Prize): PIVOTED, then likely DORMANT. *Confidence: likely.*
+Rebranded as "Middle School Moguls" by 2016 (per research-agent claims of Target retail distribution and a Nickelodeon CG miniseries; the originally cited sources, dollect.net and themarysue.com, could not be independently fetched on 2026-05-11 to confirm those specific retail / TV claims). No evidence of activity past 2021; current consumer-facing presence is minimal. Founder Gina Heitkamp later returned to the NVC as a 2021 final-round judge.
+Sources: [Dollect database (not fetched 2026-05-11; HTTP 409)](https://dollect.net/database/middle-school-moguls/), [The Mary Sue 2015 coverage](https://www.themarysue.com/ibesties/)
 
 **EmbryLux** (2016 Grand Prize): NO PUBLIC OUTCOME FOUND. *Confidence: no findable commercial outcome.*
 The 2016 UCI design site (`embrylux.uci.design`) and a 2019 Rice Business Plan Competition appearance under the related name "Embryologic" exist, but there is no Crunchbase profile or current company site. The underlying FLIM-phasor IVF research was published in *Scientific Reports* (2019).
@@ -75,8 +75,8 @@ Sources: [UCI BCI faculty page](https://faculty.sites.uci.edu/ucibci/2017/03/29/
 ## 2018
 
 **Mechanodontics** (Life Sciences 1st): OPERATING (rebranded as BRIUS Technologies). *Confidence: confirmed; well-funded.*
-Now BRIUS Technologies (Carrollton, TX). Launched the Brava hidden-braces system commercially in 2022. Total funding around $46M per PitchBook, including a May 2025 round of approximately $19.45M led by View Ventures with Sonder Capital, Invus, SUM Ventures, and Tech Wildcatters. The strongest post-2017 outcome in the archive.
-Sources: [PitchBook profile](https://pitchbook.com/profiles/company/227480-59), [Orthodontic Products coverage](https://orthodonticproductsonline.com/treatment-products/brackets-wires/wires/brius-technologies-releases-alternative-braces-aligners-brava/)
+Now BRIUS Technologies (Carrollton, TX). Launched the Brava hidden-braces system commercially on June 30, 2022. Series B announced May 6, 2025: $19.5M led by View Ventures with Sonder Capital, Invus, SUM Ventures, and Tech Wildcatters. Total funding approximately $46.2M to date per Tracxn / Fundz / MergerLinks. The strongest post-2017 outcome in the archive.
+Sources: [BRIUS Series B announcement (bravabraces.com)](https://bravabraces.com/brius-technologies-raises-19-point-5-million-in-initial-closing-of-series-b-financing/), [Crunchbase profile](https://www.crunchbase.com/organization/mechanodontics-inc), [Orthodontic Products coverage](https://orthodonticproductsonline.com/treatment-products/brackets-wires/wires/brius-technologies-releases-alternative-braces-aligners-brava/)
 
 **Apeel Juice** (Social Enterprise 1st): NO PUBLIC OUTCOME FOUND.
 Founder Keene Do's juice startup has no traceable commercial presence post-2018. Not to be confused with Apeel Sciences (Santa Barbara coatings company), which is unrelated.
@@ -145,7 +145,7 @@ Sources: [nodecafallowed.com](https://nodecafallowed.com/)
 ## 2021
 
 **Shaka** (Grand Prize): OPERATING. *Confidence: confirmed.*
-Now Shaka Culture Inc., HQ in Kansas City, MO. Raised approximately $120K (Techstars, InnoVenture Iowa, ISA Ventures, UCI Merage). Microsoft Teams integration certified. PitchBook profile current as of 2025. Note: `joinshaka.com` refused connection during research, a possible recent infrastructure issue, but no evidence of shutdown.
+Now Shaka Culture Inc., HQ in Kansas City, MO. Won a **total of $17,500** at the 2021 NVC (per Merage's announcement; the archive's "Undisclosed" entries for Shaka's Grand Prize and Business Products 1st reflect that the press release reported a combined total rather than an itemized breakdown). Joined Techstars Anywhere January 2022 class. Microsoft Teams integration certified. PitchBook profile current as of 2025. Note: `joinshaka.com` refused connection during research, a possible recent infrastructure issue, but no evidence of shutdown.
 Sources: [PitchBook profile](https://pitchbook.com/profiles/company/494991-55), [Microsoft Teams certification](https://learn.microsoft.com/en-us/microsoft-365-app-certification/teams/shaka-culture-inc)
 
 **Circular** (Social Enterprise 1st): NO PUBLIC OUTCOME FOUND. *Confidence: likely defunct.*
@@ -201,8 +201,8 @@ Sources: [Founder LinkedIn](https://www.linkedin.com/in/fiza-qureshi/), [Busines
 Sources: [leprendo.com](https://leprendo.com/), [Sunstone profile](https://www.sunstoneinvestment.com/news/the-next-step-online-marketplace-for-artisan-foods-gets-boost-from-stella-zhang-competition/)
 
 **Hyperion Therapeutics** (Life Sciences 1st): OPERATING. *Confidence: confirmed.*
-`hyperioneye.com` is active. Newport Beach, CA. Founders Krzysztof Palczewski and Jennings Luu (UCI Center for Translational Vision Research). Seed-stage biopharmaceutical with a pipeline of SP3, SP4, and SP5 small-molecule SREDs in late preclinical. Won the 2023 Case Western Morganthaler-Pavey first-place prize alongside the UCI award. Crunchbase profile current.
-Sources: [hyperioneye.com](https://www.hyperioneye.com/company), [PitchBook profile](https://pitchbook.com/profiles/company/51327-37)
+`hyperioneye.com` is active. Founders Jennings Luu (MD/PhD, Founder/CEO; Case Western Reserve) and Kris (Krzysztof) Palczewski (Co-Founder, Chairman; UCI Center for Translational Vision Research). Seed-stage biopharmaceutical; received a $100,000 Proof-of-Product grant from UCI Beall Applied Innovation in 2023. Also won the 2023 Case Western Morganthaler-Pavey first-place prize alongside the UCI award. **Note:** the original 2023 NVC archive entry listed the founder as "Timothy Luu"; verification on 2026-05-11 against multiple sources confirms the correct name is **Jennings Luu**. Per-year and structured data updated accordingly.
+Sources: [hyperioneye.com](https://www.hyperioneye.com/company), [Irvine Standard 2025](https://www.irvinestandard.com/2025/health-care-boom/), [PitchBook profile](https://pitchbook.com/profiles/company/51327-37)
 
 **Shower Power** (Social Enterprise 1st): NO PUBLIC OUTCOME FOUND.
 A 2023 NVC finalist with no incorporated company, no traceable site, and no follow-on funding.

@@ -6,6 +6,17 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (second verification pass: Hyperion, Sayenza, eLysis, BRIUS, iBesties)
+
+Additional verification surfaced more corrections plus genuine new data:
+
+- **Hyperion Therapeutics: "Timothy Luu" -> "Jennings Luu"**. The 2023 archive listed "Timothy Luu" as a founder, but the company's own website (hyperioneye.com), Irvine Standard 2025 coverage, and multiple search results confirm the correct name is **Jennings Luu** (MD/PhD, Founder/CEO, Case Western Reserve). The Krzysztof / Kris Palczewski entry is unchanged. Updated in years/2023.md, data/nvc.json, OUTCOMES.md, and TEAMS.md.
+- **Sayenza Biosciences roster expanded**: original archive listed only "Dr. Derek Banyard"; UCI Samueli source confirms co-founders Jered Haun and Alan Widgerow (both UCI professors). Updated in data/nvc.json and years/2022.md.
+- **ELF Therapeutics / eLysis Inc. "Not Listed" roster filled**: UCI Beall Applied Innovation source confirms four co-founders: Joon You (CTO / interim CEO), Dr. Brian Wong (facial plastic surgeon), Michael Hill PhD (Occidental College chemistry professor), Dr. Steve Yoelin (ophthalmologist). Note added that "ELF Therapeutics" is the NVC team name while the corporate entity is eLysis Inc. Updated in data/nvc.json and years/2019.md.
+- **BRIUS Series B precision**: "$19.45M" -> "$19.5M" (per actual BRIUS press release dated 2025-05-06 led by View Ventures). Total funding $46.2M confirmed via Tracxn / Fundz / MergerLinks (no longer "per PitchBook" alone).
+- **Shaka prize amount**: Merage source confirms "$17,500 total" at 2021 NVC. Noted in OUTCOMES.md as a clarification on the "Undisclosed" entries for Shaka's GP + BP 1st (the source reports a combined total, not an itemized breakdown).
+- **iBesties Target / Nickelodeon claims softened**: the originally cited dollect.net source returned HTTP 409 (couldn't fetch on 2026-05-11) and themarysue.com is dated 2015 (pre-rebrand). The rebrand to Middle School Moguls remains supported by multiple search results, but the specific Target-retail and Nickelodeon-miniseries claims are now flagged as "per research-agent claims, could not be independently fetched."
+
 ### Fixed (verification pass against cited sources)
 
 A systematic verification of high-stakes claims against their cited sources surfaced one fabricated connection by a research agent plus two minor data errors. All corrected:

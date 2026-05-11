@@ -89,7 +89,7 @@ Last updated: 2026-05-10. Total teams indexed: 112.
 - **Help Belt** ([2023](years/2023.md): CP 1st). Not Listed.
 - **Hydroflow** ([2021](years/2021.md): CP 2nd). Not Listed.
 - **HydroVasc** ([2021](years/2021.md): LS 2nd). Not Listed.
-- **Hyperion Therapeutics** ([2023](years/2023.md): LS 1st). Timothy Luu, Krzysztof Palczewski. *Operating; hyperioneye.com active; seed-stage biopharmaceutical with SP3/SP4/SP5 small-molecule pipeline in late preclinical.*
+- **Hyperion Therapeutics** ([2023](years/2023.md): LS 1st). Jennings Luu, Krzysztof Palczewski. *Operating; hyperioneye.com active; seed-stage biopharmaceutical; received $100K Proof-of-Product grant from UCI Beall Applied Innovation in 2023.*
 
 ## I
 

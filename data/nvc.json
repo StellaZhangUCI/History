@@ -460,7 +460,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Therapeutic agents for treating early-stage retinal diseases (AMD, DR).",
-          "members": ["Timothy Luu", "Krzysztof Palczewski"]
+          "members": ["Jennings Luu", "Krzysztof Palczewski"]
         },
         {
           "category": "Track Award (Life Sciences)",
@@ -562,7 +562,7 @@
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
           "project": "Automated platform for processing liposuction fat for regenerative medicine.",
-          "members": ["Dr. Derek Banyard"]
+          "members": ["Dr. Derek Banyard (CEO)", "Jered Haun (UCI professor co-founder)", "Alan Widgerow (UCI professor co-founder)"]
         },
         {
           "category": "Track Award (Business Products)",
@@ -897,7 +897,8 @@
           "prize_text": "Funded",
           "prize_amount_usd": null,
           "project": "Handheld device using electrochemical reaction to destroy fat cells.",
-          "members": []
+          "members": ["Joon You (CTO / interim CEO)", "Dr. Brian Wong (facial plastic surgeon)", "Michael Hill, PhD (chemistry professor, Occidental College)", "Dr. Steve Yoelin (ophthalmologist)"],
+          "members_note": "ELF Therapeutics was the NVC team name; the corporate entity is eLysis Inc. Roster confirmed via UCI Beall Applied Innovation profile (innovation.uci.edu/news/elysis-...)."
         },
         {
           "category": "Tech Surge (Technology)",
@@ -987,7 +988,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Handheld device using electrochemical reaction to destroy fat cells.",
-          "members": [],
+          "members": ["Joon You (CTO / interim CEO)", "Dr. Brian Wong (facial plastic surgeon)", "Michael Hill, PhD (chemistry professor, Occidental College)", "Dr. Steve Yoelin (ophthalmologist)"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Tech Surge (Technology)", "place": "1st"}
         },
