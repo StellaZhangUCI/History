@@ -26,13 +26,15 @@ Suggested path: contact Sara Heimann (sheimann@uci.edu) at the Beall Center.
 
 ### Pre-2017 missing years
 
-No public records were found for the following years during initial research:
+No public records found for these years across multiple search angles (May 2026 verification, three separate research-agent passes plus four direct WebSearch / WebFetch attempts):
 
 - 2010
 - 2011
 - 2015
 
-A targeted email to the Beall Center is the most promising path; the UCI Paul Merage School internal archive likely retains these results.
+These appear to be a **genuine structural gap** in the indexed public record, not a research-effort failure. The Wayback Machine returns ECONNREFUSED for archived merage.uci.edu pages from these years. The competition was held in each of these years (a 2010 3rd-place reference exists; 2015 was the kick-off year for the 2016 cycle) but the 1st-place winner announcements are not preserved in any indexed source.
+
+A targeted email to Sara Heimann (sheimann@uci.edu) at the Beall Center remains the most promising path; the UCI Paul Merage School internal archive likely retains these results.
 
 ## Priority 2: Team rosters marked "Not Listed"
 

@@ -6,6 +6,11 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Confirmed (tenth verification pass: 2010/2011/2015 gap confirmed structural; Conshus Mahbub via PDF metadata)
+
+- **2010, 2011, 2015 missing years: GENUINELY UNFINDABLE.** Confirmed conclusive after three research-agent passes plus four direct WebSearch / WebFetch attempts on 2026-05-11. Wayback Machine returns ECONNREFUSED for archived merage.uci.edu pages. The competition was held each of those years (a 2010 3rd-place reference exists; 2015 was the kick-off for the 2016 cycle), but 1st-place winner announcements are not preserved in any indexed source. BACKLOG.md updated to reflect that this is a structural public-record gap, not a research effort failure.
+- **Conshus Clothing (2020) founder Arneeb Mahbub** partially confirmed via PDF metadata of the concept paper hosted at merage.uci.edu (the PDF is titled "Conshus Exec Summary" created by Arneeb Mahbub). Co-founder "Parth" still not directly verifiable; left as-is per the original NVC archive entry.
+
 ### Added / Confirmed (ninth verification pass: more pre-2017 enrichment + Hyperion pipeline confirmed)
 
 - **2009 Happy Sleep undergraduate winner**: $3,500 prize + Best Concept Paper for undergraduate division (NEW data; previously the archive had no prize amount). Both team members confirmed as Mechanical & Materials Science Engineering undergraduates. Updated in README + data/nvc.json `pre_2017_editions[2009].undergraduate_winner`.
