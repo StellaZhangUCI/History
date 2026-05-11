@@ -6,6 +6,13 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (eighth verification pass: pre-2017 team rosters)
+
+- **Prescient Imaging (2012) founder dynamics clarified**. Merage source confirms Farhad Daghighian as Co-Founder and CEO (founded Prescient Imaging in 2008, four years before the NVC win). Ariel Beroukhim's role clarified: she originally developed the business model "for a class project," then joined Daghighian's NVC team. She is not described as a co-founder in the source. Updated in README's Pre-2017 Editions table and data/nvc.json.
+- **EmbryLux (2016) verified**: team members confirmed (Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran) per news.uci.edu source. Awards confirmed: Life Sciences/CleanTech 1st ($10K) + UCI IP Award ($10K) = $20K total.
+- **iBesties (2014) source returned 403**; couldn't re-verify in this pass (sources from previous pass already established the basics).
+- **2010, 2011, 2015 missing winners** still not findable. The 2010 Don Beall Center awarded a 3rd-place prize at the 2010 competition per one search result, but the 1st-place winner for that year is not in any indexed source. **Confirmed structural gap** in the public record - not an archive failure.
+
 ### Fixed (seventh verification pass: REMSYS recategorization, 2013 NVC expansion, CarDana caveat)
 
 - **REMSYS recategorized DORMANT -> OPERATING (BETA).** Verification on 2026-05-11 finds `remsys.app` in active BETA development as REMSYS LLC (©2024), offering AI resume tailoring, generative AI cover-letter creation, and AI-powered mock interviews. Earlier draft's "DORMANT" assessment was based on "no marketing activity past 2021" but the platform itself is active.
