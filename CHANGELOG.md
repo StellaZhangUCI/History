@@ -4,6 +4,20 @@
 
 This file captures substantive changes to the archive. For per-commit detail, run `git log`.
 
+## Coverage at a glance (current, 2026-05-11)
+
+| Aspect                          | Status                                                                                          |
+|---------------------------------|-------------------------------------------------------------------------------------------------|
+| Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
+| Total teams indexed             | 112                                                                                             |
+| Outcomes researched             | 54 teams                                                                                        |
+| Outcome distribution            | 29 OPERATING / 15 NO_PUBLIC_OUTCOME_FOUND / 3 DORMANT / 3 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
+| Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
+| Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
+| Notable pivot to going concern  | Wing to Wing Assistant ($2.1M seed Oct 2021)                                                    |
+| Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
+| Verification audit              | 14 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed |
+
 ## 2026-05-11
 
 ### Fixed (fourteenth verification pass: more propagation cleanup)
@@ -250,7 +264,9 @@ A systematic verification of high-stakes claims against their cited sources surf
 
 ## Coverage at a glance
 
-| Aspect                          | Status                                       |
+**Snapshot at initial archive build (2026-05-09); see top-of-file "Coverage at a glance (current)" for the post-audit state.**
+
+| Aspect                          | Status (2026-05-09 snapshot)                 |
 |---------------------------------|----------------------------------------------|
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 placeholder)  |
 | Total teams indexed             | 112                                          |
