@@ -120,26 +120,24 @@ For years where this archive currently records only the Grand Prize / overall wi
 - **2014:** tracks beyond iBesties
 - **2016:** track placements among the 10 other named finalists (members are now confirmed for all 10; placements within the Life Sciences / CleanTech / IP Award structure are still missing)
 
-## Priority 5: Outcome research (extending OUTCOMES.md) - partially addressed 2026-05-10
+## Priority 5: Outcome research (extending OUTCOMES.md) - substantially completed 2026-05-12
 
-A research-extension pass on 2026-05-10 covered 56 previously-unresearched track winners and added 18 confirmed-status entries to OUTCOMES.md. Highlights:
+Two outcomes-research passes (2026-05-09 and 2026-05-10) attempted **91 of 117 teams** in the archive. All teams flagged as "still unresearched" in earlier versions of this BACKLOG have now been research-attempted; their NO_PUBLIC_OUTCOME_FOUND results were propagated into [`data/outcomes.json`](data/outcomes.json) in the 23rd verification pass (2026-05-12).
+
+**Notable confirmed outcomes** (highlighted from earlier passes):
 
 - No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022; third documented major outcome)
 - Wing rebranded to Wing Assistant, $2.1M seed in 2021
 - Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision: all OPERATING
 
-**Still unresearched (remaining gaps, mostly consumer / social-enterprise teams 2018-2024):**
+**Remaining 26 unresearched teams** (mostly 2026 semi-finalists and pre-2017 sub-winners):
 
-- 2018: Celebrate in a Snap, SolarLab, Gimme, Graduate Data
-- 2019: P-FLAPs, giv, UniSafe, Jiffal, myHealth Today, Curbd, SwappIt, Embryologic (all came up empty in the second pass but may yield to deeper search)
-- 2020: Voltek, Prophet Modeling, Ardha Health, Instinct, CannTek
-- 2021: MONI, Health Libero, Hydroflow, MoodCloud, HydroVasc, Tooke Fabrics
-- 2022: EmpowerMi, HAI, GaleGauge
-- 2023: Helios, Orii.AI, Help Belt, ChewRank
-- 2024: BagIt, Flare, Lynne, PZ Nanopure
-- 2025: TransMobile VR, NūCo, MinuTax, CleanHydro
+- 2026 semi-finalists: AegleBio, Billify, NeuroBoost (plus Grad2Go, already researched)
+- Pre-2017 sub-winners: 2013 ValveStrong, NoreGen, Nobles Medical Technology, MEGAL!NE, Bloom Diagnostics; 2009 Happy Sleep undergraduate winner
+- 2016 finalist roster members from teams without prize-placement detail
+- 2017 / 2018 track winners not yet researched (Venom-Aid, Salux Diagnostics, Failsafe, Memorlane, Eater Zone, Element: B2B2C, COMPAS, First Step Diagnostics if reclassified, CarDana already done)
 
-The pattern from two outcomes-research passes: most of these consumer / social-enterprise teams from 2019-2022 simply produced no public footprint after the competition. A third research pass on this list will yield diminishing returns.
+Pattern from two outcomes-research passes: most consumer / social-enterprise teams from 2019-2022 simply produced no public footprint after the competition. The 52 NO_PUBLIC_OUTCOME_FOUND entries in data/outcomes.json document this exhaustively. A third research pass on these teams is unlikely to surface new findings unless access to the password-protected NVC PDF reports becomes available.
 
 ## Priority 6: Confirming ambiguous items
 

@@ -20,6 +20,14 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (twenty-fourth verification pass: propagate NO_FOUND entries from outcomes.json to teams.json + BACKLOG)
+
+After adding 37 NO_FOUND entries to data/outcomes.json in the previous pass, the corresponding teams.json entries still had outcome=null. Programmatic cross-file check identified all 37 inconsistencies. All now updated:
+
+- **37 teams.json `outcome` fields** populated with `{category: "NO_PUBLIC_OUTCOME_FOUND", see: "OUTCOMES.md#<year>", note: "Researched 2026-05-10; no public outcome found"}`. Affected teams: Ardha Health, BagIt, CannTek, Celebrate in a Snap, ChewRank, CleanHydro, Curbd / SwappIt, Embryologic, EmpowerMi, Flare, GaleGauge, Gimme, giv, Graduate Data, HAI, Health Libero, Helios, Help Belt, Hydroflow, HydroVasc, Instinct, Jiffal, Lynne, MinuTax, MONI, MoodCloud, myHealth Today, NūCo, Orii.AI, P-FLAPs, Prophet Modeling, PZ Nanopure, SolarLab, Tooke Fabrics, TransMobile VR, UniSafe, Voltek.
+- **teams.json compact format restored**: the propagation script used JSON.stringify with pretty-printing which expanded each team from one-line to multi-line. A custom serializer in `scratch/recompact_teams.js` restored the original one-line-per-team format for clean diffs.
+- **BACKLOG.md Priority 5 reframed from "partially addressed" to "substantially completed"**. The list of 37 "still unresearched" teams was outdated since all those teams are now in data/outcomes.json with NO_FOUND status. New text shows the actual remaining 26 unresearched teams (mostly 2026 semi-finalists, pre-2017 sub-winners, and a few 2017-2018 track winners not in either pass).
+
 ### Added (twenty-third verification pass: 37 NO_PUBLIC_OUTCOME_FOUND entries propagated to data/outcomes.json)
 
 The second outcomes-research pass (2026-05-10) attempted 56 previously-unresearched track winners; 18 yielded confirmed-status outcomes and were added to data/outcomes.json at the time. The remaining ~38 came up with no findable outcome but were never recorded as research-attempts, leading the BACKLOG to list them as "not yet researched."
