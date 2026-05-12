@@ -22,7 +22,7 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 
 ## B
 
-- **Baby Box / 123 Baby Box** ([2020](years/2020.md): GP, CP 1st). Zarina Bahadur (MIE '20). *Operating; ~$1.2M oversubscribed seed (2023); reportedly 7-figure 2025 revenue. Strongest non-medical operating company in the archive.*
+- **Baby Box / 123 Baby Box** ([2020](years/2020.md): GP, CP 1st). Zarina Bahadur (MIE '20). *Operating; ~$1.2M oversubscribed round (2023; round stage not specified by TechCrunch). 245% growth, tripled revenue, 5x MRR (2021 baseline), target $100K MRR / $1M ARR. Strongest non-medical operating company in the archive.*
 - **BagIt** ([2024](years/2024.md): BP 2nd). Not Listed.
 - **Billify** ([2026](years/2026.md): semi-finalist). Not Listed.
 - **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). Hamoon Shishechian, Parham Mansor Safain, Kendyll Trenary. *Operating; bafoodtech.com live; pre-revenue / early.*
@@ -111,7 +111,7 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 ## M
 
 - **Maslow Construction Robots** ([2016](README.md#pre-2017-editions-20092016)). Andy Truong.
-- **Mechanodontics** ([2018](years/2018.md): LS 1st). Zahra Mamaghani, Mahdi Tehrani, Mehdi Peikar, Ishita, James Wratten. *Operating as BRIUS Technologies (Carrollton, TX); ~$46M total funding per PitchBook; commercial launch of Brava hidden-braces system in 2022.*
+- **Mechanodontics** ([2018](years/2018.md): LS 1st). Zahra Mamaghani, Mahdi Tehrani, Mehdi Peikar, Ishita, James Wratten. *Operating as BRIUS Technologies (Carrollton, TX); rebrand confirmed via Crunchbase / CB Insights; $46.2M total funding per Tracxn / Fundz / MergerLinks; Series B $19.5M led by View Ventures (May 2025); Brava commercial launch June 30, 2022.*
 - **Memorlane** ([2017](years/2017.md): CS 1st). Evan Schein, Yocelyn Recinos.
 - **MinuTax** ([2025](years/2025.md): CS 2nd). Not Listed.
 - **MONI** ([2021](years/2021.md): AF, CP 1st). Not Listed.

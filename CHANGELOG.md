@@ -6,6 +6,16 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (fourteenth verification pass: more propagation cleanup)
+
+Three more stale references found and corrected:
+
+- **123 Baby Box "7-figure 2025 revenue"** STILL present in years/2020.md, TEAMS.md, and data/outcomes.json after the previous passes only updated OUTCOMES.md and README. Now cleaned up across all locations.
+- **BRIUS funding precision $19.45M -> $19.5M and $46M -> $46.2M (Tracxn/Fundz/MergerLinks)** STILL present in data/outcomes.json BRIUS summary, TEAMS.md Mechanodontics entry, and years/2018.md after the previous pass only updated OUTCOMES.md. Now propagated.
+- **123 Baby Box "seed" stage** unverified by TechCrunch source (which doesn't specify round stage); Merage source title says "oversubscribed round of $1.2 million." Changed "seed" -> "round" in OUTCOMES.md pattern summary point #5, README "Where Are They Now?", and TEAMS.md.
+
+Four consecutive consistency-audit passes (11th + 12th + 13th + 14th) have each caught propagation failures. This empirically confirms that single-round corrections do not automatically propagate across all referencing locations; explicit consistency sweeps catch the leftover staleness reliably.
+
 ### Fixed (thirteenth verification pass: stale references in pattern summaries)
 
 The pattern summaries at the top of OUTCOMES.md and the "Where Are They Now?" section in README still contained stale references from before earlier corrections:
