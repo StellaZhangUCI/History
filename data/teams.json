@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-11",
+  "last_updated": "2026-05-12",
   "comment": "Slim by-team index. Authoritative members + project + prize data live in data/nvc.json; full outcome detail lives in data/outcomes.json. This file is a quick lookup keyed by team name.",
   "teams": [
     {"name": "AegleBio", "years": [2026], "top_award": "Semi-finalist", "outcome": null},
@@ -145,7 +145,7 @@
   ],
   "stats": {
     "total_unique_teams": 117,
-    "teams_with_outcome_researched": 54,
+    "teams_with_outcome_researched": 91,
     "teams_appearing_in_multiple_years": 1,
     "teams_appearing_in_multiple_years_list": ["Grad2Go (2025, 2026)"]
   }

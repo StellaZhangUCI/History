@@ -105,18 +105,18 @@ Founders who appeared on two finalist teams in the **same** year:
 
 ### Outcome distribution (researched teams)
 
-Of the **54 teams researched** as of 2026-05-11 (out of 112 total in the archive):
+Of the **91 teams researched** as of 2026-05-12 (out of 117 total in the archive):
 
 | Outcome category          | Count | % of researched |
 |---------------------------|-------|-----------------|
-| OPERATING                 | 30    | 55.6%           |
-| NO PUBLIC OUTCOME FOUND   | 15    | 27.8%           |
-| DORMANT                   | 3     | 5.6%            |
-| PIVOTED                   | 3     | 5.6%            |
-| ACQUIRED                  | 2     | 3.7%            |
-| SHUT DOWN                 | 1     | 1.9%            |
+| NO PUBLIC OUTCOME FOUND   | 52    | 57.1%           |
+| OPERATING                 | 30    | 33.0%           |
+| PIVOTED                   | 3     | 3.3%            |
+| DORMANT                   | 3     | 3.3%            |
+| ACQUIRED                  | 2     | 2.2%            |
+| SHUT DOWN                 | 1     | 1.1%            |
 
-About half of researched teams are still operating in some form; about a quarter produced no traceable post-competition footprint. The remaining 58 teams have not yet been researched; see [`BACKLOG.md`](BACKLOG.md) Priority 5 for the list. The pattern across two outcomes-research passes: medical / life-sciences teams survive at the highest rate (long FDA timelines keep them alive); consumer apps and social-enterprise winners from 2018 to 2022 disproportionately produced no findable outcome.
+Now that the second-pass NO_PUBLIC_OUTCOME_FOUND results are recorded, the dominant outcome category is "no findable public outcome" (57%): consumer apps and social-enterprise winners from 2018 to 2022 disproportionately produce no traceable post-competition footprint. Of the teams that DO have findable outcomes, the majority (30 of 39) are still operating in some form, with the highest survival rate in medical / life-sciences tracks (long FDA timelines keep even pre-revenue companies alive). The remaining 26 teams in the archive (mostly 2026 semi-finalists and pre-2017 sub-winners) have not yet been outcome-researched.
 
 ### How prizes have shifted over time
 
@@ -236,7 +236,7 @@ Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Elemen
 
 ## Where Are They Now?
 
-A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-11, **54 of 117 teams** in the archive have been researched (the 5 2013 sub-winners added in the 17th audit pass have not been researched for outcomes). Quick highlights:
+A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-12, **91 of 117 teams** in the archive have been researched (the 37 NO_PUBLIC_OUTCOME_FOUND entries added in the 23rd audit pass cover teams whose second-pass research returned negative findings). Quick highlights:
 
 - **Three documented major outcomes:**
   - Laser Associated Sciences (2013 GP) acquired by **Medtronic**, April 2020 (terms undisclosed).

@@ -10,8 +10,8 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 |---------------------------------|-------------------------------------------------------------------------------------------------|
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
 | Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
-| Outcomes researched             | 54 teams                                                                                        |
-| Outcome distribution            | 30 OPERATING / 15 NO_PUBLIC_OUTCOME_FOUND / 3 DORMANT / 3 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
+| Outcomes researched             | 91 teams                                                                                        |
+| Outcome distribution            | 52 NO_PUBLIC_OUTCOME_FOUND / 30 OPERATING / 3 PIVOTED / 3 DORMANT / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
 | Notable pivot to going concern  | Wing to Wing Assistant ($2.1M seed Oct 2021)                                                    |
@@ -19,6 +19,33 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Verification audit              | 14 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed |
 
 ## 2026-05-11
+
+### Added (twenty-third verification pass: 37 NO_PUBLIC_OUTCOME_FOUND entries propagated to data/outcomes.json)
+
+The second outcomes-research pass (2026-05-10) attempted 56 previously-unresearched track winners; 18 yielded confirmed-status outcomes and were added to data/outcomes.json at the time. The remaining ~38 came up with no findable outcome but were never recorded as research-attempts, leading the BACKLOG to list them as "not yet researched."
+
+This pass propagates those NO_PUBLIC_OUTCOME_FOUND entries to data/outcomes.json with brief summaries, year-specific source URLs to the original NVC announcement, and a confidence label of "researched 2026-05-10; no findable outcome."
+
+37 new entries added (Curbd and SwappIt treated as one tied-row entry per archive convention):
+
+- 2018 (4): Celebrate in a Snap, SolarLab, Gimme, Graduate Data
+- 2019 (7): P-FLAPs, giv, UniSafe, Jiffal, myHealth Today, Curbd / SwappIt, Embryologic
+- 2020 (5): Voltek, Prophet Modeling, Ardha Health, Instinct, CannTek
+- 2021 (6): MONI, Health Libero, Hydroflow, MoodCloud, HydroVasc, Tooke Fabrics
+- 2022 (3): EmpowerMi, HAI, GaleGauge
+- 2023 (4): Helios, Orii.AI, Help Belt, ChewRank
+- 2024 (4): BagIt, Flare, Lynne, PZ Nanopure
+- 2025 (4): TransMobile VR, NūCo, MinuTax, CleanHydro
+
+Propagated to derived figures:
+
+- data/outcomes.json `summary_stats.teams_researched`: 54 -> 91; `by_category.NO_PUBLIC_OUTCOME_FOUND`: 15 -> 52.
+- data/teams.json `stats.teams_with_outcome_researched`: 54 -> 91. `last_updated`: 2026-05-11 -> 2026-05-12.
+- README "Where Are They Now?" teaser: "54 of 117" -> "91 of 117"; date 2026-05-11 -> 2026-05-12.
+- README Outcome distribution table: 6-row distribution refreshed; NO_PUBLIC_OUTCOME_FOUND now the dominant category at 57.1% (was 27.8%). Pattern narrative rewritten to reflect this shift.
+- CHANGELOG "Coverage at a glance (current)": outcomes-researched 54 -> 91; distribution refreshed.
+
+Also fixed one stale propagation: LAS summary in data/outcomes.json still said "Acquired by Medtronic on April 14, 2020" even though the structured `acquisition_date` was updated to "2020-04" with a date_note. Summary now matches.
 
 ### Fixed (twenty-second verification pass: BACKLOG.md cleanup)
 
