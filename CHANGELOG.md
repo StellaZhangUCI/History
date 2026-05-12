@@ -20,6 +20,19 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (twenty-first verification pass: URL validity, sponsor consistency, Happy Sleep prize)
+
+Ran 5 more programmatic checks: URL well-formedness, Pre-2017 README/JSON team-name consistency, TOC anchors, sponsor list cross-file, Happy Sleep teams.json prize info.
+
+Real issues caught:
+- **"Emanuel Shaoulian MD" -> "Emanuel Shaoulian, MD"**: nvc.json `competition.sponsors` had the form without comma; SPONSORS-AND-JUDGES.md has the comma form ("Emanuel Shaoulian, MD"). Standardized to the comma form in nvc.json so cross-file substring search finds the match.
+- **Happy Sleep prize info in teams.json**: had "Undergraduate division winner" but the 9th pass added "$3,500 + Best Concept Paper" to nvc.json. Now propagated to teams.json `top_award` field.
+
+Clean from these checks:
+- URLs are all well-formed http(s):// across outcomes.json and naming_gift.sources.
+- All 4 Pre-2017 named teams (ZeroWatt, Prescient, LAS, iBesties, EmbryLux) are present in the README Pre-2017 table.
+- TOC anchor "Sources & Notes -> #sources--notes" was a false positive (GitHub's anchor rules produce double-dash for `&` between spaces; my slug logic was correct but the comparison logic had an edge case).
+
 ### Fixed (twentieth verification pass: members consistency between md and JSON)
 
 Programmatic check on members and prize_text consistency between years/*.md tables and data/nvc.json. Found 1 real issue and 4 false positives (check-script artifacts):
