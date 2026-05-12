@@ -130,12 +130,17 @@ Two outcomes-research passes (2026-05-09 and 2026-05-10) attempted **91 of 117 t
 - Wing rebranded to Wing Assistant, $2.1M seed in 2021
 - Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision: all OPERATING
 
-**Remaining 26 unresearched teams** (mostly 2026 semi-finalists and pre-2017 sub-winners):
+**Remaining 26 unresearched teams** (precise list from programmatic cross-check on 2026-05-12):
 
-- 2026 semi-finalists: AegleBio, Billify, NeuroBoost (plus Grad2Go, already researched)
-- Pre-2017 sub-winners: 2013 ValveStrong, NoreGen, Nobles Medical Technology, MEGAL!NE, Bloom Diagnostics; 2009 Happy Sleep undergraduate winner
-- 2016 finalist roster members from teams without prize-placement detail
-- 2017 / 2018 track winners not yet researched (Venom-Aid, Salux Diagnostics, Failsafe, Memorlane, Eater Zone, Element: B2B2C, COMPAS, First Step Diagnostics if reclassified, CarDana already done)
+- **2026 semi-finalists (3)** (will be researched after the May 21, 2026 Grand Finale):
+  - AegleBio, Billify, NeuroBoost
+- **2017 track winners (7)**:
+  - Venom-Aid (LS 1st), Salux Diagnostics (LS 2nd), Failsafe (CP 2nd), Memorlane (CS 1st), Eater Zone (CS 2nd), Element: B2B2C (BP 1st), COMPAS (BP 2nd)
+- **2013 sub-winners (5)**:
+  - ValveStrong (Campus Wide 2nd), NoreGen (Campus Wide 3rd), Nobles Medical Technology (Undergrad), MEGAL!NE (TechPortal Calit2 Award), Bloom Diagnostics (UCI Environment Institute Award)
+- **2016 finalists (10)** (track placements unknown):
+  - CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots
+- **2009 (1)**: Happy Sleep (undergraduate division winner)
 
 Pattern from two outcomes-research passes: most consumer / social-enterprise teams from 2019-2022 simply produced no public footprint after the competition. The 52 NO_PUBLIC_OUTCOME_FOUND entries in data/outcomes.json document this exhaustively. A third research pass on these teams is unlikely to surface new findings unless access to the password-protected NVC PDF reports becomes available.
 

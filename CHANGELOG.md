@@ -20,6 +20,18 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (twenty-fifth verification pass: precise unresearched-team list)
+
+Ran a programmatic cross-check to enumerate the exact remaining unresearched teams. BACKLOG Priority 5 had a generic prose description; now replaced with the precise list of 26 teams broken down by year / category:
+
+- 3 × 2026 semi-finalists (AegleBio, Billify, NeuroBoost) - will be researched after the May 21, 2026 Grand Finale
+- 7 × 2017 track winners (Venom-Aid, Salux Diagnostics, Failsafe, Memorlane, Eater Zone, Element: B2B2C, COMPAS)
+- 5 × 2013 sub-winners (ValveStrong, NoreGen, Nobles Medical Technology, MEGAL!NE, Bloom Diagnostics)
+- 10 × 2016 finalists with unknown track placements (CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots)
+- 1 × 2009 Happy Sleep undergraduate winner
+
+Total: 26. Counts match: 117 total teams - 91 researched = 26 unresearched. Cross-checked against teams.json `outcome === null` (also 26) and against teams not in outcomes.json (23, excluding the 3 2026 semi-finalists which are listed separately).
+
 ### Fixed (twenty-fourth verification pass: propagate NO_FOUND entries from outcomes.json to teams.json + BACKLOG)
 
 After adding 37 NO_FOUND entries to data/outcomes.json in the previous pass, the corresponding teams.json entries still had outcome=null. Programmatic cross-file check identified all 37 inconsistencies. All now updated:
