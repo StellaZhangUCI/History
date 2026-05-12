@@ -17,9 +17,31 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 31 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed + a new brand-disambiguation note (Help Belt 2023 UCI team is NOT the unrelated commercial Help Belts at helpbelts.com); latest pass also re-verified Sentinel 2024 and VagAligna 2023 outcomes (no public update found, statuses unchanged) |
+| Verification audit              | 32 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed + a brand-disambiguation note (Help Belt 2023 UCI team vs unrelated helpbelts.com); latest pass expanded the PCOSitive Buddy 2025 roster from 1 named member to 4 with confidence-graded annotations |
 
 ## 2026-05-12
+
+### Added (thirty-second verification pass: PCOSitive Buddy 2025 roster expansion)
+
+Continued the Priority 2 roster sweep. One concrete addition.
+
+**PCOSitive Buddy 2025 (MIE Specialty Award + Consumer Services 1st, $12,500 combined)** - roster expanded from a single name to four:
+- **Ricianne "Chi" Rey** (MIE; co-founder & Marketing Lead) - directly verified via the ANTrepreneur Center January 2026 "Meet Chi Rey" profile and her RocketReach co-founder listing
+- **Rafelia Angel** (core team) - sourced from WebSearch aggregation cross-referencing the 2025 Stella Zhang competition coverage
+- **Varshini Vijay** (tech team) - LinkedIn-confirmed UCI student, Zotbotics Robotics Club co-president
+- **Benson Manzano** (tech team) - LinkedIn-confirmed UCI ICS student, FUSION at UCI ICS project director
+
+Project description refined: the AI wellness assistant is named "Chloe". A fifth team member referenced as "Kimberly" in indexed coverage is NOT added here pending a confirmed last name (deliberate caution around the hallucination failure mode previously caught with First Step Diagnostics / Help Belt / etc.).
+
+**Files touched:**
+- `data/nvc.json`: PCOSitive Buddy members field expanded (both the Specialty Award entry and the Track Award cross-listing); `members_note` documents the source-quality grading
+- `OUTCOMES.md`: 2025 PCOSitive Buddy entry expanded with the four-member roster and source citations
+- `years/2025.md`: Specialty Award row + CS 1st row updated; cross-listing now uses "(See Specialty Award)" for both project and members
+- `TEAMS.md`: PCOSitive Buddy entry upgraded from single-name to full roster; date bumped to 32nd pass
+- `BACKLOG.md`: last-reviewed bumped to 32nd pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 32 passes; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - metadata-only pass), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Fixed (thirty-first verification pass: Help Belt brand-disambiguation + Sentinel / VagAligna re-verifications)
 

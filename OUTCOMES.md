@@ -354,8 +354,8 @@ A UCI senior bioengineering design project. `nasocoustics.uci.design` is up; Lin
 Sources: [nasocoustics.uci.design](http://www.nasocoustics.uci.design/), [Beall/Butterworth Engineering Competition](https://bbcomp.tech.uci.edu/)
 
 **PCOSitive Buddy** (MIE Award + Consumer Services 1st): OPERATING. *Confidence: likely.*
-Founder Ricianne "Chi" Rey was hired in October 2025 as the UCI ANTrepreneur Center Program Lead and continues to be described as a PCOS-platform co-founder.
-Sources: [ANTrepreneur profile (Jan 2026)](https://antrepreneur.uci.edu/2026/01/28/meet-chi-rey/)
+Founder Ricianne "Chi" Rey was hired in October 2025 as the UCI ANTrepreneur Center Program Lead and continues to be described as a PCOS-platform co-founder. The team's AI wellness assistant is named "Chloe." Roster expanded on 2026-05-12: Ricianne "Chi" Rey (co-founder & Marketing Lead per RocketReach), Rafelia Angel (core team), Varshini Vijay (tech team; UCI Zotbotics Robotics Club co-president), Benson Manzano (tech team; FUSION at UCI ICS project director). A fifth member named "Kimberly" is referenced in indexed coverage without a confirmed last name and is not added here.
+Sources: [ANTrepreneur profile (Jan 2026)](https://antrepreneur.uci.edu/2026/01/28/meet-chi-rey/), [RocketReach (Ricianne Rey)](https://rocketreach.co/ricianne-rey-email_816734502), [Varshini Vijay LinkedIn](https://www.linkedin.com/in/varshini-vijay-45012819a/), [Benson Manzano LinkedIn](https://www.linkedin.com/in/benson-manzano-380a451b7/)
 
 **ServEasy** (Business Products 2nd): OPERATING. *Confidence: likely, finalist stage.*
 Confirmed as a 2025 Stella Zhang finalist; no independent product traction yet.

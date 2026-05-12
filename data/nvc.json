@@ -122,8 +122,9 @@
           "team": "PCOSitive Buddy",
           "prize_text": "$2,500",
           "prize_amount_usd": 2500,
-          "project": "AI-based app supporting women with Polycystic Ovary Syndrome (PCOS) through tracking and community.",
-          "members": ["Ricianne \"Chi\" Rey (MIE)"]
+          "project": "AI-powered wellness companion (the AI assistant is named 'Chloe') for women with Polycystic Ovary Syndrome (PCOS), with tracking, community, and support features.",
+          "members": ["Ricianne \"Chi\" Rey (MIE; co-founder and Marketing Lead per RocketReach 2026-05-12)", "Rafelia Angel (core team)", "Varshini Vijay (tech team; UCI student, Zotbotics Robotics Club co-president per LinkedIn)", "Benson Manzano (tech team; UCI ICS student, FUSION at UCI ICS project director per LinkedIn)"],
+          "members_note": "Roster expanded 2026-05-12 from the prior single-name listing. Ricianne Rey directly verified via antrepreneur.uci.edu/meet-chi-rey/ profile; the additional four members were surfaced via WebSearch aggregation cross-referenced with Varshini Vijay's and Benson Manzano's UCI-affiliated LinkedIn profiles. A fifth teammate (first name 'Kimberly') is mentioned in search-engine summaries without a confirmed last name and is not added here. Per Ricianne Rey's antrepreneur.uci.edu profile, the team competed as MIE-program peers."
         },
         {
           "category": "Specialty (Audience Favorite)",
@@ -178,8 +179,8 @@
           "team": "PCOSitive Buddy",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "AI-based app supporting women with Polycystic Ovary Syndrome (PCOS) through tracking and community.",
-          "members": ["Ricianne \"Chi\" Rey (MIE)"],
+          "project": "AI-powered wellness companion (the AI assistant is named 'Chloe') for women with Polycystic Ovary Syndrome (PCOS), with tracking, community, and support features.",
+          "members": ["Ricianne \"Chi\" Rey (MIE)", "Rafelia Angel", "Varshini Vijay (tech)", "Benson Manzano (tech)"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Specialty (MIE Award)", "place": "Winner"}
         },

@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (31st pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (32nd pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -142,7 +142,7 @@ Last updated: 2026-05-12 (31st pass). Total teams indexed: 117.
 ## P
 
 - **P-FLAPs** ([2019](years/2019.md): TS 2nd). R Sayadi, A Majumder.
-- **PCOSitive Buddy** ([2025](years/2025.md): MIE Award, CS 1st). Ricianne "Chi" Rey (MIE). *Operating (likely); founder hired as UCI ANTrepreneur Center Program Lead in October 2025 and continues to be described as a PCOS-platform co-founder.*
+- **PCOSitive Buddy** ([2025](years/2025.md): MIE Award + CS 1st; $12,500 combined). Ricianne "Chi" Rey (MIE; co-founder & Marketing Lead), Rafelia Angel, Varshini Vijay (tech; UCI Zotbotics), Benson Manzano (tech; UCI FUSION). *OPERATING (likely); founder Chi Rey hired as UCI ANTrepreneur Center Program Lead in October 2025 and continues to be described as a PCOS-platform co-founder. Team roster expanded 2026-05-12; a fifth "Kimberly" teammate referenced in coverage without a confirmed last name.*
 - **Poo Pal** ([2019](years/2019.md): CP 1st). Not Listed. *Dormant (likely); Amazon / Etsy listings remain but no recent company-side activity.*
 - **Prescient Imaging** ([2012](README.md#pre-2017-editions-20092016): GP). Farhad Daghighian (CEO), Ariel Beroukhim. *Operating; received 510(k) FDA clearance in March 2021 for the BBX-PET portable PET scanner; over $8M raised.*
 - **Prophet Predictive Modeling** ([2020](years/2020.md): CS 2nd, $5,000). Not Listed. *Renamed 2026-05-12 from 'Prophet Modeling' per Merage 2020 press release; AI-based money management for accredited investors. No public outcome found.*
