@@ -12,6 +12,7 @@
     {"name": "Baby Box", "name_aliases": ["123 Baby Box"], "years": [2020], "top_award": "Grand Prize", "outcome": {"category": "OPERATING", "rebranded_to": "123 Baby Box", "total_funding_usd_approx": 1200000, "see": "OUTCOMES.md#2020"}},
     {"name": "BagIt", "years": [2024], "top_award": "Track Award (Business Products) 2nd", "outcome": null},
     {"name": "Billify", "years": [2026], "top_award": "Semi-finalist", "outcome": null},
+    {"name": "Bloom Diagnostics", "years": [2013], "top_award": "UC Irvine Environment Institute Award", "outcome": null},
     {"name": "Blue Aqua Food Tech", "years": [2022], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "OPERATING", "see": "OUTCOMES.md#2022"}},
     {"name": "Bottle Built", "years": [2020], "top_award": "Audience Favorite", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2020"}},
     {"name": "Bottle Rocket", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
@@ -78,6 +79,7 @@
     {"name": "Lynne", "years": [2024], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
 
     {"name": "Maslow Construction Robots", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "MEGAL!NE", "years": [2013], "top_award": "TechPortal Calit2 Residency Award", "outcome": null},
     {"name": "Mechanodontics", "name_aliases": ["BRIUS Technologies"], "years": [2018], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "rebranded_to": "BRIUS Technologies", "total_funding_usd_approx": 46000000, "see": "OUTCOMES.md#2018"}},
     {"name": "Memorlane", "years": [2017], "top_award": "Track Award (Consumer Services) 1st", "outcome": null},
     {"name": "MinuTax", "years": [2025], "top_award": "Track Award (Consumer Services) 2nd", "outcome": null},
@@ -87,6 +89,8 @@
 
     {"name": "NasoCoustics", "years": [2025], "top_award": "Track Award (Life Sciences) 1st", "outcome": {"category": "OPERATING", "note": "design stage; pre-incorporation", "see": "OUTCOMES.md#2025"}},
     {"name": "Negocios & Etc.", "years": [2016], "top_award": "Finalist (track placement not preserved)", "outcome": null},
+    {"name": "Nobles Medical Technology", "years": [2013], "top_award": "Undergraduate Division winner ($2,500); artificial heart system for surgical practice", "outcome": null},
+    {"name": "NoreGen", "years": [2013], "top_award": "Campus Wide 3rd ($3,500); cancer detection device", "outcome": null},
     {"name": "NeoMold", "years": [2024], "top_award": "Runner-Up", "outcome": {"category": "OPERATING", "note": "very early stage", "see": "OUTCOMES.md#2024"}},
     {"name": "NeuroBoost", "years": [2026], "top_award": "Semi-finalist", "outcome": null},
     {"name": "No Decaf Allowed", "years": [2020], "top_award": "Track Award (Consumer Services) 1st", "outcome": {"category": "ACQUIRED", "acquirer": "Moongoat Coffee Roasters", "acquisition_date": "2022-12", "see": "OUTCOMES.md#2020"}},
@@ -130,6 +134,7 @@
     {"name": "UniSafe", "years": [2019], "top_award": "Track Award (Business Products) 1st", "outcome": null},
 
     {"name": "VagAligna", "years": [2023], "top_award": "Grand Finale Winner", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "see": "OUTCOMES.md#2023"}},
+    {"name": "ValveStrong", "years": [2013], "top_award": "Campus Wide 2nd ($7,500); hybrid heart valve prostheses", "outcome": null},
     {"name": "Venom-Aid", "years": [2017], "top_award": "Track Award (Life Sciences) 1st", "outcome": null},
     {"name": "Voltek", "years": [2020], "top_award": "Track Award (Consumer Products) 2nd", "outcome": null},
     {"name": "VolunteerCrowd", "years": [2019], "top_award": "Track Award (Social Enterprise) 1st", "outcome": {"category": "PIVOTED", "see": "OUTCOMES.md#2019"}},
@@ -139,7 +144,7 @@
     {"name": "ZeroWatt Technologies", "years": [2009], "top_award": "Grand Prize", "outcome": {"category": "NO_PUBLIC_OUTCOME_FOUND", "note": "likely defunct", "see": "OUTCOMES.md#pre-2017"}}
   ],
   "stats": {
-    "total_unique_teams": 112,
+    "total_unique_teams": 117,
     "teams_with_outcome_researched": 54,
     "teams_appearing_in_multiple_years": 1,
     "teams_appearing_in_multiple_years_list": ["Grad2Go (2025, 2026)"]

@@ -11,7 +11,7 @@ This document records each year's award categories, finalist teams, prize amount
 - [`README.md`](README.md): this file. Cross-cutting overview, analytics, and the per-year index
 - [`years/`](years/): one markdown file per edition with the full awards table for that year
 - [`OUTCOMES.md`](OUTCOMES.md): "Where Are They Now?" post-competition outcomes for past finalists
-- [`TEAMS.md`](TEAMS.md): alphabetical master index of all 112 teams across 2009 to 2026
+- [`TEAMS.md`](TEAMS.md): alphabetical master index of all 117 teams across 2009 to 2026
 - [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md): institutional context (naming gift, sponsors, judging panels by year, program staff)
 - [`BACKLOG.md`](BACKLOG.md): concrete list of gaps in the archive (missing rosters, prize amounts, years, outcomes)
 - [`CHANGELOG.md`](CHANGELOG.md): chronological log of substantive changes to the archive
@@ -236,7 +236,7 @@ Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Elemen
 
 ## Where Are They Now?
 
-A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-11, **54 of 112 teams** in the archive have been researched. Quick highlights:
+A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-11, **54 of 117 teams** in the archive have been researched (the 5 2013 sub-winners added in the 17th audit pass have not been researched for outcomes). Quick highlights:
 
 - **Three documented major outcomes:**
   - Laser Associated Sciences (2013 GP) acquired by **Medtronic**, April 2020 (terms undisclosed).

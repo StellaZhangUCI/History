@@ -9,7 +9,7 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Aspect                          | Status                                                                                          |
 |---------------------------------|-------------------------------------------------------------------------------------------------|
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
-| Total teams indexed             | 112                                                                                             |
+| Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
 | Outcomes researched             | 54 teams                                                                                        |
 | Outcome distribution            | 29 OPERATING / 15 NO_PUBLIC_OUTCOME_FOUND / 3 DORMANT / 3 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
@@ -19,6 +19,17 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Verification audit              | 14 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed |
 
 ## 2026-05-11
+
+### Fixed (seventeenth verification pass: programmatic cross-file consistency check)
+
+This round ran a **programmatic cross-file check** (node script) between `data/nvc.json`, `data/outcomes.json`, and `data/teams.json` instead of grep sweeps. Found three categories of inconsistency:
+
+- **"Laser Associated Sciences (LAS)" naming mismatch**: nvc.json had the team name as "Laser Associated Sciences (LAS)" (with the suffix), while outcomes.json and teams.json had it as plain "Laser Associated Sciences". Normalized to "Laser Associated Sciences" with `team_aliases: ["LAS"]` in nvc.json. Now consistent across all three files.
+- **5 2013 sub-winners were missing from teams.json**: ValveStrong, NoreGen, Nobles Medical Technology, MEGAL!NE, Bloom Diagnostics were added to nvc.json's `pre_2017_editions[2013].other_winners` in the seventh pass but never added to teams.json. Now added with their 2013 placements / awards. teams.json `stats.total_unique_teams` updated 112 -> 117.
+- **TEAMS.md header, README "Where Are They Now?", and CHANGELOG snapshot tables** all said "112 teams" - updated to 117. README clarified that the 5 new entries have not been outcome-researched (still 54 of 117).
+- **3 false-positive mismatches** for 2026 semi-finalists (AegleBio, Billify, NeuroBoost) noted: they're in nvc.json under `years[2026].named_semifinalists` as a string array, intentionally separate from the `awards[]` structure since the finale hasn't occurred. teams.json captures them as full entries with `top_award: "Semi-finalist"`. The structural difference is correct.
+
+Programmatic check pattern is far more thorough than grep sweeps. This was a different audit modality and caught issues the prior 6 grep-based consistency passes missed entirely. Worth running periodically.
 
 ### Fixed (sixteenth verification pass: more residual propagation)
 

@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-11. Total teams indexed: 112.
+Last updated: 2026-05-11. Total teams indexed: 117.
 
 ## Legend
 
@@ -25,6 +25,7 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 - **Baby Box / 123 Baby Box** ([2020](years/2020.md): GP, CP 1st). Zarina Bahadur (MIE '20). *Operating; ~$1.2M oversubscribed round (2023; round stage not specified by TechCrunch). 245% growth, tripled revenue, 5x MRR (2021 baseline), target $100K MRR / $1M ARR. Strongest non-medical operating company in the archive.*
 - **BagIt** ([2024](years/2024.md): BP 2nd). Not Listed.
 - **Billify** ([2026](years/2026.md): semi-finalist). Not Listed.
+- **Bloom Diagnostics** ([2013](README.md#pre-2017-editions-20092016)): UC Irvine Environment Institute Award. Not Listed.
 - **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). Hamoon Shishechian, Parham Mansor Safain, Kendyll Trenary. *Operating; bafoodtech.com live; pre-revenue / early.*
 - **Bottle Built** ([2020](years/2020.md): AF, SE 2nd). Aryan Ghanadan. *No public outcome found.*
 - **Bottle Rocket** ([2016](README.md#pre-2017-editions-20092016)). Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai.
@@ -111,6 +112,7 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 ## M
 
 - **Maslow Construction Robots** ([2016](README.md#pre-2017-editions-20092016)). Andy Truong.
+- **MEGAL!NE** ([2013](README.md#pre-2017-editions-20092016)): TechPortal Calit2 Residency Award. Not Listed.
 - **Mechanodontics** ([2018](years/2018.md): LS 1st). Zahra Mamaghani, Mahdi Tehrani, Mehdi Peikar, Ishita, James Wratten. *Operating as BRIUS Technologies (Carrollton, TX); rebrand confirmed via Crunchbase / CB Insights; $46.2M total funding per Tracxn / Fundz / MergerLinks; Series B $19.5M led by View Ventures (May 2025); Brava commercial launch June 30, 2022.*
 - **Memorlane** ([2017](years/2017.md): CS 1st). Evan Schein, Yocelyn Recinos.
 - **MinuTax** ([2025](years/2025.md): CS 2nd). Not Listed.
@@ -122,6 +124,8 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 
 - **NasoCoustics** ([2025](years/2025.md): LS 1st). Dave Soliven, Jordan Ulibarri, Kenji Inducta, Natalie Benneian, Neha Muvvala, Neharika Gopikrishnan. *Operating; design stage; pre-incorporation.*
 - **Negocios & Etc.** ([2016](README.md#pre-2017-editions-20092016)). Caroline Cypriano, Pravin Surana, Fabio Sato. *Pravin Surana returned to compete in 2017 with APIC Diagnostics.*
+- **Nobles Medical Technology** ([2013](README.md#pre-2017-editions-20092016)): Undergraduate Division winner ($2,500); artificial heart system for surgical practice. Not Listed.
+- **NoreGen** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 3rd ($3,500); cancer detection device. Not Listed.
 - **NeoMold** ([2024](years/2024.md): RU, LS 2nd). Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong. *Operating; very early stage; pre-incorporation/design-review.*
 - **NeuroBoost** ([2026](years/2026.md): semi-finalist). Not Listed.
 - **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson. *Acquired by **Moongoat Coffee Roasters** in December 2022 (asset / subscriber transfer; terms undisclosed). Third documented exit in the archive.*
@@ -181,6 +185,7 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 ## V
 
 - **VagAligna** ([2023](years/2023.md): GF Winner, LS 2nd). Fiza Qureshi, Hailey Matyac, Angie Espino, Maile Adams. *No public outcome found; likely early-stage R&D or dormant. Founder Fiza Qureshi has moved on professionally.*
+- **ValveStrong** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 2nd ($7,500); hybrid heart valve prostheses. Not Listed.
 - **Venom-Aid** ([2017](years/2017.md): LS 1st). Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien.
 - **Voltek** ([2020](years/2020.md): CP 2nd). Not Listed.
 - **VolunteerCrowd** ([2019](years/2019.md): SE 1st). Amy von Kaenel. *Pivoted then likely shut down; discontinued membership/verification/app on 2023-01-01; volunteercrowd.com now returns 404.*

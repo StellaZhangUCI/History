@@ -1280,7 +1280,8 @@
       "year": 2013,
       "competition_name_at_time": "Merage Business Plan Competition",
       "grand_prize": {
-        "team": "Laser Associated Sciences (LAS)",
+        "team": "Laser Associated Sciences",
+        "team_aliases": ["LAS"],
         "division": "Campus Wide",
         "project": "Medical device company using laser technology for medical diagnostic instrumentation",
         "prize_text": "$15,000",
