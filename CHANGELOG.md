@@ -20,6 +20,15 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (eighteenth verification pass: more programmatic checks)
+
+Ran 9 more programmatic checks (cross-listing validity, duplicate detection, anchor format, year ranges, year-vs-nvc consistency, prize text/usd consistency, repeat-finalist name verification, two-teams-same-year verification, 2026 semi-finalist consistency, empty-sources detection). Eight passed clean. One real issue caught:
+
+- **First Step Diagnostics had empty `sources: []`** in data/outcomes.json. After the 1st-pass correction removed the (fabricated) NeuroQure link, the entry was left with no citations. Added the two URLs that document the disconfirmation, plus a `sources_note` clarifying that these sources document why the earlier NeuroQure link was wrong, not a positive outcome for First Step itself.
+- **Two false-positive findings** logged: (1) Simon Loo / Pravin Surana repeat-finalist entries appear in pre_2017_editions[2016].other_finalists, not years[].awards; my check only looked at the latter (data is correct). (2) Don Magnuson "Don" vs "Donald" name-substring match failed due to my matching logic (data is correct).
+
+The remaining six checks (cross-listing references, duplicates, anchor format, years range, outcome-year-vs-nvc-year, prize text/usd) all returned (none) - this is the first audit pass where most checks were clean.
+
 ### Fixed (seventeenth verification pass: programmatic cross-file consistency check)
 
 This round ran a **programmatic cross-file check** (node script) between `data/nvc.json`, `data/outcomes.json`, and `data/teams.json` instead of grep sweeps. Found three categories of inconsistency:

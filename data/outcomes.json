@@ -177,7 +177,11 @@
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "no findable outcome",
       "summary": "No traceable follow-on commercial activity for the 2018 First Step Diagnostics team (Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson). An earlier draft of this archive incorrectly linked First Step Diagnostics to NeuroQure; verification on 2026-05-11 confirmed NeuroQure was independently founded by Dave Justus based on Prof. John Jay Gargus's CART research, with no documented connection to First Step Diagnostics.",
-      "sources": []
+      "sources": [
+        "https://www.ocbj.com/healthcare/neuroqure-launches-first-biological-test-for-autism/",
+        "https://innovation.uci.edu/news/neuroqure/"
+      ],
+      "sources_note": "Sources cited here document the disconfirmation of the earlier NeuroQure connection; no positive post-2018 commercial-activity source has been located for First Step Diagnostics."
     },
     {
       "team": "CarDana",
