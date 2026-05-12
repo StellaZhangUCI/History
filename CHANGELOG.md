@@ -6,6 +6,14 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (twelfth verification pass: stale derived stats + last-updated dates)
+
+After the eleventh pass caught one stale derived total, this pass audits all remaining derived stats and "last updated" dates for staleness:
+
+- **`data/teams.json` `stats.teams_with_outcome_researched`: 35 -> 54** (was never updated after the second outcomes-research pass added 19 more entries to data/outcomes.json). Actual `outcomes.json` `summary_stats.teams_researched` is 54; teams.json stats now match.
+- **`last_updated` / `Last updated` / `Last reviewed` dates refreshed to 2026-05-11** across data/nvc.json (was 2026-05-09), data/outcomes.json (was 2026-05-10), data/teams.json (was 2026-05-10), OUTCOMES.md (was 2026-05-09), TEAMS.md (was 2026-05-10), BACKLOG.md (was 2026-05-10), SPONSORS-AND-JUDGES.md (was 2026-05-10).
+- **OUTCOMES.md header annotated** with "eleven verification passes against cited sources completed; thirteen factual errors / hallucinations corrected and one stale derived figure caught."
+
 ### Fixed (eleventh verification pass: consistency audit of derived totals)
 
 After 13 corrections across the prior passes, the derived Cross-Year Analytics totals were re-audited for staleness. Found one stale figure:

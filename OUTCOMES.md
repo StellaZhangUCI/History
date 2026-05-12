@@ -2,7 +2,7 @@
 
 [← Back to main archive](README.md)
 
-Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-09.
+Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-11 (eleven verification passes against cited sources completed; thirteen factual errors / hallucinations corrected and one stale derived figure caught).
 
 ## Outcome categories
 

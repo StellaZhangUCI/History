@@ -2,7 +2,7 @@
 
 [← Back to main archive](README.md)
 
-Institutional context for the Stella Zhang New Venture Competition: financial backers, the naming gift, judging panels by year (where named publicly), and program staff. Last updated 2026-05-10.
+Institutional context for the Stella Zhang New Venture Competition: financial backers, the naming gift, judging panels by year (where named publicly), and program staff. Last updated 2026-05-11.
 
 ## Naming Gift
 
