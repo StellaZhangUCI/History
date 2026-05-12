@@ -6,6 +6,16 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (thirteenth verification pass: stale references in pattern summaries)
+
+The pattern summaries at the top of OUTCOMES.md and the "Where Are They Now?" section in README still contained stale references from before earlier corrections:
+
+- **Omni Pet Club "Chewy / Walmart / Amazon" retail mention** (from the 4th-pass brand-confusion correction) was still in the OUTCOMES.md pattern summary point #4. Updated to "operating via direct sales at omnipetclub.com."
+- **123 Baby Box "7-figure 2025 revenue" claim** (from the 5th-pass correction) was still in BOTH the OUTCOMES.md pattern summary point #5 AND the README "Where Are They Now?" teaser. Replaced with the verified TechCrunch growth metrics (245% growth, tripled revenue, 5x MRR, target $100K MRR / $1M ARR).
+- **LAS "April 14, 2020" date** (from the 1st-pass date-precision relaxation) was still in the OUTCOMES.md Pre-2017 LAS entry. Updated to "April 2020" with the OCBJ vs UCI Innovation date discrepancy noted. Also added 2013 NVC team detail (Charlene Ong, Tyler Rice, Sean White, Bruce Yang; coach Dale Sadlik) and the 2015 formal incorporation note.
+
+These three were derived-prose staleness, similar to the 11th-pass disclosed-cash-total and 12th-pass teams.json stat. Three consecutive consistency-audit passes have now caught propagation failures.
+
 ### Fixed (twelfth verification pass: stale derived stats + last-updated dates)
 
 After the eleventh pass caught one stale derived total, this pass audits all remaining derived stats and "last updated" dates for staleness:
