@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (30th pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (31st pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -87,7 +87,7 @@ Last updated: 2026-05-12 (30th pass). Total teams indexed: 117.
 - **Happy Sleep** ([2009](README.md#pre-2017-editions-20092016): undergraduate division winner, $3,500 + Best Concept Paper). Praveen De Silva, Kevin Hung. *No public outcome found (researched 2026-05-12); Bluetooth wristband alarm concept.*
 - **Health Libero** ([2021](years/2021.md): BP 2nd). Not Listed.
 - **Helios** ([2023](years/2023.md): BP 1st). Not Listed.
-- **Help Belt** ([2023](years/2023.md): CP 1st). Not Listed.
+- **Help Belt** ([2023](years/2023.md): CP 1st, $10,000). Not Listed. *Disambiguation (2026-05-12): NOT the unrelated commercial brand 'Help Belts' at helpbelts.com (medical-alert seat-belt cover, founded 2016 by a mother for her son's medical needs). The UCI 2023 NVC Help Belt is a distinct seat-belt mobility-aid project.*
 - **Hydroflow** ([2021](years/2021.md): CP 2nd). Not Listed.
 - **HydroVasc** ([2021](years/2021.md): LS 2nd). Not Listed.
 - **Hyperion Therapeutics** ([2023](years/2023.md): LS 1st). Jennings Luu, Krzysztof Palczewski. *Operating; hyperioneye.com active; seed-stage biopharmaceutical; received $100K Proof-of-Product grant from UCI Beall Applied Innovation in 2023.*

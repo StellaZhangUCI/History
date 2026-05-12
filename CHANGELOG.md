@@ -17,9 +17,27 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 30 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass upgraded myHealth Today 2019 NO_FOUND → OPERATING (likely; June 2020 incorporation), added Embryologic 2019 4-member team roster, and refined Hydroflow 2021 project description |
+| Verification audit              | 31 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed + a new brand-disambiguation note (Help Belt 2023 UCI team is NOT the unrelated commercial Help Belts at helpbelts.com); latest pass also re-verified Sentinel 2024 and VagAligna 2023 outcomes (no public update found, statuses unchanged) |
 
 ## 2026-05-12
+
+### Fixed (thirty-first verification pass: Help Belt brand-disambiguation + Sentinel / VagAligna re-verifications)
+
+A small, focused pass. One concrete archive change plus two negative-result re-verifications.
+
+**Help Belt 2023 (Consumer Products 1st, $10,000) - brand-disambiguation note added**: A 2026-05-12 web search surfaced an unrelated commercial product, **Help Belts** at helpbelts.com (medical-alert seat-belt cover with information pocket, founded 2016 by a mother seeking a way to communicate her son's medical conditions to first responders). The UCI 2023 NVC Help Belt team is a distinct, separately-conceived seat-belt mobility-aid project, NOT the commercial Help Belts brand. Disambiguation note added to data/nvc.json and TEAMS.md to preempt the brand-confusion failure mode previously caught with First Step Diagnostics, Sentinel, Omni Pet Club, ZeroWatt Technologies, BrainCheck, Closed Loop Plastics, etc. (12th such disambiguation note in the archive.)
+
+**Re-verifications (no archive change):**
+- **Sentinel 2024 (Grand Prize)**: re-searched on 2026-05-12 for any post-September-2024 update. No public outcome data surfaced; OPERATING (MVP stage September 2024) categorization unchanged. BACKLOG Priority 6 still flags this for a future 2027 check.
+- **VagAligna 2023 (Grand Finale Winner)**: re-searched on 2026-05-12 for any post-May-2023 FDA / clinical-trial update. Public coverage remains the original Business Wire / Merage 2023-05 announcements; no ClinicalTrials.gov entry surfaced. NO_FOUND categorization (with the contextual note that the project's path requires FDA clinical trials over multi-year timelines) unchanged.
+
+**Files touched:**
+- `data/nvc.json`: Help Belt 2023 entry gained a `naming_note` field disambiguating from helpbelts.com
+- `TEAMS.md`: Help Belt entry annotated with the same disambiguation; date bumped to 31st pass
+- `BACKLOG.md`: last-reviewed bumped to 31st pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 31 passes with the +1 disambiguation note recorded; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - metadata-only pass), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Added (thirtieth verification pass: myHealth Today outcome upgrade + Embryologic 2019 roster + Hydroflow description refinement)
 
