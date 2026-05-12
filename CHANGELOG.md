@@ -20,6 +20,17 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (twentieth verification pass: members consistency between md and JSON)
+
+Programmatic check on members and prize_text consistency between years/*.md tables and data/nvc.json. Found 1 real issue and 4 false positives (check-script artifacts):
+
+Real issue:
+- **TeamMade (2023 SE 2nd) members representation inconsistent.** MD had "UCI/OCC Partnership Team" in the members column; JSON had `members: []` with `members_note: "UCI/OCC Partnership Team"`. Two different structural representations of the same information. Normalized: JSON now has `members: ["UCI/OCC Partnership Team (individual roster not published)"]` matching the existing pattern used for other "team-label" entries like PCOSitive Buddy's "Ricianne 'Chi' Rey (MIE)".
+
+False positives (data is correct, check has limitations):
+- ELF Therapeutics LS 1st cross-listing entry has full members array in JSON (matching Tech Surge 1st canonical entry) but markdown uses "(See Tech Surge)" for the cross-listed row. This is the standard cross-listing convention in this archive (JSON entries are self-contained; markdown uses (See X) shortcuts). 4 of the 6 reported issues were these convention false positives.
+- ELF Therapeutics prize-mismatch was a check-script ambiguous-match issue (two rows for the same team with place "1st"; Tech Surge 1st has "Funded" and LS 1st has "$10,000"; the check's first-match-wins logic returned the wrong pair).
+
 ### Fixed (nineteenth verification pass: more programmatic checks - found another stale by_category)
 
 Ran additional programmatic checks: disclosed_cash sum vs total_2017_to_2025, year-file theme presence, teams_appearing_in_multiple_years count, outcomes by_category vs actual.
