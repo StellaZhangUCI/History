@@ -206,8 +206,8 @@ Product listings still appear on Amazon / Etsy but no recent company-side activi
 Sources: [Amazon listing](https://www.amazon.com/Poo-Pal-Hands-Free-Carrier-Holder/dp/B07DR43X91)
 
 **Steth 'n Go** (Consumer Products 2nd): OPERATING. *Confidence: confirmed.*
-Magnetic stethoscope holder still selling at `stethngo.com` with an active product line and bulk pricing for healthcare facilities.
-Sources: [stethngo.com](https://stethngo.com/)
+Magnetic stethoscope holder still selling at `stethngo.com` with an active product line and bulk pricing for healthcare facilities. CEO Omar Darwish (Associate Professor & Hospitalist at UC Irvine Health, Director of Point-of-Care Ultrasound for the Department of Medicine) confirmed as founder on 2026-05-12; the product was sparked by his residency frustration of losing six stethoscopes to inadequate hip-holders.
+Sources: [stethngo.com](https://stethngo.com/), [Omar Darwish LinkedIn](https://www.linkedin.com/in/omar-darwish-993b7b82/)
 
 ## 2020
 

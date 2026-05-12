@@ -17,9 +17,39 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 27 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed; latest pass added 2013 sub-winners, 2016 full track placements, and 2009 Happy Sleep |
+| Verification audit              | 28 passes against cited sources completed; 14 factual errors / hallucinations corrected (Prophet Modeling → Prophet Predictive Modeling per Merage primary source) + 5 stale derived figures or prose references caught and fixed; latest pass added Curbd roster, Steth 'n Go founder Omar Darwish, and the Prophet rename |
 
 ## 2026-05-12
+
+### Fixed (twenty-eighth verification pass: Prophet rename + Curbd roster + Steth 'n Go CEO)
+
+Pursued Priority 2 "Not Listed" team-roster gaps where outcomes were already documented. Three concrete additions plus one factual correction.
+
+**Prophet Modeling → Prophet Predictive Modeling (factual correction):** The Merage School 2020 press release primary source consistently uses "Prophet Predictive Modeling" with the project described as "AI-based money management services for accredited investors," not "predictive modeling for money management services" as previously recorded. Renamed across all five files (years/2020.md, data/nvc.json, data/outcomes.json, data/teams.json, TEAMS.md). `team_aliases` / `name_aliases` retain the old name for searchability. This is the 14th factual error caught across the audit.
+
+**Curbd 2019 team roster:** Verified via `curbdparking.com/team.html` primary source on 2026-05-12:
+- Farbod Rafezy (UCI Computer Science, Google Student Innovator; Lead Engineer)
+- Iman Enayati (UCLA Psychobiology; Operations Manager)
+- Ryan Dang (UCI Computer Science; Software Developer)
+
+Curbd-side team page footer is 2019; consistent with the existing NO_FOUND outcome categorization. SwappIt (the tied co-winner) roster remains "Not Listed" - no primary source surfaced.
+
+**Steth 'n Go 2019 CEO confirmed:** Omar Darwish (Associate Professor & Hospitalist at UC Irvine Health, Director of Point-of-Care Ultrasound for the Department of Medicine) confirmed as founder/CEO per his LinkedIn and the product origin story (residency frustration of losing six stethoscopes to inadequate hip-holders). Added to data/nvc.json members field, years/2019.md, TEAMS.md, and OUTCOMES.md entry.
+
+**Curbd / SwappIt prize amount also clarified:** Each team received $5,000 per Orange County Startups Council 2019 coverage (previously the prize was recorded as "-" / undisclosed). 2019 Disclosed-cash narrative updated accordingly.
+
+**Files touched:**
+- `data/nvc.json`: 2019 Curbd / SwappIt + Steth 'n Go member fields; 2020 Prophet Modeling renamed + project description corrected
+- `data/outcomes.json`: 2019 Curbd / SwappIt summary extended with Curbd roster + curbdparking.com source; 2020 Prophet Modeling renamed with team_aliases
+- `data/teams.json`: Prophet Modeling renamed with name_aliases preserving old name
+- `years/2019.md`: Curbd roster + Steth 'n Go CEO + prize text updated
+- `years/2020.md`: Prophet Modeling → Prophet Predictive Modeling row updated
+- `OUTCOMES.md`: Steth 'n Go entry gained Omar Darwish founder + product origin
+- `TEAMS.md`: Three entries updated (Curbd / SwappIt, Prophet Predictive Modeling, Steth 'n Go); date bumped to 28th pass
+- `BACKLOG.md`: Priority 2 2019 list - Curbd resolved (3 of 4 names) and Steth 'n Go resolved; subsection-header count updated from "(9 teams)" to "(5 teams remaining)"; last-reviewed bumped to 28th pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 28 passes with the +1 hallucination caught noted; this entry added
+
+Cross-checks: all three JSONs still ajv-valid; em-dash sweep clean; outcomes.json by_category sums unchanged (no new outcomes added in this pass, only metadata corrections).
 
 ### Added (twenty-seventh verification pass: 2013 sub-winners full detail + 2016 full track placements + 2009 Happy Sleep)
 

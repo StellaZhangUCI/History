@@ -809,11 +809,13 @@
         {
           "category": "Track Award (Consumer Services)",
           "place": "2nd",
-          "team": "Prophet Modeling",
+          "team": "Prophet Predictive Modeling",
+          "team_aliases": ["Prophet Modeling"],
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Predictive modeling for money management services.",
-          "members": []
+          "project": "AI-based money management services for accredited investors.",
+          "members": [],
+          "naming_note": "Renamed 2026-05-12 from 'Prophet Modeling' to 'Prophet Predictive Modeling' per Merage 2020 press release primary source."
         },
         {
           "category": "Track Award (Business Products)",
@@ -957,10 +959,13 @@
           "category": "Track Award (Consumer Services)",
           "place": "2nd (Tie)",
           "team": "Curbd / SwappIt",
-          "prize_text": "-",
-          "prize_amount_usd": null,
+          "prize_text": "$5,000 each (tied)",
+          "prize_amount_usd": 5000,
+          "prize_note": "Tied 2nd place; each team received $5,000 per Orange County Startups Council coverage.",
           "project": "Driveway parking app / Streetwear trading platform.",
-          "members": []
+          "members": [],
+          "curbd_members": ["Farbod Rafezy (UCI Computer Science, Google Student Innovator; Lead Engineer)", "Iman Enayati (UCLA Psychobiology; Operations Manager)", "Ryan Dang (UCI Computer Science; Software Developer)"],
+          "swappit_members_note": "SwappIt member roster not preserved in indexed public sources."
         },
         {
           "category": "Track Award (Consumer Products)",
@@ -978,7 +983,7 @@
           "prize_text": "Undisclosed",
           "prize_amount_usd": null,
           "project": "Magnetic stethoscope holder.",
-          "members": []
+          "members": ["Omar Darwish (CEO; Associate Professor & Hospitalist at UC Irvine Health, Director of Point-of-Care Ultrasound for the Department of Medicine)"]
         },
         {
           "category": "Track Award (Life Sciences)",

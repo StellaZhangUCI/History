@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (27th pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (28th pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -46,7 +46,7 @@ Last updated: 2026-05-12 (27th pass). Total teams indexed: 117.
 - **Conshus Clothing** ([2020](years/2020.md): SE 1st). Arneeb Mahbub, Parth. *No public outcome found; likely dormant.*
 - **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *Dormant (likely); surfaces only as an early-stage signup form.*
 - **Curaflow** ([2016](README.md#pre-2017-editions-20092016): Consumer Products 2nd, $5,000). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin. *No public outcome found (researched 2026-05-12); micro-CPAP device project.*
-- **Curbd / SwappIt** ([2019](years/2019.md): CS 2nd, tied). Not Listed.
+- **Curbd / SwappIt** ([2019](years/2019.md): CS 2nd, tied; $5,000 each). Curbd: Farbod Rafezy (UCI CS, Google Student Innovator), Iman Enayati (UCLA Psychobiology), Ryan Dang (UCI CS). SwappIt: members not preserved. *Curbd team page (curbdparking.com) last updated 2019; no public outcome found.*
 
 ## D
 
@@ -145,7 +145,7 @@ Last updated: 2026-05-12 (27th pass). Total teams indexed: 117.
 - **PCOSitive Buddy** ([2025](years/2025.md): MIE Award, CS 1st). Ricianne "Chi" Rey (MIE). *Operating (likely); founder hired as UCI ANTrepreneur Center Program Lead in October 2025 and continues to be described as a PCOS-platform co-founder.*
 - **Poo Pal** ([2019](years/2019.md): CP 1st). Not Listed. *Dormant (likely); Amazon / Etsy listings remain but no recent company-side activity.*
 - **Prescient Imaging** ([2012](README.md#pre-2017-editions-20092016): GP). Farhad Daghighian (CEO), Ariel Beroukhim. *Operating; received 510(k) FDA clearance in March 2021 for the BBX-PET portable PET scanner; over $8M raised.*
-- **Prophet Modeling** ([2020](years/2020.md): CS 2nd). Not Listed.
+- **Prophet Predictive Modeling** ([2020](years/2020.md): CS 2nd, $5,000). Not Listed. *Renamed 2026-05-12 from 'Prophet Modeling' per Merage 2020 press release; AI-based money management for accredited investors. No public outcome found.*
 - **Purist** ([2017](years/2017.md): GP SoM, TS 1st). Daniel Dai, Mikael Nilsson, Kim Westerbeck, Leila Safavi-Tehrani, Donald Magnuson. *Operating; ORNL Innovation Crossroads fellow; received $223K NIH SBIR (2019).*
 - **PZ Nanopure** ([2024](years/2024.md): SE 1st). Not Listed.
 
@@ -168,7 +168,7 @@ Last updated: 2026-05-12 (27th pass). Total teams indexed: 117.
 - **Shower Power** ([2023](years/2023.md): SE 1st). Not Listed. *No public outcome found.*
 - **SnapHealth** ([2022](years/2022.md): CS 2nd). Ashraf Hammouri. *Pivoted (likely); mysnaphealth.com active with a new "health coverage" platform (different from the 2022 NVC concept of patient health-record control). 2022 founder Ashraf Hammouri not named on the current site.*
 - **SolarLab** ([2018](years/2018.md): BP 2nd). Hao Peng, Yanchen Wu, Jiale Chen, Edward Li.
-- **Steth 'n Go** ([2019](years/2019.md): CP 2nd). Not Listed. *Operating; magnetic stethoscope holder still selling at stethngo.com with bulk pricing for healthcare facilities.*
+- **Steth 'n Go** ([2019](years/2019.md): CP 2nd). Omar Darwish (CEO; Associate Professor & Hospitalist at UC Irvine Health). *OPERATING; magnetic stethoscope holder still selling at stethngo.com with bulk pricing for healthcare facilities.*
 - **StyloSonic** ([2021](years/2021.md): LS 1st). Not Listed in archive. *Operating; PitchBook profile current; 2022 paper in Photoacoustics; in Wayfinder accelerator.*
 
 ## T

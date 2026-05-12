@@ -1036,12 +1036,13 @@
     {
       "team": "Curbd / SwappIt",
       "year": 2019,
-      "award": "Track Award (Consumer Services) 2nd (tied)",
-      "summary": "Tied 2nd: Curbd (driveway parking app) and SwappIt (streetwear trading platform). SwappIt was admitted to EvoNexus' incubator shortly after the competition but no later public traction surfaces.",
+      "award": "Track Award (Consumer Services) 2nd (tied; $5,000 each)",
+      "summary": "Tied 2nd: Curbd (driveway parking app) and SwappIt (streetwear trading platform). SwappIt was admitted to EvoNexus' incubator shortly after the competition but no later public traction surfaces. Curbd team page (curbdparking.com) lists Farbod Rafezy (UCI Computer Science, Google Student Innovator; Lead Engineer), Iman Enayati (UCLA Psychobiology; Operations Manager), and Ryan Dang (UCI Computer Science; Software Developer); team-page footer last updated 2019.",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
-      "confidence": "researched 2026-05-10; no findable outcome",
+      "confidence": "researched 2026-05-10; team roster verified for Curbd 2026-05-12",
       "sources": [
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
+        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories",
+        "https://www.curbdparking.com/team.html"
       ]
     },
     {
@@ -1067,10 +1068,11 @@
       ]
     },
     {
-      "team": "Prophet Modeling",
+      "team": "Prophet Predictive Modeling",
+      "team_aliases": ["Prophet Modeling"],
       "year": 2020,
       "award": "Track Award (Consumer Services) 2nd",
-      "summary": "Predictive modeling for money management services. No traceable post-competition activity.",
+      "summary": "AI-based money management services for accredited investors. No traceable post-competition activity. Name corrected 2026-05-12 from 'Prophet Modeling' to 'Prophet Predictive Modeling' per Merage 2020 press release.",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "researched 2026-05-10; no findable outcome",
       "sources": [
