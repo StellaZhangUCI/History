@@ -4,19 +4,51 @@
 
 This file captures substantive changes to the archive. For per-commit detail, run `git log`.
 
-## Coverage at a glance (current, 2026-05-11)
+## Coverage at a glance (current, 2026-05-12)
 
 | Aspect                          | Status                                                                                          |
 |---------------------------------|-------------------------------------------------------------------------------------------------|
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
 | Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
-| Outcomes researched             | 91 teams                                                                                        |
-| Outcome distribution            | 52 NO_PUBLIC_OUTCOME_FOUND / 30 OPERATING / 3 PIVOTED / 3 DORMANT / 2 ACQUIRED / 1 SHUT DOWN    |
+| Outcomes researched             | 98 teams                                                                                        |
+| Outcome distribution            | 58 NO_PUBLIC_OUTCOME_FOUND / 30 OPERATING / 4 PIVOTED / 3 DORMANT / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
-| Notable pivot to going concern  | Wing to Wing Assistant ($2.1M seed Oct 2021)                                                    |
+| Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (commercialization stalled)    |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
-| Verification audit              | 14 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed |
+| Verification audit              | 26 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed; latest pass added the 2017 track-winners cohort |
+
+## 2026-05-12
+
+### Added (twenty-sixth verification pass: 2017 track-winners cohort + COMPAS / OpsGuru trajectory)
+
+Closed out the 2017 track-winners cohort that was the largest remaining concentration of unresearched teams. Seven new outcomes added to `data/outcomes.json`; six are NO_PUBLIC_OUTCOME_FOUND (Venom-Aid, Salux Diagnostics, Failsafe, Memorlane, Eater Zone, Element: B2B2C) and one is PIVOTED (COMPAS - the fourth PIVOTED entry in the archive).
+
+**COMPAS / OpsGuru finding (verified against two primary sources, 2026-05-12):**
+
+- COMPAS (Clinical Operations Management & Patient Analytics System) was developed inside UCI Health's Ops IT department to track patient flow in clinics; reported to have reduced patient cycle time from 86 to 62 minutes and won the 2016 CAPH/SNI Quality Leaders Awards top prize.
+- In 2017 the IP was licensed to a new commercial spin-out, **OpsGuru**, founded as CEO by Jeff Greenberg, an Applied Innovation EiR (UC Tech News, 2018-06-06; UCI Beall Startup Spotlight, 2017-11).
+- Curtis Hendrick (COMPAS lead, UCI Health director of Client Services and Innovation) on the licensing rationale: "UCI is not a software sales company. We figured we were best off licensing it to another company, and having that company take it to market."
+- The OpsGuru commercialization vehicle has no public footprint after 2018. The current opsguru.com is an unrelated Canadian AWS consultancy (Carbon60 Operating Co LTD) - same brand-confusion failure mode previously caught with Sentinel/Spotter.ai, Omni Pet Club/OmniPet, BrainCheck/BrainCheck-Houston, ZeroWatt/Zerowatt-Energy. Explicitly disambiguated in the OUTCOMES entry.
+- Underlying COMPAS technology continued at UCI Health as an internal tool (per UC Tech News coverage).
+
+**Roster correction propagated across files**: UCI Informatics coverage identifies Aaron Soto (MHCID graduate student) as a fifth COMPAS team member alongside the four originally listed (Dr. Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover). Added to `years/2017.md`, `data/nvc.json`, and `TEAMS.md`.
+
+**Memorlane signal-quality note**: The only post-2017 signal for Memorlane is a RocketReach profile that still associates founder Evan Schein with "Memorlane Founder." This is a stale-affiliation listing, not evidence of an active company - explicitly flagged as such in the OUTCOMES entry rather than upgraded to OPERATING.
+
+**Files touched:**
+
+- `data/outcomes.json`: +7 outcomes (Venom-Aid, Salux Diagnostics, Failsafe, Memorlane, Eater Zone, Element: B2B2C, COMPAS); summary_stats updated (teams_researched 91 -> 98, NO_PUBLIC_OUTCOME_FOUND 52 -> 58, PIVOTED 3 -> 4)
+- `data/teams.json`: 7 outcome fields populated via `scratch/sync_teams_outcomes.js` + `scratch/recompact_teams.js`; stats.teams_with_outcome_researched 91 -> 98
+- `data/nvc.json`: COMPAS member list extended by Aaron Soto
+- `OUTCOMES.md`: 2017 section gained 7 new entries; pattern summary point #6 reworded; header date 2026-05-11 -> 2026-05-12
+- `years/2017.md`: COMPAS members row updated; post-competition outcomes section gained two bullet groups; new "Roster note" section
+- `TEAMS.md`: 7 entries gained status notes; COMPAS gained Aaron Soto; header date 2026-05-11 -> 2026-05-12
+- `BACKLOG.md`: Priority 5 list cut from 26 to 19 unresearched teams; pattern narrative updated to "three outcomes-research passes"
+- `README.md`: Outcome distribution table refreshed (91/52/30/3 -> 98/58/30/4); "Where Are They Now?" teaser updated; narrative paragraph reworded to call out the 26th-pass coverage closure
+- `CHANGELOG.md`: Coverage-at-a-glance table refreshed; this entry added
+
+Counts cross-check: 117 total teams - 98 researched = 19 unresearched. Matches teams.json `outcome === null` count.
 
 ## 2026-05-11
 

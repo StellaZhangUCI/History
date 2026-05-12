@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-11. Total teams indexed: 117.
+Last updated: 2026-05-12. Total teams indexed: 117.
 
 ## Legend
 
@@ -42,7 +42,7 @@ Last updated: 2026-05-11. Total teams indexed: 117.
 - **Circular** ([2021](years/2021.md): SE 1st). Caleb Finn, Anjan Rana Magar. *Likely defunct; no follow-on activity after 2022.*
 - **CleanHydro** ([2025](years/2025.md): SE 1st). Not Listed.
 - **Closed Loop Plastics** ([2018](years/2018.md): TS 2nd). William Amos, Aldrin Lupisan, Jesse Jackson, Sharon To, Ivette Morales. *Likely shut down; closedloopplastics.com now serves a Sedo parking page.*
-- **COMPAS** ([2017](years/2017.md): BP 2nd). Dr. Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover.
+- **COMPAS** ([2017](years/2017.md): BP 2nd). Dr. Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover, Aaron Soto. *PIVOTED: IP licensed in 2017 to OpsGuru, a commercial spin-out that has no public footprint after 2018; underlying COMPAS tech continued as an internal UCI Health tool. See [OUTCOMES.md#2017](OUTCOMES.md#2017).*
 - **Conshus Clothing** ([2020](years/2020.md): SE 1st). Arneeb Mahbub, Parth. *No public outcome found; likely dormant.*
 - **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *Dormant (likely); surfaces only as an early-stage signup form.*
 - **Curaflow** ([2016](README.md#pre-2017-editions-20092016)). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin.
@@ -55,9 +55,9 @@ Last updated: 2026-05-11. Total teams indexed: 117.
 
 ## E
 
-- **Eater Zone** ([2017](years/2017.md): CS 2nd). Jonathan Kumamoto, Anna Zhang, Angela Lao, Helen Hu.
+- **Eater Zone** ([2017](years/2017.md): CS 2nd). Jonathan Kumamoto, Anna Zhang, Angela Lao, Helen Hu. *No public outcome found (researched 2026-05-12).*
 - **ELF Therapeutics / eLysis** ([2019](years/2019.md): TS 1st, LS 1st). Not Listed in archive; co-founders include Joon You, Michael Hill PhD, Dr. Steve Yoelin per follow-on coverage. *Operating as eLysis Inc.; raised ~$400K non-dilutive; pre-clinical-trial.*
-- **Element: B2B2C** ([2017](years/2017.md): BP 1st). Simon Loo, Brianne Pena, Shifa Safeeq, Scott Winter. *Simon Loo previously appeared on FunBand in 2016.*
+- **Element: B2B2C** ([2017](years/2017.md): BP 1st). Simon Loo, Brianne Pena, Shifa Safeeq, Scott Winter. *Simon Loo previously appeared on FunBand in 2016. No public outcome found (researched 2026-05-12).*
 - **EmbryLux** ([2016](README.md#pre-2017-editions-20092016): GP). Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran. *No findable commercial outcome.*
 - **Embryologic** ([2019](years/2019.md): LS 2nd). Not Listed.
 - **EmpowerMi** ([2022](years/2022.md): BP 2nd). Not Listed.
@@ -66,7 +66,7 @@ Last updated: 2026-05-11. Total teams indexed: 117.
 
 ## F
 
-- **Failsafe** ([2017](years/2017.md): CP 2nd). Natalie Sweis, Jasmine Yu, Issa Sweis.
+- **Failsafe** ([2017](years/2017.md): CP 2nd). Natalie Sweis, Jasmine Yu, Issa Sweis. *No public outcome found (researched 2026-05-12).*
 - **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson. *No public outcome found. An earlier draft of this archive linked First Step Diagnostics to NeuroQure; verification on 2026-05-11 disconfirmed that connection (see OUTCOMES.md).*
 - **Flare** ([2024](years/2024.md): CP 1st). Not Listed.
 - **forMED Technologies** ([2022](years/2022.md): LS 1st). Aryan Agarwal, Ruben Shakya, Francis Aguas. *No public outcome found.*
@@ -114,7 +114,7 @@ Last updated: 2026-05-11. Total teams indexed: 117.
 - **Maslow Construction Robots** ([2016](README.md#pre-2017-editions-20092016)). Andy Truong.
 - **MEGAL!NE** ([2013](README.md#pre-2017-editions-20092016)): TechPortal Calit2 Residency Award. Not Listed.
 - **Mechanodontics** ([2018](years/2018.md): LS 1st). Zahra Mamaghani, Mahdi Tehrani, Mehdi Peikar, Ishita, James Wratten. *Operating as BRIUS Technologies (Carrollton, TX); rebrand confirmed via Crunchbase / CB Insights; $46.2M total funding per Tracxn / Fundz / MergerLinks; Series B $19.5M led by View Ventures (May 2025); Brava commercial launch June 30, 2022.*
-- **Memorlane** ([2017](years/2017.md): CS 1st). Evan Schein, Yocelyn Recinos.
+- **Memorlane** ([2017](years/2017.md): CS 1st). Evan Schein, Yocelyn Recinos. *No public outcome found (researched 2026-05-12); only post-competition signal is a stale RocketReach founder-affiliation listing.*
 - **MinuTax** ([2025](years/2025.md): CS 2nd). Not Listed.
 - **MONI** ([2021](years/2021.md): AF, CP 1st). Not Listed.
 - **MoodCloud** ([2021](years/2021.md): CS 1st, tied). Jimmy Nguyen.
@@ -159,7 +159,7 @@ Last updated: 2026-05-11. Total teams indexed: 117.
 
 ## S
 
-- **Salux Diagnostics** ([2017](years/2017.md): LS 2nd). Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Kevin Trieu.
+- **Salux Diagnostics** ([2017](years/2017.md): LS 2nd). Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Kevin Trieu. *No public outcome found (researched 2026-05-12); appears to have been a UCI senior design project.*
 - **Sayenza Biosciences** ([2022](years/2022.md): LS 2nd). Dr. Derek Banyard. *Operating; clinical-stage adipose-tissue regenerative-medicine company; ~$1.16M raised; California Life Sciences FAST Spring 2024 cohort.*
 - **Sentinel** ([2024](years/2024.md): GP, BP 1st). Kyle Deck, Michael Ross, Cody He, Spike O'Carrol, Natan Ampudia, Kevin Wu. *Status unclear as of 2024-09 (working MVP per ANTrepreneur). An earlier draft inferred a connection to Spotter.ai's "Sentinel" product based on naming overlap; verification on 2026-05-11 could not confirm the connection. Treat the absorption claim as unverified.*
 - **ServEasy** ([2025](years/2025.md): BP 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
@@ -186,7 +186,7 @@ Last updated: 2026-05-11. Total teams indexed: 117.
 
 - **VagAligna** ([2023](years/2023.md): GF Winner, LS 2nd). Fiza Qureshi, Hailey Matyac, Angie Espino, Maile Adams. *No public outcome found; likely early-stage R&D or dormant. Founder Fiza Qureshi has moved on professionally.*
 - **ValveStrong** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 2nd ($7,500); hybrid heart valve prostheses. Not Listed.
-- **Venom-Aid** ([2017](years/2017.md): LS 1st). Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien.
+- **Venom-Aid** ([2017](years/2017.md): LS 1st). Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien. *No public outcome found (researched 2026-05-12); appears tied to undergraduate chemistry research with no commercial follow-on.*
 - **Voltek** ([2020](years/2020.md): CP 2nd). Not Listed.
 - **VolunteerCrowd** ([2019](years/2019.md): SE 1st). Amy von Kaenel. *Pivoted then likely shut down; discontinued membership/verification/app on 2023-01-01; volunteercrowd.com now returns 404.*
 

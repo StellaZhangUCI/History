@@ -125,6 +125,79 @@
       ]
     },
     {
+      "team": "Venom-Aid",
+      "year": 2017,
+      "award": "Track Award (Life Sciences) 1st",
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome",
+      "summary": "Researched 2026-05-12. Team (Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien) appears tied to undergraduate chemistry research on broad-spectrum anti-venom material. No Crunchbase profile, no commercial site, no follow-on biotech entity traceable.",
+      "sources": []
+    },
+    {
+      "team": "Salux Diagnostics",
+      "year": 2017,
+      "award": "Track Award (Life Sciences) 2nd",
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome",
+      "summary": "Researched 2026-05-12. Appears to have been a UCI senior design project (rapid diagnostic for burn injuries). A UCI design-page reference exists, but no Crunchbase profile, surviving company site, or post-2017 commercial activity is locatable.",
+      "sources": []
+    },
+    {
+      "team": "Failsafe",
+      "year": 2017,
+      "award": "Track Award (Consumer Products) 2nd",
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome",
+      "summary": "Researched 2026-05-12. Personal-safety mobile app concept (Natalie Sweis, Jasmine Yu, Issa Sweis). Listed in 2017 Beall/Butterworth records. No App Store presence, no Crunchbase, no surviving site. The 'Failsafe' name is heavily overloaded in other product categories which obscures search.",
+      "sources": []
+    },
+    {
+      "team": "Memorlane",
+      "year": 2017,
+      "award": "Track Award (Consumer Services) 1st",
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome",
+      "summary": "Researched 2026-05-12. The only post-2017 signal is a RocketReach profile that still associates founder Evan Schein with 'Memorlane Founder' - a stale-affiliation listing rather than evidence of an active company. No App Store presence, no surviving site, no press coverage post-2017.",
+      "sources": [
+        "https://rocketreach.co/evan-schein-email_37547754"
+      ]
+    },
+    {
+      "team": "Eater Zone",
+      "year": 2017,
+      "award": "Track Award (Consumer Services) 2nd",
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome",
+      "summary": "Researched 2026-05-12. Homemade-style cuisine delivery for college campuses (Jonathan Kumamoto, Anna Zhang, Angela Lao, Helen Hu). No surviving site or follow-on company traceable.",
+      "sources": []
+    },
+    {
+      "team": "Element: B2B2C",
+      "year": 2017,
+      "award": "Track Award (Business Products) 1st",
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome",
+      "summary": "Researched 2026-05-12. E-commerce automation for patient delivery (Simon Loo, Brianne Pena, Shifa Safeeq, Scott Winter). Simon Loo appeared as a repeat finalist on other UCI NVC teams. No standalone Element: B2B2C company entity locatable.",
+      "sources": []
+    },
+    {
+      "team": "COMPAS",
+      "team_aliases": [
+        "OpsGuru (commercialization vehicle, 2017 spin-out)"
+      ],
+      "year": 2017,
+      "award": "Track Award (Business Products) 2nd",
+      "category": "PIVOTED",
+      "confidence": "likely",
+      "summary": "COMPAS (Clinical Operations Management & Patient Analytics System) was developed inside UCI Health's Ops IT department to track patient flow in clinics; reported to have reduced patient cycle time from 86 to 62 minutes and won the 2016 CAPH/SNI Quality Leaders Awards top prize. In 2017 the IP was licensed to a new commercial spin-out, OpsGuru (CEO Jeff Greenberg, an Applied Innovation EiR), to take it to market. Curtis Hendrick is quoted saying 'UCI is not a software sales company. We figured we were best off licensing it to another company, and having that company take it to market.' The OpsGuru commercialization vehicle has no public footprint after 2018; the current opsguru.com is an unrelated Canadian AWS consultancy under Carbon60 Operating Co LTD. The underlying COMPAS technology continued at UCI Health as an internal tool. 2026-05-12 research also identifies Aaron Soto (UCI MHCID graduate student) as an additional team member not previously listed in the archive.",
+      "licensed_to": "OpsGuru (2017 spin-out, no public footprint after 2018)",
+      "sources": [
+        "https://uctechnews.ucop.edu/uc-hospital-it-innovation-launches-a-business/",
+        "https://innovation.uci.edu/2017/11/startup-spotlight-opsguru/",
+        "https://www.informatics.uci.edu/mhcid-student-aaron-soto-part-of-second-place-team-in-uci-new-venture-competition/"
+      ]
+    },
+    {
       "team": "Mechanodontics",
       "year": 2018,
       "award": "Track Award (Life Sciences) 1st",
@@ -1078,15 +1151,15 @@
     }
   ],
   "summary_stats": {
-    "teams_researched": 91,
+    "teams_researched": 98,
     "by_category": {
       "OPERATING": 30,
       "ACQUIRED": 2,
       "EXITED_OTHER": 0,
-      "PIVOTED": 3,
+      "PIVOTED": 4,
       "DORMANT": 3,
       "SHUT_DOWN": 1,
-      "NO_PUBLIC_OUTCOME_FOUND": 52
+      "NO_PUBLIC_OUTCOME_FOUND": 58
     },
     "notable_exits": [
       {

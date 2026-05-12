@@ -2,7 +2,7 @@
 
 [← Back to main archive](README.md)
 
-Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-11 (eleven verification passes against cited sources completed; thirteen factual errors / hallucinations corrected and one stale derived figure caught).
+Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-12 (98 teams researched; 26th verification pass added the 2017 track-winners cohort including the COMPAS / OpsGuru licensing trajectory).
 
 ## Outcome categories
 
@@ -26,7 +26,7 @@ Each entry includes a confidence label: *confirmed* (multiple or authoritative s
 3. **One real pivot that became a going concern:** Wing -> Wing Assistant (managed-VA service, $2.1M seed October 2021). Still operating in 2025 to 2026 per UCI Beall Innovation coverage.
 4. **Consumer-app and social-enterprise winners from 2018 to 2022 have largely gone dark**, but with notable exceptions: CarDana (2018 SE 2nd, operating); Wing / Wing Assistant; Nutripair (2022 BP 1st, $25K Verizon grant 2025); Omni Pet Club (2023 CP 2nd, operating via direct sales at omnipetclub.com).
 5. **Strongest non-medical operating company is 123 Baby Box** (Grand Prize 2020): raised a $1.2M oversubscribed round in 2023 (round stage not specified in the cited TechCrunch source; Merage source title says "oversubscribed round of $1.2 million"). Growth metrics per TechCrunch: 245% growth, tripled revenue, 5x MRR (2021 baseline), with a target of $100K MRR / $1M ARR.
-6. **The 2017 cohort aged poorly.** Of the four highest-profile teams, only Purist has a traceable forward trajectory.
+6. **The 2017 cohort aged poorly.** Of the eleven finalist entries researched on 2026-05-12, only Purist has a traceable independent forward trajectory. COMPAS is a partial exception: the underlying patient-flow technology was licensed to a 2017 commercial spin-out (OpsGuru) that itself has no public footprint after 2018, while the technology continues internally inside UCI Health.
 7. **Closed Loop Plastics is the most surprising decline:** real press coverage, a Long Beach facility, and outside investment, yet the website is a parked domain in 2026.
 8. **Sentinel (2024 Grand Prize)** had a working MVP as of September 2024 (per ANTrepreneur). A research-agent claim that the team was absorbed by Spotter.ai was inferred from product-name overlap but is **unverified** on 2026-05-11; neither the cited UCI source nor the Spotter.ai page documents a connection. Current status: likely still operating independently in some form; no post-September-2024 coverage located.
 9. **Recent winners (2024 to 2025) are too early to evaluate.** Most are still on UCI subdomains in design-review or pre-incorporation stages.
@@ -71,6 +71,29 @@ Sources: [Crunchbase profile](https://www.crunchbase.com/organization/esqalate),
 **BrainCheck** (Consumer Products 1st): NO PUBLIC OUTCOME FOUND. *Confidence: likely never commercialized.*
 This was a UCI senior design / research project rather than an incorporated startup. Open-source code lives on GitHub but no company entity is traceable. A separate Houston-based "BrainCheck Inc." (cognitive assessment for clinicians) is unrelated.
 Sources: [UCI BCI faculty page](https://faculty.sites.uci.edu/ucibci/2017/03/29/portable-low-cost-and-open-source-brain-computer-interface-bci-arduino-based-system/)
+
+**Venom-Aid** (Life Sciences 1st): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+The 2017 team (Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien) appears tied to undergraduate chemistry research on broad-spectrum anti-venom material. No Crunchbase profile, no commercial site, no follow-on biotech entity traceable on 2026-05-12.
+
+**Salux Diagnostics** (Life Sciences 2nd): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Appears to have been a UCI senior design project (rapid diagnostic for burn injuries). A UCI design-page reference exists, but no Crunchbase profile, surviving company site, or post-2017 commercial activity is locatable on 2026-05-12.
+
+**Failsafe** (Consumer Products 2nd): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Personal-safety mobile app concept (Natalie Sweis, Jasmine Yu, Issa Sweis). Listed in 2017 Beall / Butterworth records. No App Store presence, no Crunchbase, no surviving site. The "Failsafe" name is heavily overloaded in other product categories which obscures search.
+
+**Memorlane** (Consumer Services 1st): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+The only post-2017 signal is a RocketReach profile that still associates founder Evan Schein with "Memorlane Founder" - a stale-affiliation listing rather than evidence of an active company. No App Store presence, no surviving site, no press coverage post-2017.
+Sources: [RocketReach (stale affiliation only)](https://rocketreach.co/evan-schein-email_37547754)
+
+**Eater Zone** (Consumer Services 2nd): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Homemade-style cuisine delivery for college campuses (Jonathan Kumamoto, Anna Zhang, Angela Lao, Helen Hu). No surviving site or follow-on company traceable on 2026-05-12.
+
+**Element: B2B2C** (Business Products 1st): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+E-commerce automation for patient delivery (Simon Loo, Brianne Pena, Shifa Safeeq, Scott Winter). Simon Loo appeared as a repeat finalist on other UCI NVC teams in subsequent years (see cross-year analytics). No standalone "Element: B2B2C" company entity locatable on 2026-05-12.
+
+**COMPAS** (Business Products 2nd): PIVOTED (IP licensed to OpsGuru spin-out, 2017; commercialization stalled). *Confidence: likely.*
+COMPAS (Clinical Operations Management & Patient Analytics System) was developed inside UCI Health's Ops IT department to track patient flow in clinics, reportedly reducing patient cycle time from 86 to 62 minutes and winning the 2016 CAPH/SNI Quality Leaders Awards top prize. In 2017 the IP was licensed to a new commercial spin-out, OpsGuru (CEO Jeff Greenberg, an Applied Innovation EiR), to take it to market. Curtis Hendrick, the COMPAS lead and UCI Health director of Client Services and Innovation, is on record explaining the licensing rationale: "UCI is not a software sales company. We figured we were best off licensing it to another company, and having that company take it to market." The OpsGuru commercialization vehicle has no public footprint after 2018; the current `opsguru.com` is an unrelated Canadian AWS consultancy under Carbon60 Operating Co LTD. The underlying COMPAS technology continued at UCI Health as an internal tool. 2026-05-12 research also identifies Aaron Soto (UCI MHCID graduate student) as an additional COMPAS team member not previously listed in the archive's per-year table.
+Sources: [UC Tech News 2018 coverage](https://uctechnews.ucop.edu/uc-hospital-it-innovation-launches-a-business/), [UCI Beall Startup Spotlight 2017](https://innovation.uci.edu/2017/11/startup-spotlight-opsguru/), [UCI Informatics on Aaron Soto](https://www.informatics.uci.edu/mhcid-student-aaron-soto-part-of-second-place-team-in-uci-new-venture-competition/)
 
 ## 2018
 

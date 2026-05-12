@@ -4,7 +4,7 @@
 
 This is a concrete list of gaps in the archive. If you want to contribute, this is the menu. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the submission process.
 
-Last reviewed: 2026-05-12.
+Last reviewed: 2026-05-12 (26th pass).
 
 ## Priority 1: Time-sensitive gaps
 
@@ -122,27 +122,26 @@ For years where this archive currently records only the Grand Prize / overall wi
 
 ## Priority 5: Outcome research (extending OUTCOMES.md) - substantially completed 2026-05-12
 
-Two outcomes-research passes (2026-05-09 and 2026-05-10) attempted **91 of 117 teams** in the archive. All teams flagged as "still unresearched" in earlier versions of this BACKLOG have now been research-attempted; their NO_PUBLIC_OUTCOME_FOUND results were propagated into [`data/outcomes.json`](data/outcomes.json) in the 23rd verification pass (2026-05-12).
+Three outcomes-research passes (2026-05-09, 2026-05-10, and the 2026-05-12 26th pass) have now attempted **98 of 117 teams** in the archive. All teams flagged as "still unresearched" in earlier versions of this BACKLOG have been research-attempted; the 26th pass added the seven 2017 track-winners cohort, including the COMPAS / OpsGuru licensing trajectory.
 
 **Notable confirmed outcomes** (highlighted from earlier passes):
 
 - No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022; third documented major outcome)
 - Wing rebranded to Wing Assistant, $2.1M seed in 2021
 - Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision: all OPERATING
+- COMPAS (2017 BP 2nd): IP licensed in 2017 to OpsGuru, a commercial spin-out (CEO Jeff Greenberg) that itself has no public footprint after 2018. Internal UCI Health deployment continued. Categorized as PIVOTED.
 
-**Remaining 26 unresearched teams** (precise list from programmatic cross-check on 2026-05-12):
+**Remaining 19 unresearched teams** (precise list from programmatic cross-check on 2026-05-12):
 
 - **2026 semi-finalists (3)** (will be researched after the May 21, 2026 Grand Finale):
   - AegleBio, Billify, NeuroBoost
-- **2017 track winners (7)**:
-  - Venom-Aid (LS 1st), Salux Diagnostics (LS 2nd), Failsafe (CP 2nd), Memorlane (CS 1st), Eater Zone (CS 2nd), Element: B2B2C (BP 1st), COMPAS (BP 2nd)
 - **2013 sub-winners (5)**:
   - ValveStrong (Campus Wide 2nd), NoreGen (Campus Wide 3rd), Nobles Medical Technology (Undergrad), MEGAL!NE (TechPortal Calit2 Award), Bloom Diagnostics (UCI Environment Institute Award)
 - **2016 finalists (10)** (track placements unknown):
   - CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots
 - **2009 (1)**: Happy Sleep (undergraduate division winner)
 
-Pattern from two outcomes-research passes: most consumer / social-enterprise teams from 2019-2022 simply produced no public footprint after the competition. The 52 NO_PUBLIC_OUTCOME_FOUND entries in data/outcomes.json document this exhaustively. A third research pass on these teams is unlikely to surface new findings unless access to the password-protected NVC PDF reports becomes available.
+Pattern from three outcomes-research passes: most consumer / social-enterprise teams from 2017-2022 simply produced no public footprint after the competition. The 58 NO_PUBLIC_OUTCOME_FOUND entries in data/outcomes.json document this exhaustively. A fourth research pass on these teams is unlikely to surface new findings unless access to the password-protected NVC PDF reports becomes available.
 
 ## Priority 6: Confirming ambiguous items
 
