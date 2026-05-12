@@ -50,7 +50,7 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 ## D
 
 - **Dental Insights** ([2016](README.md#pre-2017-editions-20092016)). Michael Bennett, Andy Fields, Vang Kou Khang.
-- **DermaVision** ([2024](years/2024.md): SE 2nd). Ashley Im, Alejandra Reyes, Mitchell Frazeur, Hao Ngo. *Operating (likely, student-team stage as **DermaVision Technologies**); placed 3rd at 2024 BMES Medtronic Design Competition; UC IP available for licensing.*
+- **DermaVision** ([2024](years/2024.md): SE 2nd). Ashley Im, Alejandra Reyes, Mitchell Frazeur, Hao Ngo. *Operating (likely, student-team stage as **DermaVision Technologies**); competed in the 2024 BMES Medtronic Student Design Competition (sources conflict on placement: BMES official says First Place; team's own site says third place). UC Tech Transfer NCD/34412 currently says "not available for licensing" as of 2026-05-11.*
 
 ## E
 
@@ -191,7 +191,7 @@ Last updated: 2026-05-11. Total teams indexed: 112.
 
 ## Z
 
-- **ZeroWatt Technologies** ([2009](README.md#pre-2017-editions-20092016): GP). Payam Heydari (faculty advisor), Fred Tzeng, Vipul Jain, Howard Ko, Thomas Pearson. *No public outcome found; likely defunct.*
+- **ZeroWatt Technologies** ([2009](README.md#pre-2017-editions-20092016): GP). Payam Heydari (Associate Professor & co-founder), Fred Tzeng (PhD student & co-founder), Vipul Jain (PhD student), Howard Ko (MBA), Thomas Pearson (MBA alumnus); coach Goran Matijasevic. *No public outcome found; likely defunct.*
 
 ## Cross-references
 

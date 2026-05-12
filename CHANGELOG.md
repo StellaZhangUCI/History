@@ -20,6 +20,15 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (sixteenth verification pass: more residual propagation)
+
+Two more stale items found:
+
+- **TEAMS.md ZeroWatt entry still said "Payam Heydari (faculty advisor)"** even though the 6th pass corrected this in README and data/nvc.json. Updated to "Associate Professor & co-founder" with the full team role detail.
+- **DermaVision "available for licensing" + "placed third"** still in data/outcomes.json (line 582), years/2024.md (line 33), and TEAMS.md (line 53), even though the 5th pass clarified the UC Tech Transfer page now says "not available" AND noted the BMES placement discrepancy. All three locations now updated to match OUTCOMES.md.
+
+Sixth consecutive consistency-audit pass to catch propagation failures. The empirical "every round finds something" pattern continues to hold.
+
 ### Fixed (fourteenth verification pass: more propagation cleanup)
 
 Three more stale references found and corrected:
