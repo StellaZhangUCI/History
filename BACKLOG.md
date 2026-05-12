@@ -4,13 +4,13 @@
 
 This is a concrete list of gaps in the archive. If you want to contribute, this is the menu. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the submission process.
 
-Last reviewed: 2026-05-11.
+Last reviewed: 2026-05-12.
 
 ## Priority 1: Time-sensitive gaps
 
 ### 2026 Grand Finale results
 
-The 2026 Grand Finale is scheduled for May 21, 2026 (11 days from this review). After it concludes, the archive needs:
+The 2026 Grand Finale is scheduled for May 21, 2026 (9 days from this review). After it concludes, the archive needs:
 
 - Grand Prize, Runner-Up, Audience Favorite, MIE Award, and any other specialty awards
 - Track 1st / 2nd winners for all 5 standard tracks (Business Products & Services, Consumer Products, Consumer Services, Life Sciences, Social Enterprise)
@@ -116,7 +116,7 @@ For years where this archive currently records only the Grand Prize / overall wi
 
 - **2009:** track winners besides ZeroWatt Technologies and Happy Sleep (undergraduate division)
 - **2012:** tracks beyond Prescient Imaging
-- **2013:** tracks beyond Laser Associated Sciences
+- ~~**2013:** tracks beyond Laser Associated Sciences~~ - resolved 2026-05-11: ValveStrong (Campus Wide 2nd, $7,500), NoreGen (Campus Wide 3rd, $3,500), Nobles Medical Technology (Undergrad Division, $2,500), MEGAL!NE (TechPortal Calit2 Residency Award), Bloom Diagnostics (UCI Environment Institute Award) all added.
 - **2014:** tracks beyond iBesties
 - **2016:** track placements among the 10 other named finalists (members are now confirmed for all 10; placements within the Life Sciences / CleanTech / IP Award structure are still missing)
 

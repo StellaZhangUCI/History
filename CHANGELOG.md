@@ -20,6 +20,14 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 
 ## 2026-05-11
 
+### Fixed (twenty-second verification pass: BACKLOG.md cleanup)
+
+Audited BACKLOG.md for stale references after 21 passes of corrections.
+
+- **"Last reviewed" date**: 2026-05-11 -> 2026-05-12.
+- **"11 days from this review"**: was both wrong arithmetically (May 11 to May 21 is 10 days, not 11) AND now stale. Updated to "9 days from this review" (May 12 to May 21).
+- **Priority 4 (Pre-2017 track winners) 2013 entry**: struck-through as resolved with a note about the five 2013 sub-winners (ValveStrong, NoreGen, Nobles Medical Technology, MEGAL!NE, Bloom Diagnostics) that were added in the 7th and 17th passes.
+
 ### Fixed (twenty-first verification pass: URL validity, sponsor consistency, Happy Sleep prize)
 
 Ran 5 more programmatic checks: URL well-formedness, Pre-2017 README/JSON team-name consistency, TOC anchors, sponsor list cross-file, Happy Sleep teams.json prize info.
