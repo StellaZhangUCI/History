@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (33rd pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (34th pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -51,7 +51,7 @@ Last updated: 2026-05-12 (33rd pass). Total teams indexed: 117.
 ## D
 
 - **Dental Insights** ([2016](README.md#pre-2017-editions-20092016): IT/Web 1st, $10,000). Michael Bennett, Andy Fields, Vang Kou Khang. *No public outcome found (researched 2026-05-12); dental-claims authentication software project.*
-- **DermaVision** ([2024](years/2024.md): SE 2nd). Ashley Im, Alejandra Reyes, Mitchell Frazeur, Hao Ngo. *Operating (likely, student-team stage as **DermaVision Technologies**); competed in the 2024 BMES Medtronic Student Design Competition (sources conflict on placement: BMES official says First Place; team's own site says third place). UC Tech Transfer NCD/34412 currently says "not available for licensing" as of 2026-05-11.*
+- **DermaVision** ([2024](years/2024.md): SE 2nd). Ashley Im (BME 4th-year, algorithm / data-analysis lead), Alejandra Reyes, Mitchell Frazeur, Hao Ngo. *OPERATING (likely, student-team stage as **DermaVision Technologies**); competed in the 2024 BMES Medtronic Student Design Competition (sources conflict on placement: BMES official says First Place; team's own site says third place). Additional 2024 recognition: $3,000 CALIT2 / UROP Interdisciplinary Research Team grant; UCI Engineering Dean's Choice Award. UC Tech Transfer NCD/34412 currently "not available for licensing" as of 2026-05-11.*
 
 ## E
 

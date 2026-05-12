@@ -17,9 +17,34 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 33 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass added Nutripair 2022 co-founder Bing Mo, enriched Sayenza Biosciences 2022 with founding date (Nov 2019) + Widgerow's Alastin / Galderma affiliation + $3.5M seed-round target, and ran a programmatic cross-file consistency audit (all 117 teams correctly aligned across nvc.json, teams.json, and outcomes.json) |
+| Verification audit              | 34 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass enriched DermaVision 2024 with $3K CALIT2 / UROP grant + Ashley Im role detail; also confirmed Shaka 2021 team roster was already complete and that 2021-NVC-Winners.pdf is password-protected (matches BACKLOG P1) |
 
 ## 2026-05-12
+
+### Added (thirty-fourth verification pass: DermaVision 2024 post-competition recognition + Shaka 2021 roster verification + another password-protected PDF confirmed)
+
+Small focused pass. One concrete enrichment plus two verifications-with-no-change.
+
+**DermaVision 2024 (Social Enterprise 2nd, $5,000) - post-competition recognition added**: Samueli BME 2024 design-symposium materials document a **$3,000 grant from the Interdisciplinary Research Team program hosted by CALIT2 and UROP**. Also captured: Ashley Im's role detail (fourth-year biomedical engineer leading the algorithm and data-analysis side of the project). The existing Dean's Choice Award + BMES placement context preserved. Confidence on OPERATING (likely; student-team stage) unchanged.
+
+**Shaka 2021 roster verification**: A 2026-05-12 search of UCI Beall + ocstartups coverage confirmed the existing Shaka team roster in `data/nvc.json` is complete and correct:
+- Melanie Wertzberger (CEO)
+- Austin Chauncey (CTO)
+- Preston Le (Research Analyst)
+- Agustine "Augie" Pimentel (Customer Success Specialist)
+
+No change needed. The team description matches: "remote-work culture-building platform with automatic employee pairing, company-challenge tools (walking competitions, canned-food drives), and community spaces for groups like book clubs / working parents."
+
+**Another password-protected PDF confirmed**: The 2021-NVC-Winners.pdf at `merage.uci.edu/_files/documents/beall-center/nvc/2021-NVC-Winners.pdf` is password-protected on direct download (1.7MB; confirmed 2026-05-12). This matches BACKLOG Priority 1 documentation. Would unlock the Hydroflow / MONI / HydroVasc / Health Libero prize amounts and rosters if access becomes available.
+
+**Files touched:**
+- `data/outcomes.json`: DermaVision summary extended with $3K CALIT2 / UROP grant + Ashley Im role detail; added Samueli BME design-symposium PDF source
+- `OUTCOMES.md`: DermaVision narrative entry expanded similarly
+- `TEAMS.md`: DermaVision entry annotated with Ashley Im role + the CALIT2 / UROP grant + Dean's Choice Award; date bumped to 34th pass
+- `BACKLOG.md`: last-reviewed bumped to 34th pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 34 passes; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - metadata-only enrichment of existing OPERATING entry), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Added (thirty-third verification pass: Nutripair co-founder + Sayenza founding-date enrichment + cross-file consistency audit)
 
