@@ -11,7 +11,7 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
 | Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
 | Outcomes researched             | 54 teams                                                                                        |
-| Outcome distribution            | 29 OPERATING / 15 NO_PUBLIC_OUTCOME_FOUND / 3 DORMANT / 3 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
+| Outcome distribution            | 30 OPERATING / 15 NO_PUBLIC_OUTCOME_FOUND / 3 DORMANT / 3 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
 | Notable pivot to going concern  | Wing to Wing Assistant ($2.1M seed Oct 2021)                                                    |
@@ -19,6 +19,22 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Verification audit              | 14 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed |
 
 ## 2026-05-11
+
+### Fixed (nineteenth verification pass: more programmatic checks - found another stale by_category)
+
+Ran additional programmatic checks: disclosed_cash sum vs total_2017_to_2025, year-file theme presence, teams_appearing_in_multiple_years count, outcomes by_category vs actual.
+
+Real issue caught:
+- **outcomes.json `summary_stats.by_category.OPERATING` was 29; actual count is 30.** Another off-by-one staleness. Earlier passes added Sentinel reclassification (PIVOTED -> OPERATING in 14th pass) and REMSYS reclassification (DORMANT -> OPERATING in 7th pass), but somewhere along the way the count was off. Now corrected: 30 OPERATING (55.6%). README outcome distribution and CHANGELOG "Coverage at a glance" updated to 30.
+
+Also caught a structural inconsistency:
+- **2019 Curbd / SwappIt "(Tie)" placement**: years/2019.md had "(Tie)" in the team column; data/nvc.json has "(Tie)" in the place field. Markdown updated to match JSON (place = "2nd (Tie)", team = "Curbd / SwappIt") for cross-file consistency. Verified all 9 year-file markdown tables now match data/nvc.json structurally.
+
+All clean from these checks:
+- disclosed_cash sum (777,500) matches stored total_2017_to_2025 OK
+- Theme strings present in each year md file OK
+- teams_appearing_in_multiple_years: stored 1 = actual 1 (Grad2Go) OK
+- Other 5 by_category counts (ACQUIRED, PIVOTED, DORMANT, SHUT_DOWN, NO_PUBLIC_OUTCOME_FOUND) all match OK
 
 ### Fixed (eighteenth verification pass: more programmatic checks)
 
