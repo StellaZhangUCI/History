@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (28th pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (29th pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -83,7 +83,7 @@ Last updated: 2026-05-12 (28th pass). Total teams indexed: 117.
 
 ## H
 
-- **HAI** ([2022](years/2022.md): CP 1st). Not Listed.
+- **HAI** ([2022](years/2022.md): CP 1st, $10,000). Yi-Ching (Wendy) Huang (CEO), Katrina Alberto (CMO), Ting-Ling (Tina) Kuo (CPO), Hsiao-Tung (Shelly) Liao (CFO), Tanaporn (Paul) Suwatnodom (COO), Pongthanit (Pong) Bisalputra (coach Massoomeh Kazerouni). *Sustainable jewelry from recycled ocean waste ("HAI" = "ocean" in Taiwanese); team pivoted from smartphone cases. Researched 2026-05-12.*
 - **Happy Sleep** ([2009](README.md#pre-2017-editions-20092016): undergraduate division winner, $3,500 + Best Concept Paper). Praveen De Silva, Kevin Hung. *No public outcome found (researched 2026-05-12); Bluetooth wristband alarm concept.*
 - **Health Libero** ([2021](years/2021.md): BP 2nd). Not Listed.
 - **Helios** ([2023](years/2023.md): BP 1st). Not Listed.
@@ -180,7 +180,7 @@ Last updated: 2026-05-12 (28th pass). Total teams indexed: 117.
 
 ## U
 
-- **UniSafe** ([2019](years/2019.md): BP 1st). Not Listed.
+- **UniSafe** ([2019](years/2019.md): BP 1st, $10,000). Rahul Sreedasyam (co-founder; senior BME at UCI Samueli). *Other team members not preserved in indexed public sources.*
 
 ## V
 

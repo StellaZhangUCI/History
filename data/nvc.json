@@ -587,8 +587,9 @@
           "team": "HAI",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Sustainable jewelry made from upcycled ocean plastic.",
-          "members": []
+          "project": "Sustainable jewelry made from recycled ocean waste; team pivoted from smartphone cases. 'HAI' means 'ocean' in Taiwanese.",
+          "members": ["Yi-Ching (Wendy) Huang (CEO)", "Katrina Alberto (CMO)", "Ting-Ling (Tina) Kuo (CPO)", "Hsiao-Tung (Shelly) Liao (CFO)", "Tanaporn (Paul) Suwatnodom (COO)", "Pongthanit (Pong) Bisalputra"],
+          "coach": "Massoomeh Kazerouni"
         },
         {
           "category": "Track Award (Consumer Products)",
@@ -934,8 +935,9 @@
           "team": "UniSafe",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Campus safety app with location sharing and escort features.",
-          "members": []
+          "project": "Campus safety app with location sharing and escort features. Alerts users to areas with registered sex offenders or frequent crime.",
+          "members": ["Rahul Sreedasyam (co-founder; senior in Biomedical Engineering, Henry Samueli School of Engineering)"],
+          "members_note": "Only co-founder Rahul Sreedasyam is named in indexed UCI Beall coverage; other team members remain Not Listed."
         },
         {
           "category": "Track Award (Business Products)",

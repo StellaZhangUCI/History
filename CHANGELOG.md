@@ -17,9 +17,41 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 28 passes against cited sources completed; 14 factual errors / hallucinations corrected (Prophet Modeling → Prophet Predictive Modeling per Merage primary source) + 5 stale derived figures or prose references caught and fixed; latest pass added Curbd roster, Steth 'n Go founder Omar Darwish, and the Prophet rename |
+| Verification audit              | 29 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass added the HAI 2022 full team roster (6 members + coach), UniSafe 2019 co-founder Rahul Sreedasyam, and a Hyperion Therapeutics $100K Proof-of-Product post-competition grant note |
 
 ## 2026-05-12
+
+### Added (twenty-ninth verification pass: HAI 2022 full team + UniSafe 2019 co-founder + Hyperion post-comp grant)
+
+Continued the Priority 2 "Not Listed" roster sweep across older years. Three concrete fills plus one possible-but-unconfirmed lead.
+
+**HAI 2022 (Consumer Products 1st, $10,000) - full team roster recovered** from Samueli engineering 2022 NVC coverage:
+- Yi-Ching (Wendy) Huang (CEO)
+- Katrina Alberto (CMO)
+- Ting-Ling (Tina) Kuo (CPO)
+- Hsiao-Tung (Shelly) Liao (CFO)
+- Tanaporn (Paul) Suwatnodom (COO)
+- Pongthanit (Pong) Bisalputra
+- Coach: Massoomeh Kazerouni
+
+Project description refined to reflect primary source: "Sustainable jewelry made from recycled ocean waste; team pivoted from smartphone cases. 'HAI' means 'ocean' in Taiwanese." This is the largest single-team roster fill of the audit (6 members + coach).
+
+**UniSafe 2019 (Business Products 1st, $10,000) - co-founder confirmed**: Rahul Sreedasyam (senior in Biomedical Engineering, UCI Henry Samueli School of Engineering). Other team members still Not Listed in indexed sources. Project description refined to capture the registered-sex-offender / crime-alert dimension noted in UCI Beall coverage.
+
+**Hyperion Therapeutics 2023 (Life Sciences 1st) - post-competition grant added**: A $100,000 UCI Beall Applied Innovation Proof-of-Product grant in 2023 (Hyperion's first non-NVC funding milestone, surfaced in this pass). Already reflected in the OUTCOMES.md narrative from a prior pass; now propagated to `data/outcomes.json` summary field for consistency.
+
+**Possible-but-unconfirmed: "giv" 2019 → Givsum**: A March 2020 UCI Beall "Where Are They Now?" feature on Givsum (founders Shawn Wehan CEO, Robert Kollar General Counsel; joined Wayfinder 2017) is consistent with the 2019 NVC "giv" team description ("charitable giving platform similar to Instagram"). However, none of the indexed sources explicitly state that Givsum competed at the 2019 NVC as "giv." Flagged as a possible link in BACKLOG with primary-source confirmation needed before adding to the archive - this is exactly the brand-confusion failure mode caught earlier with First Step Diagnostics, Sentinel, Omni Pet Club, etc.
+
+**Files touched:**
+- `data/nvc.json`: HAI 2022 members field populated (6 names + coach); UniSafe 2019 members partially populated; project descriptions refined for both
+- `data/outcomes.json`: Hyperion Therapeutics summary extended with the $100K Proof-of-Product grant
+- `years/2019.md`: UniSafe row updated with Rahul Sreedasyam
+- `years/2022.md`: HAI row updated with full 6-member roster + coach
+- `TEAMS.md`: HAI + UniSafe entries upgraded from "Not Listed"; date bumped to 29th pass
+- `BACKLOG.md`: Priority 2 2022 list dropped HAI (from 4 to 3 remaining); 2019 list dropped UniSafe (from 5 to 4 remaining); "giv possible → Givsum" lead added with disclaimer; last-reviewed bumped to 29th pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 29 passes; this entry added
+
+Cross-checks: outcomes.json by_category sums unchanged (no new outcomes), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Fixed (twenty-eighth verification pass: Prophet rename + Curbd roster + Steth 'n Go CEO)
 

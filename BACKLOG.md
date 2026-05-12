@@ -4,7 +4,7 @@
 
 This is a concrete list of gaps in the archive. If you want to contribute, this is the menu. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the submission process.
 
-Last reviewed: 2026-05-12 (28th pass).
+Last reviewed: 2026-05-12 (29th pass).
 
 ## Priority 1: Time-sensitive gaps
 
@@ -64,9 +64,9 @@ Teams below have no individual member names in indexed public sources. Best cand
 - Shower Power (Track Social Enterprise 1st)
 - TeamMade (Track Social Enterprise 2nd; listed only as "UCI/OCC Partnership Team")
 
-### 2022 (4 teams)
+### 2022 (3 teams remaining)
 - Enjovu Paper (Runner-Up + Track Social Enterprise 2nd)
-- HAI (Track Consumer Products 1st)
+- ~~HAI~~ - resolved 2026-05-12 (29th pass): Yi-Ching (Wendy) Huang (CEO), Katrina Alberto (CMO), Ting-Ling (Tina) Kuo (CPO), Hsiao-Tung (Shelly) Liao (CFO), Tanaporn (Paul) Suwatnodom (COO), Pongthanit (Pong) Bisalputra; coach Massoomeh Kazerouni
 - GaleGauge (Track Consumer Products 2nd)
 - EmpowerMi (Track Business Products 2nd)
 
@@ -81,10 +81,10 @@ Teams below have no individual member names in indexed public sources. Best cand
 - Voltek (Track Consumer Products 2nd)
 - Prophet Predictive Modeling (Track Consumer Services 2nd) [previously listed as "Prophet Modeling"; corrected 2026-05-12]
 
-### 2019 (5 teams remaining)
+### 2019 (4 teams remaining)
 - ~~ELF Therapeutics~~ - resolved earlier: Joon You, Dr. Brian Wong, Michael Hill PhD, Dr. Steve Yoelin
-- giv (Track Social Enterprise 2nd)
-- UniSafe (Track Business Products 1st)
+- giv (Track Social Enterprise 2nd) [possible but unconfirmed link to Givsum / Shawn Wehan + Robert Kollar; not added to archive pending primary-source confirmation]
+- ~~UniSafe~~ - resolved 2026-05-12 (29th pass): Rahul Sreedasyam (co-founder; senior BME, UCI Samueli); other members Not Listed
 - Jiffal (Track Business Products 2nd)
 - myHealth Today (Track Consumer Services 1st)
 - ~~Curbd~~ (resolved 2026-05-12: Farbod Rafezy, Iman Enayati, Ryan Dang) / SwappIt (still Not Listed)
