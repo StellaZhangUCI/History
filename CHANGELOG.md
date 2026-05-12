@@ -15,11 +15,33 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
-| Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
+| Disclosed cash 2017 to 2025     | ~$772,500 (corrected 2026-05-12 from $777,500 after MoodCloud/REMSYS tie-prize correction; prior 5th-pass adjustment took it from $760K to $777.5K)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 34 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass enriched DermaVision 2024 with $3K CALIT2 / UROP grant + Ashley Im role detail; also confirmed Shaka 2021 team roster was already complete and that 2021-NVC-Winners.pdf is password-protected (matches BACKLOG P1) |
+| Verification audit              | 35 passes against cited sources completed; 15 factual errors corrected (MoodCloud + REMSYS prize amounts $5K → $2.5K each per Merage 2021-06 primary source: the two tied teams split a single $5K prize, not received $5K each) + 6 stale derived figures caught and fixed (2021 disclosed cash $46K → $41K; total $777.5K → $772.5K) |
 
 ## 2026-05-12
+
+### Fixed (thirty-fifth verification pass: MoodCloud/REMSYS 2021 tie-prize correction - 15th factual error caught + cash-total recalculation)
+
+A meaningful factual correction plus a Shaka split-amount addition, both surfaced via the Merage 2021-06 primary source.
+
+**MoodCloud + REMSYS 2021 (Consumer Services 1st, tied) - prize amounts corrected**: The Merage 2021-06 primary source explicitly states the two tied teams **split a single $5,000 prize** ($2,500 each), not that each team received $5,000 as the archive previously recorded. This is the 15th factual error / hallucination caught across the audit. Pattern matches the prior tie-prize confusion at 2019 Curbd/SwappIt (which we already confirmed received $5,000 each separately, not a split).
+
+**Shaka 2021 prize split clarified**: The Merage 2021-06 source confirms the $17,500 Shaka total, and the UCI Beall Wayfinder coverage from a 2026-05-12 search specifies Shaka's Grand Prize amount alone was $10,000 (the remaining $7,500 was the separate Business Products 1st award). Per-row amounts in `data/nvc.json` and `years/2021.md` updated from "Undisclosed" / null to the specific $10,000 GP + $7,500 BP 1st split. Total Shaka winnings ($17,500) remain unchanged. Augie Pimentel's full title ("Customer Success Specialist") also added to roster entries.
+
+**Cascading derived-figure corrections:**
+- 2021 disclosed cash total: **$46,000 → $41,000** (drop $5K from the over-counted tie prize)
+- 2017-2025 cumulative disclosed: **$777,500 → $772,500**
+
+**Files touched:**
+- `data/nvc.json`: MoodCloud + REMSYS rows updated with corrected $2,500 amounts and a `prize_note` documenting the correction; 2021 entry in `disclosed_cash_totals_by_year_usd` corrected to $41,000 with an updated note; `total_2017_to_2025` corrected to $772,500 with a new note field
+- `years/2021.md`: MoodCloud + REMSYS rows updated to $2,500 each; "Notes" section's disclosed-cash-total line corrected to $41,000 with the correction context
+- `README.md`: Cross-Year Analytics cash table row for 2021 corrected to ~$41,000 with the correction context; Total row corrected to ~$772,500
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 35 passes / 15 factual errors / 6 stale derived figures; Disclosed-cash row refreshed to $772,500; this entry added
+
+This pass also re-confirms a pattern observed multiple times: when a single sentence in the source ("each receiving half of a $5,000 prize") was reformatted into a per-team line in the archive table, the qualifier was dropped, producing a double-count. Future contributors should attend to "tied", "split", "each half" qualifiers in tie-prize coverage.
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - prize-amount correction is in nvc.json only), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Added (thirty-fourth verification pass: DermaVision 2024 post-competition recognition + Shaka 2021 roster verification + another password-protected PDF confirmed)
 

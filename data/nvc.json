@@ -645,10 +645,11 @@
           "category": "Grand Prize",
           "place": "Winner",
           "team": "Shaka",
-          "prize_text": "Undisclosed",
-          "prize_amount_usd": null,
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "prize_note": "Specific Grand Prize amount $10,000 per UCI Beall Wayfinder coverage 2026-05-12; combined with the $7,500 Business Products 1st = $17,500 total per Merage 2021-06 primary source.",
           "project": "Culture-building app for remote teams to maintain engagement.",
-          "members": ["Melanie Wertzberger", "Austin Chauncey", "Preston Le", "Agustine Pimentel"]
+          "members": ["Melanie Wertzberger (CEO)", "Austin Chauncey (CTO)", "Preston Le (Research Analyst)", "Agustine \"Augie\" Pimentel (Customer Success Specialist)"]
         },
         {
           "category": "Audience Favorite",
@@ -663,10 +664,10 @@
           "category": "Track Award (Business Products)",
           "place": "1st",
           "team": "Shaka",
-          "prize_text": "Undisclosed",
-          "prize_amount_usd": null,
+          "prize_text": "$7,500",
+          "prize_amount_usd": 7500,
           "project": "Culture-building app for remote teams to maintain engagement.",
-          "members": ["Melanie Wertzberger", "Austin Chauncey", "Preston Le", "Agustine Pimentel"],
+          "members": ["Melanie Wertzberger (CEO)", "Austin Chauncey (CTO)", "Preston Le (Research Analyst)", "Agustine \"Augie\" Pimentel (Customer Success Specialist)"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
         },
@@ -703,8 +704,9 @@
           "category": "Track Award (Consumer Services)",
           "place": "1st (Tie)",
           "team": "MoodCloud",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
+          "prize_text": "$2,500 (tied; split $5,000 with REMSYS)",
+          "prize_amount_usd": 2500,
+          "prize_note": "Corrected 2026-05-12 from $5,000 to $2,500 per Merage 2021-06 primary source: MoodCloud and REMSYS tied for 1st in Consumer Services and each received half of a $5,000 prize ($2,500 each).",
           "project": "AI lifestyle/health management app.",
           "members": ["Jimmy Nguyen"]
         },
@@ -712,8 +714,9 @@
           "category": "Track Award (Consumer Services)",
           "place": "1st (Tie)",
           "team": "REMSYS",
-          "prize_text": "$5,000",
-          "prize_amount_usd": 5000,
+          "prize_text": "$2,500 (tied; split $5,000 with MoodCloud)",
+          "prize_amount_usd": 2500,
+          "prize_note": "Corrected 2026-05-12 from $5,000 to $2,500 per Merage 2021-06 primary source: MoodCloud and REMSYS tied for 1st in Consumer Services and each received half of a $5,000 prize ($2,500 each).",
           "project": "Resume management system for college students.",
           "members": ["Victoria Sahrai"]
         },
@@ -1441,8 +1444,8 @@
       "2024": 100000,
       "2023": 100000,
       "2022": 100000,
-      "2021": 46000,
-      "2021_note": "Updated 2026-05-11: Shaka $17,500 (GP + BP 1st combined per Merage source) added to the previous $28,500 disclosed.",
+      "2021": 41000,
+      "2021_note": "Updated 2026-05-12: corrected from $46,000 to $41,000. MoodCloud and REMSYS tied for Consumer Services 1st and split a single $5,000 prize ($2,500 each), not $5,000 each as previously recorded. Prior context: Shaka $17,500 (GP + BP 1st combined per Merage source) added on 2026-05-11 to the previous $28,500 disclosed; this pass drops the MoodCloud/REMSYS double-count of $5,000.",
       "2020": 101000,
       "2019": 70000,
       "2018": 92500,
@@ -1451,7 +1454,8 @@
       "2016_note": "Added 2026-05-12: full track placements and prize amounts recovered from UCI News primary source. EmbryLux $20K dual-award + Dental Insights $10K + FunBand $10K + Negocios $10K + Sher Biomedical $10K + Carbo / Jam / CeleriBio / Curaflow $5K each + Bottle Rocket $1K + Maslow $1.5K.",
       "2013": 67500,
       "2013_note": "Added 2026-05-12: full sub-winner rosters and prize details recovered from Samueli engineering primary source. LAS $15K + ValveStrong $14K ($7.5K + $6K Orange Residency + $500 Concept Paper) + NoreGen $33.5K ($3.5K + $30K SoM Life Sciences Award) + Nobles $2.5K + Bloom Diagnostics $2.5K. Excludes $2,750 in-kind TechPortal Calit2 award to MEGAL!NE.",
-      "total_2017_to_2025": 777500,
+      "total_2017_to_2025": 772500,
+      "total_2017_to_2025_note": "Corrected 2026-05-12 from $777,500 to $772,500 after the MoodCloud/REMSYS prize-amount correction (each $2,500 not $5,000; total dropped $5K).",
       "total_pre_2017_known": 150000,
       "total_pre_2017_note": "Pre-2017 cash totals are confirmed only for 2013 ($67,500) and 2016 ($82,500). 2009, 2012, 2014 partial totals are known but team-by-team rosters incomplete; 2010, 2011, 2015 remain structural gaps in the indexed public record."
     }
