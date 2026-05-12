@@ -692,7 +692,7 @@
           "team": "Hydroflow",
           "prize_text": "Undisclosed",
           "prize_amount_usd": null,
-          "project": "Smart water bottle cap tracking hydration levels.",
+          "project": "Smart water bottle cap that tracks water intake and monitors hydration levels.",
           "members": []
         },
         {
@@ -952,10 +952,12 @@
           "category": "Track Award (Consumer Services)",
           "place": "1st",
           "team": "myHealth Today",
+          "team_aliases": ["myHealthToday"],
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Senior-friendly voice assistant for tracking medical appointments.",
-          "members": []
+          "project": "Senior-friendly voice assistant for tracking medical appointments. The app (myHealthJournal) is a HIPAA-compliant patient-engagement service letting seniors record symptoms via voice and parse into a provider-friendly format.",
+          "members": ["Kevin Wu (MBA '20, CEO)"],
+          "members_note": "Only CEO Kevin Wu is named in indexed UCI Merage coverage; full founding team not preserved. Company officially incorporated June 2020 post-NVC."
         },
         {
           "category": "Track Award (Consumer Services)",
@@ -1005,7 +1007,8 @@
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
           "project": "Noninvasive imaging to assess embryo quality for IVF.",
-          "members": []
+          "members": ["Michelle Digman (BME asst. professor, founder)", "Ning Ma (BME graduate student, Digman lab)", "Hongtao Chen (project scientist)", "Zhenghao Li (CS alumnus)"],
+          "members_note": "Roster recovered from Samueli engineering 2019-05 coverage on 2026-05-12; the same team also competed at the 2019 Rice University Business Plan Competition, taking 2nd place in their semifinal round."
         }
       ]
     },

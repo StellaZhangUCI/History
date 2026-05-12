@@ -11,15 +11,49 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
 | Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
 | Outcomes researched             | 114 teams                                                                                       |
-| Outcome distribution            | 69 NO_PUBLIC_OUTCOME_FOUND / 31 OPERATING / 6 DORMANT / 5 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
+| Outcome distribution            | 68 NO_PUBLIC_OUTCOME_FOUND / 32 OPERATING / 6 DORMANT / 5 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 29 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass added the HAI 2022 full team roster (6 members + coach), UniSafe 2019 co-founder Rahul Sreedasyam, and a Hyperion Therapeutics $100K Proof-of-Product post-competition grant note |
+| Verification audit              | 30 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass upgraded myHealth Today 2019 NO_FOUND → OPERATING (likely; June 2020 incorporation), added Embryologic 2019 4-member team roster, and refined Hydroflow 2021 project description |
 
 ## 2026-05-12
+
+### Added (thirtieth verification pass: myHealth Today outcome upgrade + Embryologic 2019 roster + Hydroflow description refinement)
+
+Continued the Priority 2 / Priority 6 sweep. Three concrete updates plus two negative-result verifications.
+
+**myHealth Today 2019 (Consumer Services 1st, $10,000) - upgraded from NO_FOUND to OPERATING (likely)**: Merage 2020-12 coverage documents that CEO Kevin Wu (MBA '20) led the team, the company secured UCI Beall Applied Innovation funding, and officially incorporated in June 2020 (post-NVC). The app is `myHealthJournal`, a HIPAA-compliant patient-engagement service letting seniors record symptoms via phone voice services. `myhealthtoday.care` registered but returned ECONNREFUSED on 2026-05-12 fetch, so OPERATING is tagged "likely" rather than "confirmed" - incorporation is documented but current activity not independently verified. Outcome distribution shifts: 31 → 32 OPERATING, 69 → 68 NO_FOUND.
+
+**Embryologic 2019 (Life Sciences 2nd, $5,000) - full team roster recovered** from Samueli engineering 2019-05 Rice Business Plan coverage:
+- Prof. Michelle Digman (BME asst. professor, founder)
+- Ning Ma (BME graduate student, Digman lab)
+- Hongtao Chen (project scientist)
+- Zhenghao Li (CS alumnus)
+
+Source notes that the same team also placed 2nd in the 2019 Rice University Business Plan Competition semifinal round. The underlying FLIM-phasor IVF research published in *Scientific Reports* (2019) is the same line of work as the 2016 EmbryLux NVC entry - establishes the 2016 → 2019 continuity that was previously implicit.
+
+**Hydroflow 2021 (Consumer Products 2nd) - project description refined**: "Smart water bottle cap tracking hydration levels" → "Smart water bottle cap that tracks water intake and monitors hydration levels" per UCI Beall 2021 primary-source language. Minor wording-level correction.
+
+**Negative-result verifications (no archive change required):**
+- **Closed Loop Plastics (2018 Tech Surge 2nd)**: re-verified on 2026-05-12 that `closedloopplastics.com/about-us` still serves a Sedo parking page. SHUT_DOWN (likely) status unchanged.
+- **2024 NVC Report PDF** at `merage.uci.edu/_files/images/centers/innovation-entrepreneurship/NVC-2024-Report.pptx.pdf` is confirmed password-protected on direct download - matches BACKLOG Priority 1 documentation. Password not on file.
+
+**Files touched:**
+- `data/outcomes.json`: myHealth Today upgraded to OPERATING (likely); summary_stats refreshed (NO_FOUND 69→68, OPERATING 31→32)
+- `data/nvc.json`: Hydroflow project description refined; myHealth Today + Embryologic member fields populated
+- `data/teams.json`: myHealth Today outcome updated to OPERATING
+- `years/2019.md`: myHealth Today + Embryologic rows updated with members; Post-competition outcomes section extended
+- `years/2021.md`: Hydroflow description refined
+- `OUTCOMES.md`: New myHealth Today + Embryologic entries added to 2019 section; header date / pass-count updated
+- `TEAMS.md`: Embryologic + myHealth Today entries upgraded from "Not Listed"; date bumped to 30th pass
+- `BACKLOG.md`: Priority 2 2019 list dropped from 4 to 2 remaining (myHealth Today + Embryologic both resolved); last-reviewed bumped to 30th pass
+- `README.md`: Outcome-distribution table refreshed (NO_FOUND 69→68, OPERATING 31→32); narrative updated to reflect the 30th pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 30 passes; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (still correct); teams.json 114/3 split unchanged; all three JSONs ajv-valid; em-dash sweep clean.
 
 ### Added (twenty-ninth verification pass: HAI 2022 full team + UniSafe 2019 co-founder + Hyperion post-comp grant)
 

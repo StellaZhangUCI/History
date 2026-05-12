@@ -1024,12 +1024,14 @@
     },
     {
       "team": "myHealth Today",
+      "team_aliases": ["myHealthToday"],
       "year": 2019,
       "award": "Track Award (Consumer Services) 1st",
-      "summary": "Senior-friendly voice assistant for tracking medical appointments. No traceable post-competition activity.",
-      "category": "NO_PUBLIC_OUTCOME_FOUND",
-      "confidence": "researched 2026-05-10; no findable outcome",
+      "summary": "Senior-friendly voice assistant for tracking medical appointments; app called myHealthJournal lets seniors record symptoms via phone voice services, parsing data into a provider-friendly format (HIPAA-compliant). Re-researched 2026-05-12: CEO Kevin Wu (MBA '20) led the team; the company secured UCI Beall Applied Innovation funding and officially incorporated in June 2020 (Merage 2020-12 coverage). Site myhealthtoday.care registered but currently returns ECONNREFUSED; Crunchbase profile exists but gated. Status post-2020 unverified; upgraded from NO_FOUND to OPERATING (likely) based on the documented June 2020 incorporation and Kevin Wu's continued LinkedIn-trackable identity.",
+      "category": "OPERATING",
+      "confidence": "likely; incorporation verified Jun 2020, current activity unverified on 2026-05-12",
       "sources": [
+        "https://merage.uci.edu/news/2020/12/NVC-Winner-myHealthToday-Bridges-Information-Gap-Between-Doctor-and-Patient.html",
         "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
       ]
     },
@@ -1347,13 +1349,13 @@
   "summary_stats": {
     "teams_researched": 114,
     "by_category": {
-      "OPERATING": 31,
+      "OPERATING": 32,
       "ACQUIRED": 2,
       "EXITED_OTHER": 0,
       "PIVOTED": 5,
       "DORMANT": 6,
       "SHUT_DOWN": 1,
-      "NO_PUBLIC_OUTCOME_FOUND": 69
+      "NO_PUBLIC_OUTCOME_FOUND": 68
     },
     "notable_exits": [
       {

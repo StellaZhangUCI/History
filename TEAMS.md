@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (29th pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (30th pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -59,7 +59,7 @@ Last updated: 2026-05-12 (29th pass). Total teams indexed: 117.
 - **ELF Therapeutics / eLysis** ([2019](years/2019.md): TS 1st, LS 1st). Not Listed in archive; co-founders include Joon You, Michael Hill PhD, Dr. Steve Yoelin per follow-on coverage. *Operating as eLysis Inc.; raised ~$400K non-dilutive; pre-clinical-trial.*
 - **Element: B2B2C** ([2017](years/2017.md): BP 1st). Simon Loo, Brianne Pena, Shifa Safeeq, Scott Winter. *Simon Loo previously appeared on FunBand in 2016. No public outcome found (researched 2026-05-12).*
 - **EmbryLux** ([2016](README.md#pre-2017-editions-20092016): GP). Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran. *No findable commercial outcome.*
-- **Embryologic** ([2019](years/2019.md): LS 2nd). Not Listed.
+- **Embryologic** ([2019](years/2019.md): LS 2nd, $5,000). Prof. Michelle Digman (BME asst. prof, founder), Ning Ma (BME grad student), Hongtao Chen (project scientist), Zhenghao Li (CS alumnus). *Roster recovered 2026-05-12 from Samueli engineering 2019-05 coverage; the same team also placed 2nd at the 2019 Rice Business Plan semifinal round.*
 - **EmpowerMi** ([2022](years/2022.md): BP 2nd). Not Listed.
 - **Enjovu Paper** ([2022](years/2022.md): RU, SE 2nd). Not Listed. *No public outcome found.*
 - **Esqalate** ([2017](years/2017.md): PA 1st). Joubin Khazaie, Mahan Naeim, Chad Trainer, Ilja Goushcha. *Likely dormant; proboknow.com and lowboknow.com are parked or expired.*
@@ -118,7 +118,7 @@ Last updated: 2026-05-12 (29th pass). Total teams indexed: 117.
 - **MinuTax** ([2025](years/2025.md): CS 2nd). Not Listed.
 - **MONI** ([2021](years/2021.md): AF, CP 1st). Not Listed.
 - **MoodCloud** ([2021](years/2021.md): CS 1st, tied). Jimmy Nguyen.
-- **myHealth Today** ([2019](years/2019.md): CS 1st). Not Listed.
+- **myHealth Today** ([2019](years/2019.md): CS 1st, $10,000). Kevin Wu (MBA '20, CEO); full founding team not preserved in indexed sources. *OPERATING (likely): officially incorporated June 2020 with UCI Beall Applied Innovation funding (Merage 2020-12 coverage); post-2020 status not independently verified on 2026-05-12.*
 
 ## N
 

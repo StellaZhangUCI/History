@@ -109,14 +109,14 @@ Of the **114 teams researched** as of 2026-05-12 (out of 117 total in the archiv
 
 | Outcome category          | Count | % of researched |
 |---------------------------|-------|-----------------|
-| NO PUBLIC OUTCOME FOUND   | 69    | 60.5%           |
-| OPERATING                 | 31    | 27.2%           |
+| NO PUBLIC OUTCOME FOUND   | 68    | 59.6%           |
+| OPERATING                 | 32    | 28.1%           |
 | DORMANT                   | 6     | 5.3%            |
 | PIVOTED                   | 5     | 4.4%            |
 | ACQUIRED                  | 2     | 1.8%            |
 | SHUT DOWN                 | 1     | 0.9%            |
 
-The 27th verification pass (2026-05-12) closed out the 2013 sub-winners cohort, the 2016 finalist cohort (with full track placements recovered from UCI News primary source), and the 2009 Happy Sleep undergraduate winner. The dominant outcome category remains "no findable public outcome" (61%): consumer apps and social-enterprise winners from 2013 to 2022 disproportionately produce no traceable post-competition footprint. DORMANT doubled to 6 in this pass (ValveStrong, FunBand, and Bottle Rocket added; each had credible early-stage activity then went quiet). PIVOTED grew to 5 with Carbo joining (autism / ADHD therapy robot continued as Prof. Krichmar's academic research at UCI CARL rather than commercializing). The remaining 3 unresearched teams are the 2026 semi-finalists (AegleBio, Billify, NeuroBoost) - they will be researched after the May 21, 2026 Grand Finale.
+The 30th verification pass (2026-05-12) upgraded **myHealth Today** (2019 CS 1st) from NO_FOUND to OPERATING (likely) after confirming the company's June 2020 incorporation with UCI Beall Applied Innovation funding. The 27th pass had closed out the 2013 sub-winners cohort, the 2016 finalist cohort, and the 2009 Happy Sleep undergraduate winner. The dominant outcome category remains "no findable public outcome" (60%): consumer apps and social-enterprise winners from 2013 to 2022 disproportionately produce no traceable post-competition footprint. The remaining 3 unresearched teams are the 2026 semi-finalists (AegleBio, Billify, NeuroBoost) - they will be researched after the May 21, 2026 Grand Finale.
 
 ### How prizes have shifted over time
 

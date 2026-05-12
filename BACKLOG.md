@@ -4,7 +4,7 @@
 
 This is a concrete list of gaps in the archive. If you want to contribute, this is the menu. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the submission process.
 
-Last reviewed: 2026-05-12 (29th pass).
+Last reviewed: 2026-05-12 (30th pass).
 
 ## Priority 1: Time-sensitive gaps
 
@@ -81,16 +81,16 @@ Teams below have no individual member names in indexed public sources. Best cand
 - Voltek (Track Consumer Products 2nd)
 - Prophet Predictive Modeling (Track Consumer Services 2nd) [previously listed as "Prophet Modeling"; corrected 2026-05-12]
 
-### 2019 (4 teams remaining)
+### 2019 (2 teams remaining)
 - ~~ELF Therapeutics~~ - resolved earlier: Joon You, Dr. Brian Wong, Michael Hill PhD, Dr. Steve Yoelin
 - giv (Track Social Enterprise 2nd) [possible but unconfirmed link to Givsum / Shawn Wehan + Robert Kollar; not added to archive pending primary-source confirmation]
 - ~~UniSafe~~ - resolved 2026-05-12 (29th pass): Rahul Sreedasyam (co-founder; senior BME, UCI Samueli); other members Not Listed
 - Jiffal (Track Business Products 2nd)
-- myHealth Today (Track Consumer Services 1st)
+- ~~myHealth Today~~ - resolved 2026-05-12 (30th pass): Kevin Wu (MBA '20, CEO); upgraded outcome NO_FOUND → OPERATING (likely)
 - ~~Curbd~~ (resolved 2026-05-12: Farbod Rafezy, Iman Enayati, Ryan Dang) / SwappIt (still Not Listed)
 - Poo Pal (Track Consumer Products 1st)
 - ~~Steth 'n Go~~ - resolved 2026-05-12: Omar Darwish (CEO; UCI Health Associate Prof / Hospitalist)
-- Embryologic (Track Life Sciences 2nd)
+- ~~Embryologic~~ - resolved 2026-05-12 (30th pass): Prof. Michelle Digman, Ning Ma, Hongtao Chen, Zhenghao Li
 
 ## Priority 3: Undisclosed prize amounts
 

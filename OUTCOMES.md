@@ -2,7 +2,7 @@
 
 [← Back to main archive](README.md)
 
-Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-12 (114 of 117 teams researched; 27th verification pass closed out the 2013 sub-winners cohort, the 2016 finalist cohort with full track placements recovered from UCI News primary source, and the 2009 Happy Sleep undergraduate winner).
+Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-12 (114 of 117 teams researched; 30th verification pass upgraded myHealth Today 2019 from NO_FOUND to OPERATING (likely) after confirming June 2020 incorporation, added Embryologic 2019 team roster, and refined Hydroflow 2021 project description).
 
 ## Outcome categories
 
@@ -208,6 +208,14 @@ Sources: [Amazon listing](https://www.amazon.com/Poo-Pal-Hands-Free-Carrier-Hold
 **Steth 'n Go** (Consumer Products 2nd): OPERATING. *Confidence: confirmed.*
 Magnetic stethoscope holder still selling at `stethngo.com` with an active product line and bulk pricing for healthcare facilities. CEO Omar Darwish (Associate Professor & Hospitalist at UC Irvine Health, Director of Point-of-Care Ultrasound for the Department of Medicine) confirmed as founder on 2026-05-12; the product was sparked by his residency frustration of losing six stethoscopes to inadequate hip-holders.
 Sources: [stethngo.com](https://stethngo.com/), [Omar Darwish LinkedIn](https://www.linkedin.com/in/omar-darwish-993b7b82/)
+
+**myHealth Today** (Consumer Services 1st): OPERATING. *Confidence: likely.*
+CEO Kevin Wu (MBA '20) led the team. App `myHealthJournal` is a HIPAA-compliant patient-engagement service letting seniors record symptoms via phone voice services, parsing data into a provider-friendly format. The company secured UCI Beall Applied Innovation funding and officially incorporated June 2020. Upgraded from NO_FOUND to OPERATING (likely) on 2026-05-12 based on the documented June 2020 incorporation; `myhealthtoday.care` returned ECONNREFUSED on a 2026-05-12 fetch attempt so current activity could not be independently verified.
+Sources: [Merage 2020-12 coverage](https://merage.uci.edu/news/2020/12/NVC-Winner-myHealthToday-Bridges-Information-Gap-Between-Doctor-and-Patient.html)
+
+**Embryologic** (Life Sciences 2nd): NO PUBLIC OUTCOME FOUND.
+The 2019 NVC team (Prof. Michelle Digman as BME asst. professor / founder, BME grad student Ning Ma, project scientist Hongtao Chen, CS alumnus Zhenghao Li) also placed 2nd in the 2019 Rice University Business Plan Competition semifinal round, but no commercial company "Embryologic" surfaced post-2019. The underlying FLIM-phasor IVF research published in *Scientific Reports* (2019) is the same underlying work as the 2016 EmbryLux NVC entry.
+Sources: [Samueli 2019-05 Rice coverage](https://engineering.uci.edu/news/2019/5/biomedical-engineering-team-competes-well-rice-business-plan-competition), [Scientific Reports paper](https://www.nature.com/articles/s41598-019-48107-2)
 
 ## 2020
 
