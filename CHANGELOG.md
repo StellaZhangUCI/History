@@ -10,15 +10,51 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 |---------------------------------|-------------------------------------------------------------------------------------------------|
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
 | Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
-| Outcomes researched             | 98 teams                                                                                        |
-| Outcome distribution            | 58 NO_PUBLIC_OUTCOME_FOUND / 30 OPERATING / 4 PIVOTED / 3 DORMANT / 2 ACQUIRED / 1 SHUT DOWN    |
+| Outcomes researched             | 114 teams                                                                                       |
+| Outcome distribution            | 69 NO_PUBLIC_OUTCOME_FOUND / 31 OPERATING / 6 DORMANT / 5 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
-| Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (commercialization stalled)    |
+| Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
-| Verification audit              | 26 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed; latest pass added the 2017 track-winners cohort |
+| Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
+| Verification audit              | 27 passes against cited sources completed; 13 factual errors / hallucinations corrected + 5 stale derived figures or prose references caught and fixed; latest pass added 2013 sub-winners, 2016 full track placements, and 2009 Happy Sleep |
 
 ## 2026-05-12
+
+### Added (twenty-seventh verification pass: 2013 sub-winners full detail + 2016 full track placements + 2009 Happy Sleep)
+
+Closed out almost all remaining unresearched teams in the archive. The 2016 finalist cohort, in particular, was a major BACKLOG Priority 4 unlock: the UCI News primary-source article from 2016-05-11 preserves complete track placements for all 12 finalist teams (placements were marked "not preserved in indexed sources" prior to this pass).
+
+**New outcomes added (16 total) - by year:**
+
+- **2009 (1):** Happy Sleep (Undergrad Division 1st, NO_FOUND)
+- **2013 (5):** ValveStrong (DORMANT - founder moved to senior medtech roles, ValveStrong itself never incorporated), NoreGen (NO_FOUND), Nobles Medical Technology (NO_FOUND - disambiguated from Anthony Nobles' commercial NMT-II), MEGAL!NE (NO_FOUND), Bloom Diagnostics (NO_FOUND - disambiguated from unrelated Swiss medtech)
+- **2016 (10):** Dental Insights, Negocios & Etc., Sher Biomedical, Jam, CeleriBio, Curaflow all NO_FOUND; FunBand DORMANT (Wayfinder incubator + OCBJ 2017 Innovator nomination, then no post-2018 footprint); Bottle Rocket DORMANT ($260K from MuckerLab + Dorm Room Fund, then no post-2018 footprint); Carbo PIVOTED (autism / ADHD therapy robot continued as Prof. Krichmar's CARL academic research at UCI); Maslow Construction Robots OPERATING (likely; Crunchbase profile exists)
+
+**Researched-count now 114 of 117** (98 → 114). Only the 3 2026 semi-finalists (AegleBio, Billify, NeuroBoost) remain unresearched - they will be done after the 2026-05-21 Grand Finale. Effectively, this pass closes BACKLOG Priority 5 for the historical archive.
+
+**Major findings beyond the team outcomes:**
+
+- **NoreGen's $30,000 UCI School of Medicine Life Sciences Award** was previously unrecorded in this archive; recovered from the Samueli engineering primary source on 2026-05-12. This is the single largest specialty-prize line item in the pre-2017 archive and lifts the 2013 disclosed cash total from $31,000 (prior estimate) to $67,500.
+- **ValveStrong's $6,000 TechPortal Orange Residency + $500 Best Concept Paper** were similarly unrecorded; ValveStrong's combined 2013 prize is now $14,000 rather than $7,500.
+- **2016 disclosed cash total recovered**: $82,500 from line-item prizes (UCI News reports "more than $100,000 in cash and prizes" inclusive of legal-service and workspace in-kind credits not captured here).
+- **Aaron Soto** was already added to the COMPAS team in the previous (26th) pass; the 27th pass adds **Andy Truong** (sole listed member of Maslow Construction Robots) and full member rosters + coaches for all five 2013 sub-winners, captured in data/nvc.json.
+- **Two name-disambiguation notes** added to OUTCOMES.md: (1) UCI undergrad Nobles Medical Technology team is unrelated to Prof. Anthony Nobles' commercial NMT-II (NobleStitch); (2) UCI 2013 Bloom Diagnostics (environmental, algae-bloom detection) is unrelated to the Swiss medtech Bloom Diagnostics (CRP / iron-deficiency).
+- **Repeat-finalist data enriched**: Simon Loo's 2016 FunBand award ("1st Consumer Products") and Pravin Surana's 2016 Negocios & Etc. award ("Blum Center for Poverty Alleviation Award") now appear in `cross_year_notes.repeat_finalists` rather than as empty `awards: []` arrays.
+
+**Files touched:**
+
+- `data/outcomes.json`: +16 outcomes; summary_stats updated (researched 98 → 114, NO_FOUND 58 → 69, OPERATING 30 → 31, PIVOTED 4 → 5, DORMANT 3 → 6)
+- `data/nvc.json`: 2013 sub-winner rosters/coaches/expanded prize details; 2016 finalist track placements + prizes + descriptions; disclosed_cash_totals_by_year_usd extended with 2013 + 2016 + total_pre_2017_known; repeat-finalist awards arrays enriched for Simon Loo and Pravin Surana
+- `data/teams.json`: 16 outcome fields populated; 10 2016 entries had top_award upgraded from "Finalist (track placement not preserved)" to specific placement; EmbryLux top_award noted as dual award; stats.teams_with_outcome_researched 98 → 114
+- `OUTCOMES.md`: 16 new entries (Pre-2017 section); pattern summary gained two points (#11 about 2016 cohort pattern, #12 about 2013 cohort completion); header date / coverage line updated
+- `README.md`: Pre-2017 Editions section gained a full 2013 sub-winners table (5 teams × 5 columns including coach) and a full 2016 placements table (10 teams × 4 columns); outcome distribution table refreshed (98 → 114, narrative rewritten to highlight 27th-pass coverage closure); "Where Are They Now?" teaser updated; name-disambiguation notes for Nobles Medical / Bloom Diagnostics added
+- `BACKLOG.md`: Priority 4 strikethroughs for 2013 and 2016 (P4 now near-complete); Priority 5 reframed from "substantially completed" to "effectively complete" with only 3 2026 semi-finalists remaining; last-reviewed bumped to 27th pass
+- `CHANGELOG.md`: Coverage-at-a-glance refreshed (researched count, distribution, disclosed cash, audit-pass count); this entry added
+
+Primary sources newly cited in this pass: [Samueli engineering 2013 coverage](https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition), [UCI News 2016-05-11 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/), [Samueli engineering 2009 coverage](https://sprocket.eng.uci.edu/news/2009/6/engineering-nabs-top-honors-2009-business-plan-competition-paul-merage-school-business), plus team-specific Gust/Crunchbase/UCI Beall/IGERT/Stanford-Zhao-Lab/ACM-DL citations per outcome entry.
+
+Cross-checks passed: outcomes.json by_category sums to 114; teams.json has 114 with outcome / 3 null (3 2026 semi-finalists, as expected); all three JSONs ajv-valid; em-dash sweep clean.
 
 ### Added (twenty-sixth verification pass: 2017 track-winners cohort + COMPAS / OpsGuru trajectory)
 

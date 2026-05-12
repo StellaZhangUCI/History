@@ -2,7 +2,7 @@
 
 [← Back to main archive](README.md)
 
-Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-12 (98 teams researched; 26th verification pass added the 2017 track-winners cohort including the COMPAS / OpsGuru licensing trajectory).
+Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-12 (114 of 117 teams researched; 27th verification pass closed out the 2013 sub-winners cohort, the 2016 finalist cohort with full track placements recovered from UCI News primary source, and the 2009 Happy Sleep undergraduate winner).
 
 ## Outcome categories
 
@@ -31,12 +31,18 @@ Each entry includes a confidence label: *confirmed* (multiple or authoritative s
 8. **Sentinel (2024 Grand Prize)** had a working MVP as of September 2024 (per ANTrepreneur). A research-agent claim that the team was absorbed by Spotter.ai was inferred from product-name overlap but is **unverified** on 2026-05-11; neither the cited UCI source nor the Spotter.ai page documents a connection. Current status: likely still operating independently in some form; no post-September-2024 coverage located.
 9. **Recent winners (2024 to 2025) are too early to evaluate.** Most are still on UCI subdomains in design-review or pre-incorporation stages.
 10. **TeamMade (2023 SE 2nd)** has the most concrete social-impact outcome: their LuminOCity modular ADU was donated to Homeless Intervention Services-OC and opened to house at-risk youth in July 2025, though the team remains non-commercial.
+11. **The 2016 cohort followed a similar pattern to 2017**: of 11 finalist entries researched on 2026-05-12, only Maslow Construction Robots has a likely operating presence (confidence: likely; Crunchbase exists). FunBand and Bottle Rocket are categorized DORMANT after credible investor / incubator activity through 2018 then no further public footprint. Carbo is PIVOTED into an academic UCI Cognitive Anteater Robotics research line. The rest are NO_FOUND.
+12. **The 2013 cohort, now fully captured, shows the same long-tail pattern**: LAS is the lone ACQUIRED outcome; ValveStrong is DORMANT (founder moved to senior medtech industry roles, technology continued as published research); the four undergraduate / specialty-award sub-winners produced no traceable post-2013 commercial activity. The previously-unrecorded NoreGen $30,000 UCI School of Medicine Life Sciences Award is the single largest specialty-prize line item in the pre-2017 archive.
 
 ## Pre-2017
 
 **ZeroWatt Technologies** (2009 Grand Prize): NO PUBLIC OUTCOME FOUND. *Confidence: likely defunct.*
 Co-founder Fred Tzeng has moved on to other companies (last known at Crux Informatics per ZoomInfo). The SBIR-stage company has no active web presence as a chip-design startup. A separate "Zerowatt Energy" exists but is an unrelated India-based industrial-energy AI platform.
 Sources: [SBIR archive](https://legacy.www.sbir.gov/sbc/zerowatt-technologies-inc), [ZoomInfo](https://www.zoominfo.com/p/Fred-Tzeng/1406921498)
+
+**Happy Sleep** (2009 Undergraduate Division 1st + Best Concept Paper): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Undergraduate team (Praveen De Silva and Kevin Hung, mechanical / materials science engineering) won the 2009 Undergraduate Division with a Bluetooth wristband alarm concept; $3,500 prize. No follow-on commercial activity traceable.
+Sources: [Samueli engineering 2009 coverage](https://sprocket.eng.uci.edu/news/2009/6/engineering-nabs-top-honors-2009-business-plan-competition-paul-merage-school-business)
 
 **Prescient Imaging** (2012 Grand Prize): OPERATING. *Confidence: confirmed.*
 Received 510(k) FDA clearance in March 2021 for the BBX-PET portable brain/breast/extremities PET scanner. Founders and private investors have put in over $8M total; the company is focused on Alzheimer's neurology applications.
@@ -46,13 +52,73 @@ Sources: [FDA 510(k) K210450](https://www.accessdata.fda.gov/cdrh_docs/pdf21/K21
 Acquired by Medtronic in April 2020 for undisclosed terms (OC Business Journal reported the news on 2020-04-14; UCI Innovation announcement is dated 2020-04-29; exact deal-close date not pinned to a single day across sources). Received FlowMet-R 510(k) FDA clearance in 2019. Founder/CEO Sean White now leads Medtronic's diagnostics & monitoring group in their peripheral and endovascular unit. The most cleanly documented exit in this archive. The 2013 NVC team (per Samueli engineering source) was Charlene Ong, Tyler Rice, Sean White (BME / Edwards Lifesciences), and Bruce Yang (BME); coach Dale Sadlik. LAS Inc. formally incorporated 2015 at UCI Beckman Laser Institute.
 Sources: [UCI Innovation announcement](https://innovation.uci.edu/2020/04/medtronic-acquires-cove-tenant-laser-associated-sciences/), [OC Business Journal](https://www.ocbj.com/news/2020/apr/14/medtronic-buys-device-maker/), [Samueli 2013 coverage](https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition)
 
+**ValveStrong** (2013 Campus Wide 2nd + TechPortal Orange Residency + Best Concept Paper): DORMANT. *Confidence: likely.*
+$14,000 in combined awards. Gust profile lists ValveStrong as "Full Product Ready" stage but "Not Incorporated"; founded October 2012 in Irvine. Founder S. Hamed Alavi moved on to senior R&D roles at Edwards Lifesciences Advanced Technology Center, Medtronic, Navigate Cardiac Structures, and Hancock Jaffe Laboratories (CTO / SVP). The underlying hybrid tissue-engineered heart valve research (with Prof. Arash Kheradvar at KLAB) continued as published research, but ValveStrong itself never appears to have formally incorporated.
+Sources: [Gust profile](https://gust.com/companies/valvestrong), [Samueli 2015 hybrid valve coverage](https://engineering.uci.edu/news/2015/6/hybrid-tissue-engineered-valves-may-expand-options-heart-valve-surgery-patients)
+
+**NoreGen** (2013 Campus Wide 3rd + $30,000 UCI School of Medicine Life Sciences Award): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+$33,500 in combined awards. Cancer diagnostic device for circulating tumor cell (CTC) detection. Team led by Prof. Zuzanna Siwy with IGERT LifeChips fellows Ashley Fong and Laura Innes plus four others. Underlying CTC microfluidics research continued in Prof. Siwy's lab through 2014 (IGERT highlights), but no commercial entity "NoreGen" is traceable post-2014.
+Sources: [IGERT highlight](http://www.igert.org/highlights/760.html), [Samueli 2013 coverage](https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition)
+
+**Nobles Medical Technology** (2013 Undergraduate Division winner, $2,500): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+UCI undergraduate team (Shoumyo Dewan, Joseph Gomez, Jin Kim, Kenny La, Stephen Lee, Timothy Macagba, Suraj Sampath, Sohan Weeraratne) proposed an artificial pumping heart system for surgeons to practice catheter surgeries. **Name disambiguation:** the UCI student team is unrelated to Prof. Anthony Nobles' commercial Nobles Medical Technologies II, Inc. (founded 2009, Fountain Valley, NobleStitch PFO closure product) - that company has its own FDA-cleared products and is a separately incorporated entity that did NOT compete at UCI in 2013.
+Sources: [Samueli 2013 coverage](https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition)
+
+**MEGAL!NE** (2013 TechPortal Calit2 Residency Award, $2,750 in-kind): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Technology-based language learning software (pronunciation imitation while watching videos online). Six-person team coached by Tom Taulli. The prize was a $2,750 in-kind TechPortal Calit2 Residency rather than a cash prize. No commercial follow-on traceable post-2013.
+Sources: [Samueli 2013 coverage](https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition)
+
+**Bloom Diagnostics** (2013 UC Irvine Environment Institute Award, $2,500): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+UCI environmental student team developing molecular-diagnostic kits for real-time identification of foam-causing bacteria species (algae-bloom precursor detection). **Name disambiguation:** NOT to be confused with the unrelated Swiss medtech company "Bloom Diagnostics" (CRP / iron-deficiency blood-test devices, headquartered in Zurich) - that is a separate commercial entity. No commercial follow-on traceable for the UCI environmental team.
+Sources: [Samueli 2013 coverage](https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition)
+
 **iBesties** (2014 Grand Prize): PIVOTED, then likely DORMANT. *Confidence: likely.*
 Rebranded as "Middle School Moguls" by 2016 (per research-agent claims of Target retail distribution and a Nickelodeon CG miniseries; the originally cited sources, dollect.net and themarysue.com, could not be independently fetched on 2026-05-11 to confirm those specific retail / TV claims). No evidence of activity past 2021; current consumer-facing presence is minimal. Founder Gina Heitkamp later returned to the NVC as a 2021 final-round judge.
 Sources: [Dollect database (not fetched 2026-05-11; HTTP 409)](https://dollect.net/database/middle-school-moguls/), [The Mary Sue 2015 coverage](https://www.themarysue.com/ibesties/)
 
-**EmbryLux** (2016 Grand Prize): NO PUBLIC OUTCOME FOUND. *Confidence: no findable commercial outcome.*
-The 2016 UCI design site (`embrylux.uci.design`) and a 2019 Rice Business Plan Competition appearance under the related name "Embryologic" exist, but there is no Crunchbase profile or current company site. The underlying FLIM-phasor IVF research was published in *Scientific Reports* (2019).
-Sources: [Scientific Reports paper](https://www.nature.com/articles/s41598-019-48107-2)
+**EmbryLux** (2016 Grand Prize, Life Sciences/Clean Tech 1st + UCI Intellectual Property 1st, dual award $20,000): NO PUBLIC OUTCOME FOUND. *Confidence: no findable commercial outcome.*
+The 2016 UCI design site (`embrylux.uci.design`) and a 2019 Rice Business Plan Competition appearance under the related name "Embryologic" exist, but there is no Crunchbase profile or current company site. The underlying FLIM-phasor IVF research was published in *Scientific Reports* (2019). Track placement (dual award across Life Sciences/Clean Tech 1st and UCI Intellectual Property 1st) was recovered from UCI News primary source on 2026-05-12.
+Sources: [Scientific Reports paper](https://www.nature.com/articles/s41598-019-48107-2), [UCI News 2016 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/)
+
+**Dental Insights** (2016 IT/Web 1st, $10,000): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Software to increase the accuracy and authenticity of submitted dental claims (Michael Bennett, Andy Fields, Vang Kou Khang). The "Michael Bennett DDS, PhD" name surfaces in 2024-2026 dental-tech contexts at Valere Dental, but those references describe a different concept (continuous dental monitoring), so the UCI 2016 entity is NOT linkable to that later work.
+Sources: [UCI News 2016 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/)
+
+**FunBand** (2016 Consumer Products 1st, $10,000): DORMANT. *Confidence: likely.*
+Co-founders Rehema Feleke (pediatric emergency medicine physician), Simon Loo, and Cliff Wang built a LoRa-technology child-tracking wristband for amusement parks and event venues. Accepted into UCI Applied Innovation's Wayfinder incubator; pivoted from B2C wristband to a data-intelligence platform for venues. Nominated by OC Business Journal for 2017 Innovator of the Year. UCI Beall Applied Innovation published a profile in April 2018. No post-2018 public footprint located on 2026-05-12.
+Sources: [UCI Beall 2018 profile](https://innovation.uci.edu/2018/04/funband-bringing-actionable-insights-to-event-venues-and-amusement-parks-through-a-data-intelligence-platform/), [OCBJ Innovator nomination 2017](http://innovation.uci.edu/2017/08/wayfinder-startup-funband-is-nominated-by-ocbj-for-2017-innovator-of-the-year-award/)
+
+**Negocios & Etc.** (2016 Blum Center for Poverty Alleviation Award, $10,000): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Online platform connecting business owners with affordable consultancies (Caroline Cypriano, Pravin Surana, Fabio Sato). Co-founder Pravin Surana returned the next year on the 2017 APIC Diagnostics team (Tech Surge 2nd), making him a documented repeat finalist. No commercial follow-on for Negocios & Etc. traceable post-2016.
+Sources: [UCI News 2016 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/)
+
+**Sher Biomedical** (2016 School of Medicine Award, $10,000): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Five-member UCI School-of-Medicine team (Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick); project description was not preserved in the indexed UCI News coverage. No commercial follow-on traceable.
+Sources: [UCI News 2016 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/)
+
+**Carbo** (2016 UCI Intellectual Property 2nd, $5,000): PIVOTED. *Confidence: likely (academic-research continuation).*
+Novel therapeutic robot for autism / ADHD therapy. The work continued as Prof. Jeff Krichmar's research at UCI's Cognitive Anteater Robotics Laboratory; team member Ting-Shuo Chou co-authored a 2018 ACM TMS paper on CARBO and a 2020 ACM HRI paper on quantitative results of robot-assisted therapy. Co-founder Pooja Raja transitioned to industry roles (Chief of Staff at CareMore & Aspire Health by 2020, then Elevance Health / Carelon). Treated as PIVOTED: the venture turned into a research line at UCI rather than a commercial company.
+Sources: [Chou & Krichmar 2018 ACM TMS paper](https://sites.socsci.uci.edu/~jkrichma/ChouKrichmar-CARBO-TMS2018-ACM.pdf), [Pooja Raja Merage profile 2020](https://merage.uci.edu/news/2020/10/From-Tanzania-to-Irvine-Meet-Pooja-Raja-FEMBA-17,-Chief-of-Staff-at-CareMore-Aspire-Health.html), [ACM HRI 2020 paper](https://dl.acm.org/doi/10.1145/3371382.3378254)
+
+**Jam** (2016 IT/Web 2nd, $5,000): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+App for musicians to connect, jam together, and form groups remotely (Emilio Miranda, Miguel Cabral, Jakob Jansson). The "Jam" name is heavily overloaded in the consumer-music-app space; no UCI-affiliated entity matching the 2016 description is traceable post-2016.
+Sources: [UCI News 2016 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/)
+
+**CeleriBio** (2016 Life Sciences/Clean Tech 2nd + 2016 Beall Student Design Competition $2,500): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Rapid diagnostic device for bloodstream infections and antibiotic resistance. Team member Louai Labanieh subsequently completed a PhD at Stanford in Bioengineering, became a Parker Institute for Cancer Immunotherapy Scholar at Stanford Cancer Institute, and is named as inventor on a dozen-plus technologies commercialized by other startups / publicly traded biotechs. CeleriBio itself, however, has no traceable commercial follow-on as a UCI-spinout entity.
+Sources: [Labanieh Zhao Lab profile](https://faculty.sites.uci.edu/zhaolab/people/louai-labanieh/), [Beall 2016 design winners](https://engineering.uci.edu/news/2016/6/beall-butterworth-student-design-competition-winners-announced)
+
+**Curaflow** (2016 Consumer Products 2nd, $5,000): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
+Micro CPAP device for sleep apnea: motorless, tubeless, and maskless (Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin). Also a 2016 Beall Student Design Competition hardware-track semifinalist. No commercial company "Curaflow" traceable post-2016.
+Sources: [UCI News 2016 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/)
+
+**Bottle Rocket** (2016 Most Outstanding Undergraduate Plan, $1,000): DORMANT. *Confidence: likely.*
+Mobile-app and direct-to-consumer recycling service rewarding users for at-home recycling. Founded in a UCI dorm room by Arthur Avetisov and Brian Leung (May 2015). Subsequently raised $240,000 from MuckerLab (Santa Monica) plus $20,000 from Dorm Room Fund. A 2018 UCI Social Sciences profile ("Ready for liftoff") describes the company as still operating. No post-2018 public footprint located on 2026-05-12. **Name disambiguation:** NOT to be confused with the Dallas-based Bottle Rocket mobile app development studio (acquired by WPP) or the casual-games company - both are unrelated brand-name overlaps.
+Sources: [UCI Social Sciences "Ready for liftoff" 2018](https://www.socsci.uci.edu/newsevents/news/2018/2018-08-22-bottlerocket.php), [UCI Social Sciences profile 2018](https://www.socsci.uci.edu/newsevents/news/2018/2018-02-21-bottlerocket.php)
+
+**Maslow Construction Robots** (2016 Best Pivot Program Plan, $1,500): OPERATING. *Confidence: likely (Crunchbase profile exists; activity dates not independently verified).*
+Automated 3D-printing tools for real-estate developers, aimed at bringing emergency housing down to low-cost / fast-construction minimums. Headquartered in Irvine, CA; founded by Andy Truong (sole listed NVC team member). A Crunchbase profile exists (403 on direct fetch 2026-05-12; current-state language drawn from search-engine snippets that describe the company in present tense). OPERATING is tagged "likely" rather than "confirmed" because founding-date metadata and recent funding history could not be independently verified.
+Sources: [Crunchbase profile](https://www.crunchbase.com/organization/maslow-construction-robots), [UCI News 2016 coverage](https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/)
 
 ## 2017
 

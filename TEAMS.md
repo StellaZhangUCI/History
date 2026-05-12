@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12. Total teams indexed: 117.
+Last updated: 2026-05-12 (27th pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -25,19 +25,19 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 - **Baby Box / 123 Baby Box** ([2020](years/2020.md): GP, CP 1st). Zarina Bahadur (MIE '20). *Operating; ~$1.2M oversubscribed round (2023; round stage not specified by TechCrunch). 245% growth, tripled revenue, 5x MRR (2021 baseline), target $100K MRR / $1M ARR. Strongest non-medical operating company in the archive.*
 - **BagIt** ([2024](years/2024.md): BP 2nd). Not Listed.
 - **Billify** ([2026](years/2026.md): semi-finalist). Not Listed.
-- **Bloom Diagnostics** ([2013](README.md#pre-2017-editions-20092016)): UC Irvine Environment Institute Award. Not Listed.
+- **Bloom Diagnostics** ([2013](README.md#pre-2017-editions-20092016)): UC Irvine Environment Institute Award ($2,500). Amanda Gage, Kevin Leong, Ali Mansouri (CHEMS), Syed Naqvi, Betty Olson, Johnway Yih (coach Earle Hager). *No public outcome found (researched 2026-05-12). Disambiguation: NOT the unrelated Swiss medtech 'Bloom Diagnostics.'*
 - **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). Hamoon Shishechian, Parham Mansor Safain, Kendyll Trenary. *Operating; bafoodtech.com live; pre-revenue / early.*
 - **Bottle Built** ([2020](years/2020.md): AF, SE 2nd). Aryan Ghanadan. *No public outcome found.*
-- **Bottle Rocket** ([2016](README.md#pre-2017-editions-20092016)). Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai.
+- **Bottle Rocket** ([2016](README.md#pre-2017-editions-20092016): Most Outstanding Undergraduate Plan, $1,000). Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai. *DORMANT (likely): raised $260K from MuckerLab + Dorm Room Fund (2016-2017) then no post-2018 footprint. NOT the Dallas-based Bottle Rocket studio (acquired by WPP).*
 - **BrainCheck** ([2017](years/2017.md): CP 1st). Garvin Arellano, Tina Chan, Thomas Tran, Junghyun Kim. *Likely never commercialized; was a UCI senior design / research project.*
 
 ## C
 
 - **CannTek** ([2020](years/2020.md): LS 2nd). Oren.
-- **Carbo** ([2016](README.md#pre-2017-editions-20092016)). Pooja Raja, Rickesh Patel, Xuemei Zhang, Ahmed Khorshid, Ting-Shuo Chou.
+- **Carbo** ([2016](README.md#pre-2017-editions-20092016): UCI IP 2nd, $5,000). Pooja Raja, Rickesh Patel, Xuemei Zhang, Ahmed Khorshid, Ting-Shuo Chou. *PIVOTED: autism / ADHD therapy robot continued as Prof. Krichmar's UCI CARL academic research line (ACM TMS 2018, ACM HRI 2020 papers).*
 - **CarDana** ([2018](years/2018.md): SE 2nd). Anthony Glenn, Jan Biermeyer, Gonzalo Vargas, Derek Singh. *Operating; transparent vehicle-donation platform at cardana.co.*
 - **Celebrate in a Snap** ([2018](years/2018.md): BP 1st). Jyothi Pradhan, Emily Chan, Jose Hernandez, Junaid Ahmed.
-- **CeleriBio** ([2016](README.md#pre-2017-editions-20092016)). Sean Freeman, Nikki Koe, Louai Labanieh, Binh Le, Sadaf Mirnia.
+- **CeleriBio** ([2016](README.md#pre-2017-editions-20092016): Life Sciences/Clean Tech 2nd, $5,000 + Beall Student Design $2,500). Sean Freeman, Nikki Koe, Louai Labanieh, Binh Le, Sadaf Mirnia. *No public outcome found (researched 2026-05-12); team member Louai Labanieh pursued an academic / industry path (Stanford PhD, Parker Institute Scholar, Mount Sinai postdoc) but the company itself has no commercial trajectory.*
 - **ChewRank** ([2023](years/2023.md): CS 2nd). Chi Wei Chen, Hsin-yi Lin, Wei-Chia Hsu, Xiaohan Li, XinYao Xu.
 - **Circular** ([2021](years/2021.md): SE 1st). Caleb Finn, Anjan Rana Magar. *Likely defunct; no follow-on activity after 2022.*
 - **CleanHydro** ([2025](years/2025.md): SE 1st). Not Listed.
@@ -45,12 +45,12 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 - **COMPAS** ([2017](years/2017.md): BP 2nd). Dr. Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover, Aaron Soto. *PIVOTED: IP licensed in 2017 to OpsGuru, a commercial spin-out that has no public footprint after 2018; underlying COMPAS tech continued as an internal UCI Health tool. See [OUTCOMES.md#2017](OUTCOMES.md#2017).*
 - **Conshus Clothing** ([2020](years/2020.md): SE 1st). Arneeb Mahbub, Parth. *No public outcome found; likely dormant.*
 - **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *Dormant (likely); surfaces only as an early-stage signup form.*
-- **Curaflow** ([2016](README.md#pre-2017-editions-20092016)). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin.
+- **Curaflow** ([2016](README.md#pre-2017-editions-20092016): Consumer Products 2nd, $5,000). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin. *No public outcome found (researched 2026-05-12); micro-CPAP device project.*
 - **Curbd / SwappIt** ([2019](years/2019.md): CS 2nd, tied). Not Listed.
 
 ## D
 
-- **Dental Insights** ([2016](README.md#pre-2017-editions-20092016)). Michael Bennett, Andy Fields, Vang Kou Khang.
+- **Dental Insights** ([2016](README.md#pre-2017-editions-20092016): IT/Web 1st, $10,000). Michael Bennett, Andy Fields, Vang Kou Khang. *No public outcome found (researched 2026-05-12); dental-claims authentication software project.*
 - **DermaVision** ([2024](years/2024.md): SE 2nd). Ashley Im, Alejandra Reyes, Mitchell Frazeur, Hao Ngo. *Operating (likely, student-team stage as **DermaVision Technologies**); competed in the 2024 BMES Medtronic Student Design Competition (sources conflict on placement: BMES official says First Place; team's own site says third place). UC Tech Transfer NCD/34412 currently says "not available for licensing" as of 2026-05-11.*
 
 ## E
@@ -70,7 +70,7 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 - **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson. *No public outcome found. An earlier draft of this archive linked First Step Diagnostics to NeuroQure; verification on 2026-05-11 disconfirmed that connection (see OUTCOMES.md).*
 - **Flare** ([2024](years/2024.md): CP 1st). Not Listed.
 - **forMED Technologies** ([2022](years/2022.md): LS 1st). Aryan Agarwal, Ruben Shakya, Francis Aguas. *No public outcome found.*
-- **FunBand** ([2016](README.md#pre-2017-editions-20092016)). Rehema Feleke, Simon Loo, Cliff Wang. *Simon Loo returned to compete in 2017 with Element: B2B2C.*
+- **FunBand** ([2016](README.md#pre-2017-editions-20092016): Consumer Products 1st, $10,000). Rehema Feleke, Simon Loo, Cliff Wang. *DORMANT (likely): Wayfinder incubator + OCBJ 2017 Innovator of the Year nominee + UCI Beall April 2018 profile, then no post-2018 public footprint. Simon Loo returned to compete in 2017 with Element: B2B2C.*
 
 ## G
 
@@ -84,7 +84,7 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 ## H
 
 - **HAI** ([2022](years/2022.md): CP 1st). Not Listed.
-- **Happy Sleep** ([2009](README.md#pre-2017-editions-20092016): undergraduate division winner). Praveen De Silva, Kevin Hung.
+- **Happy Sleep** ([2009](README.md#pre-2017-editions-20092016): undergraduate division winner, $3,500 + Best Concept Paper). Praveen De Silva, Kevin Hung. *No public outcome found (researched 2026-05-12); Bluetooth wristband alarm concept.*
 - **Health Libero** ([2021](years/2021.md): BP 2nd). Not Listed.
 - **Helios** ([2023](years/2023.md): BP 1st). Not Listed.
 - **Help Belt** ([2023](years/2023.md): CP 1st). Not Listed.
@@ -100,7 +100,7 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 
 ## J
 
-- **Jam** ([2016](README.md#pre-2017-editions-20092016)). Emilio Miranda, Miguel Cabral, Jakob Jansson.
+- **Jam** ([2016](README.md#pre-2017-editions-20092016): IT/Web 2nd, $5,000). Emilio Miranda, Miguel Cabral, Jakob Jansson. *No public outcome found (researched 2026-05-12); remote-musician collaboration app concept.*
 - **Jiffal** ([2019](years/2019.md): BP 2nd). Not Listed.
 
 ## L
@@ -111,8 +111,8 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 
 ## M
 
-- **Maslow Construction Robots** ([2016](README.md#pre-2017-editions-20092016)). Andy Truong.
-- **MEGAL!NE** ([2013](README.md#pre-2017-editions-20092016)): TechPortal Calit2 Residency Award. Not Listed.
+- **Maslow Construction Robots** ([2016](README.md#pre-2017-editions-20092016): Best Pivot Program Plan, $1,500). Andy Truong. *OPERATING (likely): Crunchbase profile present, 3D-printing tools for emergency housing; activity dates not independently verified on 2026-05-12.*
+- **MEGAL!NE** ([2013](README.md#pre-2017-editions-20092016)): TechPortal Calit2 Residency Award ($2,750 in-kind). Kimberly Co, Jinelle D'souza, Matty Ochmanek, Sreevatsa Sreeraman (software eng.), Xinlu Tong (software eng.), Debbie Le Yu (coach Tom Taulli). *No public outcome found (researched 2026-05-12); language-learning software with video-overlay pronunciation imitation.*
 - **Mechanodontics** ([2018](years/2018.md): LS 1st). Zahra Mamaghani, Mahdi Tehrani, Mehdi Peikar, Ishita, James Wratten. *Operating as BRIUS Technologies (Carrollton, TX); rebrand confirmed via Crunchbase / CB Insights; $46.2M total funding per Tracxn / Fundz / MergerLinks; Series B $19.5M led by View Ventures (May 2025); Brava commercial launch June 30, 2022.*
 - **Memorlane** ([2017](years/2017.md): CS 1st). Evan Schein, Yocelyn Recinos. *No public outcome found (researched 2026-05-12); only post-competition signal is a stale RocketReach founder-affiliation listing.*
 - **MinuTax** ([2025](years/2025.md): CS 2nd). Not Listed.
@@ -123,9 +123,9 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 ## N
 
 - **NasoCoustics** ([2025](years/2025.md): LS 1st). Dave Soliven, Jordan Ulibarri, Kenji Inducta, Natalie Benneian, Neha Muvvala, Neharika Gopikrishnan. *Operating; design stage; pre-incorporation.*
-- **Negocios & Etc.** ([2016](README.md#pre-2017-editions-20092016)). Caroline Cypriano, Pravin Surana, Fabio Sato. *Pravin Surana returned to compete in 2017 with APIC Diagnostics.*
-- **Nobles Medical Technology** ([2013](README.md#pre-2017-editions-20092016)): Undergraduate Division winner ($2,500); artificial heart system for surgical practice. Not Listed.
-- **NoreGen** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 3rd ($3,500); cancer detection device. Not Listed.
+- **Negocios & Etc.** ([2016](README.md#pre-2017-editions-20092016): Blum Center Poverty Alleviation Award, $10,000). Caroline Cypriano, Pravin Surana, Fabio Sato. *No public outcome found (researched 2026-05-12). Pravin Surana returned to compete in 2017 with APIC Diagnostics.*
+- **Nobles Medical Technology** ([2013](README.md#pre-2017-editions-20092016)): Undergraduate Division winner ($2,500); artificial heart system for surgical practice. Shoumyo Dewan, Joseph Gomez (BME), Jin Kim, Kenny La, Stephen Lee, Timothy Macagba (BME), Suraj Sampath, Sohan Weeraratne (BME) (coach Demetri Andrikos). *No public outcome found (researched 2026-05-12). Disambiguation: NOT Prof. Anthony Nobles' commercial Nobles Medical Technologies II, Inc.*
+- **NoreGen** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 3rd ($3,500) + $30,000 UCI School of Medicine Life Sciences Award; cancer (CTC) detection device. Neychelle Fernandes (FTMBA), Ashley Fong (IGERT LifeChips), Laura Innes (IGERT LifeChips), Robert Joachim (UCI Physics), Jonathan Lin (MD FTMBA), Matthew Schiel (BME), Zuzanna Siwy (Prof, team lead) (coach Alvin Viray). *No public outcome found (researched 2026-05-12); CTC research continued in Prof. Siwy's lab through 2014.*
 - **NeoMold** ([2024](years/2024.md): RU, LS 2nd). Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong. *Operating; very early stage; pre-incorporation/design-review.*
 - **NeuroBoost** ([2026](years/2026.md): semi-finalist). Not Listed.
 - **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson. *Acquired by **Moongoat Coffee Roasters** in December 2022 (asset / subscriber transfer; terms undisclosed). Third documented exit in the archive.*
@@ -164,7 +164,7 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 - **Sentinel** ([2024](years/2024.md): GP, BP 1st). Kyle Deck, Michael Ross, Cody He, Spike O'Carrol, Natan Ampudia, Kevin Wu. *Status unclear as of 2024-09 (working MVP per ANTrepreneur). An earlier draft inferred a connection to Spotter.ai's "Sentinel" product based on naming overlap; verification on 2026-05-11 could not confirm the connection. Treat the absorption claim as unverified.*
 - **ServEasy** ([2025](years/2025.md): BP 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
 - **Shaka** ([2021](years/2021.md): GP, BP 1st). Melanie Wertzberger, Austin Chauncey, Preston Le, Agustine Pimentel. *Operating as Shaka Culture Inc. (Kansas City, MO); raised ~$120K; Microsoft Teams certified.*
-- **Sher Biomedical** ([2016](README.md#pre-2017-editions-20092016)). Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick.
+- **Sher Biomedical** ([2016](README.md#pre-2017-editions-20092016): School of Medicine Award, $10,000). Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick. *No public outcome found (researched 2026-05-12); project description not preserved in indexed coverage.*
 - **Shower Power** ([2023](years/2023.md): SE 1st). Not Listed. *No public outcome found.*
 - **SnapHealth** ([2022](years/2022.md): CS 2nd). Ashraf Hammouri. *Pivoted (likely); mysnaphealth.com active with a new "health coverage" platform (different from the 2022 NVC concept of patient health-record control). 2022 founder Ashraf Hammouri not named on the current site.*
 - **SolarLab** ([2018](years/2018.md): BP 2nd). Hao Peng, Yanchen Wu, Jiale Chen, Edward Li.
@@ -185,7 +185,7 @@ Last updated: 2026-05-12. Total teams indexed: 117.
 ## V
 
 - **VagAligna** ([2023](years/2023.md): GF Winner, LS 2nd). Fiza Qureshi, Hailey Matyac, Angie Espino, Maile Adams. *No public outcome found; likely early-stage R&D or dormant. Founder Fiza Qureshi has moved on professionally.*
-- **ValveStrong** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 2nd ($7,500); hybrid heart valve prostheses. Not Listed.
+- **ValveStrong** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 2nd ($7,500) + TechPortal Orange Residency ($6,000) + Best Concept Paper ($500); hybrid heart valve prostheses. S. Hamed Alavi (BME / Edwards Lifesciences), Peggy Bui, Seema Ehsan (CHEMS / Edwards Lifesciences) (coach Richard Henson). *DORMANT (likely): Gust says 'Full Product Ready' but 'Not Incorporated'; founder Alavi later held senior R&D roles at Edwards, Medtronic, Navigate Cardiac Structures, Hancock Jaffe (CTO/SVP).*
 - **Venom-Aid** ([2017](years/2017.md): LS 1st). Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien. *No public outcome found (researched 2026-05-12); appears tied to undergraduate chemistry research with no commercial follow-on.*
 - **Voltek** ([2020](years/2020.md): CP 2nd). Not Listed.
 - **VolunteerCrowd** ([2019](years/2019.md): SE 1st). Amy von Kaenel. *Pivoted then likely shut down; discontinued membership/verification/app on 2023-01-01; volunteercrowd.com now returns 404.*

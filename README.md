@@ -105,18 +105,18 @@ Founders who appeared on two finalist teams in the **same** year:
 
 ### Outcome distribution (researched teams)
 
-Of the **98 teams researched** as of 2026-05-12 (out of 117 total in the archive):
+Of the **114 teams researched** as of 2026-05-12 (out of 117 total in the archive):
 
 | Outcome category          | Count | % of researched |
 |---------------------------|-------|-----------------|
-| NO PUBLIC OUTCOME FOUND   | 58    | 59.2%           |
-| OPERATING                 | 30    | 30.6%           |
-| PIVOTED                   | 4     | 4.1%            |
-| DORMANT                   | 3     | 3.1%            |
-| ACQUIRED                  | 2     | 2.0%            |
-| SHUT DOWN                 | 1     | 1.0%            |
+| NO PUBLIC OUTCOME FOUND   | 69    | 60.5%           |
+| OPERATING                 | 31    | 27.2%           |
+| DORMANT                   | 6     | 5.3%            |
+| PIVOTED                   | 5     | 4.4%            |
+| ACQUIRED                  | 2     | 1.8%            |
+| SHUT DOWN                 | 1     | 0.9%            |
 
-Now that the third-pass research (2026-05-12 26th verification pass) is recorded, the dominant outcome category is "no findable public outcome" (59%): consumer apps and social-enterprise winners from 2017 to 2022 disproportionately produce no traceable post-competition footprint. Of the teams that DO have findable outcomes, the majority (30 of 40) are still operating in some form, with the highest survival rate in medical / life-sciences tracks (long FDA timelines keep even pre-revenue companies alive). The fourth PIVOTED entry, added in the 26th pass, is COMPAS (2017 BP 2nd): its IP was licensed to a 2017 commercial spin-out (OpsGuru) that has no public footprint after 2018, while the underlying technology continued internally inside UCI Health. The remaining 19 teams in the archive (mostly 2026 semi-finalists and pre-2017 sub-winners) have not yet been outcome-researched.
+The 27th verification pass (2026-05-12) closed out the 2013 sub-winners cohort, the 2016 finalist cohort (with full track placements recovered from UCI News primary source), and the 2009 Happy Sleep undergraduate winner. The dominant outcome category remains "no findable public outcome" (61%): consumer apps and social-enterprise winners from 2013 to 2022 disproportionately produce no traceable post-competition footprint. DORMANT doubled to 6 in this pass (ValveStrong, FunBand, and Bottle Rocket added; each had credible early-stage activity then went quiet). PIVOTED grew to 5 with Carbo joining (autism / ADHD therapy robot continued as Prof. Krichmar's academic research at UCI CARL rather than commercializing). The remaining 3 unresearched teams are the 2026 semi-finalists (AegleBio, Billify, NeuroBoost) - they will be researched after the May 21, 2026 Grand Finale.
 
 ### How prizes have shifted over time
 
@@ -207,28 +207,36 @@ This archive's main per-year tables begin in 2017. For completeness, here are co
 | 2015 | *No public record found*       | -                                                                                        | -                                                  | -                                                                         |
 | 2016 | EmbryLux                       | Device screening embryos pre-implantation for IVF                                        | $20,000 (Life Sciences 1st + UCI IP Award)         | Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran        |
 
-**Other 2013 winners** (confirmed via Samueli Engineering coverage, 2026-05-11 verification):
+**Other 2013 winners** (confirmed via Samueli Engineering coverage, prize details expanded 2026-05-12):
 
-- 2nd Place (Campus Wide, $7,500): **ValveStrong**, hybrid heart valve prostheses
-- 3rd Place (Campus Wide, $3,500): **NoreGen**, cancer detection device
-- Undergraduate Division ($2,500): **Nobles Medical Technology**, artificial heart system for surgical practice
-- TechPortal Calit2 Residency Award: **MEGAL!NE**
-- UC Irvine Environment Institute Award: **Bloom Diagnostics**
+| Team                        | Place                                                                                                 | Prize                                          | Members                                                                                                                                                                          | Coach              |
+|-----------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| **ValveStrong**             | Campus Wide 2nd + TechPortal Orange Residency + Best Concept Paper                                    | $7,500 + $6,000 + $500 = $14,000               | S. Hamed Alavi (BME / Edwards Lifesciences), Peggy Bui, Seema Ehsan (CHEMS / Edwards Lifesciences)                                                                               | Richard Henson     |
+| **NoreGen**                 | Campus Wide 3rd + $30,000 UCI School of Medicine Life Sciences Award                                  | $3,500 + $30,000 = $33,500                     | Neychelle Fernandes (FTMBA), Ashley Fong (IGERT LifeChips / Edwards Lifesciences), Laura Innes (IGERT LifeChips), Robert Joachim (UCI Physics), Jonathan Lin (MD FTMBA), Matthew Schiel (BME), Zuzanna Siwy (Prof) | Alvin Viray        |
+| **Nobles Medical Technology**| Undergraduate Division winner                                                                         | $2,500                                         | Shoumyo Dewan, Joseph Gomez (BME), Jin Kim, Kenny La, Stephen Lee, Timothy Macagba (BME), Suraj Sampath, Sohan Weeraratne (BME)                                                  | Demetri Andrikos   |
+| **MEGAL!NE**                | TechPortal Calit2 Residency Award                                                                     | $2,750 (in-kind)                               | Kimberly Co, Jinelle D'souza, Matty Ochmanek, Sreevatsa Sreeraman (software eng.), Xinlu Tong (software eng.), Debbie Le Yu                                                      | Tom Taulli         |
+| **Bloom Diagnostics**       | UC Irvine Environment Institute Award                                                                 | $2,500                                         | Amanda Gage, Kevin Leong, Ali Mansouri (CHEMS), Syed Naqvi, Betty Olson, Johnway Yih                                                                                             | Earle Hager        |
 
-**Other 2016 finalist teams** (confirmed but with full track placements not preserved in indexed sources):
+**2013 disclosed cash total:** $67,500 ($15K LAS + $14K ValveStrong combined awards + $33.5K NoreGen combined awards + $2.5K Nobles + $2.5K Bloom Diagnostics), excluding $2,750 in-kind MEGAL!NE residency.
 
-| Team                       | Members                                                                                  |
-|----------------------------|------------------------------------------------------------------------------------------|
-| CeleriBio                  | Sean Freeman, Nikki Koe, Louai Labanieh, Binh Le, Sadaf Mirnia                           |
-| Dental Insights            | Michael Bennett, Andy Fields, Vang Kou Khang                                             |
-| Jam                        | Emilio Miranda, Miguel Cabral, Jakob Jansson                                             |
-| FunBand                    | Rehema Feleke, Simon Loo, Cliff Wang                                                     |
-| Curaflow                   | Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin                       |
-| Carbo                      | Pooja Raja, Rickesh Patel, Xuemei Zhang, Ahmed Khorshid, Ting-Shuo Chou                  |
-| Sher Biomedical            | Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick     |
-| Negocios & Etc.            | Caroline Cypriano, Pravin Surana, Fabio Sato                                             |
-| Bottle Rocket              | Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai                              |
-| Maslow Construction Robots | Andy Truong                                                                              |
+Two name-disambiguation notes: (1) The UCI 2013 *Nobles Medical Technology* undergraduate team is **unrelated** to Prof. Anthony Nobles' commercial *Nobles Medical Technologies II, Inc.* (founded 2009, Fountain Valley, NobleStitch product); the naming overlap is coincidental. (2) The UCI 2013 *Bloom Diagnostics* environmental team is **unrelated** to the Swiss medtech *Bloom Diagnostics* (Zurich, CRP / iron-deficiency blood-test devices).
+
+**Other 2016 finalists** (full track placements recovered from UCI News primary source, 2026-05-12; previously listed as "track placement not preserved"):
+
+| Team                        | Placement                                            | Prize    | Members                                                                                  |
+|-----------------------------|------------------------------------------------------|----------|------------------------------------------------------------------------------------------|
+| **Dental Insights**         | IT/Web 1st                                           | $10,000  | Michael Bennett, Andy Fields, Vang Kou Khang                                             |
+| **FunBand**                 | Consumer Products 1st                                | $10,000  | Rehema Feleke, Simon Loo, Cliff Wang                                                     |
+| **Negocios & Etc.**         | Blum Center for Poverty Alleviation Award            | $10,000  | Caroline Cypriano, Pravin Surana, Fabio Sato                                             |
+| **Sher Biomedical**         | School of Medicine Award                             | $10,000  | Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick     |
+| **Carbo**                   | UCI Intellectual Property 2nd                        | $5,000   | Pooja Raja, Rickesh Patel, Xuemei Zhang, Ahmed Khorshid, Ting-Shuo Chou                  |
+| **Jam**                     | IT/Web 2nd                                           | $5,000   | Emilio Miranda, Miguel Cabral, Jakob Jansson                                             |
+| **CeleriBio**               | Life Sciences/Clean Tech 2nd                         | $5,000   | Sean Freeman, Nikki Koe, Louai Labanieh, Binh Le, Sadaf Mirnia                           |
+| **Curaflow**                | Consumer Products 2nd                                | $5,000   | Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin                       |
+| **Bottle Rocket**           | Most Outstanding Undergraduate Plan                  | $1,000   | Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai                              |
+| **Maslow Construction Robots**| Best Pivot Program Plan                            | $1,500   | Andy Truong                                                                              |
+
+**2016 disclosed cash total:** $82,500 (EmbryLux $20K dual-award + $10K × 4 specialty awards + $5K × 4 second-place track awards + $1K Bottle Rocket + $1.5K Maslow). UCI News reported "more than $100,000 in cash and prizes" which includes legal-service and workspace-access in-kind credits not captured here.
 
 Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Element: B2B2C, winning Business Products 1st; Pravin Surana joined APIC Diagnostics, winning Tech Surge 2nd), captured in the [Repeat finalists](#repeat-finalists-across-years) table above.
 
@@ -236,7 +244,7 @@ Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Elemen
 
 ## Where Are They Now?
 
-A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-12, **98 of 117 teams** in the archive have been researched (the 26th verification pass on 2026-05-12 closed out the 2017 track-winners cohort, including the COMPAS / OpsGuru licensing trajectory). Quick highlights:
+A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-12, **114 of 117 teams** in the archive have been researched (the 27th verification pass on 2026-05-12 closed out the 2013 sub-winners, the 2016 finalist cohort with full track placements recovered, and the 2009 Happy Sleep undergraduate winner). Quick highlights:
 
 - **Three documented major outcomes:**
   - Laser Associated Sciences (2013 GP) acquired by **Medtronic**, April 2020 (terms undisclosed).

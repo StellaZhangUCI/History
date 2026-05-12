@@ -1289,12 +1289,58 @@
         "coach": "Dale Sadlik"
       },
       "other_winners": [
-        {"place": "2nd (Campus Wide)", "team": "ValveStrong", "project": "Hybrid heart valve prostheses", "prize_text": "$7,500", "prize_amount_usd": 7500},
-        {"place": "3rd (Campus Wide)", "team": "NoreGen", "project": "Cancer detection device", "prize_text": "$3,500", "prize_amount_usd": 3500},
-        {"place": "Undergraduate Division winner", "team": "Nobles Medical Technology", "project": "Artificial heart system for surgical practice", "prize_text": "$2,500", "prize_amount_usd": 2500},
-        {"place": "TechPortal Calit2 Residency Award", "team": "MEGAL!NE"},
-        {"place": "UC Irvine Environment Institute Award", "team": "Bloom Diagnostics"}
-      ]
+        {
+          "place": "2nd (Campus Wide)",
+          "team": "ValveStrong",
+          "project": "Hybrid heart valve prostheses with self-regenerative capacity, lifelong durability, and enhanced biocompatibility",
+          "prize_text": "$7,500 (Campus Wide 2nd) + $6,000 TechPortal Orange Residency Award + $500 Best Concept Paper",
+          "prize_amount_usd": 14000,
+          "members": ["S. Hamed Alavi (BME / Edwards Lifesciences)", "Peggy Bui", "Seema Ehsan (CHEMS / Edwards Lifesciences)"],
+          "coach": "Richard Henson"
+        },
+        {
+          "place": "3rd (Campus Wide)",
+          "team": "NoreGen",
+          "project": "Medical diagnostic device to detect circulating tumor cells (CTCs) in blood",
+          "prize_text": "$3,500 (Campus Wide 3rd) + $30,000 UCI School of Medicine Life Sciences Award",
+          "prize_amount_usd": 33500,
+          "members": ["Neychelle Fernandes (FTMBA)", "Ashley Fong (IGERT LifeChips fellow / Edwards Lifesciences)", "Laura Innes (IGERT LifeChips fellow)", "Robert Joachim (UCI Physics)", "Jonathan Lin (MD FTMBA)", "Matthew Schiel (BME)", "Zuzanna Siwy (Prof, team lead)"],
+          "coach": "Alvin Viray"
+        },
+        {
+          "place": "Undergraduate Division winner",
+          "team": "Nobles Medical Technology",
+          "project": "Artificial pumping heart system for surgeons to practice catheter surgeries",
+          "prize_text": "$2,500",
+          "prize_amount_usd": 2500,
+          "members": ["Shoumyo Dewan", "Joseph Gomez (BME)", "Jin Kim", "Kenny La", "Stephen Lee", "Timothy Macagba (BME)", "Suraj Sampath", "Sohan Weeraratne (BME)"],
+          "coach": "Demetri Andrikos",
+          "naming_note": "UCI undergraduate team; name appears coincidental and unrelated to Anthony Nobles' commercial Nobles Medical Technologies II, Inc. (founded 2009, Fountain Valley, NobleStitch product)."
+        },
+        {
+          "place": "TechPortal Calit2 Residency Award",
+          "team": "MEGAL!NE",
+          "project": "Technology-based language learning software that imitates pronunciations and creates text streams while watching videos",
+          "prize_text": "$2,750 in-kind (TechPortal Calit2 Residency Award)",
+          "prize_amount_usd": 2750,
+          "prize_is_in_kind": true,
+          "members": ["Kimberly Co", "Jinelle D'souza", "Matty Ochmanek", "Sreevatsa Sreeraman (software engineering)", "Xinlu Tong (software engineering)", "Debbie Le Yu"],
+          "coach": "Tom Taulli"
+        },
+        {
+          "place": "UC Irvine Environment Institute Award",
+          "team": "Bloom Diagnostics",
+          "project": "Easy-to-use kit providing real-time identification of foam-causing bacteria species via molecular diagnostic techniques",
+          "prize_text": "$2,500 (UC Irvine Environment Institute Award)",
+          "prize_amount_usd": 2500,
+          "members": ["Amanda Gage", "Kevin Leong", "Ali Mansouri (CHEMS)", "Syed Naqvi", "Betty Olson", "Johnway Yih"],
+          "coach": "Earle Hager",
+          "naming_note": "UCI environmental student team; not to be confused with the unrelated Swiss medtech 'Bloom Diagnostics' (CRP / iron blood-test devices)."
+        }
+      ],
+      "disclosed_cash_total_usd": 67500,
+      "disclosed_cash_total_note": "$15,000 (LAS) + $14,000 (ValveStrong: $7.5K + $6K + $500) + $33,500 (NoreGen: $3.5K + $30K SoM Life Sciences Award) + $2,500 (Nobles) + $2,500 (Bloom Diagnostics). Excludes $2,750 in-kind TechPortal Calit2 Residency Award to MEGAL!NE. Roster and prize details verified against Samueli engineering primary source 2026-05-12.",
+      "primary_source": "https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition"
     },
     {
       "year": 2014,
@@ -1312,25 +1358,30 @@
     {
       "year": 2016,
       "competition_name_at_time": "Merage Business Plan Competition",
+      "tracks_at_time": ["Life Sciences/Clean Tech", "UCI Intellectual Property", "IT/Web", "Consumer Products"],
+      "specialty_awards_at_time": ["Blum Center for Poverty Alleviation Award", "School of Medicine Award", "Most Outstanding Undergraduate Plan", "Best Pivot Program Plan"],
       "grand_prize": {
         "team": "EmbryLux",
         "project": "Device screening embryos pre-implantation for IVF",
-        "prize_text": "$20,000 (Life Sciences 1st + UCI IP Award)",
+        "prize_text": "$20,000 ($10,000 Life Sciences/Clean Tech 1st + $10,000 UCI Intellectual Property 1st; dual award)",
         "prize_amount_usd": 20000,
         "members": ["Tiffany Chien", "Yingkai Su", "Thai Nguyen", "Shin Fukazawa", "Daniel Tran"]
       },
       "other_finalists": [
-        {"team": "CeleriBio", "members": ["Sean Freeman", "Nikki Koe", "Louai Labanieh", "Binh Le", "Sadaf Mirnia"]},
-        {"team": "Dental Insights", "members": ["Michael Bennett", "Andy Fields", "Vang Kou Khang"]},
-        {"team": "Jam", "members": ["Emilio Miranda", "Miguel Cabral", "Jakob Jansson"]},
-        {"team": "FunBand", "members": ["Rehema Feleke", "Simon Loo", "Cliff Wang"]},
-        {"team": "Curaflow", "members": ["Jeffrey Chum", "Josh Drum", "Michael Shenk", "Matthew Vasquez", "Sam Pasin"]},
-        {"team": "Carbo", "members": ["Pooja Raja", "Rickesh Patel", "Xuemei Zhang", "Ahmed Khorshid", "Ting-Shuo Chou"]},
-        {"team": "Sher Biomedical", "members": ["Rachel Gurlin", "Avid Najdahmadi", "Bhupinder Shergill", "Jonathan Lakey", "Elliot Botnivick"]},
-        {"team": "Negocios & Etc.", "members": ["Caroline Cypriano", "Pravin Surana", "Fabio Sato"]},
-        {"team": "Bottle Rocket", "members": ["Arthur Avetisov", "Brian Leung", "Eric Tam", "Lisa Tran", "Tina Mai"]},
-        {"team": "Maslow Construction Robots", "members": ["Andy Truong"]}
-      ]
+        {"team": "Dental Insights", "place": "1st (IT/Web)", "project": "Software to increase accuracy and authenticity of submitted dental claims", "prize_text": "$10,000", "prize_amount_usd": 10000, "members": ["Michael Bennett", "Andy Fields", "Vang Kou Khang"]},
+        {"team": "FunBand", "place": "1st (Consumer Products)", "project": "Secure wristband using LoRa technology to help parents track children at venues", "prize_text": "$10,000", "prize_amount_usd": 10000, "members": ["Rehema Feleke", "Simon Loo", "Cliff Wang"]},
+        {"team": "Negocios & Etc.", "place": "Blum Center for Poverty Alleviation Award", "project": "Online platform connecting business owners with affordable consultancies via a unique social network", "prize_text": "$10,000", "prize_amount_usd": 10000, "members": ["Caroline Cypriano", "Pravin Surana", "Fabio Sato"]},
+        {"team": "Sher Biomedical", "place": "School of Medicine Award", "prize_text": "$10,000", "prize_amount_usd": 10000, "members": ["Rachel Gurlin", "Avid Najdahmadi", "Bhupinder Shergill", "Jonathan Lakey", "Elliot Botnivick"]},
+        {"team": "Carbo", "place": "2nd (UCI Intellectual Property)", "project": "Novel therapeutic robot to supplement home, classroom and clinic therapy for autism spectrum disorder and ADHD", "prize_text": "$5,000", "prize_amount_usd": 5000, "members": ["Pooja Raja", "Rickesh Patel", "Xuemei Zhang", "Ahmed Khorshid", "Ting-Shuo Chou"]},
+        {"team": "Jam", "place": "2nd (IT/Web)", "project": "App that lets musicians easily connect, jam together and form groups remotely", "prize_text": "$5,000", "prize_amount_usd": 5000, "members": ["Emilio Miranda", "Miguel Cabral", "Jakob Jansson"]},
+        {"team": "CeleriBio", "place": "2nd (Life Sciences/Clean Tech)", "project": "Novel diagnostic device identifying extremely low concentrations of pathogens at early stages of infection", "prize_text": "$5,000", "prize_amount_usd": 5000, "members": ["Sean Freeman", "Nikki Koe", "Louai Labanieh", "Binh Le", "Sadaf Mirnia"]},
+        {"team": "Curaflow", "place": "2nd (Consumer Products)", "project": "Micro CPAP device for sleep apnea: motorless, tubeless, and maskless", "prize_text": "$5,000", "prize_amount_usd": 5000, "members": ["Jeffrey Chum", "Josh Drum", "Michael Shenk", "Matthew Vasquez", "Sam Pasin"]},
+        {"team": "Bottle Rocket", "place": "Most Outstanding Undergraduate Plan", "project": "Mobile app and direct-to-consumer recycling service rewarding customers for recycling at home", "prize_text": "$1,000", "prize_amount_usd": 1000, "members": ["Arthur Avetisov", "Brian Leung", "Eric Tam", "Lisa Tran", "Tina Mai"]},
+        {"team": "Maslow Construction Robots", "place": "Best Pivot Program Plan", "project": "Supplier of automated 3D-printing tools to real estate developers for low-cost emergency housing", "prize_text": "$1,500", "prize_amount_usd": 1500, "members": ["Andy Truong"]}
+      ],
+      "disclosed_cash_total_usd": 82500,
+      "disclosed_cash_total_note": "EmbryLux $20K (dual award) + Dental Insights $10K + FunBand $10K + Negocios & Etc. $10K + Sher Biomedical $10K + Carbo $5K + Jam $5K + CeleriBio $5K + Curaflow $5K + Bottle Rocket $1K + Maslow $1.5K = $82,500. UCI News reported 'more than $100,000 in cash and prizes' which appears to include legal services and workspace access not captured here. Track placements verified against UCI News primary source 2026-05-12 (previously unknown per BACKLOG Priority 4).",
+      "primary_source": "https://news.uci.edu/2016/05/11/uci-student-entrepreneurs-do-battle-in-business-plan-competition/"
     }
   ],
   "cross_year_notes": {
@@ -1338,14 +1389,14 @@
       {
         "name": "Simon Loo",
         "appearances": [
-          {"year": 2016, "team": "FunBand", "awards": []},
+          {"year": 2016, "team": "FunBand", "awards": ["1st (Consumer Products)"]},
           {"year": 2017, "team": "Element: B2B2C", "awards": ["Track Award (Business Products) 1st"]}
         ]
       },
       {
         "name": "Pravin Surana",
         "appearances": [
-          {"year": 2016, "team": "Negocios & Etc.", "awards": []},
+          {"year": 2016, "team": "Negocios & Etc.", "awards": ["Blum Center for Poverty Alleviation Award"]},
           {"year": 2017, "team": "APIC Diagnostics", "awards": ["Tech Surge 2nd"]}
         ]
       },
@@ -1382,7 +1433,13 @@
       "2019": 70000,
       "2018": 92500,
       "2017": 64500,
-      "total_2017_to_2025": 777500
+      "2016": 82500,
+      "2016_note": "Added 2026-05-12: full track placements and prize amounts recovered from UCI News primary source. EmbryLux $20K dual-award + Dental Insights $10K + FunBand $10K + Negocios $10K + Sher Biomedical $10K + Carbo / Jam / CeleriBio / Curaflow $5K each + Bottle Rocket $1K + Maslow $1.5K.",
+      "2013": 67500,
+      "2013_note": "Added 2026-05-12: full sub-winner rosters and prize details recovered from Samueli engineering primary source. LAS $15K + ValveStrong $14K ($7.5K + $6K Orange Residency + $500 Concept Paper) + NoreGen $33.5K ($3.5K + $30K SoM Life Sciences Award) + Nobles $2.5K + Bloom Diagnostics $2.5K. Excludes $2,750 in-kind TechPortal Calit2 award to MEGAL!NE.",
+      "total_2017_to_2025": 777500,
+      "total_pre_2017_known": 150000,
+      "total_pre_2017_note": "Pre-2017 cash totals are confirmed only for 2013 ($67,500) and 2016 ($82,500). 2009, 2012, 2014 partial totals are known but team-by-team rosters incomplete; 2010, 2011, 2015 remain structural gaps in the indexed public record."
     }
   }
 }

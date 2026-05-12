@@ -4,7 +4,7 @@
 
 This is a concrete list of gaps in the archive. If you want to contribute, this is the menu. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the submission process.
 
-Last reviewed: 2026-05-12 (26th pass).
+Last reviewed: 2026-05-12 (27th pass).
 
 ## Priority 1: Time-sensitive gaps
 
@@ -114,34 +114,31 @@ Teams below have no individual member names in indexed public sources. Best cand
 
 For years where this archive currently records only the Grand Prize / overall winner, the full track lineup remains uncaptured:
 
-- **2009:** track winners besides ZeroWatt Technologies and Happy Sleep (undergraduate division)
+- **2009:** track winners besides ZeroWatt Technologies and Happy Sleep (undergraduate division) - both researched 2026-05-12, NO_FOUND
 - **2012:** tracks beyond Prescient Imaging
-- ~~**2013:** tracks beyond Laser Associated Sciences~~ - resolved 2026-05-11: ValveStrong (Campus Wide 2nd, $7,500), NoreGen (Campus Wide 3rd, $3,500), Nobles Medical Technology (Undergrad Division, $2,500), MEGAL!NE (TechPortal Calit2 Residency Award), Bloom Diagnostics (UCI Environment Institute Award) all added.
+- ~~**2013:** tracks beyond Laser Associated Sciences~~ - resolved across two passes: 2026-05-11 first recovered ValveStrong/NoreGen/Nobles/MEGAL!NE/Bloom Diagnostics teams + prize amounts; 2026-05-12 27th pass added full member rosters, coaches, and the previously-unrecorded $30,000 UCI School of Medicine Life Sciences Award attached to NoreGen, plus the $6,000 TechPortal Orange Residency + $500 Best Concept Paper layered on ValveStrong.
 - **2014:** tracks beyond iBesties
-- **2016:** track placements among the 10 other named finalists (members are now confirmed for all 10; placements within the Life Sciences / CleanTech / IP Award structure are still missing)
+- ~~**2016:** track placements among the 10 other named finalists~~ - resolved 2026-05-12 (27th pass) via UCI News 2016-05-11 primary source. Full placements now captured: Dental Insights (IT/Web 1st, $10K), FunBand (Consumer Products 1st, $10K), Negocios & Etc. (Blum Center Poverty Alleviation Award, $10K), Sher Biomedical (School of Medicine Award, $10K), Carbo (UCI IP 2nd, $5K), Jam (IT/Web 2nd, $5K), CeleriBio (Life Sciences/Clean Tech 2nd, $5K), Curaflow (Consumer Products 2nd, $5K), Bottle Rocket (Most Outstanding Undergraduate Plan, $1K), Maslow Construction Robots (Best Pivot Program Plan, $1.5K). EmbryLux confirmed as dual award (Life Sciences/Clean Tech 1st + UCI IP 1st = $20K combined).
 
-## Priority 5: Outcome research (extending OUTCOMES.md) - substantially completed 2026-05-12
+## Priority 5: Outcome research (extending OUTCOMES.md) - effectively complete 2026-05-12
 
-Three outcomes-research passes (2026-05-09, 2026-05-10, and the 2026-05-12 26th pass) have now attempted **98 of 117 teams** in the archive. All teams flagged as "still unresearched" in earlier versions of this BACKLOG have been research-attempted; the 26th pass added the seven 2017 track-winners cohort, including the COMPAS / OpsGuru licensing trajectory.
+Four outcomes-research passes (2026-05-09, 2026-05-10, 26th pass on 2026-05-12, and 27th pass on 2026-05-12) have now attempted **114 of 117 teams** in the archive. The 27th pass closed out the 2013 sub-winners, the 2016 finalist cohort (with full track placements recovered as a side benefit), and the 2009 Happy Sleep undergraduate winner.
 
-**Notable confirmed outcomes** (highlighted from earlier passes):
+**Notable confirmed outcomes** (consolidated across all four passes):
 
-- No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022; third documented major outcome)
-- Wing rebranded to Wing Assistant, $2.1M seed in 2021
-- Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision: all OPERATING
-- COMPAS (2017 BP 2nd): IP licensed in 2017 to OpsGuru, a commercial spin-out (CEO Jeff Greenberg) that itself has no public footprint after 2018. Internal UCI Health deployment continued. Categorized as PIVOTED.
+- LAS ACQUIRED by Medtronic (April 2020; the cleanest exit in the archive)
+- No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022)
+- Mechanodontics rebranded as BRIUS Technologies (~$46.2M raised per PitchBook)
+- Wing rebranded to Wing Assistant ($2.1M seed Oct 2021, still operating)
+- Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision, Maslow Construction Robots: all OPERATING (varying confidence)
+- COMPAS (2017 BP 2nd): IP licensed to OpsGuru spin-out 2017; categorized PIVOTED
+- Carbo (2016 UCI IP 2nd): work continued as Prof. Krichmar's CARL research line at UCI; categorized PIVOTED
+- ValveStrong (2013 Campus Wide 2nd): never formally incorporated, but founder Alavi moved to senior medtech industry roles (Hancock Jaffe CTO/SVP, etc.); categorized DORMANT
+- FunBand (2016 Consumer Products 1st), Bottle Rocket (2016 Undergrad Plan): both had credible 2017-2018 incubator / investor activity (FunBand Wayfinder + OCBJ Innovator nomination; Bottle Rocket $260K from MuckerLab + Dorm Room Fund) then no further public footprint; both categorized DORMANT
 
-**Remaining 19 unresearched teams** (precise list from programmatic cross-check on 2026-05-12):
+**Remaining 3 unresearched teams**: all 2026 semi-finalists (AegleBio, Billify, NeuroBoost) - will be researched after the May 21, 2026 Grand Finale.
 
-- **2026 semi-finalists (3)** (will be researched after the May 21, 2026 Grand Finale):
-  - AegleBio, Billify, NeuroBoost
-- **2013 sub-winners (5)**:
-  - ValveStrong (Campus Wide 2nd), NoreGen (Campus Wide 3rd), Nobles Medical Technology (Undergrad), MEGAL!NE (TechPortal Calit2 Award), Bloom Diagnostics (UCI Environment Institute Award)
-- **2016 finalists (10)** (track placements unknown):
-  - CeleriBio, Dental Insights, Jam, FunBand, Curaflow, Carbo, Sher Biomedical, Negocios & Etc., Bottle Rocket, Maslow Construction Robots
-- **2009 (1)**: Happy Sleep (undergraduate division winner)
-
-Pattern from three outcomes-research passes: most consumer / social-enterprise teams from 2017-2022 simply produced no public footprint after the competition. The 58 NO_PUBLIC_OUTCOME_FOUND entries in data/outcomes.json document this exhaustively. A fourth research pass on these teams is unlikely to surface new findings unless access to the password-protected NVC PDF reports becomes available.
+Pattern from four outcomes-research passes: most consumer / social-enterprise teams from 2013-2022 simply produced no public footprint after the competition. The 69 NO_PUBLIC_OUTCOME_FOUND entries in data/outcomes.json document this exhaustively. Further research passes on the 114 currently-attempted teams are unlikely to surface new findings unless access to the password-protected NVC PDF reports becomes available (Priority 1).
 
 ## Priority 6: Confirming ambiguous items
 
