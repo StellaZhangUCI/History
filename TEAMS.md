@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (32nd pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (33rd pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -131,7 +131,7 @@ Last updated: 2026-05-12 (32nd pass). Total teams indexed: 117.
 - **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson. *Acquired by **Moongoat Coffee Roasters** in December 2022 (asset / subscriber transfer; terms undisclosed). Third documented exit in the archive.*
 - **Noveil** ([2022](years/2022.md): GP, CS 1st). Michael Allotey. *Operating but quiet; Arch Grants recipient (St. Louis); Tracxn shows still active in early 2026 with low engagement.*
 - **NūCo** ([2025](years/2025.md): CP 2nd). Not Listed.
-- **Nutripair** ([2022](years/2022.md): BP 1st). Catlin Tran. *Operating; received a $25,000 Verizon grant in 2025; UCI Social Sciences profile March 2025.*
+- **Nutripair** ([2022](years/2022.md): BP 1st, $10,000). Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient), Bing Mo (UCI alum '21, co-founder). *OPERATING; $25K Verizon grant in 2025; UCI Social Sciences profile Mar 2025. Also 2nd in 2022 Butterworth Product Development Competition.*
 
 ## O
 
@@ -160,7 +160,7 @@ Last updated: 2026-05-12 (32nd pass). Total teams indexed: 117.
 ## S
 
 - **Salux Diagnostics** ([2017](years/2017.md): LS 2nd). Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Kevin Trieu. *No public outcome found (researched 2026-05-12); appears to have been a UCI senior design project.*
-- **Sayenza Biosciences** ([2022](years/2022.md): LS 2nd). Dr. Derek Banyard. *Operating; clinical-stage adipose-tissue regenerative-medicine company; ~$1.16M raised; California Life Sciences FAST Spring 2024 cohort.*
+- **Sayenza Biosciences** ([2022](years/2022.md): LS 2nd, $5,000). Derek A. Banyard MD MS MBA (Founder & CEO), Jered B. Haun (Co-Founder; UCI BME Assoc. Prof.), Alan D. Widgerow (Co-Founder; UCI Center for Tissue Engineering; also CMO at Alastin Skincare, acquired by Galderma). *OPERATING; founded November 2019; clinical-stage adipose-tissue regenerative-medicine company; ~$1.16M raised, $3.5M seed round in progress; California Life Sciences FAST Spring 2024 cohort.*
 - **Sentinel** ([2024](years/2024.md): GP, BP 1st). Kyle Deck, Michael Ross, Cody He, Spike O'Carrol, Natan Ampudia, Kevin Wu. *Status unclear as of 2024-09 (working MVP per ANTrepreneur). An earlier draft inferred a connection to Spotter.ai's "Sentinel" product based on naming overlap; verification on 2026-05-11 could not confirm the connection. Treat the absorption claim as unverified.*
 - **ServEasy** ([2025](years/2025.md): BP 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
 - **Shaka** ([2021](years/2021.md): GP, BP 1st). Melanie Wertzberger, Austin Chauncey, Preston Le, Agustine Pimentel. *Operating as Shaka Culture Inc. (Kansas City, MO); raised ~$120K; Microsoft Teams certified.*

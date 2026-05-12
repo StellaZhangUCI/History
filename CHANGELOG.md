@@ -17,9 +17,42 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$777,500 (updated from $760K after Shaka $17,500 confirmation in 5th verification pass)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 32 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed + a brand-disambiguation note (Help Belt 2023 UCI team vs unrelated helpbelts.com); latest pass expanded the PCOSitive Buddy 2025 roster from 1 named member to 4 with confidence-graded annotations |
+| Verification audit              | 33 passes against cited sources completed; 14 factual errors / hallucinations corrected + 5 stale derived figures caught and fixed; latest pass added Nutripair 2022 co-founder Bing Mo, enriched Sayenza Biosciences 2022 with founding date (Nov 2019) + Widgerow's Alastin / Galderma affiliation + $3.5M seed-round target, and ran a programmatic cross-file consistency audit (all 117 teams correctly aligned across nvc.json, teams.json, and outcomes.json) |
 
 ## 2026-05-12
+
+### Added (thirty-third verification pass: Nutripair co-founder + Sayenza founding-date enrichment + cross-file consistency audit)
+
+Two concrete additions to existing OPERATING entries, plus a programmatic cross-file consistency audit.
+
+**Nutripair 2022 (Business Products 1st, $10,000) - co-founder Bing Mo added**: UCI Social Sciences March 2025 profile names Bing Mo (UCI alum '21) as Catlin Tran's co-founder. Catlin Tran's role detail enriched: Founder & CEO; UCI Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient. Concept evolution captured: post-NVC, Nutripair pivoted from "clinical nutrition pairing" toward a restaurant-discovery platform for dietary restrictions. Also captured: 2nd place in 2022 Butterworth Product Development Competition (a sibling UCI competition track).
+
+**Sayenza Biosciences 2022 (Life Sciences 2nd, $5,000) - founding-date and affiliations enriched**: 
+- Founding date confirmed as **November 2019** (per UCI Beall coverage)
+- Derek Banyard credentials expanded: Derek A. Banyard MD MS MBA, UCI MS 2017-2018
+- Alan Widgerow's role outside Sayenza added: Plastic Surgeon, Professor & Director at the UCI Center for Tissue Engineering, also CMO at **Alastin Skincare** (acquired by **Galderma**) - the Alastin/Galderma connection is a meaningful exit-adjacent affiliation worth recording
+- Funding context: ~$1.16M raised, aiming for a $3.5M seed round per UCI Samueli engineering coverage
+- Two 2025 peer-reviewed publications added to OUTCOMES citations: *Bioengineering* paper and *Aesthetic Surgery Journal* paper on the underlying fluidic-device platform for lipoaspirate processing
+
+**Cross-file consistency audit (no archive changes required)**:
+Ran a programmatic cross-check across the three structured data files:
+- All 114 outcomes in `data/outcomes.json` have matching entries in `data/teams.json` (including alias-mapping)
+- All 114 teams in `data/teams.json` with non-null outcome match their `data/outcomes.json` entry
+- All 117 teams in `data/teams.json` are represented in `data/nvc.json` across either `years.*.{grand_prize,runner_up,audience_favorite,specialty_awards,track_awards,tech_surge,awards,named_semifinalists}` or `pre_2017_editions.*.{grand_prize,undergraduate_winner,other_winners}`
+- Zero category mismatches between teams.json outcome category and outcomes.json category
+- Per-year markdown files in `years/` include every team listed in the corresponding nvc.json year entry
+
+Confirms the archive's three structured data files and the per-year markdown narrative remain in sync after 33 verification passes.
+
+**Files touched:**
+- `data/nvc.json`: Sayenza Biosciences + Nutripair member fields enriched; Sayenza gained `company_founded: "2019-11"` and `members_note`
+- `years/2022.md`: Sayenza Biosciences + Nutripair rows updated with the new member detail
+- `OUTCOMES.md`: Sayenza + Nutripair narrative entries expanded with founding-date, role-detail, additional citations
+- `TEAMS.md`: Sayenza + Nutripair entries upgraded; date bumped to 33rd pass
+- `BACKLOG.md`: last-reviewed bumped to 33rd pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 33 passes; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - both updates were metadata enrichment of existing OPERATING entries), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Added (thirty-second verification pass: PCOSitive Buddy 2025 roster expansion)
 

@@ -562,8 +562,10 @@
           "team": "Sayenza Biosciences",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Automated platform for processing liposuction fat for regenerative medicine.",
-          "members": ["Dr. Derek Banyard (CEO)", "Jered Haun (UCI professor co-founder)", "Alan Widgerow (UCI professor co-founder)"]
+          "project": "Automated multifunctional platform for processing liposuction fat (the body's largest source of regenerative cells) for aesthetic surgery and regenerative-medicine applications.",
+          "members": ["Derek A. Banyard, MD, MS, MBA (Founder & CEO; UCI MS '17-'18)", "Jered B. Haun (Co-Founder; Engineering Consultant; Associate Professor of Biomedical Engineering at UCI)", "Alan D. Widgerow (Co-Founder; Clinical Consultant; Plastic Surgeon, Professor & Director at the UCI Center for Tissue Engineering; CMO at Alastin Skincare, acquired by Galderma)"],
+          "company_founded": "2019-11",
+          "members_note": "Founding-date and Widgerow's Alastin / Galderma affiliation added 2026-05-12 via UCI Samueli engineering and Sayenza Bio coverage."
         },
         {
           "category": "Track Award (Business Products)",
@@ -571,8 +573,8 @@
           "team": "Nutripair",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Clinical nutrition platform pairing users with foods based on dietary needs.",
-          "members": ["Catlin Tran"]
+          "project": "Clinical nutrition platform pairing users with foods based on dietary needs and chronic-condition profiles. Concept evolved post-NVC toward a restaurant-discovery platform helping people with dietary restrictions find local businesses that meet their needs.",
+          "members": ["Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient)", "Bing Mo (UCI alum '21, co-founder)"]
         },
         {
           "category": "Track Award (Business Products)",
