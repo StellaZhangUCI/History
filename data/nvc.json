@@ -260,9 +260,12 @@
           "prize_text": "$20,000",
           "prize_amount_usd": 20000,
           "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
-          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carrol", "Natan Ampudia", "Kevin Wu"],
-          "members_note": "Member spellings preserved from the primary Business Wire / Merage 2024 press release. The UCI Beall and Butterworth 2024 winners page (bbcomp.tech.uci.edu/past/past-2024) uses 'Nathan Ampudia' and 'Spike O'Carroll' (different spellings) - this cross-source inconsistency is noted, with the more authoritative Merage / Business Wire press release retained here.",
-          "also_won": ["1st Place, Butterworth Product Development Competition 2024 (sibling UCI competition)"]
+          "members": ["Kyle Deck (Mechanical Engineering)", "Michael Ross (Aerospace / Mechanical Engineering)", "Cody He", "Spike O'Carrol", "Natan Ampudia (Business Administration)", "Kevin Wu"],
+          "members_note": "Member spellings preserved from the primary Business Wire / Merage 2024 press release. The UCI Beall and Butterworth 2024 winners page (bbcomp.tech.uci.edu/past/past-2024) and the ANTrepreneur Center 2024-09 post-competition profile both use 'Nathan Ampudia' (vs 'Natan Ampudia' in Business Wire) and 'Spike O'Carroll' (vs 'Spike O'Carrol' in Business Wire) - this cross-source inconsistency is noted, with the more authoritative Merage / Business Wire press release retained here. The ANTrepreneur 2024-09 profile also names a Redford Hudson (Data Science) as part of the post-competition team; not added to the original 6-member NVC roster pending confirmation whether he was on the competing team or joined afterward.",
+          "also_won": [
+            "1st Place, Butterworth Product Development Competition 2024 ($10,000; sibling UCI competition)",
+            "2nd Place, C&C Innovative Solutions SoCal Super Pitch Competition 2024 ($1,250; per ANTrepreneur Center 2024-09 profile)"
+          ]
         },
         {
           "category": "Runner-Up",
