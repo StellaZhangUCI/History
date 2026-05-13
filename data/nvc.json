@@ -200,8 +200,9 @@
           "team": "NasoCoustics",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Wireless, child-friendly nasometry device for speech therapy in cleft palate patients.",
-          "members": ["Dave Soliven", "Jordan Ulibarri", "Kenji Inducta", "Natalie Benneian", "Neha Muvvala", "Neharika Gopikrishnan"]
+          "project": "Wireless, child-friendly handheld nasometry device for speech therapy in cleft-palate patients. Quantitatively evaluates hypernasality and other resonance disorders; replaces bulky, stationary, intimidating-to-children clinic-based nasometers.",
+          "members": ["Dave Soliven (UCI BME 4th-year undergrad, Management minor)", "Jordan Ulibarri", "Kenji Inducta", "Natalie Benneian", "Neha Muvvala", "Neharika Gopikrishnan"],
+          "coach": "Tom Berryman"
         },
         {
           "category": "Track Award (Life Sciences)",
