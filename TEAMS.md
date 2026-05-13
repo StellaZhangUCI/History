@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (35th pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (36th pass). Total teams indexed: 117.
 
 ## Legend
 

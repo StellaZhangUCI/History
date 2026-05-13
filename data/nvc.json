@@ -259,7 +259,9 @@
           "prize_text": "$20,000",
           "prize_amount_usd": 20000,
           "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
-          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carrol", "Natan Ampudia", "Kevin Wu"]
+          "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carrol", "Natan Ampudia", "Kevin Wu"],
+          "members_note": "Member spellings preserved from the primary Business Wire / Merage 2024 press release. The UCI Beall and Butterworth 2024 winners page (bbcomp.tech.uci.edu/past/past-2024) uses 'Nathan Ampudia' and 'Spike O'Carroll' (different spellings) - this cross-source inconsistency is noted, with the more authoritative Merage / Business Wire press release retained here.",
+          "also_won": ["1st Place, Butterworth Product Development Competition 2024 (sibling UCI competition)"]
         },
         {
           "category": "Runner-Up",
@@ -268,7 +270,8 @@
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
           "project": "Customizable, 3D-printed ear molds for non-surgical correction of newborn ear deformities.",
-          "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"]
+          "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"],
+          "also_won": ["1st Place, Beall Student Design Competition 2024 (sibling UCI competition)"]
         },
         {
           "category": "Track Award (Business Products)",
@@ -332,8 +335,9 @@
           "team": "Two Cube",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Autonomous bioinformatics platform streamlining single-cell RNA analysis.",
-          "members": ["Dylan Riffle", "Shushrruth Sai Srinivasan"]
+          "project": "Autonomous bioinformatics platform offering fully-autonomous research agents that streamline single-cell RNA analysis pipelines, enabling automatic code generation, result interpretation, and hypothesis development.",
+          "members": ["Dylan Riffle", "Shushrruth Sai Srinivasan"],
+          "also_won": ["2nd Place, Butterworth Product Development Competition 2024 (sibling UCI competition)"]
         },
         {
           "category": "Track Award (Life Sciences)",

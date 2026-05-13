@@ -17,9 +17,33 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$772,500 (corrected 2026-05-12 from $777,500 after MoodCloud/REMSYS tie-prize correction; prior 5th-pass adjustment took it from $760K to $777.5K)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 35 passes against cited sources completed; 15 factual errors corrected (MoodCloud + REMSYS prize amounts $5K → $2.5K each per Merage 2021-06 primary source: the two tied teams split a single $5K prize, not received $5K each) + 6 stale derived figures caught and fixed (2021 disclosed cash $46K → $41K; total $777.5K → $772.5K) |
+| Verification audit              | 36 passes against cited sources completed; 15 factual errors corrected + 6 stale derived figures caught and fixed; latest pass added cross-competition recognition for three 2024 NVC teams (Sentinel won Butterworth 1st, Two Cube won Butterworth 2nd, NeoMold won Beall Student Design 1st) and documented a Sentinel-member name-spelling inconsistency between the Merage / Business Wire press release and the Beall Butterworth winners page |
 
 ## 2026-05-12
+
+### Added (thirty-sixth verification pass: 2024 cross-competition recognition + Sentinel-member spelling inconsistency note)
+
+Three concrete enrichments to existing 2024 entries plus a source-quality observation.
+
+**Cross-competition recognition added for three 2024 NVC teams** (per the Beall and Butterworth Competition 2024 winners page at bbcomp.tech.uci.edu/past/past-2024):
+- **Sentinel** (NVC Grand Prize + BP 1st, $30K combined): also won **1st Place at the Butterworth Product Development Competition 2024**
+- **Two Cube** (NVC Life Sciences 1st, $10K): also won **2nd Place at the Butterworth Product Development Competition 2024**
+- **NeoMold** (NVC Runner-Up + LS 2nd, $10K combined): also won **1st Place at the Beall Student Design Competition 2024**
+
+These cross-competition wins are added as `also_won` fields in `data/nvc.json` and called out in `years/2024.md` Notes. They round out the "what else did this team accomplish" picture for the strongest 2024 cohort without changing any outcome categorization.
+
+**Two Cube project description refined**: Extended to match the Beall Butterworth primary source language ("autonomous research agents that streamline single-cell RNA analysis pipelines, enabling automatic code generation, result interpretation, and hypothesis development") rather than the bare "Autonomous bioinformatics platform streamlining single-cell RNA analysis" wording previously in the archive.
+
+**Sentinel-member name-spelling inconsistency documented**: The Beall Butterworth 2024 winners page uses **"Nathan Ampudia"** and **"Spike O'Carroll"**, while the Business Wire / Merage 2024 press release (the higher-authority primary source) uses **"Natan Ampudia"** and **"Spike O'Carrol"**. The archive preserves the Business Wire / Merage spellings (which were specifically confirmed earlier in a prior verification pass after a hallucinated "correction" to "Natán" / "O'Carroll" was reverted). The cross-source inconsistency is now explicitly noted in the Sentinel `members_note` field and in `years/2024.md` Notes section so future contributors don't accidentally "correct" the Business-Wire spellings to match the Beall Butterworth page (or vice versa) without checking both sources.
+
+**Files touched:**
+- `data/nvc.json`: Sentinel + NeoMold + Two Cube entries each gained an `also_won` field; Sentinel gained a `members_note` documenting the cross-source spelling inconsistency; Two Cube project description refined
+- `years/2024.md`: Notes section gained a new paragraph documenting the three cross-competition wins and the Sentinel spelling-inconsistency observation
+- `TEAMS.md`: date bumped to 36th pass (no per-team text changes - rosters unchanged, just adding cross-competition context which lives in the per-year file)
+- `BACKLOG.md`: last-reviewed bumped to 36th pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 36 passes; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - metadata enrichment only, no outcome category changes), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Fixed (thirty-fifth verification pass: MoodCloud/REMSYS 2021 tie-prize correction - 15th factual error caught + cash-total recalculation)
 
