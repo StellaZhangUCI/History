@@ -130,7 +130,8 @@ Four outcomes-research passes (2026-05-09, 2026-05-10, 26th pass on 2026-05-12, 
 - No Decaf Allowed ACQUIRED by Moongoat Coffee Roasters (Dec 2022)
 - Mechanodontics rebranded as BRIUS Technologies (~$46.2M raised per PitchBook)
 - Wing rebranded to Wing Assistant ($2.1M seed Oct 2021, still operating)
-- Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, Quiver, DermaVision, Maslow Construction Robots: all OPERATING (varying confidence)
+- Sayenza Biosciences (~$1.16M raised), Nutripair ($25K Verizon grant 2025; OOMAMI Experiences sub-brand 2026), CarDana, Steth 'n Go, Omni Pet Club, TeamMade, DermaVision, Maslow Construction Robots: all OPERATING (varying confidence)
+- Quiver (2024 CS 1st): reclassified NO_FOUND on 2026-05-12 after brand-disambiguation - thequiver.com is a separate 2015-founded surfboard-rental marketplace, not the UCI team
 - COMPAS (2017 BP 2nd): IP licensed to OpsGuru spin-out 2017; categorized PIVOTED
 - Carbo (2016 UCI IP 2nd): work continued as Prof. Krichmar's CARL research line at UCI; categorized PIVOTED
 - ValveStrong (2013 Campus Wide 2nd): never formally incorporated, but founder Alavi moved to senior medtech industry roles (Hancock Jaffe CTO/SVP, etc.); categorized DORMANT
@@ -145,7 +146,7 @@ Pattern from four outcomes-research passes: most consumer / social-enterprise te
 Items currently flagged as "likely" or "no findable outcome" in OUTCOMES.md that would benefit from a stronger source:
 
 - **Sentinel (2024 Grand Prize)** previously listed as "likely absorbed by Spotter.ai"; verification on 2026-05-11 disconfirmed that inference (no source documents the connection). Status is now OPERATING (MVP as of Sept 2024). A post-2024 update on the UCI team would confirm whether they're still operating independently.
-- **Closed Loop Plastics (2018 Tech Surge 2nd)** marked "likely shut down" based on a parked domain. A founder LinkedIn post or news article confirming closure would upgrade confidence.
+- **Closed Loop Plastics (2018 Tech Surge 2nd)** marked "likely shut down" based on a parked domain. Corroborated 2026-05-12 by founder William Amos's LinkedIn now listing him at Oakland School for the Arts; remaining lift to "confirmed" would require an explicit closure statement.
 - **ZeroWatt Technologies (2009 Grand Prize)** marked "likely defunct" based on absent web presence. An SBIR final report or founder statement would confirm.
 - **VagAligna (2023 Grand Finale Winner)** has no public outcome but the project requires FDA approval that takes years; a check-in in 2027 may yield more data.
 
