@@ -400,7 +400,8 @@
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
           "project": "Specialty food marketplace using short-form video to connect farmers to consumers.",
-          "members": ["Dan Ta", "Dylan Riffle", "Kanu Chandra", "Nina Nguyen"]
+          "members": ["Dan Ta", "Dylan Riffle", "Kanu Chandra", "Nina Nguyen"],
+          "also_won": ["1st Place, Butterworth Product Development Competition 2022 (sibling UCI competition; predates the 2023 NVC win). The 2022 Butterworth team was a 3-member subset: Nina Nguyen, Dylan Riffle, Dan Ta."]
         },
         {
           "category": "Track Award (Business Products)",
@@ -457,7 +458,8 @@
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
           "project": "Restaurant/Pet food discovery app based on trusted rankings.",
-          "members": ["Chi Wei Chen", "Hsin-yi Lin", "Wei-Chia Hsu", "Xiaohan Li", "XinYao Xu"]
+          "members": ["Chi Wei Chen", "Hsin-yi Lin", "Wei-Chia Hsu", "Xiaohan Li", "XinYao Xu"],
+          "also_won": ["3rd Place, Butterworth Product Development Competition 2023 (sibling UCI competition; same year as the NVC appearance)"]
         },
         {
           "category": "Track Award (Life Sciences)",
@@ -557,8 +559,10 @@
           "team": "forMED Technologies",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "At-home eye pressure monitoring system to prevent blindness from glaucoma.",
-          "members": ["Aryan Agarwal", "Ruben Shakya", "Francis Aguas"]
+          "project": "At-home non-invasive intraocular-pressure monitoring device to prevent blindness from glaucoma.",
+          "members": ["Aryan Agarwal", "Ruben Shakya", "Raphael Francis Aguas", "Lily McGrale", "Kamalesh Ananthakrishnan"],
+          "members_note": "Roster expanded 2026-05-12 from 3 to 5 members per UCI Beall and Butterworth 2021 winners page; Francis Aguas's first name expanded to 'Raphael Francis Aguas' per the same source.",
+          "also_won": ["1st Place, Beall Student Design Competition 2021 (sibling UCI competition; same intraocular-pressure project predates the 2022 NVC win)"]
         },
         {
           "category": "Track Award (Life Sciences)",
@@ -578,7 +582,8 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Clinical nutrition platform pairing users with foods based on dietary needs and chronic-condition profiles. Concept evolved post-NVC toward a restaurant-discovery platform helping people with dietary restrictions find local businesses that meet their needs.",
-          "members": ["Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient)", "Bing Mo (UCI alum '21, co-founder)"]
+          "members": ["Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient)", "Bing Mo (UCI alum '21, co-founder)"],
+          "also_won": ["2nd Place, Butterworth Product Development Competition 2021 (sibling UCI competition; predates the 2022 NVC win)"]
         },
         {
           "category": "Track Award (Business Products)",

@@ -17,9 +17,45 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$772,500 (corrected 2026-05-12 from $777,500 after MoodCloud/REMSYS tie-prize correction; prior 5th-pass adjustment took it from $760K to $777.5K)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 36 passes against cited sources completed; 15 factual errors corrected + 6 stale derived figures caught and fixed; latest pass added cross-competition recognition for three 2024 NVC teams (Sentinel won Butterworth 1st, Two Cube won Butterworth 2nd, NeoMold won Beall Student Design 1st) and documented a Sentinel-member name-spelling inconsistency between the Merage / Business Wire press release and the Beall Butterworth winners page |
+| Verification audit              | 37 passes against cited sources completed; 16 factual errors corrected (latest: Nutripair's Butterworth 2nd was 2021 not 2022) + 6 stale derived figures caught and fixed; latest pass expanded the forMED Technologies 2022 roster from 3 to 5 members and added cross-competition recognition for four additional NVC teams (forMED won Beall Design 2021 1st, Nutripair won Butterworth 2021 2nd, ChewRank won Butterworth 2023 3rd, Leprendo won Butterworth 2022 1st) |
 
 ## 2026-05-12
+
+### Added (thirty-seventh verification pass: forMED roster expansion + 4 more cross-competition wins + Nutripair year correction)
+
+Mined the UCI Beall and Butterworth past-winners pages (`bbcomp.tech.uci.edu/past/past-{2021,2022,2023}`) systematically. Four new cross-competition recognitions, a roster expansion, and a year correction.
+
+**forMED Technologies 2022 (Life Sciences 1st, $10,000) - roster expanded from 3 to 5 members** per UCI Beall and Butterworth 2021 winners page:
+- Aryan Agarwal (already in archive)
+- Ruben Shakya (already in archive)
+- **Raphael Francis Aguas** (first name expanded from "Francis Aguas")
+- **Lily McGrale** (new)
+- **Kamalesh Ananthakrishnan** (new)
+
+Project description refined: "At-home **non-invasive intraocular-pressure** monitoring device to prevent blindness from glaucoma" (per the BSD 2021 description), replacing the bare "eye pressure monitoring system" wording.
+
+**Four new cross-competition `also_won` recognitions:**
+- **forMED Technologies 2022** (NVC LS 1st): won the **Beall Student Design Competition 2021 1st Place** with the same intraocular-pressure project the year before the NVC win
+- **Nutripair 2022** (NVC BP 1st): won the **Butterworth Product Development Competition 2021 2nd Place** (Bing Mo + Catlin Tran; predates the 2022 NVC win)
+- **ChewRank 2023** (NVC CS 2nd): won the **Butterworth Product Development Competition 2023 3rd Place** the same year
+- **Leprendo 2023** (NVC RU + CS 1st): won the **Butterworth Product Development Competition 2022 1st Place** (3-member subset: Nina Nguyen, Dylan Riffle, Dan Ta; predates the 2023 NVC win)
+
+**Nutripair Butterworth-year correction (16th factual error caught)**: Prior pass had recorded Nutripair as "2nd in 2022 Butterworth Product Development Competition" - the bbcomp 2022 winners page shows the 2022 Butterworth 2nd Place was actually **FoodPool** (Sanghyun Byun, Arthur Lafrance, Patrick Wang, Kevin Xu), and Nutripair's Butterworth 2nd Place was in **2021** (a year before the 2022 NVC win). The year was wrong in the prior pass and is now corrected in OUTCOMES.md, data/nvc.json, and TEAMS.md.
+
+**Side observations (not added to archive pending stronger verification):**
+- A "Michael Ross" appears on both the 2024 Sentinel NVC roster and the 2022 Thrust Aeronautics Beall Student Design Competition roster (3rd Place). Likely the same person given UCI engineering context, but Thrust Aeronautics is a Beall-only team (not an NVC finalist), so this isn't a "repeat NVC finalist" entry. Worth noting for future contributors interested in cross-competition trajectories.
+- A "Rahul Sreedasyam" appears on both the 2019 NVC UniSafe team (co-founder) and the 2021 Phoraptor Beall Student Design Competition roster (2nd Place). Same person; same caveat (Phoraptor isn't an NVC team).
+
+**Files touched:**
+- `data/nvc.json`: forMED Technologies members + project description + `members_note` + `also_won`; Nutripair + ChewRank + Leprendo `also_won` fields added
+- `OUTCOMES.md`: Nutripair entry's Butterworth year corrected from 2022 to 2021 with source citation
+- `years/2022.md`: forMED Technologies row roster expanded; Notes section gained a cross-competition recognition paragraph for forMED + Nutripair
+- `years/2023.md`: Notes section gained a cross-competition recognition paragraph for Leprendo + ChewRank
+- `TEAMS.md`: forMED + ChewRank + Leprendo entries enriched with `also_won` annotations + 37th-pass date
+- `BACKLOG.md`: last-reviewed bumped to 37th pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 37 passes / 16 factual errors; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - no outcome category changes), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Added (thirty-sixth verification pass: 2024 cross-competition recognition + Sentinel-member spelling inconsistency note)
 

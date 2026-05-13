@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (36th pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (37th pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -38,7 +38,7 @@ Last updated: 2026-05-12 (36th pass). Total teams indexed: 117.
 - **CarDana** ([2018](years/2018.md): SE 2nd). Anthony Glenn, Jan Biermeyer, Gonzalo Vargas, Derek Singh. *Operating; transparent vehicle-donation platform at cardana.co.*
 - **Celebrate in a Snap** ([2018](years/2018.md): BP 1st). Jyothi Pradhan, Emily Chan, Jose Hernandez, Junaid Ahmed.
 - **CeleriBio** ([2016](README.md#pre-2017-editions-20092016): Life Sciences/Clean Tech 2nd, $5,000 + Beall Student Design $2,500). Sean Freeman, Nikki Koe, Louai Labanieh, Binh Le, Sadaf Mirnia. *No public outcome found (researched 2026-05-12); team member Louai Labanieh pursued an academic / industry path (Stanford PhD, Parker Institute Scholar, Mount Sinai postdoc) but the company itself has no commercial trajectory.*
-- **ChewRank** ([2023](years/2023.md): CS 2nd). Chi Wei Chen, Hsin-yi Lin, Wei-Chia Hsu, Xiaohan Li, XinYao Xu.
+- **ChewRank** ([2023](years/2023.md): CS 2nd, $5,000). Chi Wei Chen, Hsin-yi Lin, Wei-Chia Hsu, Xiaohan Li, XinYao Xu. *Also won the **Butterworth Product Development Competition 2023 3rd Place** the same year (added 2026-05-12 per UCI Beall and Butterworth 2023 winners page).*
 - **Circular** ([2021](years/2021.md): SE 1st). Caleb Finn, Anjan Rana Magar. *Likely defunct; no follow-on activity after 2022.*
 - **CleanHydro** ([2025](years/2025.md): SE 1st). Not Listed.
 - **Closed Loop Plastics** ([2018](years/2018.md): TS 2nd). William Amos, Aldrin Lupisan, Jesse Jackson, Sharon To, Ivette Morales. *Likely shut down; closedloopplastics.com now serves a Sedo parking page.*
@@ -69,7 +69,7 @@ Last updated: 2026-05-12 (36th pass). Total teams indexed: 117.
 - **Failsafe** ([2017](years/2017.md): CP 2nd). Natalie Sweis, Jasmine Yu, Issa Sweis. *No public outcome found (researched 2026-05-12).*
 - **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson. *No public outcome found. An earlier draft of this archive linked First Step Diagnostics to NeuroQure; verification on 2026-05-11 disconfirmed that connection (see OUTCOMES.md).*
 - **Flare** ([2024](years/2024.md): CP 1st). Not Listed.
-- **forMED Technologies** ([2022](years/2022.md): LS 1st). Aryan Agarwal, Ruben Shakya, Francis Aguas. *No public outcome found.*
+- **forMED Technologies** ([2022](years/2022.md): LS 1st, $10,000). Aryan Agarwal, Ruben Shakya, Raphael Francis Aguas, Lily McGrale, Kamalesh Ananthakrishnan. *Roster expanded 2026-05-12 from 3 to 5 members per UCI Beall and Butterworth 2021 winners page. Also won the **Beall Student Design Competition 2021 1st Place** with the same intraocular-pressure project (predates the 2022 NVC win). No public commercial outcome found post-NVC.*
 - **FunBand** ([2016](README.md#pre-2017-editions-20092016): Consumer Products 1st, $10,000). Rehema Feleke, Simon Loo, Cliff Wang. *DORMANT (likely): Wayfinder incubator + OCBJ 2017 Innovator of the Year nominee + UCI Beall April 2018 profile, then no post-2018 public footprint. Simon Loo returned to compete in 2017 with Element: B2B2C.*
 
 ## G
@@ -106,7 +106,7 @@ Last updated: 2026-05-12 (36th pass). Total teams indexed: 117.
 ## L
 
 - **Laser Associated Sciences (LAS)** ([2013](README.md#pre-2017-editions-20092016): GP). Sean White, Bruce Yang, Charlene Ong, Tyler Rice. *Acquired by Medtronic in April 2020 (terms undisclosed; OCBJ reported 2020-04-14, UCI Innovation announcement 2020-04-29). Cleanest documented exit in the archive.*
-- **Leprendo** ([2023](years/2023.md): RU, CS 1st). Dan Ta, Dylan Riffle, Kanu Chandra, Nina Nguyen. *Operating; leprendo.com live with active product catalog; reported $400K first-year sales.*
+- **Leprendo** ([2023](years/2023.md): RU + CS 1st; $15,000 combined). Dan Ta, Dylan Riffle, Kanu Chandra, Nina Nguyen. *Also won the **Butterworth Product Development Competition 2022 1st Place** the year before the NVC win (3-member subset: Nina Nguyen, Dylan Riffle, Dan Ta; added 2026-05-12 per UCI Beall and Butterworth 2022 winners page). OPERATING; leprendo.com live with active product catalog; reported $400K first-year sales.*
 - **Lynne** ([2024](years/2024.md): CP 2nd). Not Listed.
 
 ## M
