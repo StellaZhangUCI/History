@@ -236,8 +236,8 @@ Beyond the 2020 NVC win and an F6S profile, no surviving e-commerce site, social
 Sources: [F6S profile](https://www.f6s.com/conshus)
 
 **No Decaf Allowed** (Consumer Services 1st): ACQUIRED. *Confidence: confirmed.*
-Subscription absorbed into **Moongoat Coffee Roasters'** subscription program in December 2022 (terms not disclosed; an asset / subscriber transfer rather than an equity transaction). The third confirmed exit in the archive after LAS to Medtronic and the Mechanodontics / BRIUS rebrand.
-Sources: [nodecafallowed.com](https://nodecafallowed.com/)
+Subscription absorbed into **Moongoat Coffee Roasters'** subscription program in December 2022 (terms not disclosed; an asset / subscriber transfer rather than an equity transaction). Founder context (verified via primary source 2026-05-12): Jim Robertson co-founded No Decaf Allowed while in an entrepreneurship program at UCI, alongside two other classmates (3 founders total). The nodecafallowed.com homepage now reads "We have Joined the Herd at MoonGoat Coffee!" - the team's stated rationale was that "while deciding to move on from the business that we created was not easy, deciding to transition our customers to MoonGoat's coffee subscription was obvious." The site is no longer actively selling under the No Decaf Allowed brand. MoonGoat is an Irvine-based coffee roaster (5171 California Ave) that was the team's "first and best partner" before the transition. The third confirmed exit in the archive after LAS to Medtronic and the Mechanodontics / BRIUS rebrand.
+Sources: [nodecafallowed.com](https://nodecafallowed.com/), [nodecafallowed.com/pages/about-us](https://nodecafallowed.com/pages/about-us), [nodecafallowed.com blog: SunnySide of the MoonGoat](https://nodecafallowed.com/blogs/news/sunnyside-of-the-moongoat), [moongoat.com](https://moongoat.com/)
 
 ## 2021
 
