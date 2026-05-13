@@ -26,7 +26,7 @@ Suggested path: contact Sara Heimann (sheimann@uci.edu) at the Beall Center.
 
 ### Pre-2017 missing years
 
-No public records found for these years across multiple search angles (May 2026 verification, three separate research-agent passes plus four direct WebSearch / WebFetch attempts):
+No public records found for these years across multiple search angles (May 2026 review, repeated targeted searches across UCI domains, Wayback Machine, OC press, and direct fetches):
 
 - 2010
 - 2011
