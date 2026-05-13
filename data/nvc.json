@@ -576,9 +576,9 @@
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
           "project": "Automated multifunctional platform for processing liposuction fat (the body's largest source of regenerative cells) for aesthetic surgery and regenerative-medicine applications.",
-          "members": ["Derek A. Banyard, MD, MS, MBA (Founder & CEO; UCI MS '17-'18)", "Jered B. Haun (Co-Founder; Engineering Consultant; Associate Professor of Biomedical Engineering at UCI)", "Alan D. Widgerow (Co-Founder; Clinical Consultant; Plastic Surgeon, Professor & Director at the UCI Center for Tissue Engineering; CMO at Alastin Skincare, acquired by Galderma)"],
-          "company_founded": "2019-11",
-          "members_note": "Founding-date and Widgerow's Alastin / Galderma affiliation added 2026-05-12 via UCI Samueli engineering and Sayenza Bio coverage."
+          "members": ["Derek A. Banyard, MD, MS, MBA (Founder & CEO; UCI School of Medicine alumnus)", "Jered B. Haun (Co-Founder; Associate Professor of Biomedical Engineering at UCI)", "Alan D. Widgerow (Co-Founder; UCI Center for Tissue Engineering)"],
+          "company_founded": "2020-11",
+          "company_founded_note": "Per UCI Beall May 2021 feature describing the company as founded 'in November of last year.'"
         },
         {
           "category": "Track Award (Business Products)",
