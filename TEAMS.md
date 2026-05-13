@@ -129,7 +129,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **NeoMold** ([2024](years/2024.md): RU, LS 2nd). Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong. *Operating; very early stage; pre-incorporation/design-review.*
 - **NeuroBoost** ([2026](years/2026.md): semi-finalist). Not Listed.
 - **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson. *Acquired by **Moongoat Coffee Roasters** in December 2022 (asset / subscriber transfer; terms undisclosed). Third documented exit in the archive.*
-- **Noveil** ([2022](years/2022.md): GP, CS 1st). Michael Allotey. *Operating but quiet; Arch Grants recipient (St. Louis); Tracxn shows still active in early 2026 with low engagement.*
+- **Noveil** ([2022](years/2022.md): GP, CS 1st). Michael Allotey. *Operating but quiet; named to the Arch Grants 2022 cohort; Tracxn shows still active in early 2026 with low engagement.*
 - **NūCo** ([2025](years/2025.md): CP 2nd). Not Listed.
 - **Nutripair** ([2022](years/2022.md): BP 1st, $10,000). Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient), Bing Mo (UCI alum '21, co-founder). *OPERATING; $25K Verizon grant in 2025; UCI Social Sciences profile Mar 2025. Also 2nd in 2022 Butterworth Product Development Competition.*
 
