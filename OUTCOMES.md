@@ -57,7 +57,7 @@ $14,000 in combined awards. Gust profile lists ValveStrong as "Full Product Read
 Sources: [Gust profile](https://gust.com/companies/valvestrong), [Samueli 2015 hybrid valve coverage](https://engineering.uci.edu/news/2015/6/hybrid-tissue-engineered-valves-may-expand-options-heart-valve-surgery-patients)
 
 **NoreGen** (2013 Campus Wide 3rd + $30,000 UCI School of Medicine Life Sciences Award): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
-$33,500 in combined awards. Cancer diagnostic device for circulating tumor cell (CTC) detection. Team led by Prof. Zuzanna Siwy with IGERT LifeChips fellows Ashley Fong and Laura Innes plus four others. Underlying CTC microfluidics research continued in Prof. Siwy's lab through 2014 (IGERT highlights), but no commercial entity "NoreGen" is traceable post-2014.
+$33,500 in combined awards. Cancer diagnostic device for circulating tumor cell (CTC) detection. Seven-member team led by Prof. Zuzanna Siwy plus IGERT LifeChips fellows Ashley Fong and Laura Innes, Neychelle Fernandes, Robert Joachim, Jonathan Lin, and Matthew Schiel. Underlying CTC microfluidics research continued in Prof. Siwy's lab through 2014 (IGERT highlights), but no commercial entity "NoreGen" is traceable post-2014.
 Sources: [IGERT highlight](http://www.igert.org/highlights/760.html), [Samueli 2013 coverage](https://engineering.uci.edu/news/2013/6/engineering-students-achieve-strong-showing-merage-business-plan-competition)
 
 **Nobles Medical Technology** (2013 Undergraduate Division winner, $2,500): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
