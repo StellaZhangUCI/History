@@ -1063,7 +1063,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Behind-the-teeth braces reducing treatment time to 1 year.",
-          "members": ["Zahra Mamaghani", "Mahdi Tehrani", "Mehdi Peikar", "Ishita", "James Wratten"]
+          "members": ["Zahra Mamaghani", "Mahdi Tehrani", "Mehdi Peikar", "Ishita (last name not preserved in Merage 2018 source)", "James Wratten"]
         },
         {
           "category": "Track Award (Life Sciences)",
@@ -1099,7 +1099,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "All-in-one party supply packages.",
-          "members": ["Jyothi Pradhan", "Emily Chan", "Jose Hernandez", "Junaid Ahmed"]
+          "members": ["Jyothi Pradhan", "Emily Chan", "Jose Enrique Hernandez", "Junaid Ahmed"]
         },
         {
           "category": "Track Award (Business Products)",
@@ -1165,8 +1165,27 @@
           "prize_amount_usd": 7500,
           "project": "Localized plastic recycling infrastructure.",
           "members": ["William Amos", "Aldrin Lupisan", "Jesse Jackson", "Sharon To", "Ivette Morales"]
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "3rd",
+          "team": "LaserFocus",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Tech Surge 3rd Place per Merage 2018 press release.",
+          "members": ["Natalie Wong", "Nasam Chokr", "Anthony Ricaldi", "Brad Padgitt", "Bryan Ou", "Michael Nguyen"]
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "4th",
+          "team": "EchoSol",
+          "prize_text": "$2,500",
+          "prize_amount_usd": 2500,
+          "project": "Tech Surge 4th Place per Merage 2018 press release.",
+          "members": ["Arghavan Arafati", "Yen Cathy Pham", "Kasra Karimian", "Mohit Pandita"]
         }
-      ]
+      ],
+      "primary_source": "https://merage.uci.edu/news/2018/fourteen-teams-walk-away-with-more-than-100,000-in-cash-and-prizes-following-final-round-of-uci-new-venture-competition.html"
     },
     {
       "year": 2017,
@@ -1180,7 +1199,7 @@
           "prize_text": "$15,000",
           "prize_amount_usd": 15000,
           "project": "Localized nuclear reactors for cancer treatment isotopes.",
-          "members": ["Daniel Dai", "Mikael Nilsson", "Kim Westerbeck", "Leila Safavi-Tehrani", "Donald Magnuson"]
+          "members": ["Daniel Dai", "Mikael Nilsson", "Kim Westerbeck", "Leila Safavi-Tehrani", "Donald Magnuson", "Joyce Keyak (UCI Professor, Radiological Science)"]
         },
         {
           "category": "Tech Surge (Technology)",
@@ -1189,7 +1208,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Localized nuclear reactors for cancer treatment isotopes.",
-          "members": ["Daniel Dai", "Mikael Nilsson", "Kim Westerbeck", "Leila Safavi-Tehrani", "Donald Magnuson"],
+          "members": ["Daniel Dai", "Mikael Nilsson", "Kim Westerbeck", "Leila Safavi-Tehrani", "Donald Magnuson", "Joyce Keyak (UCI Professor, Radiological Science)"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Grand Prize (School of Medicine)", "place": "Winner"}
         },
@@ -1218,7 +1237,18 @@
           "prize_text": "$1,500",
           "prize_amount_usd": 1500,
           "project": "Rapid diagnostic technology for burn injuries.",
-          "members": ["Dimple Patel", "Eashani Sathialibgam", "Akshita Agrawal", "Kevin Trieu"]
+          "members": ["Dimple Patel", "Eashani Sathialibgam", "Akshita Agrawal", "Shreya Akkenapally", "Maaikee Pronda", "Kevin Trieu"]
+        },
+        {
+          "category": "Outstanding Undergraduate Team",
+          "place": "Winner",
+          "team": "Salux Diagnostics",
+          "prize_text": "$1,000",
+          "prize_amount_usd": 1000,
+          "project": "Rapid diagnostic technology for burn injuries.",
+          "members": ["Dimple Patel", "Eashani Sathialibgam", "Akshita Agrawal", "Shreya Akkenapally", "Maaikee Pronda", "Kevin Trieu"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Track Award (Life Sciences)", "place": "2nd"}
         },
         {
           "category": "Track Award (Consumer Products)",
@@ -1227,7 +1257,7 @@
           "prize_text": "$4,000",
           "prize_amount_usd": 4000,
           "project": "Portable brain-computer interface (BCI).",
-          "members": ["Garvin Arellano", "Tina Chan", "Thomas Tran", "Junghyun Kim"]
+          "members": ["Garvin Arellano", "Tina Chan", "Junghyun Kim", "Jordan Samonte", "Thomas Tran"]
         },
         {
           "category": "Track Award (Consumer Products)",
@@ -1254,7 +1284,7 @@
           "prize_text": "$1,500",
           "prize_amount_usd": 1500,
           "project": "Homemade-style cuisine delivery for campuses.",
-          "members": ["Jonathan Kumamoto", "Anna Zhang", "Angela Lao", "Helen Hu"]
+          "members": ["Helen Hu", "Henry Chen", "Jonathan Kumamoto (Informatics)", "Anna Zhang (Econ)", "Angela Lao (Chemistry)"]
         },
         {
           "category": "Track Award (Business Products)",
@@ -1272,18 +1302,57 @@
           "prize_text": "$1,500",
           "prize_amount_usd": 1500,
           "project": "Patient flow visualization system.",
-          "members": ["Dr. Scott Ruskin", "Don Magnuson", "Curtis Hendrick", "Michael Glover", "Aaron Soto"]
+          "members": ["Scott Ruskin", "Don Magnuson", "Curtis Hendrick", "Michael Glover", "Aaron Soto"]
         },
         {
-          "category": "Track Award (Poverty Alleviation)",
+          "category": "Tech Surge (Technology)",
+          "place": "Honorable Mention",
+          "team": "Syntr Health Technologies",
+          "prize_text": "$2,500",
+          "prize_amount_usd": 2500,
+          "project": "Tech Surge honorable mention per Merage 2017 press release.",
+          "members": []
+        },
+        {
+          "category": "Tech Surge (Technology)",
+          "place": "Honorable Mention",
+          "team": "NanoShield Biotix",
+          "prize_text": "$2,500",
+          "prize_amount_usd": 2500,
+          "project": "Tech Surge honorable mention per Merage 2017 press release.",
+          "members": []
+        },
+        {
+          "category": "Designing Solutions for Poverty Alleviation (Blum Center, co-located)",
+          "category_aliases": ["Track Award (Poverty Alleviation)"],
           "place": "1st",
           "team": "Esqalate",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Web platforms providing legal access to low-income Americans.",
-          "members": ["Joubin Khazaie", "Mahan Naeim", "Chad Trainer", "Ilja Goushcha"]
+          "members": ["Joubin Khazaie", "Mahan Naeim", "Chad Trainer", "Ilja Goushcha"],
+          "co_located_competition_note": "Per Merage 2017 press release this was the Blum Center's 'Designing Solutions for Poverty Alleviation' competition co-located with the NVC weekend, not an NVC track."
+        },
+        {
+          "category": "Designing Solutions for Poverty Alleviation (Blum Center, co-located)",
+          "place": "Runner-Up",
+          "team": "Loy Loy, The Savings Game",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Co-located Blum Center pitch contest (Designing Solutions for Poverty Alleviation).",
+          "members": []
+        },
+        {
+          "category": "Designing Solutions for Poverty Alleviation (Blum Center, co-located)",
+          "place": "Runner-Up",
+          "team": "Pure Game",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Co-located Blum Center pitch contest (Designing Solutions for Poverty Alleviation).",
+          "members": []
         }
-      ]
+      ],
+      "primary_source": "https://merage.uci.edu/press-releases/2017/05/fifteen-teams-walk-away-with-more-than-100,000-in-cash-and-prizes-following-final-round-of-uci-new-venture-competition.html"
     }
   ],
   "pre_2017_editions": [
@@ -1475,14 +1544,16 @@
       "2021_note": "Updated 2026-05-12: corrected from $46,000 to $41,000. MoodCloud and REMSYS tied for Consumer Services 1st and split a single $5,000 prize ($2,500 each), not $5,000 each as previously recorded. Prior context: Shaka $17,500 (GP + BP 1st combined per Merage source) added on 2026-05-11 to the previous $28,500 disclosed; this pass drops the MoodCloud/REMSYS double-count of $5,000.",
       "2020": 101000,
       "2019": 70000,
-      "2018": 92500,
-      "2017": 64500,
+      "2018": 100000,
+      "2018_note": "Updated 2026-05-12: added Tech Surge 3rd ($5,000 LaserFocus) + 4th ($2,500 EchoSol) per Merage 2018 primary source. Prior total $92,500 missed these line items.",
+      "2017": 85500,
+      "2017_note": "Updated 2026-05-12 from $64,500: added Tech Surge honorable mentions Syntr Health Technologies ($2,500) + NanoShield Biotix ($2,500), Salux Diagnostics Outstanding Undergraduate Team award ($1,000), and the co-located Designing Solutions for Poverty Alleviation Blum Center runners-up Loy Loy ($5,000) + Pure Game ($5,000), and reclassifies Esqalate's $10K under that same co-located Blum Center competition.",
       "2016": 82500,
       "2016_note": "Added 2026-05-12: full track placements and prize amounts recovered from UCI News primary source. EmbryLux $20K dual-award + Dental Insights $10K + FunBand $10K + Negocios $10K + Sher Biomedical $10K + Carbo / Jam / CeleriBio / Curaflow $5K each + Bottle Rocket $1K + Maslow $1.5K.",
       "2013": 67500,
       "2013_note": "Added 2026-05-12: full sub-winner rosters and prize details recovered from Samueli engineering primary source. LAS $15K + ValveStrong $14K ($7.5K + $6K Orange Residency + $500 Concept Paper) + NoreGen $33.5K ($3.5K + $30K SoM Life Sciences Award) + Nobles $2.5K + Bloom Diagnostics $2.5K. Excludes $2,750 in-kind TechPortal Calit2 award to MEGAL!NE.",
-      "total_2017_to_2025": 772500,
-      "total_2017_to_2025_note": "Corrected 2026-05-12 from $777,500 to $772,500 after the MoodCloud/REMSYS prize-amount correction (each $2,500 not $5,000; total dropped $5K).",
+      "total_2017_to_2025": 821000,
+      "total_2017_to_2025_note": "Updated 2026-05-12 to $821,000: previous $772,500 + 2017 +$21,000 (Tech Surge HMs, Outstanding Undergrad, Loy Loy/Pure Game Blum Center co-located) + 2018 +$7,500 (Tech Surge 3rd/4th). 2017 column now reflects the full slate listed in the Merage 2017 press release.",
       "total_pre_2017_known": 150000,
       "total_pre_2017_note": "Pre-2017 cash totals are confirmed only for 2013 ($67,500) and 2016 ($82,500). 2009, 2012, 2014 partial totals are known but team-by-team rosters incomplete; 2010, 2011, 2015 remain structural gaps in the indexed public record."
     }

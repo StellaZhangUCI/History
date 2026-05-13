@@ -122,7 +122,7 @@ The dominant outcome category is "no findable public outcome" (61%): consumer ap
 
 - **Grand Prize size:** $15,000 (2017, School-of-Medicine award) → $25,000 (2020, the pandemic-era peak) → $20,000 (2022–2025, current standard)
 - **Standard track payouts:** $4,000 / $1,500 in 2017 → $10,000 / $5,000 from 2018 onward, roughly a 6× jump in a single year
-- **Number of tracks:** 6 in 2017 (Tech Surge and Poverty Alleviation alongside the four standard tracks) → 5 standard tracks (Business Products, Consumer Products, Consumer Services, Life Sciences, Social Enterprise) plus specialty awards from 2022 forward
+- **Number of tracks:** 5 NVC tracks plus Tech Surge in 2017, alongside a co-located Blum Center "Designing Solutions for Poverty Alleviation" competition (Esqalate, Loy Loy, Pure Game) → 5 standard tracks (Business Products, Consumer Products, Consumer Services, Life Sciences, Social Enterprise) plus specialty awards from 2022 forward
 - **MIE Award:** introduced in 2020 (Baby Box was the first Master-of-Innovation-and-Entrepreneurship-affiliated Grand Prize winner); now a recurring specialty award
 - **Audience Favorite:** appears intermittently (2020, 2021, 2025); typically a $1,000 prize
 
@@ -190,7 +190,7 @@ Each year links to its dedicated page with the full awards table and notes. Cros
 
 **Theme:** Deep Tech and Medical Innovation
 **Grand Prize (SoM):** **Purist** ($15,000), localized nuclear reactors for cancer-treatment isotopes.
-**Notable:** $4,000/$1,500 track payouts (later reset to $10,000/$5,000 from 2018 onward); included a now-defunct Poverty Alleviation track.
+**Notable:** $4,000/$1,500 track payouts (later reset to $10,000/$5,000 from 2018 onward); co-located with the Blum Center's "Designing Solutions for Poverty Alleviation" competition that year.
 
 ## Pre-2017 Editions (2009–2016)
 

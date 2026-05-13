@@ -30,7 +30,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). NVC presenters (per Sunstone): Hamoon Shishechian, Kendyll Trenary (COO), Agustine Pimentel (consultant); co-founder Parham "Bahar" Mansor Safain did not present at the competition. *Operating; bafoodtech.com live; pre-revenue / early.*
 - **Bottle Built** ([2020](years/2020.md): AF, SE 2nd). Aryan Ghanadan. *No public outcome found.*
 - **Bottle Rocket** ([2016](README.md#pre-2017-editions-20092016): Most Outstanding Undergraduate Plan, $1,000). Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai. *DORMANT (likely): raised $260K from MuckerLab + Dorm Room Fund (2016-2017) then no post-2018 footprint. NOT the Dallas-based Bottle Rocket studio (acquired by WPP).*
-- **BrainCheck** ([2017](years/2017.md): CP 1st). Garvin Arellano, Tina Chan, Thomas Tran, Junghyun Kim. *Likely never commercialized; was a UCI senior design / research project.*
+- **BrainCheck** ([2017](years/2017.md): CP 1st). Garvin Arellano, Tina Chan, Junghyun Kim, Jordan Samonte, Thomas Tran. *Likely never commercialized; was a UCI senior design / research project.*
 
 ## C
 
@@ -43,7 +43,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Circular** ([2021](years/2021.md): SE 1st). Caleb Finn, Anjan Rana Magar. *Likely defunct; no follow-on activity after 2022.*
 - **CleanHydro** ([2025](years/2025.md): SE 1st). Not Listed.
 - **Closed Loop Plastics** ([2018](years/2018.md): TS 2nd). William Amos, Aldrin Lupisan, Jesse Jackson, Sharon To, Ivette Morales. *Likely shut down; closedloopplastics.com now serves a Sedo parking page.*
-- **COMPAS** ([2017](years/2017.md): BP 2nd). Dr. Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover, Aaron Soto. *PIVOTED: IP licensed in 2017 to OpsGuru, a commercial spin-out that has no public footprint after 2018; underlying COMPAS tech continued as an internal UCI Health tool. See [OUTCOMES.md#2017](OUTCOMES.md#2017).*
+- **COMPAS** ([2017](years/2017.md): BP 2nd). Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover, Aaron Soto. *PIVOTED: IP licensed in 2017 to OpsGuru, a commercial spin-out that has no public footprint after 2018; underlying COMPAS tech continued as an internal UCI Health tool. See [OUTCOMES.md#2017](OUTCOMES.md#2017).*
 - **Conshus Clothing** ([2020](years/2020.md): SE 1st). Arneeb Mahbub, Parth. *No public outcome found; likely dormant.*
 - **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *Dormant (likely); surfaces only as an early-stage signup form.*
 - **Curaflow** ([2016](README.md#pre-2017-editions-20092016): Consumer Products 2nd, $5,000). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin. *No public outcome found (researched 2026-05-12); micro-CPAP device project.*
@@ -56,7 +56,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## E
 
-- **Eater Zone** ([2017](years/2017.md): CS 2nd). Jonathan Kumamoto, Anna Zhang, Angela Lao, Helen Hu. *No public outcome found (researched 2026-05-12).*
+- **Eater Zone** ([2017](years/2017.md): CS 2nd). Helen Hu, Henry Chen, Jonathan Kumamoto (Informatics), Anna Zhang (Econ), Angela Lao (Chemistry). *No public outcome found (researched 2026-05-12).*
 - **ELF Therapeutics / eLysis** ([2019](years/2019.md): TS 1st, LS 1st). Not Listed in archive; co-founders include Joon You, Michael Hill PhD, Dr. Steve Yoelin per follow-on coverage. *Operating as eLysis Inc.; raised ~$400K non-dilutive; pre-clinical-trial.*
 - **Element: B2B2C** ([2017](years/2017.md): BP 1st). Simon Loo, Brianne Pena, Shifa Safeeq, Scott Winter. *Simon Loo previously appeared on FunBand in 2016. No public outcome found (researched 2026-05-12).*
 - **EmbryLux** ([2016](README.md#pre-2017-editions-20092016): GP). Tiffany Chien, Yingkai Su, Thai Nguyen, Shin Fukazawa, Daniel Tran. *No findable commercial outcome.*
@@ -147,7 +147,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Poo Pal** ([2019](years/2019.md): CP 1st). Not Listed. *Dormant (likely); Amazon / Etsy listings remain but no recent company-side activity.*
 - **Prescient Imaging** ([2012](README.md#pre-2017-editions-20092016): GP). Farhad Daghighian (CEO), Ariel Beroukhim. *Operating; received 510(k) FDA clearance in March 2021 for the BBX-PET portable PET scanner; over $8M raised.*
 - **Prophet Predictive Modeling** ([2020](years/2020.md): CS 2nd, $5,000). Not Listed. *Renamed 2026-05-12 from 'Prophet Modeling' per Merage 2020 press release; AI-based money management for accredited investors. No public outcome found.*
-- **Purist** ([2017](years/2017.md): GP SoM, TS 1st). Daniel Dai, Mikael Nilsson, Kim Westerbeck, Leila Safavi-Tehrani, Donald Magnuson. *Operating; ORNL Innovation Crossroads fellow; received $223K NIH SBIR (2019).*
+- **Purist** ([2017](years/2017.md): GP SoM, TS 1st). Daniel Dai, Mikael Nilsson, Kim Westerbeck, Leila Safavi-Tehrani, Donald Magnuson, Joyce Keyak (UCI Professor, Radiological Science). *Operating; ORNL Innovation Crossroads fellow; received $223K NIH SBIR (2019).*
 - **PZ Nanopure** ([2024](years/2024.md): SE 1st). Not Listed.
 
 ## Q
@@ -160,7 +160,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## S
 
-- **Salux Diagnostics** ([2017](years/2017.md): LS 2nd). Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Kevin Trieu. *No public outcome found (researched 2026-05-12); appears to have been a UCI senior design project.*
+- **Salux Diagnostics** ([2017](years/2017.md): LS 2nd + Outstanding Undergraduate Team $1K). Dimple Patel, Eashani Sathialibgam, Akshita Agrawal, Shreya Akkenapally, Maaikee Pronda, Kevin Trieu. *No public outcome found (researched 2026-05-12); appears to have been a UCI senior design project.*
 - **Sayenza Biosciences** ([2022](years/2022.md): LS 2nd, $5,000). Derek A. Banyard MD MS MBA (Founder & CEO), Jered B. Haun (Co-Founder; UCI BME Assoc. Prof.), Alan D. Widgerow (Co-Founder; UCI Center for Tissue Engineering). *OPERATING; clinical-stage adipose-tissue regenerative-medicine company; founded November 2020 per UCI Beall May 2021 feature; ~$1.16M raised, $3.5M seed round in progress; California Life Sciences FAST Spring 2024 cohort.*
 - **Sentinel** ([2024](years/2024.md): GP, BP 1st). Kyle Deck, Michael Ross, Cody He, Spike O'Carrol, Natan Ampudia, Kevin Wu. *Status unclear as of 2024-09 (working MVP per ANTrepreneur). An earlier draft inferred a connection to Spotter.ai's "Sentinel" product based on naming overlap; verification on 2026-05-11 could not confirm the connection. Treat the absorption claim as unverified.*
 - **ServEasy** ([2025](years/2025.md): BP 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
