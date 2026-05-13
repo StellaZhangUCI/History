@@ -538,7 +538,7 @@
       "award": "Grand Prize",
       "category": "OPERATING",
       "confidence": "confirmed; strongest non-medical outcome in the archive",
-      "summary": "Raised $1.2M oversubscribed pre-seed round in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund, plus angel investors Mark Friedman, Demos Parneros, Sanjay Malhotra, Naren Parihar). Total raised has since grown to >$1.3M per OC Business Journal coverage. TechCrunch (Mar 2023) reported 245% growth in 2022, tripled revenue, and 5x MRR (2021 baseline) with a target of $100K MRR / $1M ARR. Quadrupled revenue since 2021; founder cites a ~14% monthly growth rate. Plans for a ~$10M fundraising round over the next 18-20 months (per OCBJ). Launched 123 Book Box product line for toddlers. 2-10 employees.",
+      "summary": "Raised $1.2M oversubscribed pre-seed round in 2023. Lead investors per TechCrunch: XRC Labs (referenced as XRC Ventures on its own portfolio page), Sunstone Fund, Salt Lake City Angels, and a California Crescent fund, with angels Mark Friedman and Demos Parneros. Merage announcement and OCBJ additionally name Sanjay Malhotra and Naren Parihar among investors. Total raised has since grown to >$1.3M per OC Business Journal coverage. TechCrunch (Mar 2023) reported 245% growth in 2022, tripled revenue, and 5x MRR (2021 baseline) with a target of $100K MRR / $1M ARR. Founder cites a ~14% monthly growth rate (OCBJ). Plans for a ~$10M fundraising round over the next 18-20 months (per OCBJ). Launched 123 Book Box product line for toddlers. 2-10 employees.",
       "rebranded_to": "123 Baby Box",
       "total_funding_usd_approx": 1300000,
       "sources": [
@@ -552,10 +552,8 @@
       "award": "Audience Favorite",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "no findable outcome",
-      "summary": "CEO Aryan Ghanadan's PETE-plastic housing concept has no traceable post-2020 company site or funding announcements.",
-      "sources": [
-        "https://innovation.uci.edu/2019/10/bottle-built-blends-science-and-art/"
-      ]
+      "summary": "Aryan Ghanadan's PETE-plastic housing concept has no traceable post-2020 company site or funding announcements.",
+      "sources": []
     },
     {
       "team": "ImmunoTarget",
@@ -991,20 +989,16 @@
       "summary": "Projection surgical device for stenciling on patients. No traceable post-competition activity beyond the 2019 award.",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "researched 2026-05-10; no findable outcome",
-      "sources": [
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
-      ]
+      "sources": []
     },
     {
       "team": "giv",
       "year": 2019,
       "award": "Track Award (Social Enterprise) 2nd",
-      "summary": "Charitable giving platform similar to Instagram. No traceable post-competition activity.",
+      "summary": "Mobile-first online giving platform. No traceable post-competition activity.",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "researched 2026-05-10; no findable outcome",
-      "sources": [
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
-      ]
+      "sources": []
     },
     {
       "team": "UniSafe",
@@ -1013,9 +1007,7 @@
       "summary": "Campus safety app with location sharing and escort features. No traceable post-competition activity.",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "researched 2026-05-10; no findable outcome",
-      "sources": [
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
-      ]
+      "sources": []
     },
     {
       "team": "Jiffal",
@@ -1024,21 +1016,18 @@
       "summary": "Event management proposal. No traceable post-competition activity.",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "researched 2026-05-10; no findable outcome",
-      "sources": [
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
-      ]
+      "sources": []
     },
     {
       "team": "myHealth Today",
       "team_aliases": ["myHealthToday"],
       "year": 2019,
       "award": "Track Award (Consumer Services) 1st",
-      "summary": "Senior-friendly voice assistant for tracking medical appointments; app called myHealthJournal lets seniors record symptoms via phone voice services, parsing data into a provider-friendly format (HIPAA-compliant). Re-researched 2026-05-12: CEO Kevin Wu (MBA '20) led the team; the company secured UCI Beall Applied Innovation funding and officially incorporated in June 2020 (Merage 2020-12 coverage). Site myhealthtoday.care registered but currently returns ECONNREFUSED; Crunchbase profile exists but gated. Status post-2020 unverified; upgraded from NO_FOUND to OPERATING (likely) based on the documented June 2020 incorporation and Kevin Wu's continued LinkedIn-trackable identity.",
+      "summary": "Senior-friendly voice assistant for tracking medical appointments; app called myHealthJournal lets seniors record symptoms via phone voice services, parsing data into a provider-friendly format (HIPAA-compliant). Re-researched 2026-05-12: founding team per Merage 2020-12 coverage was Kevin Wu (CEO, MBA '20), Jennifer Nam (MBA/MD '20), Gautam Deept (MBA '20), Ivan de Almeida (MBA '20), Parth Srivastav (MBA '20), and Ujwal Mishrikoti (MBA '20); the company secured UCI Beall Applied Innovation funding and officially incorporated in June 2020. Site myhealthtoday.care registered but currently returns ECONNREFUSED; Crunchbase profile exists but gated. Status post-2020 unverified; upgraded from NO_FOUND to OPERATING (likely) based on the documented June 2020 incorporation.",
       "category": "OPERATING",
       "confidence": "likely; incorporation verified Jun 2020, current activity unverified on 2026-05-12",
       "sources": [
-        "https://merage.uci.edu/news/2020/12/NVC-Winner-myHealthToday-Bridges-Information-Gap-Between-Doctor-and-Patient.html",
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
+        "https://merage.uci.edu/news/2020/12/NVC-Winner-myHealthToday-Bridges-Information-Gap-Between-Doctor-and-Patient.html"
       ]
     },
     {
@@ -1049,7 +1038,6 @@
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "researched 2026-05-10; team roster verified for Curbd 2026-05-12",
       "sources": [
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories",
         "https://www.curbdparking.com/team.html"
       ]
     },
@@ -1057,11 +1045,11 @@
       "team": "Embryologic",
       "year": 2019,
       "award": "Track Award (Life Sciences) 2nd",
-      "summary": "Noninvasive imaging to assess embryo quality for IVF. No traceable post-competition activity past Wayfinder participation.",
+      "summary": "Noninvasive imaging to assess embryo quality for IVF. Placed 2nd in the 2019 Rice University Business Plan Competition semifinal round, winning $15,000 per Samueli coverage. No surviving commercial company surfaced post-2019.",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "researched 2026-05-10; no findable outcome",
       "sources": [
-        "https://engineering.uci.edu/news/2019/6/students-innovate-for-new-venture-competition-as-fat-zapping-device-wins-two-categories"
+        "https://engineering.uci.edu/news/2019/5/biomedical-engineering-team-competes-well-rice-business-plan-competition"
       ]
     },
     {
