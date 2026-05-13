@@ -327,9 +327,9 @@ Sources: [neomold.uci.design](http://neomold.uci.design/), [eScholarship paper](
 Confirmed only as a 2024 NVC winner; no website, Crunchbase, or follow-on traceable.
 Sources: [American Lending Center coverage](https://usa-rc.com/news-before-2020/american-lending-center-acknowledges-semi-finalists-in-2024-stella-zhang-new-venture-competition/)
 
-**Quiver** (Consumer Services 1st): OPERATING. *Confidence: confirmed.*
-Surfboard-rental marketplace at `thequiver.com` is active across 20+ countries with a paid membership tier and a live app / marketplace as of 2025 to 2026.
-Sources: [thequiver.com](https://www.thequiver.com/)
+**Quiver** (Consumer Services 1st): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome (post-disambiguation reclassification 2026-05-12).*
+**Brand-disambiguation correction:** An earlier draft of this archive linked the 2024 UCI NVC Quiver winner to **thequiver.com** (surfboard-rental marketplace, "est. 2015", founded by Joe Wilson and Rob Bonvetti). On 2026-05-12 the connection was disconfirmed: thequiver.com is a separate commercial entity that predates the 2024 NVC by 9 years and has no public UCI connection. No alternative commercial outcome for the UCI 2024 Quiver team is currently findable. Pattern matches the prior brand-confusion failure modes caught with Sentinel → Spotter.ai, First Step → NeuroQure, Omni Pet Club → OmniPet (Leather Brothers), Help Belt → helpbelts.com, BrainCheck → BrainCheck-Houston, ZeroWatt → Zerowatt-Energy, Bloom Diagnostics → Swiss medtech, Nobles Medical Tech → Anthony Nobles NMT-II, giv → Givsum, Bottle Rocket → Bottle-Rocket-Dallas-studio.
+Sources: [thequiver.com (separate commercial entity, NOT the UCI team)](https://www.thequiver.com/), [Crunchbase: The Quiver](https://www.crunchbase.com/organization/the-quiver), [New York Lifestyles Magazine 2020 interview with founder Joe Wilson](https://newyorklifestylesmagazine.com/articles/2020/10/nyny01.html)
 
 **Crafty Palate** (Consumer Services 2nd): DORMANT. *Confidence: likely.*
 Surfaces only as an early-stage signup form; no operating storefront found.

@@ -151,7 +151,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## Q
 
-- **Quiver** ([2024](years/2024.md): CS 1st). Not Listed. *Operating; surfboard-rental marketplace thequiver.com active across 20+ countries with paid membership tier.*
+- **Quiver** ([2024](years/2024.md): CS 1st, $10,000). Not Listed. *NO public outcome found (reclassified 2026-05-12). An earlier draft linked this team to thequiver.com (surfboard rental, est. 2015, Joe Wilson + Rob Bonvetti); the connection is disconfirmed - thequiver.com is a separate commercial entity predating the 2024 NVC by 9 years.*
 
 ## R
 

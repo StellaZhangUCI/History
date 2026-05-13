@@ -11,7 +11,7 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
 | Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
 | Outcomes researched             | 114 teams                                                                                       |
-| Outcome distribution            | 68 NO_PUBLIC_OUTCOME_FOUND / 32 OPERATING / 6 DORMANT / 5 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
+| Outcome distribution            | 69 NO_PUBLIC_OUTCOME_FOUND / 31 OPERATING / 6 DORMANT / 5 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |

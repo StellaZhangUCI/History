@@ -831,12 +831,15 @@
       "team": "Quiver",
       "year": 2024,
       "award": "Track Award (Consumer Services) 1st",
-      "category": "OPERATING",
-      "confidence": "confirmed",
-      "summary": "Surfboard-rental marketplace thequiver.com active across 20+ countries with a paid membership tier and a live app/marketplace as of 2025-2026.",
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome (post-disambiguation reclassification 2026-05-12)",
+      "summary": "Reclassified 2026-05-12 from OPERATING to NO_FOUND after brand-disambiguation: an earlier draft mapped the 2024 UCI NVC Quiver winner to thequiver.com (surfboard-rental marketplace, est. 2015, founded by Joe Wilson and Rob Bonvetti). thequiver.com is a separate commercial entity that predates the 2024 NVC by 9 years and has no public UCI connection; conflating the two was a brand-confusion error caught on 2026-05-12. No alternative commercial outcome for the UCI 2024 Quiver team is currently findable.",
       "sources": [
-        "https://www.thequiver.com/"
-      ]
+        "https://www.thequiver.com/",
+        "https://www.crunchbase.com/organization/the-quiver",
+        "https://newyorklifestylesmagazine.com/articles/2020/10/nyny01.html"
+      ],
+      "sources_note": "Sources document the DISCONFIRMATION of the prior thequiver.com link, not a positive outcome for the UCI 2024 NVC team."
     },
     {
       "team": "Crafty Palate",
@@ -1350,13 +1353,13 @@
   "summary_stats": {
     "teams_researched": 114,
     "by_category": {
-      "OPERATING": 32,
+      "OPERATING": 31,
       "ACQUIRED": 2,
       "EXITED_OTHER": 0,
       "PIVOTED": 5,
       "DORMANT": 6,
       "SHUT_DOWN": 1,
-      "NO_PUBLIC_OUTCOME_FOUND": 68
+      "NO_PUBLIC_OUTCOME_FOUND": 69
     },
     "notable_exits": [
       {
