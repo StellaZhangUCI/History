@@ -244,18 +244,18 @@ Two of these 2016 finalists returned to compete in 2017 (Simon Loo joined Elemen
 
 ## Where Are They Now?
 
-A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-12, **114 of 117 teams** in the archive have been researched (the 27th verification pass on 2026-05-12 closed out the 2013 sub-winners, the 2016 finalist cohort with full track placements recovered, and the 2009 Happy Sleep undergraduate winner). Quick highlights:
+A snapshot of post-competition outcomes for past finalists lives in [`OUTCOMES.md`](OUTCOMES.md). As of 2026-05-12, **114 of 117 teams** in the archive have been researched. Quick highlights:
 
 - **Three documented major outcomes:**
-  - Laser Associated Sciences (2013 GP) acquired by **Medtronic**, April 2020 (terms undisclosed).
-  - Mechanodontics (2018 LS 1st) rebranded as **BRIUS Technologies** (Carrollton, TX); rebrand confirmed via Crunchbase / CB Insights; commercial Brava launch June 30, 2022. Funding figures (PitchBook) not independently verified here.
-  - No Decaf Allowed (2020 CS 1st) acquired by **Moongoat Coffee Roasters**, December 2022 (asset / subscriber transfer, terms undisclosed).
-- **One real pivot that became a going concern:** Wing (2018 CS 1st) -> **Wing Assistant**: $2.1M seed in October 2021, still operating as a managed-VA service in 2025/26.
-- **Strongest non-medical operating company:** **123 Baby Box** (2020 Grand Prize), $1.2M oversubscribed round in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund; round stage not specified in TechCrunch). Growth per TechCrunch: 245% growth, tripled revenue, 5x MRR (2021 baseline), target $100K MRR / $1M ARR.
+  - Laser Associated Sciences (2013 GP) acquired by **Medtronic**, April 2020 (terms undisclosed). FlowMet-R laser-speckle blood-flow tech is in active post-acquisition clinical evaluation (167-limb / 90-patient PAD study); founder Sean White is now Senior Director of Research and Technology at Medtronic.
+  - Mechanodontics (2018 LS 1st) rebranded as **BRIUS Technologies** (Carrollton, TX). Commercial Brava launch June 30, 2022; **Brava+ System** (lingual / aesthetic variant) launched 2024; Series B $19.5M led by View Ventures on May 6, 2025; ~$46.2M total per Tracxn / Fundz / MergerLinks. The strongest post-2017 outcome in the archive.
+  - No Decaf Allowed (2020 CS 1st) acquired by **Moongoat Coffee Roasters**, December 2022 (asset / subscriber transfer, terms undisclosed; Jim Robertson + 2 other UCI-program classmates founded NDA).
+- **One real pivot that became a going concern:** Wing (2018 CS 1st) -> **Wing Assistant**: $2.1M seed in October 2021; **199 employees as of July 1, 2024** per Tracxn; still operating as a managed-VA service in 2025/26.
+- **Strongest non-medical operating company:** **123 Baby Box** (2020 Grand Prize), $1.2M oversubscribed pre-seed in 2023 (XRC Ventures, Sunstone Fund, Salt Lake City Angels, Crescent Fund). Total raised has grown to >$1.3M; founder cites a ~14% monthly growth rate; plans a ~$10M raise over the next 18-20 months; January 2026 investor commentary called 2025 the "build year."
 - **Medical / life-sciences teams have the highest survival rate;** consumer-app and social-enterprise winners from 2018 to 2022 have largely gone dark.
-- **Most surprising decline:** Closed Loop Plastics (2018 Tech Surge 2nd), website now a parked domain in 2026.
-- **2024 Grand Prize Sentinel** had a working MVP as of September 2024. An earlier draft inferred absorption by Spotter.ai's same-named Fleet Safety Platform; verification on 2026-05-11 could not confirm that connection. Treat the absorption claim as unverified.
-- **TeamMade's LuminOCity** (2023 SE 2nd) modular ADU was donated for at-risk-youth housing and opened in July 2025: the most concrete social-impact outcome in the archive.
+- **Most surprising decline:** Closed Loop Plastics (2018 Tech Surge 2nd) - now corroborated by three signals (Sedo parked domain, no post-2021 press, founder William Amos LinkedIn now at Oakland School for the Arts).
+- **2024 Grand Prize Sentinel** had a working MVP as of September 2024 plus three cross-competition wins ($10K Butterworth 1st + $1,250 C&C SoCal Super Pitch 2nd in addition to the $30K NVC haul). An earlier draft inferred absorption by Spotter.ai's same-named Fleet Safety Platform; verification on 2026-05-11 could not confirm that connection.
+- **TeamMade's LuminOCity** (2023 SE 2nd) modular ADU was donated for at-risk-youth housing and opened in July 2025; also won 2nd place overall plus 1st in Market Potential and 1st in Engineering & Construction at the OC Sustainability Decathlon. The most concrete social-impact outcome in the archive.
 
 See [`OUTCOMES.md`](OUTCOMES.md) for the full breakdown, sources, and confidence levels.
 
