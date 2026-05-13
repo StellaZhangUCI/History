@@ -896,9 +896,10 @@
       "award": "Track Award (Life Sciences) 1st",
       "category": "OPERATING",
       "confidence": "confirmed; design stage",
-      "summary": "UCI senior bioengineering design project. nasocoustics.uci.design is up; LinkedIn presence. Pre-incorporation; design-review stage. Too recent for outcome data.",
+      "summary": "UCI-affiliated design-stage team (per the .uci.design domain). nasocoustics.uci.design is up; LinkedIn presence. Also placed 1st in the 2025 Beall Competition per bbcomp.tech.uci.edu. Pre-incorporation; design-review stage. Too recent for outcome data.",
       "sources": [
         "http://www.nasocoustics.uci.design/",
+        "https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html",
         "https://bbcomp.tech.uci.edu/"
       ]
     },
@@ -933,8 +934,9 @@
       "award": "Audience Favorite + Track Award (Life Sciences) 2nd",
       "category": "OPERATING",
       "confidence": "likely; finalist stage",
-      "summary": "Passive thermal-imaging vitals monitor for seniors; confirmed as a 2025 Stella Zhang finalist. No independent funding or launch news.",
+      "summary": "Passive thermal-imaging vitals monitor for seniors; confirmed as a 2025 Stella Zhang finalist per Merage. Also placed in 2025 Beall/Butterworth competitions per bbcomp.tech.uci.edu. No independent funding or launch news.",
       "sources": [
+        "https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html",
         "https://bbcomp.tech.uci.edu/"
       ]
     },

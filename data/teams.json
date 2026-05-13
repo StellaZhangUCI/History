@@ -3,14 +3,15 @@
   "last_updated": "2026-05-12",
   "comment": "Slim by-team index. Authoritative members + project + prize data live in data/nvc.json; full outcome detail lives in data/outcomes.json. This file is a quick lookup keyed by team name.",
   "teams": [
-    {"name":"AegleBio","years":[2026],"top_award":"Semi-finalist","outcome":null},
+    {"name":"Abner Computing","years":[2026],"top_award":"2026 Finalist (Business Products & Services)","outcome":null},
+    {"name":"Ascend First","years":[2026],"top_award":"2026 Finalist (Social Enterprise)","outcome":null},
     {"name":"Apeel Juice","years":[2018],"top_award":"Track Award (Social Enterprise) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2018"}},
     {"name":"APIC Diagnostics","years":[2017],"top_award":"Tech Surge 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2017"}},
     {"name":"Ardha Health","years":[2020],"top_award":"Track Award (Business Products) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2020","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"ARTEM","years":[2018],"top_award":"Track Award (Consumer Products) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2018"}},
     {"name":"Baby Box","name_aliases":["123 Baby Box"],"years":[2020],"top_award":"Grand Prize","outcome":{"category":"OPERATING","rebranded_to":"123 Baby Box","total_funding_usd_approx":1200000,"see":"OUTCOMES.md#2020"}},
     {"name":"BagIt","years":[2024],"top_award":"Track Award (Business Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2024","note":"Researched 2026-05-10; no public outcome found"}},
-    {"name":"Billify","years":[2026],"top_award":"Semi-finalist","outcome":null},
+    {"name":"BrickCycle","years":[2026],"top_award":"2026 Finalist (Social Enterprise)","outcome":null},
     {"name":"Bloom Diagnostics","years":[2013],"top_award":"UC Irvine Environment Institute Award","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"Blue Aqua Food Tech","years":[2022],"top_award":"Track Award (Social Enterprise) 1st","outcome":{"category":"OPERATING","see":"OUTCOMES.md#2022"}},
     {"name":"Bottle Built","years":[2020],"top_award":"Audience Favorite","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2020"}},
@@ -29,6 +30,7 @@
     {"name":"Conshus Clothing","years":[2020],"top_award":"Track Award (Social Enterprise) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2020"}},
     {"name":"Crafty Palate","years":[2024],"top_award":"Track Award (Consumer Services) 2nd","outcome":{"category":"DORMANT","see":"OUTCOMES.md#2024"}},
     {"name":"Curaflow","years":[2016],"top_award":"Consumer Products 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
+    {"name":"CuraVoice","years":[2026],"top_award":"2026 Finalist (Consumer Services)","outcome":null},
     {"name":"Curbd / SwappIt","years":[2019],"top_award":"Track Award (Consumer Services) 2nd (tied)","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2019","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Dental Insights","years":[2016],"top_award":"IT/Web 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"DermaVision","name_aliases":["DermaVision Technologies"],"years":[2024],"top_award":"Track Award (Social Enterprise) 2nd","outcome":{"category":"OPERATING","note":"Student-team stage; placed 3rd at 2024 BMES Medtronic Design Competition","see":"OUTCOMES.md#2024"}},
@@ -49,7 +51,7 @@
     {"name":"Gimme","years":[2018],"top_award":"Track Award (Consumer Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2018","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"giv","years":[2019],"top_award":"Track Award (Social Enterprise) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2019","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"GlowGuard","years":[2025],"top_award":"Runner-Up","outcome":{"category":"OPERATING","note":"brand new","see":"OUTCOMES.md#2025"}},
-    {"name":"Grad2Go","years":[2025,2026],"top_award":"Grand Prize (2025); semi-finalist (2026)","outcome":{"category":"OPERATING","note":"brand new; competing again in 2026","see":"OUTCOMES.md#2025"}},
+    {"name":"Grad2Go","years":[2025],"top_award":"Grand Prize","outcome":{"category":"OPERATING","note":"brand new; won 2025 Stella Zhang NVC Grand Prize 2025-05-22","see":"OUTCOMES.md#2025"}},
     {"name":"Graduate Data","years":[2018],"top_award":"Track Award (Consumer Services) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2018","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"HAI","years":[2022],"top_award":"Track Award (Consumer Products) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2022","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Happy Sleep","years":[2009],"top_award":"Undergraduate division winner ($3,500 + Best Concept Paper)","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
@@ -64,6 +66,7 @@
     {"name":"Instinct","years":[2020],"top_award":"Track Award (Business Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2020","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Jam","years":[2016],"top_award":"IT/Web 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"Jiffal","years":[2019],"top_award":"Track Award (Business Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2019","note":"Researched 2026-05-10; no public outcome found"}},
+    {"name":"LAMON","years":[2026],"top_award":"2026 Finalist (Life Sciences)","outcome":null},
     {"name":"Laser Associated Sciences","name_aliases":["LAS"],"years":[2013],"top_award":"Grand Prize","outcome":{"category":"ACQUIRED","acquirer":"Medtronic","acquisition_date":"2020-04","see":"OUTCOMES.md#pre-2017"}},
     {"name":"Leprendo","years":[2023],"top_award":"Runner-Up","outcome":{"category":"OPERATING","see":"OUTCOMES.md#2023"}},
     {"name":"Lynne","years":[2024],"top_award":"Track Award (Consumer Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2024","note":"Researched 2026-05-10; no public outcome found"}},
@@ -80,7 +83,7 @@
     {"name":"Nobles Medical Technology","years":[2013],"top_award":"Undergraduate Division winner ($2,500); artificial heart system for surgical practice","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"NoreGen","years":[2013],"top_award":"Campus Wide 3rd ($3,500); cancer detection device","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"NeoMold","years":[2024],"top_award":"Runner-Up","outcome":{"category":"OPERATING","note":"very early stage","see":"OUTCOMES.md#2024"}},
-    {"name":"NeuroBoost","years":[2026],"top_award":"Semi-finalist","outcome":null},
+    {"name":"NeuroStrat","years":[2026],"top_award":"2026 Finalist (Life Sciences)","outcome":null},
     {"name":"No Decaf Allowed","years":[2020],"top_award":"Track Award (Consumer Services) 1st","outcome":{"category":"ACQUIRED","acquirer":"Moongoat Coffee Roasters","acquisition_date":"2022-12","see":"OUTCOMES.md#2020"}},
     {"name":"Noveil","years":[2022],"top_award":"Grand Prize","outcome":{"category":"OPERATING","note":"low recent activity","see":"OUTCOMES.md#2022"}},
     {"name":"NūCo","years":[2025],"top_award":"Track Award (Consumer Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2025","note":"Researched 2026-05-10; no public outcome found"}},
@@ -89,7 +92,9 @@
     {"name":"Orii.AI","years":[2023],"top_award":"Track Award (Business Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2023","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Oslo","name_aliases":["Birdhouse by Oslo"],"years":[2025],"top_award":"Audience Favorite","outcome":{"category":"OPERATING","note":"Finalist stage","see":"OUTCOMES.md#2025"}},
     {"name":"P-FLAPs","years":[2019],"top_award":"Tech Surge 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2019","note":"Researched 2026-05-10; no public outcome found"}},
+    {"name":"PAQQ","years":[2026],"top_award":"2026 Finalist (Consumer Products)","outcome":null},
     {"name":"PCOSitive Buddy","years":[2025],"top_award":"Specialty (MIE Award)","outcome":{"category":"OPERATING","note":"Founder Chi Rey hired Oct 2025 as UCI ANTrepreneur Center Program Lead","see":"OUTCOMES.md#2025"}},
+    {"name":"Pipeline","years":[2026],"top_award":"2026 Finalist (Consumer Services)","outcome":null},
     {"name":"Poo Pal","years":[2019],"top_award":"Track Award (Consumer Products) 1st","outcome":{"category":"DORMANT","see":"OUTCOMES.md#2019"}},
     {"name":"Prescient Imaging","years":[2012],"top_award":"Grand Prize","outcome":{"category":"OPERATING","see":"OUTCOMES.md#pre-2017"}},
     {"name":"Prophet Predictive Modeling","name_aliases":["Prophet Modeling"],"years":[2020],"top_award":"Track Award (Consumer Services) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2020","note":"Researched 2026-05-10; no public outcome found"}},
@@ -97,6 +102,7 @@
     {"name":"PZ Nanopure","years":[2024],"top_award":"Track Award (Social Enterprise) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2024","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Quiver","years":[2024],"top_award":"Track Award (Consumer Services) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","note":"Reclassified 2026-05-12 from OPERATING to NO_FOUND after thequiver.com brand-disambiguation","see":"OUTCOMES.md#2024"}},
     {"name":"REMSYS","years":[2021],"top_award":"Track Award (Consumer Services) 1st (tied)","outcome":{"category":"OPERATING","note":"BETA stage; remsys.app in active development as of 2026-05-11","see":"OUTCOMES.md#2021"}},
+    {"name":"RestWing","years":[2026],"top_award":"2026 Finalist (Consumer Products)","outcome":null},
     {"name":"Salux Diagnostics","years":[2017],"top_award":"Track Award (Life Sciences) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"Sayenza Biosciences","years":[2022],"top_award":"Track Award (Life Sciences) 2nd","outcome":{"category":"OPERATING","total_funding_usd_approx":1160000,"see":"OUTCOMES.md#2022"}},
     {"name":"Sentinel","years":[2024],"top_award":"Grand Prize","outcome":{"category":"OPERATING","note":"MVP stage as of September 2024; an earlier draft inferred absorption by Spotter.ai but that connection is unverified on 2026-05-11","see":"OUTCOMES.md#2024"}},
@@ -104,6 +110,7 @@
     {"name":"Shaka","name_aliases":["Shaka Culture Inc."],"years":[2021],"top_award":"Grand Prize","outcome":{"category":"OPERATING","total_funding_usd_approx":120000,"see":"OUTCOMES.md#2021"}},
     {"name":"Sher Biomedical","years":[2016],"top_award":"School of Medicine Award","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"Shower Power","years":[2023],"top_award":"Track Award (Social Enterprise) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2023"}},
+    {"name":"Simly","years":[2026],"top_award":"2026 Finalist (Business Products & Services)","outcome":null},
     {"name":"SnapHealth","years":[2022],"top_award":"Track Award (Consumer Services) 2nd","outcome":{"category":"PIVOTED","note":"Site active but pivoted from 'patient health record control' to a health coverage platform","see":"OUTCOMES.md#2022"}},
     {"name":"SolarLab","years":[2018],"top_award":"Track Award (Business Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2018","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Steth 'n Go","years":[2019],"top_award":"Track Award (Consumer Products) 2nd","outcome":{"category":"OPERATING","see":"OUTCOMES.md#2019"}},
@@ -122,11 +129,10 @@
     {"name":"ZeroWatt Technologies","years":[2009],"top_award":"Grand Prize","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","note":"likely defunct","see":"OUTCOMES.md#pre-2017"}}
   ],
   "stats": {
-    "total_unique_teams": 117,
+    "total_unique_teams": 124,
     "teams_with_outcome_researched": 114,
-    "teams_appearing_in_multiple_years": 1,
-    "teams_appearing_in_multiple_years_list": [
-      "Grad2Go (2025, 2026)"
-    ]
+    "teams_appearing_in_multiple_years": 0,
+    "teams_appearing_in_multiple_years_list": [],
+    "stats_note": "2026 finalists (10) added per Merage NVC page on 2026-05-12; earlier-recorded semi-finalists AegleBio, Billify, NeuroBoost removed as no primary source could be re-verified. Grad2Go's prior 'competing again' entry also dropped on the same basis - the company's 2025 Grand Prize remains recorded."
   }
 }

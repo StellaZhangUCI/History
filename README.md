@@ -116,7 +116,7 @@ Of the **114 teams researched** as of 2026-05-12 (out of 117 total in the archiv
 | ACQUIRED                  | 2     | 1.8%            |
 | SHUT DOWN                 | 1     | 0.9%            |
 
-The dominant outcome category is "no findable public outcome" (61%): consumer apps and social-enterprise winners from 2013 to 2022 disproportionately produce no traceable post-competition footprint. Of the 45 teams with findable outcomes, 31 are still operating in some form, with the highest survival rate in medical / life-sciences tracks where long FDA timelines and grant pipelines keep even pre-revenue companies alive. The 5 PIVOTED entries reflect teams whose original concept was wound down or repurposed: Wing → Wing Assistant (managed-VA service) is the cleanest going concern; COMPAS, Carbo, iBesties, and SnapHealth represent technology / academic / brand pivots of varying outcome quality. The remaining 3 unresearched teams are the 2026 semi-finalists (AegleBio, Billify, NeuroBoost) - they will be researched after the May 21, 2026 Grand Finale.
+The dominant outcome category is "no findable public outcome" (61%): consumer apps and social-enterprise winners from 2013 to 2022 disproportionately produce no traceable post-competition footprint. Of the 45 teams with findable outcomes, 31 are still operating in some form, with the highest survival rate in medical / life-sciences tracks where long FDA timelines and grant pipelines keep even pre-revenue companies alive. The 5 PIVOTED entries reflect teams whose original concept was wound down or repurposed: Wing → Wing Assistant (managed-VA service) is the cleanest going concern; COMPAS, Carbo, iBesties, and SnapHealth represent technology / academic / brand pivots of varying outcome quality. 2026 finalists (Abner Computing, Simly, PAQQ, RestWing, CuraVoice, Pipeline, LAMON, NeuroStrat, Ascend First, BrickCycle) will be researched after the May 21, 2026 Grand Finale.
 
 ### How prizes have shifted over time
 
@@ -132,8 +132,8 @@ Each year links to its dedicated page with the full awards table and notes. Cros
 
 ### [2026 Competition (Upcoming) →](years/2026.md)
 
-**Status:** Grand Finale scheduled for May 21, 2026 (22nd edition); 55 semi-finalists advancing.
-**Notable semi-finalists:** AegleBio, Billify, NeuroBoost, plus 2025 Grand Prize winner **Grad2Go** defending.
+**Status:** Grand Finale scheduled for May 21, 2026 (22nd edition); Board Room round held May 8, 2026.
+**Confirmed finalists (10 teams per Merage NVC page):** Abner Computing, Simly (Business Products & Services); PAQQ, RestWing (Consumer Products); CuraVoice, Pipeline (Consumer Services); LAMON, NeuroStrat (Life Sciences); Ascend First, BrickCycle (Social Enterprise).
 **Confirmed structure:** $20,000 Grand Prize, $5,000 Runner-Up, 5 standard tracks, $100,000+ cash pool plus AWS credits.
 
 ### [2025 Competition →](years/2025.md)

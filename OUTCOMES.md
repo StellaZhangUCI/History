@@ -354,20 +354,20 @@ Bluetooth/UV-C smart retainer case, 2025 Runner-Up. Too recent for outcome data.
 Sources: [Merage announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html)
 
 **NasoCoustics** (Life Sciences 1st): OPERATING. *Confidence: confirmed; design stage.*
-A UCI senior bioengineering design project. `nasocoustics.uci.design` is up; LinkedIn presence. Child-friendly nasometry device for cleft-palate care. Pre-incorporation; design-review stage. Too recent for outcome data.
-Sources: [nasocoustics.uci.design](http://www.nasocoustics.uci.design/), [Beall/Butterworth Engineering Competition](https://bbcomp.tech.uci.edu/)
+UCI-affiliated design-stage team (per the `.uci.design` domain). `nasocoustics.uci.design` is up; LinkedIn presence. Child-friendly nasometry device for cleft-palate care. Also placed 1st in the 2025 Beall Competition per bbcomp.tech.uci.edu. Pre-incorporation; design-review stage. Too recent for outcome data.
+Sources: [nasocoustics.uci.design](http://www.nasocoustics.uci.design/), [Merage 2025 Stella Zhang NVC announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html), [Beall/Butterworth 2025 results](https://bbcomp.tech.uci.edu/)
 
 **PCOSitive Buddy** (MIE Award + Consumer Services 1st): OPERATING. *Confidence: likely.*
-Founder Ricianne "Chi" Rey was hired in October 2025 as the UCI ANTrepreneur Center Program Lead and continues to be described as a PCOS-platform co-founder. The team's AI wellness assistant is named "Chloe." Roster expanded on 2026-05-12: Ricianne "Chi" Rey (co-founder & Marketing Lead per RocketReach), Rafelia Angel (core team), Varshini Vijay (tech team; UCI Zotbotics Robotics Club co-president), Benson Manzano (tech team; FUSION at UCI ICS project director). A fifth member named "Kimberly" is referenced in indexed coverage without a confirmed last name and is not added here.
-Sources: [ANTrepreneur profile (Jan 2026)](https://antrepreneur.uci.edu/2026/01/28/meet-chi-rey/), [RocketReach (Ricianne Rey)](https://rocketreach.co/ricianne-rey-email_816734502), [Varshini Vijay LinkedIn](https://www.linkedin.com/in/varshini-vijay-45012819a/), [Benson Manzano LinkedIn](https://www.linkedin.com/in/benson-manzano-380a451b7/)
+Founder Ricianne "Chi" Rey was hired in October 2025 as the UCI ANTrepreneur Center Program Lead and continues to be described as a PCOS-platform co-founder per her ANTrepreneur profile. The team's AI wellness assistant is named "Chloe." Per the ANTrepreneur profile + RocketReach, Rey is co-founder + Marketing Lead. Additional team members surfaced via UCI-affiliated LinkedIn profiles: Rafelia Angel, Varshini Vijay (UCI Zotbotics Robotics Club co-president), and Benson Manzano (FUSION at UCI ICS project director). A teammate referred to as "Kimberly" appears in indexed coverage without a confirmed last name and is not added. The roster mapping between founding members vs. later joiners is not preserved in indexed primary sources.
+Sources: [ANTrepreneur profile (Jan 2026)](https://antrepreneur.uci.edu/2026/01/28/meet-chi-rey/), [RocketReach (Ricianne Rey)](https://rocketreach.co/ricianne-rey-email_816734502)
 
 **ServEasy** (Business Products 2nd): OPERATING. *Confidence: likely, finalist stage.*
 Confirmed as a 2025 Stella Zhang finalist; no independent product traction yet.
 Sources: [Merage announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html)
 
 **Oslo / Birdhouse by Oslo** (Audience Favorite + Life Sciences 2nd): OPERATING. *Confidence: likely, finalist stage.*
-Passive thermal-imaging vitals monitor for seniors; confirmed as a 2025 Stella Zhang finalist. No independent funding or launch news.
-Sources: [Beall / Butterworth competition records](https://bbcomp.tech.uci.edu/)
+Passive thermal-imaging vitals monitor for seniors; confirmed as a 2025 Stella Zhang finalist per Merage. Also placed in the 2025 Beall/Butterworth competitions per bbcomp.tech.uci.edu. No independent funding or launch news.
+Sources: [Merage 2025 Stella Zhang NVC announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html), [Beall / Butterworth 2025 results](https://bbcomp.tech.uci.edu/)
 
 ## How to contribute
 

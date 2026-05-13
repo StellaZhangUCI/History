@@ -14,8 +14,9 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## A
 
-- **AegleBio** ([2026](years/2026.md): semi-finalist). Not Listed.
+- **Abner Computing** ([2026](years/2026.md): Finalist - Business Products & Services). Not Listed.
 - **Apeel Juice** ([2018](years/2018.md): SE 1st). Keene Do, Jacqueline Kao, Matthew Nguyen, Huan Quach. *No public outcome found.*
+- **Ascend First** ([2026](years/2026.md): Finalist - Social Enterprise). Not Listed.
 - **APIC Diagnostics** ([2017](years/2017.md): TS 2nd). Pravin Surana, Anandkumar Surendrarao, Cyril Soliman, Ishita Gulati. *No public outcome found.*
 - **Ardha Health** ([2020](years/2020.md): BP 1st). Drew Park.
 - **ARTEM** ([2018](years/2018.md): CP 1st). Emily Vu, Cesar Corral, Matthew Peterson. *No public outcome found.*
@@ -24,8 +25,8 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 - **Baby Box / 123 Baby Box** ([2020](years/2020.md): GP, CP 1st). Zarina Bahadur (MIE '20). *Operating; ~$1.2M oversubscribed round (2023; round stage not specified by TechCrunch). 245% growth, tripled revenue, 5x MRR (2021 baseline), target $100K MRR / $1M ARR. Strongest non-medical operating company in the archive.*
 - **BagIt** ([2024](years/2024.md): BP 2nd). Not Listed.
-- **Billify** ([2026](years/2026.md): semi-finalist). Not Listed.
 - **Bloom Diagnostics** ([2013](README.md#pre-2017-editions-20092016)): UC Irvine Environment Institute Award ($2,500). Amanda Gage, Kevin Leong, Ali Mansouri (CHEMS), Syed Naqvi, Betty Olson, Johnway Yih (coach Earle Hager). *No public outcome found (researched 2026-05-12). Disambiguation: NOT the unrelated Swiss medtech 'Bloom Diagnostics.'*
+- **BrickCycle** ([2026](years/2026.md): Finalist - Social Enterprise). Not Listed.
 - **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). NVC presenters (per Sunstone): Hamoon Shishechian, Kendyll Trenary (COO), Agustine Pimentel (consultant); co-founder Parham "Bahar" Mansor Safain did not present at the competition. *Operating; bafoodtech.com live; pre-revenue / early.*
 - **Bottle Built** ([2020](years/2020.md): AF, SE 2nd). Aryan Ghanadan. *No public outcome found.*
 - **Bottle Rocket** ([2016](README.md#pre-2017-editions-20092016): Most Outstanding Undergraduate Plan, $1,000). Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai. *DORMANT (likely): raised $260K from MuckerLab + Dorm Room Fund (2016-2017) then no post-2018 footprint. NOT the Dallas-based Bottle Rocket studio (acquired by WPP).*
@@ -78,7 +79,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Gimme** ([2018](years/2018.md): CP 2nd). Dhananjay Kumar, Philip Erford, Brenton Higa, John Dang, Justin McDonald.
 - **giv** ([2019](years/2019.md): SE 2nd, $5,000). Lucas Erb, Haven King, Ryan Luu, Nisarg Shah. *Roster recovered 2026-05-12 from UCI Beall and Butterworth 2019 winners page. Mobile-first online giving platform with curated short-form video content from vetted nonprofits. Also won the **Butterworth Software Competition 2019 2nd Place** ($6,500). NOT the same entity as Givsum (Shawn Wehan / Robert Kollar) - separate teams.*
 - **GlowGuard** ([2025](years/2025.md): RU, CP 1st). Not Listed. *Operating; brand new.*
-- **Grad2Go** ([2025](years/2025.md): GP, SE 2nd; [2026](years/2026.md): semi-finalist defending). Yifan "May" Mei, Chengxi Li, Xinyu Zhang, Yuhan Yue, Yilin Shen, Hannah. *Operating; brand new; competing again in 2026.*
+- **Grad2Go** ([2025](years/2025.md): GP, SE 2nd). Yifan "May" Mei, Chengxi Li, Xinyu Zhang, Yuhan Yue, Yilin Shen, Hannah. *Won 2025 Stella Zhang NVC Grand Prize on 2025-05-22.*
 - **Graduate Data** ([2018](years/2018.md): CS 2nd). Mohammad Fidaali, Daniel Dai, Emily Walker, David Liu. *Daniel Dai also appeared on Purist in 2017.*
 
 ## H

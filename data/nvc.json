@@ -12,6 +12,7 @@
       "donor_affiliation": "FEMBA '05",
       "co_donor": "John Shen (spouse)",
       "initial_gift_year": 2022,
+      "initial_gift_year_note": "Initial gift announced January 2022 per Merage press release; the underlying term begins as early as the 2021 NVC.",
       "initial_gift_term_years": 5,
       "initial_gift_amount_usd": null,
       "extension_gift_year": 2025,
@@ -20,6 +21,7 @@
       "extension_raised_pool_from_usd": 100000,
       "extension_raised_pool_to_usd": 150000,
       "naming_through_year": 2031,
+      "naming_through_year_note": "Computed as 2026 + 5 (extension term). The Merage March 2025 release describes 'a $750,000 commitment to extend her annual gift over the next five years' without naming an explicit end year.",
       "bridge_to_competition": "Zarina Bahadur (Baby Box, MIE '20, 2020 Grand Prize) joined Zhang's Long Beach Accelerator portfolio, exposing Zhang to the NVC.",
       "sources": [
         "https://merage.uci.edu/news/2022/01/New-Venture-Competition-Receives-Naming-Gift-from-Stella-Zhang-FEMBA-05.html",
@@ -84,8 +86,15 @@
         "track_first_usd": 10000,
         "track_second_usd": 5000
       },
-      "named_semifinalists": ["AegleBio", "Billify", "NeuroBoost", "Grad2Go"],
-      "semifinalist_count": 55,
+      "finalists": {
+        "Business Products & Services": ["Abner Computing", "Simly"],
+        "Consumer Products": ["PAQQ", "RestWing"],
+        "Consumer Services": ["CuraVoice", "Pipeline"],
+        "Life Sciences": ["LAMON", "NeuroStrat"],
+        "Social Enterprise": ["Ascend First", "BrickCycle"]
+      },
+      "finalists_note": "10 finalists per Merage NVC page as of 2026-05-12: two per track. An earlier archive pass recorded 'AegleBio, Billify, NeuroBoost, Grad2Go' as named semi-finalists; those teams do not appear on the current finalist page and could not be re-verified against a primary source on 2026-05-12.",
+      "finalists_source": "https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html",
       "awards": []
     },
     {
