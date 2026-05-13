@@ -527,7 +527,7 @@
           "prize_text": "$20,000",
           "prize_amount_usd": 20000,
           "project": "Video dating app for Gen Z students eliminating \"swiping\" and profiles.",
-          "members": ["Michael Allotey"]
+          "members": ["Michael Allotey", "Kendrick Barefield (co-founder per Arch Grants company directory)"]
         },
         {
           "category": "Runner-Up",
@@ -545,7 +545,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Video dating app for Gen Z students eliminating \"swiping\" and profiles.",
-          "members": ["Michael Allotey"],
+          "members": ["Michael Allotey", "Kendrick Barefield (co-founder per Arch Grants company directory)"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
         },
@@ -625,7 +625,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Insect-based alternative protein for fish feed to solve fishmeal shortages.",
-          "members": ["Hamoon Shishechian", "Parham Mansor Safain", "Kendyll Trenary"]
+          "members": ["Hamoon Shishechian (NVC presenter; co-founder)", "Kendyll Trenary (NVC presenter; COO)", "Agustine Pimentel (NVC presenter; consultant)", "Parham 'Bahar' Mansor Safain (co-founder; not a presenter at NVC per Sunstone)"]
         },
         {
           "category": "Track Award (Social Enterprise)",

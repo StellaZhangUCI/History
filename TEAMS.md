@@ -26,7 +26,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **BagIt** ([2024](years/2024.md): BP 2nd). Not Listed.
 - **Billify** ([2026](years/2026.md): semi-finalist). Not Listed.
 - **Bloom Diagnostics** ([2013](README.md#pre-2017-editions-20092016)): UC Irvine Environment Institute Award ($2,500). Amanda Gage, Kevin Leong, Ali Mansouri (CHEMS), Syed Naqvi, Betty Olson, Johnway Yih (coach Earle Hager). *No public outcome found (researched 2026-05-12). Disambiguation: NOT the unrelated Swiss medtech 'Bloom Diagnostics.'*
-- **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). Hamoon Shishechian, Parham Mansor Safain, Kendyll Trenary. *Operating; bafoodtech.com live; pre-revenue / early.*
+- **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). NVC presenters (per Sunstone): Hamoon Shishechian, Kendyll Trenary (COO), Agustine Pimentel (consultant); co-founder Parham "Bahar" Mansor Safain did not present at the competition. *Operating; bafoodtech.com live; pre-revenue / early.*
 - **Bottle Built** ([2020](years/2020.md): AF, SE 2nd). Aryan Ghanadan. *No public outcome found.*
 - **Bottle Rocket** ([2016](README.md#pre-2017-editions-20092016): Most Outstanding Undergraduate Plan, $1,000). Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai. *DORMANT (likely): raised $260K from MuckerLab + Dorm Room Fund (2016-2017) then no post-2018 footprint. NOT the Dallas-based Bottle Rocket studio (acquired by WPP).*
 - **BrainCheck** ([2017](years/2017.md): CP 1st). Garvin Arellano, Tina Chan, Thomas Tran, Junghyun Kim. *Likely never commercialized; was a UCI senior design / research project.*
@@ -129,9 +129,9 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **NeoMold** ([2024](years/2024.md): RU, LS 2nd). Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong. *Operating; very early stage; pre-incorporation/design-review.*
 - **NeuroBoost** ([2026](years/2026.md): semi-finalist). Not Listed.
 - **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson. *Acquired by **Moongoat Coffee Roasters** in December 2022 (asset / subscriber transfer; terms undisclosed). Third documented exit in the archive.*
-- **Noveil** ([2022](years/2022.md): GP, CS 1st). Michael Allotey. *Operating but quiet; named to the Arch Grants 2022 cohort; Tracxn shows still active in early 2026 with low engagement.*
+- **Noveil** ([2022](years/2022.md): GP, CS 1st). Michael Allotey, Kendrick Barefield (co-founder per Arch Grants company directory). *Operating but quiet; named to the Arch Grants 2022 cohort; Tracxn shows still active in early 2026 with low engagement.*
 - **NūCo** ([2025](years/2025.md): CP 2nd). Not Listed.
-- **Nutripair** ([2022](years/2022.md): BP 1st, $10,000). Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient), Bing Mo (UCI alum '21, co-founder). *OPERATING; $25K Verizon grant in 2025; UCI Social Sciences profile Mar 2025. Also 2nd in 2022 Butterworth Product Development Competition.*
+- **Nutripair** ([2022](years/2022.md): BP 1st, $10,000). Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient), Bing Mo (UCI alum '21, co-founder). *OPERATING; $25K Verizon grant in 2025; UCI Social Sciences profile Mar 2025. Also 2nd in 2021 Butterworth Product Development Competition.*
 
 ## O
 
