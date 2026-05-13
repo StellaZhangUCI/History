@@ -4,7 +4,7 @@
 
 This is a concrete list of gaps in the archive. If you want to contribute, this is the menu. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the submission process.
 
-Last reviewed: 2026-05-12 (37th pass).
+Last reviewed: 2026-05-12 (38th pass).
 
 ## Priority 1: Time-sensitive gaps
 
@@ -81,14 +81,14 @@ Teams below have no individual member names in indexed public sources. Best cand
 - Voltek (Track Consumer Products 2nd)
 - Prophet Predictive Modeling (Track Consumer Services 2nd) [previously listed as "Prophet Modeling"; corrected 2026-05-12]
 
-### 2019 (2 teams remaining)
+### 2019 (1 team remaining)
 - ~~ELF Therapeutics~~ - resolved earlier: Joon You, Dr. Brian Wong, Michael Hill PhD, Dr. Steve Yoelin
-- giv (Track Social Enterprise 2nd) [possible but unconfirmed link to Givsum / Shawn Wehan + Robert Kollar; not added to archive pending primary-source confirmation]
-- ~~UniSafe~~ - resolved 2026-05-12 (29th pass): Rahul Sreedasyam (co-founder; senior BME, UCI Samueli); other members Not Listed
-- Jiffal (Track Business Products 2nd)
+- ~~giv~~ - resolved 2026-05-12 (38th pass): Lucas Erb, Haven King, Ryan Luu, Nisarg Shah per Beall and Butterworth 2019 winners page. The "possible Givsum link" lead is now DISCONFIRMED - the 2019 NVC "giv" team is a separate entity from Givsum (Shawn Wehan / Robert Kollar).
+- ~~UniSafe~~ - resolved 2026-05-12: Rahul Sreedasyam, Upasana Mustafi, Praveen Ravisankar (full 3-member named roster per Beall and Butterworth 2019)
+- Jiffal (Track Business Products 2nd) - still Not Listed
 - ~~myHealth Today~~ - resolved 2026-05-12 (30th pass): Kevin Wu (MBA '20, CEO); upgraded outcome NO_FOUND → OPERATING (likely)
 - ~~Curbd~~ (resolved 2026-05-12: Farbod Rafezy, Iman Enayati, Ryan Dang) / SwappIt (still Not Listed)
-- Poo Pal (Track Consumer Products 1st)
+- Poo Pal (Track Consumer Products 1st) - still Not Listed
 - ~~Steth 'n Go~~ - resolved 2026-05-12: Omar Darwish (CEO; UCI Health Associate Prof / Hospitalist)
 - ~~Embryologic~~ - resolved 2026-05-12 (30th pass): Prof. Michelle Digman, Ning Ma, Hongtao Chen, Zhenghao Li
 

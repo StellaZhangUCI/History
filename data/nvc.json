@@ -942,18 +942,22 @@
           "team": "giv",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Charitable giving platform similar to Instagram.",
-          "members": []
+          "project": "Mobile-first online giving platform prioritizing modern donors via curated, short-form video content from vetted nonprofits.",
+          "members": ["Lucas Erb", "Haven King", "Ryan Luu", "Nisarg Shah"],
+          "members_note": "Roster recovered 2026-05-12 from UCI Beall and Butterworth 2019 winners page. The 'giv' UCI student team is NOT the same as Givsum (Shawn Wehan / Robert Kollar; joined Wayfinder 2017) - separate entities; the BACKLOG 'possible giv → Givsum' lead can now be closed as DISCONFIRMED.",
+          "also_won": ["2nd Place, Butterworth Software Competition 2019 ($6,500; same year as the NVC appearance)"]
         },
         {
           "category": "Track Award (Business Products)",
           "place": "1st",
           "team": "UniSafe",
+          "team_aliases": ["UniSAFE"],
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "project": "Campus safety app with location sharing and escort features. Alerts users to areas with registered sex offenders or frequent crime.",
-          "members": ["Rahul Sreedasyam (co-founder; senior in Biomedical Engineering, Henry Samueli School of Engineering)"],
-          "members_note": "Only co-founder Rahul Sreedasyam is named in indexed UCI Beall coverage; other team members remain Not Listed."
+          "members": ["Rahul Sreedasyam (co-founder; senior in Biomedical Engineering, Henry Samueli School of Engineering)", "Upasana Mustafi", "Praveen Ravisankar"],
+          "members_note": "Roster expanded 2026-05-12 from 1 to 3 named members per UCI Beall and Butterworth 2019 winners page (capitalized as 'UniSAFE' there). Other members beyond these three may still be Not Listed.",
+          "also_won": ["Finalist, Butterworth Software Competition 2019 (sibling UCI competition; same year as the NVC appearance)"]
         },
         {
           "category": "Track Award (Business Products)",

@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (37th pass). Total teams indexed: 117.
+Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## Legend
 
@@ -76,7 +76,7 @@ Last updated: 2026-05-12 (37th pass). Total teams indexed: 117.
 
 - **GaleGauge** ([2022](years/2022.md): CP 2nd). Not Listed.
 - **Gimme** ([2018](years/2018.md): CP 2nd). Dhananjay Kumar, Philip Erford, Brenton Higa, John Dang, Justin McDonald.
-- **giv** ([2019](years/2019.md): SE 2nd). Not Listed.
+- **giv** ([2019](years/2019.md): SE 2nd, $5,000). Lucas Erb, Haven King, Ryan Luu, Nisarg Shah. *Roster recovered 2026-05-12 from UCI Beall and Butterworth 2019 winners page. Mobile-first online giving platform with curated short-form video content from vetted nonprofits. Also won the **Butterworth Software Competition 2019 2nd Place** ($6,500). NOT the same entity as Givsum (Shawn Wehan / Robert Kollar) - separate teams.*
 - **GlowGuard** ([2025](years/2025.md): RU, CP 1st). Not Listed. *Operating; brand new.*
 - **Grad2Go** ([2025](years/2025.md): GP, SE 2nd; [2026](years/2026.md): semi-finalist defending). Yifan "May" Mei, Chengxi Li, Xinyu Zhang, Yuhan Yue, Yilin Shen, Hannah. *Operating; brand new; competing again in 2026.*
 - **Graduate Data** ([2018](years/2018.md): CS 2nd). Mohammad Fidaali, Daniel Dai, Emily Walker, David Liu. *Daniel Dai also appeared on Purist in 2017.*
@@ -180,7 +180,7 @@ Last updated: 2026-05-12 (37th pass). Total teams indexed: 117.
 
 ## U
 
-- **UniSafe** ([2019](years/2019.md): BP 1st, $10,000). Rahul Sreedasyam (co-founder; senior BME at UCI Samueli). *Other team members not preserved in indexed public sources.*
+- **UniSafe** ([2019](years/2019.md): BP 1st, $10,000). Rahul Sreedasyam (co-founder; senior BME at UCI Samueli), Upasana Mustafi, Praveen Ravisankar. *Roster expanded 2026-05-12 from 1 to 3 named members per UCI Beall and Butterworth 2019 winners page (where it is capitalized as 'UniSAFE'). Also a Finalist at the **Butterworth Software Competition 2019** the same year.*
 
 ## V
 

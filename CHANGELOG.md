@@ -17,9 +17,45 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
 | Disclosed cash 2017 to 2025     | ~$772,500 (corrected 2026-05-12 from $777,500 after MoodCloud/REMSYS tie-prize correction; prior 5th-pass adjustment took it from $760K to $777.5K)        |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 37 passes against cited sources completed; 16 factual errors corrected (latest: Nutripair's Butterworth 2nd was 2021 not 2022) + 6 stale derived figures caught and fixed; latest pass expanded the forMED Technologies 2022 roster from 3 to 5 members and added cross-competition recognition for four additional NVC teams (forMED won Beall Design 2021 1st, Nutripair won Butterworth 2021 2nd, ChewRank won Butterworth 2023 3rd, Leprendo won Butterworth 2022 1st) |
+| Verification audit              | 38 passes against cited sources completed; 16 factual errors corrected + 6 stale derived figures caught and fixed; latest pass added full giv 2019 roster (Lucas Erb, Haven King, Ryan Luu, Nisarg Shah), expanded UniSafe 2019 to 3 named members (Upasana Mustafi + Praveen Ravisankar added), and DISCONFIRMED the prior "possible giv → Givsum" BACKLOG lead per UCI Beall and Butterworth 2019 winners page |
 
 ## 2026-05-12
+
+### Added (thirty-eighth verification pass: giv 2019 full roster + UniSafe roster expansion + Givsum-link DISCONFIRMED)
+
+Mined the UCI Beall and Butterworth 2019 winners page. Two roster fills plus a long-standing BACKLOG flag closed.
+
+**giv 2019 (Social Enterprise 2nd, $5,000) - full team roster recovered**:
+- Lucas Erb
+- Haven King
+- Ryan Luu
+- Nisarg Shah
+
+Project description refined: "Mobile-first online giving platform: curated, short-form video content from vetted nonprofits" (per the primary source). Replaces the earlier "Charitable giving platform similar to Instagram" wording.
+
+**Cross-competition recognition**: giv also won the **Butterworth Software Competition 2019 2nd Place** ($6,500) - same year as the NVC appearance.
+
+**Possible giv → Givsum lead DISCONFIRMED**: A prior pass had flagged a possible connection between the 2019 NVC "giv" team and the Givsum charitable-giving platform (founded by Shawn Wehan + Robert Kollar, joined UCI Wayfinder in 2017). With the giv UCI-team roster now confirmed as Lucas Erb / Haven King / Ryan Luu / Nisarg Shah, the two entities are demonstrably DIFFERENT. The BACKLOG flag is now closed. This continues the pattern of catching brand-confusion failure modes (similar to prior disconfirmations of First Step Diagnostics → NeuroQure, Sentinel → Spotter.ai, Help Belt → helpbelts.com, etc.).
+
+**UniSafe 2019 (Business Products 1st, $10,000) - roster expanded** from 1 to 3 named members per the same primary source (where it is capitalized as "UniSAFE"):
+- Rahul Sreedasyam (already in archive)
+- **Upasana Mustafi** (new)
+- **Praveen Ravisankar** (new)
+
+**Cross-competition recognition**: UniSafe was also a Finalist at the **Butterworth Software Competition 2019** in the same year.
+
+**bbcomp archive scope clarified**: A 2026-05-12 systematic check of `bbcomp.tech.uci.edu/past/past-{2016,2017,2018,2020,2025}` returned HTTP 404 for all five URLs, while 2019 and 2021-2024 returned data. The bbcomp past-winners archive only covers five years (2019, 2021, 2022, 2023, 2024 - and not 2020 or pre-2019). Worth noting in case future contributors look for those years.
+
+**BACKLOG Priority 2 2019 list**: down to 1 remaining unresolved team (Jiffal). Poo Pal and SwappIt also still Not Listed (the 2019 NVC tied co-winner with Curbd remains unfindable).
+
+**Files touched:**
+- `data/nvc.json`: giv 2019 members + project description + `members_note` + `also_won`; UniSafe 2019 `team_aliases` ("UniSAFE") + roster expanded + `also_won`
+- `years/2019.md`: giv + UniSafe rows updated with member detail; Notes section gained a cross-competition recognition paragraph and the Givsum-disconfirmation note
+- `TEAMS.md`: giv + UniSafe entries upgraded from "Not Listed" / partial to full; 38th-pass date
+- `BACKLOG.md`: Priority 2 2019 list updated (giv + UniSafe both resolved; "possible Givsum link" flag closed as DISCONFIRMED); last-reviewed bumped to 38th pass
+- `CHANGELOG.md`: Coverage-at-a-glance verification-audit row bumped to 38 passes; this entry added
+
+Cross-checks: outcomes.json by_category sums to 114 (unchanged - no outcome changes, all enrichment), teams.json 114/3 split unchanged, all three JSONs ajv-valid, em-dash sweep clean.
 
 ### Added (thirty-seventh verification pass: forMED roster expansion + 4 more cross-competition wins + Nutripair year correction)
 
