@@ -109,8 +109,8 @@ Of the **114 teams researched** as of 2026-05-12 (out of 117 total in the archiv
 
 | Outcome category          | Count | % of researched |
 |---------------------------|-------|-----------------|
-| NO PUBLIC OUTCOME FOUND   | 68    | 59.6%           |
-| OPERATING                 | 31    | 27.2%           |
+| NO PUBLIC OUTCOME FOUND   | 67    | 58.8%           |
+| OPERATING                 | 32    | 28.1%           |
 | DORMANT                   | 7     | 6.1%            |
 | PIVOTED                   | 5     | 4.4%            |
 | ACQUIRED                  | 2     | 1.8%            |

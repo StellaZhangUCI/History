@@ -1146,11 +1146,12 @@
       "team": "Hydroflow",
       "year": 2021,
       "award": "Track Award (Consumer Products) 2nd",
-      "summary": "Smart water bottle cap tracking hydration levels. No traceable post-competition activity.",
-      "category": "NO_PUBLIC_OUTCOME_FOUND",
-      "confidence": "researched 2026-05-10; no findable outcome",
+      "summary": "Smart bottle cap and phone application that automatically tracks water intake, sets personalized daily goals, and provides customized hydration reminders; designed to attach to water bottles and measure intake during physical exercise. Reclassified 2026-05-12 from NO_FOUND to OPERATING (likely) after the UCI Beall Applied Innovation Wayfinder Startup category page confirmed Hydroflow as an active member of the current Wayfinder cohort (i.e., still receiving incubator support post-NVC). The team site gohydroflow.com returned ECONNREFUSED on a 2026-05-12 fetch attempt so current product-level activity could not be independently verified; OPERATING is tagged 'likely' based on the active Wayfinder Startup membership.",
+      "category": "OPERATING",
+      "confidence": "likely; active Wayfinder Startup membership verified 2026-05-12, current product activity unverified",
       "sources": [
-        "https://merage.uci.edu/news/2021/06/Shaka-Takes-Home-First-Place-at-the-2021-New-Venture-Competition.html"
+        "https://merage.uci.edu/news/2021/06/Shaka-Takes-Home-First-Place-at-the-2021-New-Venture-Competition.html",
+        "https://innovation.uci.edu/category/wayfinder-startup/page/2/"
       ]
     },
     {
@@ -1355,13 +1356,13 @@
   "summary_stats": {
     "teams_researched": 114,
     "by_category": {
-      "OPERATING": 31,
+      "OPERATING": 32,
       "ACQUIRED": 2,
       "EXITED_OTHER": 0,
       "PIVOTED": 5,
       "DORMANT": 7,
       "SHUT_DOWN": 1,
-      "NO_PUBLIC_OUTCOME_FOUND": 68
+      "NO_PUBLIC_OUTCOME_FOUND": 67
     },
     "notable_exits": [
       {

@@ -56,7 +56,7 @@
     {"name":"Health Libero","years":[2021],"top_award":"Track Award (Business Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2021","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Helios","years":[2023],"top_award":"Track Award (Business Products) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2023","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Help Belt","years":[2023],"top_award":"Track Award (Consumer Products) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2023","note":"Researched 2026-05-10; no public outcome found"}},
-    {"name":"Hydroflow","years":[2021],"top_award":"Track Award (Consumer Products) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2021","note":"Researched 2026-05-10; no public outcome found"}},
+    {"name":"Hydroflow","years":[2021],"top_award":"Track Award (Consumer Products) 2nd","outcome":{"category":"OPERATING","note":"Reclassified 2026-05-12 NO_FOUND -> OPERATING (likely) after active Wayfinder Startup cohort membership confirmed","see":"OUTCOMES.md#2021"}},
     {"name":"HydroVasc","years":[2021],"top_award":"Track Award (Life Sciences) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2021","note":"Researched 2026-05-10; no public outcome found"}},
     {"name":"Hyperion Therapeutics","years":[2023],"top_award":"Track Award (Life Sciences) 1st","outcome":{"category":"OPERATING","see":"OUTCOMES.md#2023"}},
     {"name":"iBesties","name_aliases":["Middle School Moguls"],"years":[2014],"top_award":"Grand Prize","outcome":{"category":"PIVOTED","rebranded_to":"Middle School Moguls","see":"OUTCOMES.md#pre-2017"}},

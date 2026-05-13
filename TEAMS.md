@@ -88,7 +88,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Health Libero** ([2021](years/2021.md): BP 2nd). Not Listed.
 - **Helios** ([2023](years/2023.md): BP 1st). Not Listed.
 - **Help Belt** ([2023](years/2023.md): CP 1st, $10,000). Not Listed. *Disambiguation (2026-05-12): NOT the unrelated commercial brand 'Help Belts' at helpbelts.com (medical-alert seat-belt cover, founded 2016 by a mother for her son's medical needs). The UCI 2023 NVC Help Belt is a distinct seat-belt mobility-aid project.*
-- **Hydroflow** ([2021](years/2021.md): CP 2nd). Not Listed.
+- **Hydroflow** ([2021](years/2021.md): CP 2nd). Not Listed. *OPERATING (likely; reclassified 2026-05-12 from NO_FOUND): confirmed as an active member of the UCI Beall Wayfinder Startup cohort per the Wayfinder Startup category page. Smart bottle cap + hydration-tracking app; gohydroflow.com returned ECONNREFUSED on 2026-05-12 so current product activity not independently verified.*
 - **HydroVasc** ([2021](years/2021.md): LS 2nd). Not Listed.
 - **Hyperion Therapeutics** ([2023](years/2023.md): LS 1st). Jennings Luu, Krzysztof Palczewski. *Operating; hyperioneye.com active; seed-stage biopharmaceutical; received $100K Proof-of-Product grant from UCI Beall Applied Innovation in 2023.*
 

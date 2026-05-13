@@ -258,6 +258,10 @@ Sources: [PitchBook profile](https://pitchbook.com/profiles/company/471934-63), 
 Site `remsys.app` is in active BETA development as of 2026-05-11. Operating as REMSYS LLC (©2024). AI-powered features include resume tailoring, generative AI cover letter creation, and AI-powered mock interviews with recruiter simulations. Earlier draft of this archive marked REMSYS as DORMANT based on "no marketing activity past 2021"; verification on 2026-05-11 finds the platform actively under development with current functionality.
 Sources: [remsys.app](https://remsys.app/home)
 
+**Hydroflow** (Consumer Products 2nd): OPERATING. *Confidence: likely (active Wayfinder Startup membership confirmed; current product activity not independently verified).*
+Smart bottle cap and phone application that automatically tracks water intake, sets personalized daily goals, and provides customized hydration reminders. **Reclassified 2026-05-12** from NO_FOUND to OPERATING after the UCI Beall Applied Innovation **Wayfinder Startup** category page confirmed Hydroflow as an active member of the current Wayfinder cohort (i.e., still receiving incubator support post-NVC, not yet graduated). The team site `gohydroflow.com` returned ECONNREFUSED on a 2026-05-12 fetch attempt so current product-level activity could not be independently verified; OPERATING is tagged "likely" rather than "confirmed" based on the active Wayfinder membership alone.
+Sources: [UCI Beall Wayfinder Startup category (page 2)](https://innovation.uci.edu/category/wayfinder-startup/page/2/)
+
 ## 2022
 
 **Noveil** (Grand Prize): OPERATING. *Confidence: likely, low recent activity.*
