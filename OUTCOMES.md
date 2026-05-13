@@ -347,7 +347,7 @@ Sources: [BMES 2024 winners](https://www.bmes.org/news/2024-medtronic/bmes-stude
 ## 2025
 
 **Grad2Go** (Grand Prize): OPERATING. *Confidence: confirmed; brand new.*
-Won the 2025 Grand Prize in June 2025. Team led by Yifan "May" Mei. Too recent for outcome data; just won the $20,000 prize.
+Won the 2025 Grand Prize on May 22, 2025 (Merage press release published June 2025). Team led by Yifan "May" Mei. Too recent for outcome data; just won the $20,000 prize.
 Sources: [Merage announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html)
 
 **GlowGuard** (Runner-Up): OPERATING. *Confidence: confirmed; brand new.*
