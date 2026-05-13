@@ -127,7 +127,8 @@
           "members_note": "Roster expanded 2026-05-12 from the prior single-name listing. Ricianne Rey directly verified via antrepreneur.uci.edu/meet-chi-rey/ profile; the additional four members were surfaced via WebSearch aggregation cross-referenced with Varshini Vijay's and Benson Manzano's UCI-affiliated LinkedIn profiles. A fifth teammate (first name 'Kimberly') is mentioned in search-engine summaries without a confirmed last name and is not added here. Per Ricianne Rey's antrepreneur.uci.edu profile, the team competed as MIE-program peers."
         },
         {
-          "category": "Specialty (Audience Favorite)",
+          "category": "Specialty (EvoNexus Fan Favorite)",
+          "category_aliases": ["Specialty (Audience Favorite)"],
           "place": "Winner",
           "team": "Oslo",
           "prize_text": "$1,000",

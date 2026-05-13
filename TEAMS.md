@@ -137,7 +137,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 - **Omni Pet Club** ([2023](years/2023.md): CP 2nd). Penny Love, Rae Chen. *Operating; modular multi-pet leash system selling direct at omnipetclub.com. Earlier draft claimed retail distribution via Chewy / Walmart / Amazon; verification on 2026-05-11 found those listings are for a different brand (OmniPet by Leather Brothers), not the UCI startup.*
 - **Orii.AI** ([2023](years/2023.md): BP 2nd). Not Listed.
-- **Oslo / Birdhouse by Oslo** ([2025](years/2025.md): AF, LS 2nd). Not Listed. *Operating (likely, finalist stage); confirmed 2025 Stella Zhang finalist.*
+- **Oslo / Birdhouse by Oslo** ([2025](years/2025.md): EvoNexus Fan Favorite + LS 2nd; $6,000 combined). Not Listed. *OPERATING (likely, finalist stage); confirmed 2025 Stella Zhang finalist. Specialty award sponsor-branded as "EvoNexus Fan Favorite" per Merage 2025-06 primary source (the archive's prior "Audience Favorite" was a generic shorthand).*
 
 ## P
 
