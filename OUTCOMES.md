@@ -188,8 +188,8 @@ Transparent charitable vehicle-donation platform; site live at `cardana.co` with
 Sources: [cardana.co/about](https://cardana.co/about/)
 
 **Wing** (Consumer Services 1st): OPERATING. *Confidence: confirmed.*
-Rebranded as **Wing Assistant**. Raised a $2.1M seed in 2021. Continues as a subscription managed-virtual-assistant service in 2025 to 2026 with newer tooling (Pie by Wing).
-Sources: [Merage News (Dec 2021)](https://merage.uci.edu/news/2021/12/A-Pandemic-Pivot-Results-in-2.1-Million-in-Seed-Funding-for-Wing-Assistant.html), [Technology.org review (2025)](https://www.technology.org/2025/12/16/wing-assistant-review-2025-is-it-the-best-unlimited-va-service/)
+Rebranded as **Wing Assistant**. Raised a $2.1M seed in 2021 (Tracxn dates the seed close to Mar 31, 2022). Continues as a subscription managed-virtual-assistant service in 2025 to 2026 with newer tooling (Pie by Wing). **Employee count 199 as of July 1, 2024** per Tracxn. Recognized in December 2025 as a top remote-support solution for online stores and in November 2025 for reliability / scalability in the consumer VA space.
+Sources: [Merage News (Dec 2021)](https://merage.uci.edu/news/2021/12/A-Pandemic-Pivot-Results-in-2.1-Million-in-Seed-Funding-for-Wing-Assistant.html), [Technology.org review (2025)](https://www.technology.org/2025/12/16/wing-assistant-review-2025-is-it-the-best-unlimited-va-service/), [Tracxn profile](https://tracxn.com/d/companies/wing/__y6Opw3k5_7jFvx4kaRsjq2GGBODUgA0B2Wa0Z9N5qOk)
 
 ## 2019
 
