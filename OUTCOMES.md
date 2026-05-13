@@ -123,8 +123,8 @@ Sources: [Crunchbase profile](https://www.crunchbase.com/organization/maslow-con
 ## 2017
 
 **Purist** (Grand Prize, School of Medicine): OPERATING. *Confidence: confirmed.*
-Founder Leila Safavi runs `puristinc.com`, was named an Oak Ridge National Lab Innovation Crossroads Cohort 3 fellow, and received $223K in NIH SBIR funding in 2019. LinkedIn shows ongoing isotope and radiopharmaceutical work. Still small / seed stage with no announced funding round beyond grants.
-Sources: [puristinc.com/about](https://www.puristinc.com/about), [Founder LinkedIn](https://www.linkedin.com/in/leilasafavi/)
+Founder Leila Safavi runs `puristinc.com`, was named an Oak Ridge National Lab Innovation Crossroads Cohort 3 fellow, and received over $223K in NIH SBIR funding in 2019 per UCI Beall coverage. LinkedIn shows ongoing isotope and radiopharmaceutical work. Still small / seed stage with no announced funding round beyond grants.
+Sources: [puristinc.com/about](https://www.puristinc.com/about), [UCI Beall SBIR coverage (April 2019)](https://innovation.uci.edu/2019/04/startups-purist-and-docbot-receive-sbir-grants/), [Founder LinkedIn](https://www.linkedin.com/in/leilasafavi/)
 
 **APIC Diagnostics** (Tech Surge 2nd): NO PUBLIC OUTCOME FOUND.
 Note: while the archive describes APIC as a "saliva diagnostic," the original UCI Innovation source indicates the focus was a non-invasive point-of-care malaria test. No web presence post-2017.
