@@ -228,8 +228,8 @@ CEO Aryan Ghanadan's PETE-plastic housing concept has no traceable post-2020 com
 Sources: [UCI Innovation 2019 profile](https://innovation.uci.edu/2019/10/bottle-built-blends-science-and-art/)
 
 **ImmunoTarget** (Life Sciences 1st): OPERATING. *Confidence: likely, very early stage.*
-Now ImmunoTarget Therapeutics, Inc. Stephanie Hachey, PhD is founder/CEO/CSO. Tracxn lists the company as unfunded as of 2025. A UCI conflict-of-interest disclosure on a March 2025 bioRxiv preprint confirms the company is still active and licensing UCI technology. Pre-revenue with no announced funding round.
-Sources: [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.03.17.643783v1), [Tracxn profile](https://tracxn.com/d/companies/immunotarget/__26m8SS1TNE96VoLvswRD6GGEwf-dhpUSNTsS_8pe4EY)
+Now ImmunoTarget Therapeutics, Inc., **founded 2020** out of Stephanie Hachey's postdoctoral research. Stephanie J. Hachey, PhD (UCI Department of Molecular Biology and Biochemistry; project scientist) is Founder, CEO, and CSO. Approach: proprietary cell-processing techniques that tailor immunotherapies to train each patient's immune system against their own cancer cells, with the goal of enhancing tumor eradication while preserving healthy cells. Targeted at solid cancers. Tracxn lists the company as unfunded as of 2025. A UCI conflict-of-interest disclosure on a March 2025 bioRxiv preprint confirms the company is still active and licensing UCI technology. Pre-revenue with no announced funding round.
+Sources: [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2025.03.17.643783v1), [Tracxn profile](https://tracxn.com/d/companies/immunotarget/__26m8SS1TNE96VoLvswRD6GGEwf-dhpUSNTsS_8pe4EY), [Stephanie Hachey ResearchGate](https://www.researchgate.net/profile/Stephanie-Hachey)
 
 **Conshus Clothing** (Social Enterprise 1st): NO PUBLIC OUTCOME FOUND.
 Beyond the 2020 NVC win and an F6S profile, no surviving e-commerce site, social presence, or news after 2020 to 2021. Likely dormant.
@@ -260,8 +260,8 @@ Sources: [remsys.app](https://remsys.app/home)
 ## 2022
 
 **Noveil** (Grand Prize): OPERATING. *Confidence: likely, low recent activity.*
-Founder Michael Allotey (former Amazon engineer). Funded; an Arch Grants recipient (St. Louis-based after relocating). Tracxn shows the company still active as of early 2026, but ranked 750th of 1,851 dating-app competitors, a fading signal. LinkedIn page has minimal recent activity.
-Sources: [Arch Grants profile](https://archgrants.org/companies/noveil/), [Tracxn](https://tracxn.com/d/companies/noveil/__fLgLqRiFTtLgXK6S3LmJMwBs3BQU73-d38CVtGTkrD8)
+Founder **Michael Allotey** - LA native; UCI graduate 2021 (B.S. Computer Science & Innovation); former Amazon engineer; previously also worked in investment banking at Goldman Sachs. Received a **$75,000 Arch Grants award** in late 2022 (the grant enabled platform development and expansion into more college campuses). Relocated headquarters to St. Louis as part of the Arch Grants program. Tracxn shows the company still active as of early 2026, but ranked 750th of 1,851 dating-app competitors - a fading signal. LinkedIn page has minimal recent activity.
+Sources: [Arch Grants profile](https://archgrants.org/companies/noveil/), [Sunstone Management Founder Focus](https://www.sunstoneinvestment.com/news/founder-focus-noveil/), [Tracxn](https://tracxn.com/d/companies/noveil/__fLgLqRiFTtLgXK6S3LmJMwBs3BQU73-d38CVtGTkrD8), [Michael Allotey LinkedIn](https://www.linkedin.com/in/michael-allotey-14369014a/)
 
 **Enjovu Paper** (Runner-Up): NO PUBLIC OUTCOME FOUND.
 Sustainable paper from elephant-feces fibers. No findable company site, Crunchbase, or post-2022 traction.
