@@ -66,7 +66,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## F
 
-- **Failsafe** ([2017](years/2017.md): CP 2nd). Natalie Sweis, Jasmine Yu, Issa Sweis. *No public outcome found (researched 2026-05-12).*
+- **Failsafe** ([2017](years/2017.md): CP 2nd, $1,500). Natalie Sweis, Jasmine Yu, Issa Sweis. *DORMANT (likely; reclassified 2026-05-12 from NO_FOUND): completed the UCI Wayfinder incubator program per UCI Beall Wayfinder Graduate page, confirming post-NVC activity. No current product or site located.*
 - **First Step Diagnostics** ([2018](years/2018.md): LS 2nd, TS 1st). Max Lechner, Hannah Mylabathula, Dr. Elizabeth Chao, Dave Ferguson. *No public outcome found. An earlier draft of this archive linked First Step Diagnostics to NeuroQure; verification on 2026-05-11 disconfirmed that connection (see OUTCOMES.md).*
 - **Flare** ([2024](years/2024.md): CP 1st). Not Listed.
 - **forMED Technologies** ([2022](years/2022.md): LS 1st, $10,000). Aryan Agarwal, Ruben Shakya, Raphael Francis Aguas, Lily McGrale, Kamalesh Ananthakrishnan. *Roster expanded 2026-05-12 from 3 to 5 members per UCI Beall and Butterworth 2021 winners page. Also won the **Beall Student Design Competition 2021 1st Place** with the same intraocular-pressure project (predates the 2022 NVC win). No public commercial outcome found post-NVC.*

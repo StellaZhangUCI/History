@@ -338,10 +338,12 @@
       "team": "Failsafe",
       "year": 2017,
       "award": "Track Award (Consumer Products) 2nd",
-      "category": "NO_PUBLIC_OUTCOME_FOUND",
-      "confidence": "no findable outcome",
-      "summary": "Researched 2026-05-12. Personal-safety mobile app concept (Natalie Sweis, Jasmine Yu, Issa Sweis). Listed in 2017 Beall/Butterworth records. No App Store presence, no Crunchbase, no surviving site. The 'Failsafe' name is heavily overloaded in other product categories which obscures search.",
-      "sources": []
+      "category": "DORMANT",
+      "confidence": "likely (Wayfinder Graduate confirmed post-NVC activity; no current trace)",
+      "summary": "Personal-safety mobile app concept (Natalie Sweis, Jasmine Yu, Issa Sweis). Listed in 2017 Beall/Butterworth records. Per the UCI Beall Applied Innovation Wayfinder Graduate page, Failsafe completed the Wayfinder incubator program (described there as a 'Safety app that optimizes the chance of someone receiving help in threatening situations'), so the team had documented post-NVC activity beyond the competition itself. Reclassified 2026-05-12 from NO_FOUND to DORMANT based on the Wayfinder Graduate signal. No current App Store presence, Crunchbase profile, or surviving site located. NOT to be confused with several unrelated commercial 'FailSafe' brands: a Salesforce-AppExchange MFA tool, getfailsafe.com (Web3 security auditing), or failsafe.dev (Java fault-tolerance library).",
+      "sources": [
+        "https://innovation.uci.edu/category/wayfinder-graduate/"
+      ]
     },
     {
       "team": "Memorlane",
@@ -1357,9 +1359,9 @@
       "ACQUIRED": 2,
       "EXITED_OTHER": 0,
       "PIVOTED": 5,
-      "DORMANT": 6,
+      "DORMANT": 7,
       "SHUT_DOWN": 1,
-      "NO_PUBLIC_OUTCOME_FOUND": 69
+      "NO_PUBLIC_OUTCOME_FOUND": 68
     },
     "notable_exits": [
       {

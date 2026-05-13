@@ -144,8 +144,9 @@ The 2017 team (Nicole Chow, Luana Okumura, Lisa Mae Dominia, Jeffrey O'Brien) ap
 **Salux Diagnostics** (Life Sciences 2nd): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
 Appears to have been a UCI senior design project (rapid diagnostic for burn injuries). A UCI design-page reference exists, but no Crunchbase profile, surviving company site, or post-2017 commercial activity is locatable on 2026-05-12.
 
-**Failsafe** (Consumer Products 2nd): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
-Personal-safety mobile app concept (Natalie Sweis, Jasmine Yu, Issa Sweis). Listed in 2017 Beall / Butterworth records. No App Store presence, no Crunchbase, no surviving site. The "Failsafe" name is heavily overloaded in other product categories which obscures search.
+**Failsafe** (Consumer Products 2nd): DORMANT. *Confidence: likely (Wayfinder Graduate confirmed post-NVC activity; no current trace).*
+Personal-safety mobile app concept (Natalie Sweis, Jasmine Yu, Issa Sweis). Listed in 2017 Beall / Butterworth records. Per the UCI Beall Applied Innovation Wayfinder Graduate page, Failsafe **completed the Wayfinder incubator program** (described there as a "safety app that optimizes the chance of someone receiving help in threatening situations") - so the team had documented post-NVC activity beyond the competition itself. **Reclassified 2026-05-12** from NO_FOUND to DORMANT based on the Wayfinder Graduate signal. No current App Store presence, Crunchbase profile, or surviving site located. **Name disambiguation:** NOT to be confused with several unrelated commercial "FailSafe" brands - a Salesforce AppExchange multi-factor-authentication tool, getfailsafe.com (Web3 security auditing), or failsafe.dev (Java fault-tolerance library).
+Sources: [UCI Beall Wayfinder Graduate page](https://innovation.uci.edu/category/wayfinder-graduate/)
 
 **Memorlane** (Consumer Services 1st): NO PUBLIC OUTCOME FOUND. *Confidence: no findable outcome.*
 The only post-2017 signal is a RocketReach profile that still associates founder Evan Schein with "Memorlane Founder" - a stale-affiliation listing rather than evidence of an active company. No App Store presence, no surviving site, no press coverage post-2017.
