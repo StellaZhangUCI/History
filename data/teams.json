@@ -28,7 +28,7 @@
     {"name":"Closed Loop Plastics","years":[2018],"top_award":"Tech Surge 2nd","outcome":{"category":"SHUT_DOWN","see":"OUTCOMES.md#2018"}},
     {"name":"COMPAS","years":[2017],"top_award":"Track Award (Business Products) 2nd","outcome":{"category":"PIVOTED","see":"OUTCOMES.md#2017"}},
     {"name":"Conshus Clothing","years":[2020],"top_award":"Track Award (Social Enterprise) 1st","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2020"}},
-    {"name":"Crafty Palate","years":[2024],"top_award":"Track Award (Consumer Services) 2nd","outcome":{"category":"DORMANT","see":"OUTCOMES.md#2024"}},
+    {"name":"Crafty Palate","years":[2024],"top_award":"Track Award (Consumer Services) 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2024","note":"Earlier-cited Google Form signup returns HTTP 410 on 2026-05-12"}},
     {"name":"Curaflow","years":[2016],"top_award":"Consumer Products 2nd","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#pre-2017","note":"Researched 2026-05-12; no public outcome found"}},
     {"name":"CuraVoice","years":[2026],"top_award":"2026 Finalist (Consumer Services)","outcome":null},
     {"name":"Curbd / SwappIt","years":[2019],"top_award":"Track Award (Consumer Services) 2nd (tied)","outcome":{"category":"NO_PUBLIC_OUTCOME_FOUND","see":"OUTCOMES.md#2019","note":"Researched 2026-05-10; no public outcome found"}},

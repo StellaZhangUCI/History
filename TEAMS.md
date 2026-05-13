@@ -45,7 +45,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Closed Loop Plastics** ([2018](years/2018.md): TS 2nd). William Amos, Aldrin Lupisan, Jesse Jackson, Sharon To, Ivette Morales. *Likely shut down; closedloopplastics.com now serves a Sedo parking page.*
 - **COMPAS** ([2017](years/2017.md): BP 2nd). Scott Ruskin, Don Magnuson, Curtis Hendrick, Michael Glover, Aaron Soto. *PIVOTED: IP licensed in 2017 to OpsGuru, a commercial spin-out that has no public footprint after 2018; underlying COMPAS tech continued as an internal UCI Health tool. See [OUTCOMES.md#2017](OUTCOMES.md#2017).*
 - **Conshus Clothing** ([2020](years/2020.md): SE 1st). Arneeb Mahbub, Parth. *No public outcome found; likely dormant.*
-- **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *Dormant (likely); surfaces only as an early-stage signup form.*
+- **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *No public outcome found; the team's earlier-cited Google Form signup is deleted (HTTP 410).*
 - **Curaflow** ([2016](README.md#pre-2017-editions-20092016): Consumer Products 2nd, $5,000). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin. *No public outcome found (researched 2026-05-12); micro-CPAP device project.*
 - **Curbd / SwappIt** ([2019](years/2019.md): CS 2nd, tied; $5,000 each). Curbd: Farbod Rafezy (UCI CS, Google Student Innovator), Iman Enayati (UCLA Psychobiology), Ryan Dang (UCI CS). SwappIt: members not preserved. *Curbd team page (curbdparking.com) last updated 2019; no public outcome found.*
 

@@ -752,10 +752,10 @@
       "award": "Track Award (Life Sciences) 1st",
       "category": "OPERATING",
       "confidence": "confirmed",
-      "summary": "hyperioneye.com active. Newport Beach, CA. Company founded 2022. Founders: Krzysztof (Kris) Palczewski (internationally renowned chemist / pharmacologist / vision scientist; ~50 patents approved or pending) and Jennings Luu (MD/PhD senior doctoral fellow, Case Western Reserve Medical Scientist Training Program; principal investigator of an NIH National Eye Institute fellowship; physician-scientist training in Pharmacology under Palczewski). Targeted conditions: age-related macular degeneration (AMD), diabetic retinopathy (DR), retinitis pigmentosa (RP), glaucoma, and other inherited retinal diseases. Seed-stage biopharmaceutical; pipeline of SP3, SP4, SP5 small-molecule Stress Resilience-Enhancing Drugs (SREDs) in late preclinical and planning clinical trials for a proprietary-formula pill. Post-competition: awarded a $100,000 Proof-of-Product grant from UCI Beall Applied Innovation in 2023 (verified 2026-05-12). PNAS paper on SREDs published 2023.",
+      "summary": "hyperioneye.com active. Newport Beach, CA. Company founded 2022. Founders: Krzysztof (Kris) Palczewski (internationally renowned chemist / pharmacologist / vision scientist; ~50 patents approved or pending) and Jennings Luu (MD/PhD senior doctoral fellow, Case Western Reserve Medical Scientist Training Program; principal investigator of an NIH National Eye Institute fellowship; physician-scientist training in Pharmacology under Palczewski). Targeted conditions: age-related macular degeneration (AMD), diabetic retinopathy (DR), retinitis pigmentosa (RP), glaucoma, and other inherited retinal diseases. Seed-stage biopharmaceutical; pipeline of SP3, SP4, SP5 small-molecule Stress Resilience-Enhancing Drugs (SREDs) in late preclinical and planning clinical trials. Post-competition: awarded a $100,000 Proof-of-Product grant from UCI Beall Applied Innovation in 2023 per Irvine Standard. Brand-disambiguation note: an unrelated Hyperion Therapeutics, Inc. (San Francisco; rare-disease biotech founded 2006 by Chris Rivera; acquired by Horizon Pharma in 2015) appears under the same name in older Tracxn/Crunchbase records.",
       "sources": [
         "https://www.hyperioneye.com/company",
-        "https://pitchbook.com/profiles/company/51327-37"
+        "https://www.irvinestandard.com/2025/health-care-boom/"
       ]
     },
     {
@@ -800,9 +800,9 @@
       "confidence": "likely (MVP stage as of September 2024)",
       "summary": "Driver-monitoring AI dashcam; working MVP stage as of September 2024 per ANTrepreneur profile. An earlier draft of this archive inferred absorption by Spotter.ai's 'Sentinel' Fleet Safety Platform based on product-name overlap; verification on 2026-05-11 could not confirm that connection (neither the UCI source nor the Spotter.ai page documents it). Treat the absorption claim as unverified; status is currently best described as OPERATING (MVP stage) rather than PIVOTED.",
       "sources": [
-        "https://sentinel.spotter.ai/",
         "https://antrepreneur.uci.edu/2024/09/12/the-power-of-persistence-how-uc-irvine-entrepreneurs-built-success-through-multiple-competitions/"
-      ]
+      ],
+      "sources_note": "Spotter.ai's 'Sentinel' page was reviewed for the prior absorption claim and is NOT a positive source for this team's outcome."
     },
     {
       "team": "NeoMold",
@@ -822,9 +822,9 @@
       "award": "Track Award (Life Sciences) 1st",
       "category": "NO_PUBLIC_OUTCOME_FOUND",
       "confidence": "no findable outcome",
-      "summary": "Confirmed only as a 2024 NVC winner; no website, Crunchbase, or follow-on traceable.",
+      "summary": "Confirmed only as a 2024 NVC winner; no website, Crunchbase, or follow-on traceable. Also placed at Beall/Butterworth 2024.",
       "sources": [
-        "https://usa-rc.com/news-before-2020/american-lending-center-acknowledges-semi-finalists-in-2024-stella-zhang-new-venture-competition/"
+        "https://bbcomp.tech.uci.edu/past/past-2024/"
       ]
     },
     {
@@ -845,12 +845,10 @@
       "team": "Crafty Palate",
       "year": 2024,
       "award": "Track Award (Consumer Services) 2nd",
-      "category": "DORMANT",
-      "confidence": "likely",
-      "summary": "Surfaces only as an early-stage signup form; no operating storefront found.",
-      "sources": [
-        "https://docs.google.com/forms/d/e/1FAIpQLSfUjyioGQE6uaL7Pt6O4Ekeof4fOf_Owx-Vsb0wJ3Wr5hByXQ/viewform"
-      ]
+      "category": "NO_PUBLIC_OUTCOME_FOUND",
+      "confidence": "no findable outcome (previously-cited Google Form returns HTTP 410)",
+      "summary": "The team's earlier-cited Google Form signup is deleted (HTTP 410); no operating storefront found beyond the 2024 NVC placement.",
+      "sources": []
     },
     {
       "team": "DermaVision",
@@ -861,7 +859,7 @@
       "award": "Track Award (Social Enterprise) 2nd",
       "category": "OPERATING",
       "confidence": "likely; student-team stage",
-      "summary": "DermaVision Technologies' multispectral bruise-imaging tool ('Portable Bruise Spectroscopy Across All Skin Tones') competed in the 2024 BMES Medtronic Student Design Competition. Sources conflict on placement: BMES official 2024 results page lists DermaVision as First Place winner; the team's own website lists third place in the Mechanical and Electrical track. UC Tech Transfer NCD/34412 currently says 'not available for licensing' as of 2026-05-11; an earlier draft of this archive claimed 'available for licensing' (the opposite). The team also earned UCI's Dean's Choice Award at the Engineering Annual Design Review and became IRB-approved for pre-clinical imaging with the UCI Trauma Center. Additional post-competition recognition (added 2026-05-12): awarded $3,000 from the Interdisciplinary Research Team program hosted by CALIT2 and UROP. Ashley Im is profiled as a fourth-year biomedical engineer leading the algorithm and data-analysis side of the project.",
+      "summary": "DermaVision Technologies' multispectral bruise-imaging tool ('Portable Bruise Spectroscopy Across All Skin Tones') competed in the 2024 BMES Medtronic Student Design Competition and placed 3rd in the Mechanical/Electrical track per BMES, team website, and BME design-symposium materials. UC Tech Transfer NCD/34412 currently says 'not available for licensing' as of 2026-05-11. The team also earned UCI's Dean's Choice Award at the Engineering Annual Design Review and became IRB-approved for pre-clinical imaging with the UCI Trauma Center. Additional post-competition recognition (added 2026-05-12): awarded $3,000 from the Interdisciplinary Research Team program hosted by CALIT2 and UROP. Ashley Im is profiled as a fourth-year biomedical engineer leading the algorithm and data-analysis side of the project.",
       "sources": [
         "https://techtransfer.universityofcalifornia.edu/NCD/34412.html",
         "https://www.dermavisiontech.com/team.html",
