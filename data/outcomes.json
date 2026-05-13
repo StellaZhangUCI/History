@@ -1371,7 +1371,9 @@
       {
         "team": "Mechanodontics (BRIUS Technologies)",
         "type": "OPERATING_FUNDED",
-        "note": "Rebrand confirmed via Crunchbase / CB Insights; total funding figures from PitchBook are not independently verified here."
+        "total_funding_usd_approx": 46200000,
+        "latest_round": "Series B initial closing $19.5M on 2025-05-06 led by View Ventures",
+        "note": "Brava commercial launch 2022-06-30; Brava+ System (lingual variant) launched 2024; total per Tracxn / Fundz / MergerLinks. Strongest post-2017 outcome in the archive."
       },
       {
         "team": "No Decaf Allowed",
@@ -1386,7 +1388,32 @@
         "team": "Wing",
         "rebranded_to": "Wing Assistant",
         "total_funding_usd_approx": 2100000,
-        "note": "$2.1M seed in October 2021, still operating in 2025-2026"
+        "employee_count_as_of": "2024-07-01",
+        "employee_count": 199,
+        "note": "$2.1M seed in October 2021. Tracxn lists 199 employees as of July 1, 2024. Still operating in 2025-2026 with newer tooling (Pie by Wing)."
+      },
+      {
+        "team": "iBesties",
+        "rebranded_to": "Middle School Moguls (GenGirl Media)",
+        "type": "PIVOTED_THEN_DORMANT",
+        "note": "Doll line + book series launched 2016 with Target retail distribution; Nickelodeon CG miniseries (4 episodes) premiered Sept 2 2019, aired through Sept 29 2019. No public franchise activity post-2019."
+      }
+    ],
+    "notable_operating_funded": [
+      {
+        "team": "Baby Box (123 Baby Box)",
+        "total_funding_usd_approx": 1300000,
+        "note": "$1.2M oversubscribed pre-seed in 2023; total grown to >$1.3M; founder cites ~14% monthly growth rate; planned ~$10M raise over 18-20 months."
+      },
+      {
+        "team": "Mechanodontics (BRIUS Technologies)",
+        "total_funding_usd_approx": 46200000,
+        "note": "See notable_exits entry; included here for OPERATING_FUNDED visibility."
+      },
+      {
+        "team": "Wing Assistant",
+        "total_funding_usd_approx": 2100000,
+        "note": "See notable_pivots entry; included here for OPERATING_FUNDED visibility."
       }
     ]
   }
