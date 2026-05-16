@@ -262,6 +262,20 @@
       ],
       "judges_note": "Plus representatives from the UCI ANTrepreneur Center and Beall Applied Innovation; the line between judge and coach overlaps in NVC documentation.",
       "judges_source": "https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html",
+      "primary_source": "sources/NVC-2024-Report.pptx.pdf",
+      "stats": {
+        "concept_papers": 125,
+        "semi_finalists": 50,
+        "finalists": 10,
+        "participants_approx": 400,
+        "coaches": 52,
+        "judges_count_approx": 100,
+        "cash_awarded_usd": 100000
+      },
+      "beall_butterworth_collaboration": {
+        "dual_entry_teams": 45,
+        "bb_to_nvc_semifinals": 23
+      },
       "awards": [
         {
           "category": "Grand Prize",
@@ -269,7 +283,7 @@
           "team": "Sentinel",
           "prize_text": "$20,000",
           "prize_amount_usd": 20000,
-          "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
+          "project": "A platform that uses AI to detect trucker drowsiness and distraction and keep drivers alert.",
           "members": ["Kyle Deck (Mechanical Engineering)", "Michael Ross (Aerospace / Mechanical Engineering)", "Cody He", "Spike O'Carrol", "Natan Ampudia (Business Administration)", "Kevin Wu"],
           "members_note": "Member spellings preserved from the primary Business Wire / Merage 2024 press release. The UCI Beall and Butterworth 2024 winners page (bbcomp.tech.uci.edu/past/past-2024) and the ANTrepreneur Center 2024-09 post-competition profile both use 'Nathan Ampudia' (vs 'Natan Ampudia' in Business Wire) and 'Spike O'Carroll' (vs 'Spike O'Carrol' in Business Wire) - this cross-source inconsistency is noted, with the more authoritative Merage / Business Wire press release retained here. The ANTrepreneur 2024-09 profile also names a Redford Hudson (Data Science) as part of the post-competition team; not added to the original 6-member NVC roster pending confirmation whether he was on the competing team or joined afterward.",
           "also_won": [
@@ -283,7 +297,7 @@
           "team": "NeoMold",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Customizable, 3D-printed ear molds for non-surgical correction of newborn ear deformities.",
+          "project": "A customizable, 3D-printed ear mold that non-surgically corrects newborn outer ear deformities within 2 to 6 weeks of birth, with reduced complications and patient re-admittance rates.",
           "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"],
           "also_won": ["1st Place, Beall Student Design Competition 2024 (sibling UCI competition)"]
         },
@@ -293,7 +307,7 @@
           "team": "Sentinel",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "AI-enhanced dashcam system that detects trucker drowsiness without violating privacy (no recording when stopped).",
+          "project": "A platform that uses AI to detect trucker drowsiness and distraction and keep drivers alert.",
           "members": ["Kyle Deck", "Michael Ross", "Cody He", "Spike O'Carrol", "Natan Ampudia", "Kevin Wu"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
@@ -304,16 +318,17 @@
           "team": "BagIt",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Platform revolutionizing student savings with on-demand discounts.",
+          "project": "Aims to simplify access to savings on products and services for students and consumers by centralizing relevant on-demand discounts in one place.",
           "members": []
         },
         {
           "category": "Track Award (Consumer Products)",
           "place": "1st",
           "team": "Flare",
+          "team_aliases": ["FLARE"],
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Smart safety glove for cyclists with LED indicators for signaling.",
+          "project": "A safety glove and mobile app combination that addresses the dangerous miscommunication gap between riders, walkers and cars by alerting others to the rider's presence using signals, lights, sounds and gestures.",
           "members": []
         },
         {
@@ -322,7 +337,7 @@
           "team": "Lynne",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Discreet, cooling wallet designed for carrying birth control.",
+          "project": "A seamless bundle between an app and wallet that empowers women to take control of their lives by taking control of their birth control in a functional, fashionable and affordable way.",
           "members": []
         },
         {
@@ -331,7 +346,7 @@
           "team": "Quiver",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Subscription service offering surfers access to a vast board library.",
+          "project": "An all-you-can-surf board subscription that empowers surfers who want to ride a wide variety of surfboards by offering infinite board selection at brick-and-mortar board libraries.",
           "members": []
         },
         {
@@ -340,7 +355,7 @@
           "team": "Crafty Palate",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Marketplace connecting foodies with local artisan cooks.",
+          "project": "Connects buyers directly with passionate artisans selling their homemade goodies online, making it easier than ever to discover and support a community's finest local food.",
           "members": []
         },
         {
@@ -359,7 +374,7 @@
           "team": "NeoMold",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Customizable, 3D-printed ear molds for non-surgical correction of newborn ear deformities.",
+          "project": "A customizable, 3D-printed ear mold that non-surgically corrects newborn outer ear deformities within 2 to 6 weeks of birth, with reduced complications and patient re-admittance rates.",
           "members": ["Christine Ly", "Christine Nguyen", "Frida Sandoval", "Kathy Duong"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Runner-Up", "place": "Winner"}
@@ -379,7 +394,7 @@
           "team": "DermaVision",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Forensic imaging tool detecting bruising across diverse skin tones.",
+          "project": "A forensic imaging tool capable of detecting bruising across dark and light skin tones, while also providing quantitative estimations of the time of injury.",
           "members": ["Ashley Im", "Alejandra Reyes", "Mitchell Frazeur", "Hao Ngo"]
         }
       ]
@@ -397,6 +412,20 @@
         "Rodrigo C. Mahs"
       ],
       "judges_source": "https://www.businesswire.com/news/home/20230526005328/en",
+      "primary_source": "sources/NVC-2023-Report.pptx.pdf",
+      "stats": {
+        "concept_papers": 98,
+        "semi_finalists": 52,
+        "finalists": 10,
+        "participants_approx": 400,
+        "coaches": 52,
+        "judges_count_approx": 100,
+        "cash_awarded_usd": 100000
+      },
+      "beall_butterworth_collaboration": {
+        "dual_entry_teams": 23,
+        "bb_to_nvc_semifinals": 8
+      },
       "awards": [
         {
           "category": "Grand Finale",
@@ -441,7 +470,7 @@
           "team": "Help Belt",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Universal seat belt aid for individuals with limited mobility or arthritis.",
+          "project": "A universal seat belt aid that empowers individuals of all ages, abilities and backgrounds to buckle themselves in with safety and dignity.",
           "members": [],
           "naming_note": "Disambiguation (added 2026-05-12): NOT the unrelated commercial brand 'Help Belts' at helpbelts.com (medical-alert seat-belt cover with information pocket, founded 2016 by a mother seeking a way to communicate her son's medical conditions to first responders). The UCI 2023 NVC Help Belt team is a distinct, separately-conceived seat-belt mobility-aid project. Roster for the UCI team remains Not Listed."
         },
@@ -471,7 +500,7 @@
           "team": "ChewRank",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Restaurant/Pet food discovery app based on trusted rankings.",
+          "project": "The restaurant discovery app of the new generation, offering integrated marketing solutions for restaurants through self-generated traffic.",
           "members": ["Chi Wei Chen", "Hsin-yi Lin", "Wei-Chia Hsu", "Xiaohan Li", "XinYao Xu"],
           "also_won": ["3rd Place, Butterworth Product Development Competition 2023 (sibling UCI competition; same year as the NVC appearance)"]
         },
@@ -481,7 +510,7 @@
           "team": "Hyperion Therapeutics",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Therapeutic agents for treating early-stage retinal diseases (AMD, DR).",
+          "project": "A robust pipeline of patented, mechanism-based therapies to combat leading causes of blindness in earlier stages of disease, with superior efficacy and safety over the current standard of care.",
           "members": ["Jennings Luu", "Krzysztof Palczewski"]
         },
         {
@@ -501,7 +530,7 @@
           "team": "Shower Power",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Shower system that recycles the 5% of water wasted while warming up.",
+          "project": "An innovative shower system that saves 5% of household water while providing the instant hot water consumers need for their morning shower.",
           "members": []
         },
         {
@@ -510,7 +539,7 @@
           "team": "TeamMade",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Modular Accessory Dwelling Units (ADUs) for affordable housing.",
+          "project": "Providing affordable and sustainable housing for lower-income and unhoused families with Modular Dwelling Units (MDUs).",
           "members": ["UCI/OCC Partnership Team (individual roster not published)"]
         }
       ]
@@ -526,8 +555,24 @@
         "Lori Mazan",
         "Debbie Lin"
       ],
-      "judges_note": "Final-round Shark Tank style panel.",
+      "judges_note": "Final-round Shark Tank style panel. The NVC-2022-Report.pptx.pdf cites a total of 54 judges across all rounds.",
       "judges_source": "https://bli.uci.edu/stella_zhang/",
+      "primary_source": "sources/NVC-2022-Report.pptx.pdf",
+      "stats": {
+        "concept_papers": 88,
+        "semi_finalists": 50,
+        "finalists": 10,
+        "participants": 354,
+        "coaches": 50,
+        "judges_count": 54,
+        "cash_awarded_usd": 100000
+      },
+      "sponsors_by_tier": {
+        "platinum": ["Stella Zhang & John Shen", "The Beall Family Foundation"],
+        "gold": ["Ken & Carla Neeld"],
+        "silver": ["Matt Bailey", "Johnson Chuang", "Fiza & Mansoor Shah", "Dr. Emanuel Shaoulian", "Howard & Ellen Mirowitz"],
+        "bronze": ["Bancroft-Clair Foundation, Inc.", "J.J. Richa"]
+      },
       "awards": [
         {
           "category": "Grand Prize",
@@ -535,7 +580,7 @@
           "team": "Noveil",
           "prize_text": "$20,000",
           "prize_amount_usd": 20000,
-          "project": "Video dating app for Gen Z students eliminating \"swiping\" and profiles.",
+          "project": "The first dating platform for Gen Z college students with no profiles and no swipes, designed to increase the number of matches and in-person dates a user receives.",
           "members": ["Michael Allotey", "Kendrick Barefield (co-founder per Arch Grants company directory)"]
         },
         {
@@ -553,7 +598,7 @@
           "team": "Noveil",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Video dating app for Gen Z students eliminating \"swiping\" and profiles.",
+          "project": "The first dating platform for Gen Z college students with no profiles and no swipes, designed to increase the number of matches and in-person dates a user receives.",
           "members": ["Michael Allotey", "Kendrick Barefield (co-founder per Arch Grants company directory)"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
@@ -564,7 +609,7 @@
           "team": "SnapHealth",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "App empowering patients to control their sensitive health record data.",
+          "project": "Empowering patients to take back control over their health record data with a simple mobile application designed to improve the healthcare experience.",
           "members": ["Ashraf Hammouri"]
         },
         {
@@ -573,7 +618,7 @@
           "team": "forMED Technologies",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "At-home non-invasive intraocular-pressure monitoring device to prevent blindness from glaucoma.",
+          "project": "An at-home, non-contact IOP (intraocular pressure) monitoring system that measures eye pressure daily to ensure medication effectiveness and prevent blindness.",
           "members": ["Aryan Agarwal", "Ruben Shakya", "Raphael Francis Aguas", "Lily McGrale", "Kamalesh Ananthakrishnan"],
           "members_note": "Roster expanded 2026-05-12 from 3 to 5 members per UCI Beall and Butterworth 2021 winners page; Francis Aguas's first name expanded to 'Raphael Francis Aguas' per the same source.",
           "also_won": ["1st Place, Beall Student Design Competition 2021 (sibling UCI competition; same intraocular-pressure project predates the 2022 NVC win)"]
@@ -584,7 +629,7 @@
           "team": "Sayenza Biosciences",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Automated multifunctional platform for processing liposuction fat (the body's largest source of regenerative cells) for aesthetic surgery and regenerative-medicine applications.",
+          "project": "The industry's first fully-automated platform for the processing of liposuction fat, the largest source of adult stem cells in the body, for limitless point-of-care aesthetic and regenerative medicine applications.",
           "members": ["Derek A. Banyard, MD, MS, MBA (Founder & CEO; UCI School of Medicine alumnus)", "Jered B. Haun (Co-Founder; Associate Professor of Biomedical Engineering at UCI)", "Alan D. Widgerow (Co-Founder; UCI Center for Tissue Engineering)"],
           "company_founded": "2020-11",
           "company_founded_note": "Per UCI Beall May 2021 feature describing the company as founded 'in November of last year.'"
@@ -595,7 +640,8 @@
           "team": "Nutripair",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Clinical nutrition platform pairing users with foods based on dietary needs and chronic-condition profiles. Concept evolved post-NVC toward a restaurant-discovery platform helping people with dietary restrictions find local businesses that meet their needs.",
+          "project": "Everyday technology that pairs people with the best foods for their dietary preferences while helping restaurants raise revenues by 10% through menu management and allergen/nutrition analyses.",
+          "post_nvc_evolution": "Concept evolved post-NVC toward a restaurant-discovery platform helping people with dietary restrictions find local businesses that meet their needs.",
           "members": ["Catlin Tran (Founder & CEO; Business Economics '23; 2022 UCI Beall Creativity & Entrepreneurship Scholarship recipient)", "Bing Mo (UCI alum '21, co-founder)"],
           "also_won": ["2nd Place, Butterworth Product Development Competition 2021 (sibling UCI competition; predates the 2022 NVC win)"]
         },
@@ -614,7 +660,8 @@
           "team": "HAI",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Sustainable jewelry made from recycled ocean waste; team pivoted from smartphone cases. 'HAI' means 'ocean' in Taiwanese.",
+          "project": "Sustainable and fashionable jewelry for consumers who are looking for attractive, high-quality products that match their passion for an eco-friendly lifestyle.",
+          "historical_context": "Per Sunstone coverage the jewelry is made from recycled ocean waste; team pivoted from smartphone cases. 'HAI' means 'ocean' in Taiwanese.",
           "members": ["Yi-Ching (Wendy) Huang (CEO)", "Katrina Alberto (CMO)", "Ting-Ling (Tina) Kuo (CPO)", "Hsiao-Tung (Shelly) Liao (CFO)", "Tanaporn (Paul) Suwatnodom (COO)", "Pongthanit (Pong) Bisalputra"],
           "coach": "Massoomeh Kazerouni"
         },
@@ -633,7 +680,7 @@
           "team": "Blue Aqua Food Tech",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Insect-based alternative protein for fish feed to solve fishmeal shortages.",
+          "project": "Developing an alternative protein for fish feed to help solve the global issue of fishmeal shortages and food waste mismanagement with the use of insects.",
           "members": ["Hamoon Shishechian (NVC presenter; co-founder)", "Kendyll Trenary (NVC presenter; COO)", "Agustine Pimentel (NVC presenter; consultant)", "Parham 'Bahar' Mansor Safain (co-founder; not a presenter at NVC per Sunstone)"]
         },
         {
@@ -652,7 +699,6 @@
     {
       "year": 2021,
       "status": "completed",
-      "theme": "Remote Work Solutions and Digital Health",
       "edition_number": "17th annual",
       "judges": [
         "Gina Heitkamp",
@@ -661,8 +707,18 @@
         "Carrie Reynolds",
         "Hicham Semaan"
       ],
-      "judges_note": "Gina Heitkamp is also a former NVC finalist (2014 Grand Prize with iBesties), making her the first documented finalist-to-judge transition in the archive.",
+      "judges_note": "Gina Heitkamp is also a former NVC finalist (2014 Grand Prize with iBesties), making her the first documented finalist-to-judge transition in the archive. The 1-NVC-2021-Summary.pdf cites a total of 59 judges across all rounds.",
       "judges_source": "https://merage.uci.edu/news/2021/06/Shaka-Takes-Home-First-Place-at-the-2021-New-Venture-Competition.html",
+      "primary_source": "sources/1-NVC-2021-Summary.pdf",
+      "stats": {
+        "concept_papers": 85,
+        "semi_finalists_boardroom_round": 54,
+        "finalists": 10,
+        "participants_approx": 300,
+        "coaches": 39,
+        "judges_count": 59,
+        "cash_awarded_usd": 61000
+      },
       "awards": [
         {
           "category": "Grand Prize",
@@ -671,7 +727,7 @@
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
           "prize_note": "Specific Grand Prize amount $10,000 per UCI Beall Wayfinder coverage 2026-05-12; combined with the $7,500 Business Products 1st = $17,500 total per Merage 2021-06 primary source.",
-          "project": "Culture-building app for remote teams to maintain engagement.",
+          "project": "A culture-building application for companies to keep employees engaged.",
           "members": ["Melanie Wertzberger (CEO)", "Austin Chauncey (CTO)", "Preston Le (Research Analyst)", "Agustine \"Augie\" Pimentel (Customer Success Specialist)"]
         },
         {
@@ -680,7 +736,7 @@
           "team": "MONI",
           "prize_text": "$1,000",
           "prize_amount_usd": 1000,
-          "project": "NFC-activated pet tag and community safety app.",
+          "project": "An NFC-activated pet tag with a community-based app to monitor pet health and safety.",
           "members": []
         },
         {
@@ -689,7 +745,7 @@
           "team": "Shaka",
           "prize_text": "$7,500",
           "prize_amount_usd": 7500,
-          "project": "Culture-building app for remote teams to maintain engagement.",
+          "project": "A culture-building application for companies to keep employees engaged.",
           "members": ["Melanie Wertzberger (CEO)", "Austin Chauncey (CTO)", "Preston Le (Research Analyst)", "Agustine \"Augie\" Pimentel (Customer Success Specialist)"],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
@@ -700,7 +756,7 @@
           "team": "Health Libero",
           "prize_text": "Undisclosed",
           "prize_amount_usd": null,
-          "project": "Marketplace redefining healthcare price transparency.",
+          "project": "A dual-sided marketplace focused on redefining price transparency in healthcare for patients, while also providing physicians with a CRM system to reduce overall costs.",
           "members": []
         },
         {
@@ -709,7 +765,7 @@
           "team": "MONI",
           "prize_text": "Undisclosed",
           "prize_amount_usd": null,
-          "project": "NFC-activated pet tag and community safety app.",
+          "project": "An NFC-activated pet tag with a community-based app to monitor pet health and safety.",
           "members": [],
           "is_cross_listing": true,
           "cross_listed_with": {"category": "Audience Favorite", "place": "Winner"}
@@ -720,7 +776,7 @@
           "team": "Hydroflow",
           "prize_text": "Undisclosed",
           "prize_amount_usd": null,
-          "project": "Smart water bottle cap that tracks water intake and monitors hydration levels.",
+          "project": "A smart water bottle cap that tracks water intake and monitors hydration levels.",
           "members": []
         },
         {
@@ -730,7 +786,7 @@
           "prize_text": "$2,500 (tied; split $5,000 with REMSYS)",
           "prize_amount_usd": 2500,
           "prize_note": "Corrected 2026-05-12 from $5,000 to $2,500 per Merage 2021-06 primary source: MoodCloud and REMSYS tied for 1st in Consumer Services and each received half of a $5,000 prize ($2,500 each).",
-          "project": "AI lifestyle/health management app.",
+          "project": "An AI lifestyle and health management app that helps users improve their long-term health.",
           "members": ["Jimmy Nguyen"]
         },
         {
@@ -740,7 +796,7 @@
           "prize_text": "$2,500 (tied; split $5,000 with MoodCloud)",
           "prize_amount_usd": 2500,
           "prize_note": "Corrected 2026-05-12 from $5,000 to $2,500 per Merage 2021-06 primary source: MoodCloud and REMSYS tied for 1st in Consumer Services and each received half of a $5,000 prize ($2,500 each).",
-          "project": "Resume management system for college students.",
+          "project": "A resume management system designed for college students to alleviate the hassle of managing multiple resumes when applying to multiple jobs.",
           "members": ["Victoria Sahrai"]
         },
         {
@@ -749,7 +805,7 @@
           "team": "StyloSonic",
           "prize_text": "$7,500",
           "prize_amount_usd": 7500,
-          "project": "Handpiece for early gingivitis diagnosis using periodontal metrics.",
+          "project": "A handpiece that provides key periodontal metrics to accurately diagnose gingivitis in the early stage and reduce the rate of advanced periodontitis.",
           "members": []
         },
         {
@@ -758,7 +814,7 @@
           "team": "HydroVasc",
           "prize_text": "Undisclosed",
           "prize_amount_usd": null,
-          "project": "Injectable hydrogel platform for tissue regeneration.",
+          "project": "A platform injectable hydrogel with the capability to regenerate tissue and organs.",
           "members": []
         },
         {
@@ -767,7 +823,7 @@
           "team": "Circular",
           "prize_text": "$7,500",
           "prize_amount_usd": 7500,
-          "project": "Closed-loop food waste system using worm composting and vertical farming.",
+          "project": "A service that picks up food waste, composts it using worms, and uses that compost to fertilize a vertical farm growing organic produce, which is distributed back to partner restaurants.",
           "members": ["Caleb Finn", "Anjan Rana Magar"]
         },
         {
@@ -776,7 +832,7 @@
           "team": "Tooke Fabrics",
           "prize_text": "$2,500",
           "prize_amount_usd": 2500,
-          "project": "Fabric produced from banana stems, employing marginalized widows.",
+          "project": "An environmentally conscious means of producing fabric that contributes to climate action and the creation of jobs for widows who are financially marginalized.",
           "members": ["Anthea Mudanye", "Anthony Eduafo", "Hamza Ibrahim", "Emmanuel Fiagbe"]
         }
       ]
@@ -786,18 +842,35 @@
       "status": "completed",
       "theme": "Pandemic Resilience and First MIE Winner",
       "edition_number": "16th annual",
-      "confirmed_judges_partial": ["Ken Neeld (Chair, Beall Center; judge in NVC for five years)"],
-      "judges_note": "Press release otherwise refers to 'five Orange County investors and entrepreneur ecosystem influencers' without naming them.",
-      "judges_source": "https://merage.uci.edu/news/2020/06/baby-box-wins-25,000-grand-prize-at-2020-new-venture-competition.html",
+      "confirmed_judges": [
+        "Stacey Feinberg (President, 33 Capital LLC)",
+        "Bob Genthert (Managing Director, EvoNexus Irvine)",
+        "Ken Neeld (President & CEO, Delphi Display Systems)",
+        "Hicham Semaan (Angel Investor, Tech Coast Angels)",
+        "Xandra Laskowski (Founder & CEO, OSEA Angel Investors)"
+      ],
+      "judges_source": "sources/NVC-Report-2019-2020.pdf (Ant Tank Grand Finale judges)",
+      "primary_source": "sources/NVC-Report-2019-2020.pdf",
+      "stats": {
+        "concept_papers": 114,
+        "semi_finalists": 43,
+        "wildcards_advanced": 6,
+        "finalists": 10,
+        "ant_tank_judges": 5,
+        "virtual_attendees": 900,
+        "countries_represented": 10
+      },
+      "associate_director_at_time": "Breanna Hale (Associate Director, Beall Center for Innovation and Entrepreneurship)",
       "awards": [
         {
           "category": "Grand Prize",
           "place": "Winner",
           "team": "Baby Box",
-          "prize_text": "$25,000",
-          "prize_amount_usd": 25000,
+          "prize_text": "$15,000",
+          "prize_amount_usd": 15000,
           "project": "AI-powered subscription for age-tailored baby products (0-3 years).",
-          "members": ["Zarina Bahadur (MIE '20)"]
+          "members": ["Zarina Bahadur (MIE '20)"],
+          "note": "Baby Box's combined cash from the 2020 NVC was $25,000 ($15,000 Grand Prize plus $10,000 Consumer Products 1st)."
         },
         {
           "category": "Audience Favorite",
@@ -823,10 +896,12 @@
           "category": "Track Award (Consumer Products)",
           "place": "2nd",
           "team": "Voltek",
+          "team_aliases": ["Safety Simon"],
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Blind spot detection device for bicycles using camera sensors.",
-          "members": []
+          "project": "Blind spot detection device for bicycles using camera sensor technology to reduce accidents and collisions involving bicycles.",
+          "members": [],
+          "name_note": "Team appeared as 'Safety Simon' in the 2020 semi-finalist round per NVC-Report-2019-2020.pdf, then competed in finals as Voltek."
         },
         {
           "category": "Track Award (Consumer Services)",
@@ -881,7 +956,7 @@
           "team": "CannTek",
           "prize_text": "$5,000",
           "prize_amount_usd": 5000,
-          "project": "Electrochemical device for detecting THC levels (law enforcement).",
+          "project": "Unique electrochemical device to detect current levels of THC, the psychoactive component of marijuana.",
           "members": ["Oren"]
         },
         {
@@ -890,7 +965,7 @@
           "team": "Conshus Clothing",
           "prize_text": "$10,000",
           "prize_amount_usd": 10000,
-          "project": "Sustainable fair-trade fashion brand empowering women.",
+          "project": "Sustainable fair-trade fashion brand aiming to financially empower underprivileged women.",
           "members": ["Arneeb Mahbub", "Parth"]
         },
         {
@@ -1540,9 +1615,10 @@
       "2024": 100000,
       "2023": 100000,
       "2022": 100000,
-      "2021": 41000,
-      "2021_note": "Updated 2026-05-12: corrected from $46,000 to $41,000. MoodCloud and REMSYS tied for Consumer Services 1st and split a single $5,000 prize ($2,500 each), not $5,000 each as previously recorded. Prior context: Shaka $17,500 (GP + BP 1st combined per Merage source) added on 2026-05-11 to the previous $28,500 disclosed; this pass drops the MoodCloud/REMSYS double-count of $5,000.",
-      "2020": 101000,
+      "2021": 61000,
+      "2021_note": "Updated 2026-05-13 to $61,000 per the 1-NVC-2021-Summary.pdf primary source ('$61,000 in CASH awarded to teams'). Earlier $41,000 figure underweighted track awards whose amounts were undisclosed in indexed press materials.",
+      "2020": 91000,
+      "2020_note": "Updated 2026-05-13 to $91,000 per the NVC-Report-2019-2020.pdf primary source ('Total cash awarded: $91,000'). Earlier $101,000 figure was inferred from press coverage that quoted Baby Box's combined $25,000 ($15K Grand Prize + $10K Consumer Products 1st) as if it were the standalone Grand Prize.",
       "2019": 70000,
       "2018": 100000,
       "2018_note": "Updated 2026-05-12: added Tech Surge 3rd ($5,000 LaserFocus) + 4th ($2,500 EchoSol) per Merage 2018 primary source. Prior total $92,500 missed these line items.",

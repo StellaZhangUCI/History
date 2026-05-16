@@ -120,7 +120,7 @@ The dominant outcome category is "no findable public outcome" (61%): consumer ap
 
 ### How prizes have shifted over time
 
-- **Grand Prize size:** $15,000 (2017, School-of-Medicine award) → $25,000 (2020, the pandemic-era peak) → $20,000 (2022–2025, current standard)
+- **Grand Prize size:** $15,000 in 2017 (the School-of-Medicine award) and again $15,000 in 2020 per the official 2019-2020 NVC Report. Baby Box's widely-quoted $25,000 from 2020 was the combined Grand Prize plus Consumer Products 1st award. Settled at $20,000 from 2022 to 2025.
 - **Standard track payouts:** $4,000 / $1,500 in 2017 → $10,000 / $5,000 from 2018 onward, roughly a 6× jump in a single year
 - **Number of tracks:** 5 NVC tracks plus Tech Surge in 2017, alongside a co-located Blum Center "Designing Solutions for Poverty Alleviation" competition (Esqalate, Loy Loy, Pure Game) → 5 standard tracks (Business Products, Consumer Products, Consumer Services, Life Sciences, Social Enterprise) plus specialty awards from 2022 forward
 - **MIE Award:** introduced in 2020 (Baby Box was the first Master-of-Innovation-and-Entrepreneurship-affiliated Grand Prize winner); now a recurring specialty award
