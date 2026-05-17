@@ -262,7 +262,7 @@
       ],
       "judges_note": "Plus representatives from the UCI ANTrepreneur Center and Beall Applied Innovation; the line between judge and coach overlaps in NVC documentation.",
       "judges_source": "https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html",
-      "primary_source": "sources/NVC-2024-Report.pptx.pdf",
+      "primary_source": "sources/NVC-2024-Report.pdf",
       "stats": {
         "concept_papers": 125,
         "semi_finalists": 50,
@@ -412,7 +412,7 @@
         "Rodrigo C. Mahs"
       ],
       "judges_source": "https://www.businesswire.com/news/home/20230526005328/en",
-      "primary_source": "sources/NVC-2023-Report.pptx.pdf",
+      "primary_source": "sources/NVC-2023-Report.pdf",
       "stats": {
         "concept_papers": 98,
         "semi_finalists": 52,
@@ -555,9 +555,9 @@
         "Lori Mazan",
         "Debbie Lin"
       ],
-      "judges_note": "Final-round Shark Tank style panel. The NVC-2022-Report.pptx.pdf cites a total of 54 judges across all rounds.",
+      "judges_note": "Final-round Shark Tank style panel. The NVC-2022-Report.pdf cites a total of 54 judges across all rounds.",
       "judges_source": "https://bli.uci.edu/stella_zhang/",
-      "primary_source": "sources/NVC-2022-Report.pptx.pdf",
+      "primary_source": "sources/NVC-2022-Report.pdf",
       "stats": {
         "concept_papers": 88,
         "semi_finalists": 50,
@@ -707,9 +707,9 @@
         "Carrie Reynolds",
         "Hicham Semaan"
       ],
-      "judges_note": "Gina Heitkamp is also a former NVC finalist (2014 Grand Prize with iBesties), making her the first documented finalist-to-judge transition in the archive. The 1-NVC-2021-Summary.pdf cites a total of 59 judges across all rounds.",
+      "judges_note": "Gina Heitkamp is also a former NVC finalist (2014 Grand Prize with iBesties), making her the first documented finalist-to-judge transition in the archive. The NVC-2021-Report.pdf cites a total of 59 judges across all rounds.",
       "judges_source": "https://merage.uci.edu/news/2021/06/Shaka-Takes-Home-First-Place-at-the-2021-New-Venture-Competition.html",
-      "primary_source": "sources/1-NVC-2021-Summary.pdf",
+      "primary_source": "sources/NVC-2021-Report.pdf",
       "stats": {
         "concept_papers": 85,
         "semi_finalists_boardroom_round": 54,
@@ -849,8 +849,8 @@
         "Hicham Semaan (Angel Investor, Tech Coast Angels)",
         "Xandra Laskowski (Founder & CEO, OSEA Angel Investors)"
       ],
-      "judges_source": "sources/NVC-Report-2019-2020.pdf (Ant Tank Grand Finale judges)",
-      "primary_source": "sources/NVC-Report-2019-2020.pdf",
+      "judges_source": "sources/NVC-2019-2020-Report.pdf (Ant Tank Grand Finale judges)",
+      "primary_source": "sources/NVC-2019-2020-Report.pdf",
       "stats": {
         "concept_papers": 114,
         "semi_finalists": 43,
@@ -901,7 +901,7 @@
           "prize_amount_usd": 5000,
           "project": "Blind spot detection device for bicycles using camera sensor technology to reduce accidents and collisions involving bicycles.",
           "members": [],
-          "name_note": "Team appeared as 'Safety Simon' in the 2020 semi-finalist round per NVC-Report-2019-2020.pdf, then competed in finals as Voltek."
+          "name_note": "Team appeared as 'Safety Simon' in the 2020 semi-finalist round per NVC-2019-2020-Report.pdf, then competed in finals as Voltek."
         },
         {
           "category": "Track Award (Consumer Services)",
@@ -1616,9 +1616,9 @@
       "2023": 100000,
       "2022": 100000,
       "2021": 61000,
-      "2021_note": "Updated 2026-05-13 to $61,000 per the 1-NVC-2021-Summary.pdf primary source ('$61,000 in CASH awarded to teams'). Earlier $41,000 figure underweighted track awards whose amounts were undisclosed in indexed press materials.",
+      "2021_note": "Updated 2026-05-13 to $61,000 per the NVC-2021-Report.pdf primary source ('$61,000 in CASH awarded to teams'). Earlier $41,000 figure underweighted track awards whose amounts were undisclosed in indexed press materials.",
       "2020": 91000,
-      "2020_note": "Updated 2026-05-13 to $91,000 per the NVC-Report-2019-2020.pdf primary source ('Total cash awarded: $91,000'). Earlier $101,000 figure was inferred from press coverage that quoted Baby Box's combined $25,000 ($15K Grand Prize + $10K Consumer Products 1st) as if it were the standalone Grand Prize.",
+      "2020_note": "Updated 2026-05-13 to $91,000 per the NVC-2019-2020-Report.pdf primary source ('Total cash awarded: $91,000'). Earlier $101,000 figure was inferred from press coverage that quoted Baby Box's combined $25,000 ($15K Grand Prize + $10K Consumer Products 1st) as if it were the standalone Grand Prize.",
       "2019": 70000,
       "2018": 100000,
       "2018_note": "Updated 2026-05-12: added Tech Surge 3rd ($5,000 LaserFocus) + 4th ($2,500 EchoSol) per Merage 2018 primary source. Prior total $92,500 missed these line items.",
