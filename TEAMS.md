@@ -4,7 +4,7 @@
 
 Master list of every team that has appeared in this archive (2009 to 2026). Use Ctrl+F to find a specific team. For full awards tables and project descriptions, follow the year link; for post-competition outcomes, see [`OUTCOMES.md`](OUTCOMES.md).
 
-Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
+Last updated: 2026-07-04 (2026 Grand Finale results added). This pass added 7 finalists that were missing from this index (CuraVoice, LAMON, NeuroStrat, PAQQ, Pipeline, RestWing, Simly) and removed the unverified "NeuroBoost" semi-finalist. Total teams indexed: the canonical [`data/teams.json`](data/teams.json) lists 130 rows (including the 10 2026 finalists and honorable mentions); the older "117" headline count is stale, and a full reconciliation is pending.
 
 ## Legend
 
@@ -14,9 +14,9 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## A
 
-- **Abner Computing** ([2026](years/2026.md): Finalist - Business Products & Services). Not Listed.
+- **Abner Computing** ([2026](years/2026.md): BP 2nd, $5,000). Not Listed. *Multi-provider AI inference platform routing requests across GPU providers by price/latency/reliability. 2026 finalist; too recent for outcome research.*
 - **Apeel Juice** ([2018](years/2018.md): SE 1st). Keene Do, Jacqueline Kao, Matthew Nguyen, Huan Quach. *No public outcome found.*
-- **Ascend First** ([2026](years/2026.md): Finalist - Social Enterprise). Not Listed.
+- **Ascend First** ([2026](years/2026.md): MIE Award + SE 2nd; $7,500 combined). Not Listed. *AI-powered transfer-success platform (transfer plans, mentorship, roadmaps, ROI insights) for community college students. Distinct from the other 2026 transfer team, Pipeline. Too recent for outcome research.*
 - **APIC Diagnostics** ([2017](years/2017.md): TS 2nd). Pravin Surana, Anandkumar Surendrarao, Cyril Soliman, Ishita Gulati. *No public outcome found.*
 - **Ardha Health** ([2020](years/2020.md): BP 1st). Drew Park.
 - **ARTEM** ([2018](years/2018.md): CP 1st). Emily Vu, Cesar Corral, Matthew Peterson. *No public outcome found.*
@@ -26,7 +26,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Baby Box / 123 Baby Box** ([2020](years/2020.md): GP, CP 1st). Zarina Bahadur (MIE '20). *Operating; ~$1.2M oversubscribed round (2023; round stage not specified by TechCrunch). 245% growth, tripled revenue, 5x MRR (2021 baseline), target $100K MRR / $1M ARR. Strongest non-medical operating company in the archive.*
 - **BagIt** ([2024](years/2024.md): BP 2nd). Not Listed.
 - **Bloom Diagnostics** ([2013](README.md#pre-2017-editions-20092016)): UC Irvine Environment Institute Award ($2,500). Amanda Gage, Kevin Leong, Ali Mansouri (CHEMS), Syed Naqvi, Betty Olson, Johnway Yih (coach Earle Hager). *No public outcome found (researched 2026-05-12). Disambiguation: NOT the unrelated Swiss medtech 'Bloom Diagnostics.'*
-- **BrickCycle** ([2026](years/2026.md): Finalist - Social Enterprise). Not Listed.
+- **BrickCycle** ([2026](years/2026.md): SE 1st, $10,000). Not Listed. *Turns recycled plastic, glass, and seashell waste into durable, non-fired bricks. Disambiguation: NOT the unrelated 'BrickCycle Habitats' (Vancouver, BC) or the Australian 'Brick Cycle'. Too recent for outcome research.*
 - **Blue Aqua Food Tech** ([2022](years/2022.md): SE 1st). NVC presenters (per Sunstone): Hamoon Shishechian, Kendyll Trenary (COO), Agustine Pimentel (consultant); co-founder Parham "Bahar" Mansor Safain did not present at the competition. *Operating; bafoodtech.com live; pre-revenue / early.*
 - **Bottle Built** ([2020](years/2020.md): AF, SE 2nd). Aryan Ghanadan. *No public outcome found.*
 - **Bottle Rocket** ([2016](README.md#pre-2017-editions-20092016): Most Outstanding Undergraduate Plan, $1,000). Arthur Avetisov, Brian Leung, Eric Tam, Lisa Tran, Tina Mai. *DORMANT (likely): raised $260K from MuckerLab + Dorm Room Fund (2016-2017) then no post-2018 footprint. NOT the Dallas-based Bottle Rocket studio (acquired by WPP).*
@@ -47,6 +47,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Conshus Clothing** ([2020](years/2020.md): SE 1st). Arneeb Mahbub, Parth. *No public outcome found; likely dormant.*
 - **Crafty Palate** ([2024](years/2024.md): CS 2nd). Not Listed. *No public outcome found; the team's earlier-cited Google Form signup is deleted (HTTP 410).*
 - **Curaflow** ([2016](README.md#pre-2017-editions-20092016): Consumer Products 2nd, $5,000). Jeffrey Chum, Josh Drum, Michael Shenk, Matthew Vasquez, Sam Pasin. *No public outcome found (researched 2026-05-12); micro-CPAP device project.*
+- **CuraVoice** ([2026](years/2026.md): CS 2nd, $5,000). Sakhi Patel (co-founder; UCI PharmD candidate), Shrey Modi (technical co-founder; CSU Long Beach, non-UCI). *AI voice-simulation platform for healthcare students to practice bedside communication. Founders per a Mar 2025 UCI ANTrepreneur spotlight (pre-NVC); no NVC-source roster. Too recent for outcome research.*
 - **Curbd / SwappIt** ([2019](years/2019.md): CS 2nd, tied; $5,000 each). Curbd: Farbod Rafezy (UCI CS, Google Student Innovator), Iman Enayati (UCLA Psychobiology), Ryan Dang (UCI CS). SwappIt: members not preserved. *Curbd team page (curbdparking.com) last updated 2019; no public outcome found.*
 
 ## D
@@ -106,6 +107,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 
 ## L
 
+- **LAMON** ([2026](years/2026.md): Beall Applied Innovation Award + LS 1st; $20,000 combined). Dr. Pooyan Mobtahej (postdoc, Neurology), Jacob Thomas, Sarvenaz Ghaedi, Dr. Ahmad Sajjadi (lab director, Neurology; UCI MIND). *AI early-dementia detection via speech-based digital biomarkers and transformer models, from Dr. Sajjadi's UCI Neurology lab. The Beall Applied Innovation Award ($10,000) is the archive's largest specialty award, new in 2026. Too recent for outcome research.*
 - **Laser Associated Sciences (LAS)** ([2013](README.md#pre-2017-editions-20092016): GP). Sean White, Bruce Yang, Charlene Ong, Tyler Rice. *Acquired by Medtronic in April 2020 (terms undisclosed; OCBJ reported 2020-04-14, UCI Innovation announcement 2020-04-29). Cleanest documented exit in the archive.*
 - **Leprendo** ([2023](years/2023.md): RU + CS 1st; $15,000 combined). Dan Ta, Dylan Riffle, Kanu Chandra, Nina Nguyen. *Also won the **Butterworth Product Development Competition 2022 1st Place** the year before the NVC win (3-member subset: Nina Nguyen, Dylan Riffle, Dan Ta; added 2026-05-12 per UCI Beall and Butterworth 2022 winners page). OPERATING; leprendo.com live with active product catalog; reported $400K first-year sales.*
 - **Lynne** ([2024](years/2024.md): CP 2nd). Not Listed.
@@ -128,7 +130,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Nobles Medical Technology** ([2013](README.md#pre-2017-editions-20092016)): Undergraduate Division winner ($2,500); artificial heart system for surgical practice. Shoumyo Dewan, Joseph Gomez (BME), Jin Kim, Kenny La, Stephen Lee, Timothy Macagba (BME), Suraj Sampath, Sohan Weeraratne (BME) (coach Demetri Andrikos). *No public outcome found (researched 2026-05-12). Disambiguation: NOT Prof. Anthony Nobles' commercial Nobles Medical Technologies II, Inc.*
 - **NoreGen** ([2013](README.md#pre-2017-editions-20092016)): Campus Wide 3rd ($3,500) + $30,000 UCI School of Medicine Life Sciences Award; cancer (CTC) detection device. Neychelle Fernandes (FTMBA), Ashley Fong (IGERT LifeChips), Laura Innes (IGERT LifeChips), Robert Joachim (UCI Physics), Jonathan Lin (MD FTMBA), Matthew Schiel (BME), Zuzanna Siwy (Prof, team lead) (coach Alvin Viray). *No public outcome found (researched 2026-05-12); CTC research continued in Prof. Siwy's lab through 2014.*
 - **NeoMold** ([2024](years/2024.md): RU, LS 2nd). Christine Ly, Christine Nguyen, Frida Sandoval, Kathy Duong. *Operating; very early stage; pre-incorporation/design-review.*
-- **NeuroBoost** ([2026](years/2026.md): semi-finalist). Not Listed.
+- **NeuroStrat** ([2026](years/2026.md): RU + LS 2nd; $10,000 combined). Casey Vanderlip (co-creator; MD/PhD candidate in Neuroscience, UCI Stark Lab / UCI MIND). *Mobile memory game screening for early Alzheimer's in ~10 min. Only Vanderlip is publicly named; broader team not disclosed. NOT the unrelated 'NeuroStrat BI' (Montreal). Too recent for outcome research.*
 - **No Decaf Allowed** ([2020](years/2020.md): CS 1st). Jim Robertson. *Acquired by **Moongoat Coffee Roasters** in December 2022 (asset / subscriber transfer; terms undisclosed). Third documented exit in the archive.*
 - **Noveil** ([2022](years/2022.md): GP, CS 1st). Michael Allotey, Kendrick Barefield (co-founder per Arch Grants company directory). *Operating but quiet; named to the Arch Grants 2022 cohort; Tracxn shows still active in early 2026 with low engagement.*
 - **NūCo** ([2025](years/2025.md): CP 2nd). Not Listed.
@@ -143,7 +145,9 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 ## P
 
 - **P-FLAPs** ([2019](years/2019.md): TS 2nd). R Sayadi, A Majumder.
+- **PAQQ** ([2026](years/2026.md): CP 2nd, $5,000). Elaine Gracia, Labitta Vindi, Ellis Park, Jake Monarch (per PAQQ LinkedIn company page; roles/affiliations unconfirmed). *Smart bag + app ecosystem using RFID tracking and AI packing recommendations. Also styled 'PAQQ LLC'. Too recent for outcome research.*
 - **PCOSitive Buddy** ([2025](years/2025.md): MIE Award + CS 1st; $12,500 combined). Ricianne "Chi" Rey (MIE; co-founder & Marketing Lead), Rafelia Angel, Varshini Vijay (tech; UCI Zotbotics), Benson Manzano (tech; UCI FUSION). *OPERATING (likely); founder Chi Rey hired as UCI ANTrepreneur Center Program Lead in October 2025 and continues to be described as a PCOS-platform co-founder. Team roster expanded 2026-05-12; a fifth "Kimberly" teammate referenced in coverage without a confirmed last name.*
+- **Pipeline** ([2026](years/2026.md): GP + CS 1st; $30,000 combined). Tyler Maher (CEO; Business Administration), Cem Yilidiz (CTO; Informatics), Jacob Douglas Speciale (Political Science). *2026 Grand Prize winner: AI transfer-planning platform generating personalized term-by-term roadmaps for community college students. Roster per New University (2026-05-19); CTO surname likely 'Yildiz'. Too recent for outcome research.*
 - **Poo Pal** ([2019](years/2019.md): CP 1st). Not Listed. *Dormant (likely); Amazon / Etsy listings remain but no recent company-side activity.*
 - **Prescient Imaging** ([2012](README.md#pre-2017-editions-20092016): GP). Farhad Daghighian (CEO), Ariel Beroukhim. *Operating; received 510(k) FDA clearance in March 2021 for the BBX-PET portable PET scanner; over $8M raised.*
 - **Prophet Predictive Modeling** ([2020](years/2020.md): CS 2nd, $5,000). Not Listed. *Renamed 2026-05-12 from 'Prophet Modeling' per Merage 2020 press release; AI-based money management for accredited investors. No public outcome found.*
@@ -157,6 +161,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 ## R
 
 - **REMSYS** ([2021](years/2021.md): CS 1st, tied). Victoria Sahrai. *Operating (BETA); remsys.app in active development as REMSYS LLC; AI resume / cover letter / mock interview features.*
+- **RestWing** ([2026](years/2026.md): Fan Favorite + CP 1st; $11,000 combined). Not Listed. *Patent-protected ergonomic headrest attachment that reduces neck strain (restwing.com). Likely founder Sahil Kulkarni (UCI; Zotbotics) per LinkedIn snippets, not directly verifiable. Too recent for outcome research.*
 
 ## S
 
@@ -167,6 +172,7 @@ Last updated: 2026-05-12 (38th pass). Total teams indexed: 117.
 - **Shaka** ([2021](years/2021.md): GP, BP 1st). Melanie Wertzberger, Austin Chauncey, Preston Le, Agustine Pimentel. *Operating as Shaka Culture Inc. (Kansas City, MO); raised ~$120K; Microsoft Teams certified.*
 - **Sher Biomedical** ([2016](README.md#pre-2017-editions-20092016): School of Medicine Award, $10,000). Rachel Gurlin, Avid Najdahmadi, Bhupinder Shergill, Jonathan Lakey, Elliot Botnivick. *No public outcome found (researched 2026-05-12); project description not preserved in indexed coverage.*
 - **Shower Power** ([2023](years/2023.md): SE 1st). Not Listed. *No public outcome found.*
+- **Simly** ([2026](years/2026.md): BP 1st, $10,000). Not Listed. *AI-native simulated EHR for affordable, high-fidelity medical training; piloting at the UCI School of Medicine. Styled 'SimlyAI'; product branded 'Simly EHR'. Not 'SimCare AI' / 'Simbie AI'. Too recent for outcome research.*
 - **SnapHealth** ([2022](years/2022.md): CS 2nd). Ashraf Hammouri. *Pivoted (likely); mysnaphealth.com active with a new "health coverage" platform (different from the 2022 NVC concept of patient health-record control). 2022 founder Ashraf Hammouri not named on the current site.*
 - **SolarLab** ([2018](years/2018.md): BP 2nd). Hao Peng, Yanchen Wu, Jiale Chen, Edward Li.
 - **Steth 'n Go** ([2019](years/2019.md): CP 2nd). Omar Darwish (CEO; Associate Professor & Hospitalist at UC Irvine Health). *OPERATING; magnetic stethoscope holder still selling at stethngo.com with bulk pricing for healthcare facilities.*

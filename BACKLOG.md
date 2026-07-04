@@ -4,19 +4,18 @@
 
 This is a concrete list of gaps in the archive. If you want to contribute, this is the menu. See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the submission process.
 
-Last reviewed: 2026-05-12 (38th pass).
+Last reviewed: 2026-07-04 (2026 Grand Finale results added).
 
 ## Priority 1: Time-sensitive gaps
 
-### 2026 Grand Finale results
+### 2026 Grand Finale results - RESOLVED 2026-07-04
 
-The 2026 Grand Finale is scheduled for May 21, 2026 (9 days from this review). After it concludes, the archive needs:
+The 2026 Grand Finale was held May 21, 2026. Full results are now recorded in [`years/2026.md`](years/2026.md) and [`data/nvc.json`](data/nvc.json): Grand Prize (Pipeline, $20,000), Runner-Up (NeuroStrat), three specialty awards (Beall Applied Innovation Award to LAMON, MIE Award to Ascend First, Fan Favorite to RestWing), and 1st/2nd in all five tracks. Disclosed cash total $113,500; the five-judge panel is recorded in [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md#2026-22nd-annual).
 
-- Grand Prize, Runner-Up, Audience Favorite, MIE Award, and any other specialty awards
-- Track 1st / 2nd winners for all 5 standard tracks (Business Products & Services, Consumer Products, Consumer Services, Life Sciences, Social Enterprise)
-- Prize amounts, project descriptions, team rosters
+**Still open for 2026:**
 
-Likely sources: `merage.uci.edu/news/`, `beallinnovation.uci.edu`, OC Register, Business Wire press releases (typically published 1 to 3 days after the finale).
+- **Team rosters** for Ascend First, Simly, Abner Computing, and BrickCycle are unpublished (Not Listed). RestWing's likely founder (Sahil Kulkarni) and PAQQ's four LinkedIn-listed names are unverified. The canonical source is the password-protected 2026 Beall Center NVC report PDF.
+- **Post-competition outcomes** for all ten finalists: too recent (finale was ~6 weeks ago); to be researched in a later pass.
 
 ### Password-protected NVC annual reports (2021 onward)
 
@@ -137,7 +136,7 @@ Four outcomes-research passes (2026-05-09, 2026-05-10, 26th pass on 2026-05-12, 
 - ValveStrong (2013 Campus Wide 2nd): never formally incorporated, but founder Alavi moved to senior medtech industry roles (Hancock Jaffe CTO/SVP, etc.); categorized DORMANT
 - FunBand (2016 Consumer Products 1st), Bottle Rocket (2016 Undergrad Plan): both had credible 2017-2018 incubator / investor activity (FunBand Wayfinder + OCBJ Innovator nomination; Bottle Rocket $260K from MuckerLab + Dorm Room Fund) then no further public footprint; both categorized DORMANT
 
-**Remaining 3 unresearched teams**: all 2026 semi-finalists (AegleBio, Billify, NeuroBoost) - will be researched after the May 21, 2026 Grand Finale.
+**Remaining unresearched teams**: none among the historical (2009-2025) cohort. The three teams previously listed here (AegleBio, Billify, NeuroBoost) were "2026 semi-finalist" phantoms that could not be verified against any primary source and have been dropped (they never appeared on the official 2026 finalist page). The ten actual 2026 finalists now have full results but their post-competition outcomes are too recent to research (finale was May 21, 2026).
 
 Pattern from four outcomes-research passes: most consumer / social-enterprise teams from 2013-2022 simply produced no public footprint after the competition. The 69 NO_PUBLIC_OUTCOME_FOUND entries in data/outcomes.json document this exhaustively. Further research passes on the 114 currently-attempted teams are unlikely to surface new findings unless access to the password-protected NVC PDF reports becomes available (Priority 1).
 
@@ -173,7 +172,7 @@ Institutional context now captured in [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JU
 - Full 2025 grand-finale judging panel (likely in the password-protected 2025 NVC report PDF)
 - Full 2018, 2019, 2020 panels (only partial fragments preserved in indexed sources)
 - Per-track judging assignments (not published)
-- 2026 judging panel (will be in the May 21, 2026 press release)
+- ~~2026 judging panel~~ - resolved 2026-07-04: five judges (Isabelle Bart, Scott Joslyn, Jasmine J., Matt Sand, Charla Triplett) per the OC Startup Council recap; see SPONSORS-AND-JUDGES.md. "Jasmine J." full last name still unpublished.
 - 2017 and earlier judging panels (likely lost to time)
 - Track sponsorship is **confirmed to not exist per-track** in the current structure; sponsors fund the program collectively, so this item is closed as "no per-track sponsor exists" rather than "unknown."
 

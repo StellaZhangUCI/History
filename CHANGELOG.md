@@ -4,20 +4,51 @@
 
 This file captures substantive changes to the archive. For per-commit detail, run `git log`.
 
-## Coverage at a glance (current, 2026-05-12)
+## Coverage at a glance (current, 2026-07-04)
 
 | Aspect                          | Status                                                                                          |
 |---------------------------------|-------------------------------------------------------------------------------------------------|
 | Years covered                   | 2009 to 2026 (2010, 2011, 2015 confirmed structural gaps in indexed sources)                    |
-| Total teams indexed             | 117 (113 across 2009-2025 + 4 named 2026 semi-finalists)                                        |
+| Total teams indexed             | `data/teams.json` lists 130 rows (2009-2026, incl. the 10 verified 2026 finalists + honorable mentions). The legacy "117" headline count is stale; a full reconciliation is pending |
 | Outcomes researched             | 114 teams                                                                                       |
 | Outcome distribution            | 67 NO_PUBLIC_OUTCOME_FOUND / 32 OPERATING / 7 DORMANT / 5 PIVOTED / 2 ACQUIRED / 1 SHUT DOWN    |
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
-| Disclosed cash 2017 to 2025     | ~$772,500 (corrected 2026-05-12 from $777,500 after MoodCloud/REMSYS tie-prize correction; prior 5th-pass adjustment took it from $760K to $777.5K)        |
+| Disclosed cash 2017 to 2026     | ~$934,500 ($821,000 for 2017-2025 per `data/nvc.json` primary-source corrections + $113,500 for 2026). The README analytics table was reconciled to these canonical figures on 2026-07-04 |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
 | Verification audit              | 38 passes against cited sources completed; 16 factual errors corrected + 6 stale derived figures caught and fixed; latest pass added full giv 2019 roster (Lucas Erb, Haven King, Ryan Luu, Nisarg Shah), expanded UniSafe 2019 to 3 named members (Upasana Mustafi + Praveen Ravisankar added), and DISCONFIRMED the prior "possible giv → Givsum" BACKLOG lead per UCI Beall and Butterworth 2019 winners page |
+
+## 2026-07-04
+
+### Added: 2026 Grand Finale results (competition completed; year flipped from "upcoming" to "completed")
+
+The 2026 Stella Zhang New Venture Competition Grand Finale was held **May 21, 2026**. This pass records the full results, verified against multiple independent primary/secondary sources (Merage NVC page, OC Startup Council "2026 Champions" recap dated 2026-06-12, New University 2026-05-19, UCI News 2026-05-05, and UCI MIND). Every award assignment was adversarially cross-checked; all five overall/specialty awards were independently confirmed.
+
+**Results (disclosed cash total $113,500):**
+
+- **Grand Prize ($20,000): Pipeline** - AI transfer-planning platform for community college students (Tyler Maher, Cem Yilidiz, Jacob Douglas Speciale). Combined $30,000 with its Consumer Services 1st.
+- **Runner-Up ($5,000): NeuroStrat** - mobile Alzheimer's-screening memory game (Casey Vanderlip, UCI Stark Lab / UCI MIND). Also Life Sciences 2nd.
+- **Specialty - Beall Applied Innovation Award ($10,000): LAMON** - AI dementia detection via speech biomarkers (Dr. Pooyan Mobtahej, Jacob Thomas, Sarvenaz Ghaedi, Dr. Ahmad Sajjadi; UCI Neurology / UCI MIND). Also Life Sciences 1st. **New award type; the largest specialty award in the archive.**
+- **Specialty - MIE Award ($2,500): Ascend First** - AI transfer-success platform. Also Social Enterprise 2nd.
+- **Specialty - Fan Favorite ($1,000): RestWing** - ergonomic headrest attachment. Also Consumer Products 1st.
+- **Track 1st/2nd:** BP&S - Simly / Abner Computing; CP - RestWing / PAQQ; CS - Pipeline / CuraVoice; LS - LAMON / NeuroStrat; SE - BrickCycle / Ascend First.
+- **Theme (inferred):** Artificial Intelligence in Healthcare and Education Access. AI-native ventures took at least 6 of 10 finalist slots; the LAMON + NeuroStrat Alzheimer's pair swept Life Sciences.
+- **Judges (5):** Isabelle Bart, Scott Joslyn, Jasmine J., Matt Sand, Charla Triplett.
+
+**Data hygiene / reconciliations made in the same pass:**
+
+- **TEAMS.md was missing 7 of the 10 finalists** (CuraVoice, LAMON, NeuroStrat, PAQQ, Pipeline, RestWing, Simly) - added alphabetically with awards, descriptions, and rosters where public.
+- **Removed the phantom "NeuroBoost" 2026 semi-finalist** bullet from TEAMS.md and closed the stale "3 unresearched 2026 semi-finalists (AegleBio, Billify, NeuroBoost)" backlog item - those three were never on the official finalist page and were already disavowed in `data/nvc.json`.
+- **README "Disclosed cash prizes by year" table reconciled** to the canonical `data/nvc.json` figures (which incorporate primary-source PDF corrections): 2021 $41K→$61K, 2020 $101K→$91K, 2018 $92.5K→$100K, 2017 $64.5K→$85.5K; total 2017-2026 now **$934,500**.
+- **Corrected the 2026 venue/time** from the erroneous "5:00-9:00 PM / 4291 Pereira Drive, Suite 2300, 92627" to the official "5:30-8:00 PM / SB1 Auditorium, 4293 Pereira Drive (Building 222)" per UCI News (ZIP 92627 is Costa Mesa; the UCI campus is 92697).
+- **Note on a bad figure:** an automated summarizer rendered the OC Startup Council recap as a "$93,500" total; that number is not in the article and does not match the line-item sum ($113,500). It is NOT used.
+
+**Outcomes:** all ten 2026 finalists are too recent to research (finale ~6 weeks ago); they are recorded with award results but left `outcome: null` (excluded from the outcome-distribution counts, which stay at 114 researched historical teams).
+
+**Files touched:** `years/2026.md` (full rewrite: upcoming → results), `data/nvc.json` (2026 entry → completed, 15 awards, structure, judges, corrected venue; cross-year totals + 2026 disclosed cash $113,500; `last_updated`), `data/teams.json` (10 finalists' `top_award` upgraded; `last_updated`/`stats_note`), `README.md` (2026 index entry, theme table, disclosed-cash table reconciliation, outcome-distribution note, About section), `TEAMS.md` (7 finalists added, 3 updated, NeuroBoost removed, header), `SPONSORS-AND-JUDGES.md` (2026 panel + gap closed), `OUTCOMES.md` (2026 section + intro), `BACKLOG.md` (2026 items resolved), `CHANGELOG.md` (this entry + coverage table).
+
+Cross-checks: `data/nvc.json` 2026 awards sum = $113,500 = recorded disclosed total; all three JSONs remain ajv-valid against their schemas.
 
 ## 2026-05-12
 

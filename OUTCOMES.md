@@ -2,7 +2,7 @@
 
 [← Back to main archive](README.md)
 
-Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-05-12 - 114 of 117 teams researched.
+Post-competition outcomes for past UCI New Venture Competition finalists. Research focused on Grand Prize winners, Runner-Ups, and a handful of notable specialty / Life Sciences winners; track-only winners are not exhaustively covered. Last updated 2026-07-04 - 114 historical teams (2009-2025) researched; the ten 2026 finalists are recorded but too recent to research (see the [2026 section](#2026)).
 
 ## Outcome categories
 
@@ -367,6 +367,23 @@ Sources: [Merage announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-
 **Oslo / Birdhouse by Oslo** (Audience Favorite + Life Sciences 2nd): OPERATING. *Confidence: likely, finalist stage.*
 Passive thermal-imaging vitals monitor for seniors; confirmed as a 2025 Stella Zhang finalist per Merage. Also placed in the 2025 Beall/Butterworth competitions per bbcomp.tech.uci.edu. No independent funding or launch news.
 Sources: [Merage 2025 Stella Zhang NVC announcement](https://merage.uci.edu/news/2025/06/Grad2Go-Wins-2025-Stella-Zhang-New-Venture-Competition.html), [Beall / Butterworth 2025 results](https://bbcomp.tech.uci.edu/)
+
+## 2026
+
+The 2026 Grand Finale was held May 21, 2026. All ten finalists are **too recent for outcome research** and are **not yet assigned outcome categories** (they are excluded from the archive's outcome-distribution counts). Full award results are in [`years/2026.md`](years/2026.md). Early public footprints, to be revisited in a later pass:
+
+- **Pipeline** (Grand Prize + Consumer Services 1st, $30,000 combined): brand new; AI community-college transfer-planning platform. Product at pipelineplanning.com. Team: Tyler Maher (CEO), Cem Yilidiz (CTO), Jacob Douglas Speciale.
+- **NeuroStrat** (Runner-Up + Life Sciences 2nd, $10,000 combined): research-backed; based on Casey Vanderlip's UCI/Stark Lab work combining ~10-minute digital memory assessments with blood biomarkers to predict cognitive decline.
+- **LAMON** (Beall Applied Innovation Award + Life Sciences 1st, $20,000 combined): research-backed; AI early-dementia detection via speech biomarkers and transformer models from Dr. Sajjadi's UCI Neurology lab (UCI MIND). Underlying work: Mobtahej et al., *Alzheimer's & Dementia* (2025).
+- **RestWing** (Fan Favorite + Consumer Products 1st, $11,000 combined): brand new; ergonomic headrest attachment, restwing.com live. Likely founder Sahil Kulkarni (unconfirmed).
+- **PAQQ** (Consumer Products 2nd): brand new; smart-bag + app ecosystem, paqqsmart.com live.
+- **CuraVoice** (Consumer Services 2nd): brand new; AI voice-simulation for healthcare communication training, curavoice.com live; profiled in a March 2025 UCI ANTrepreneur AI Innovation Challenge spotlight.
+- **Simly** (Business Products & Services 1st): brand new; AI-native simulated EHR piloting at the UCI School of Medicine (gated app).
+- **Ascend First** (MIE Award + Social Enterprise 2nd, $7,500 combined): brand new; AI transfer-success platform. Roster not published.
+- **Abner Computing** (Business Products & Services 2nd): brand new; multi-provider AI inference platform. Roster not published.
+- **BrickCycle** (Social Enterprise 1st): brand new; recycled-waste construction bricks. Roster not published. Disambiguation: NOT "BrickCycle Habitats" (Vancouver, BC).
+
+Sources: [Merage NVC page](https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html), [OC Startup Council 2026 Champions (Jun 2026)](https://ocstartupcouncil.org/oc-startups-news/2026/6/12/meet-the-stella-zhang-competition-champions), [New University (May 2026)](https://newuniversity.org/2026/05/19/ucis-shark-tank-the-stella-zhang-new-venture-competition/), [UCI MIND](https://mind.uci.edu/uci-mind-trainees-win-two-awards-at-the-stella-zhang-new-venture-competition/).
 
 ## How to contribute
 

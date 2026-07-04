@@ -39,7 +39,7 @@ This document records each year's award categories, finalist teams, prize amount
 - **Host:** UCI Paul Merage School of Business, Beall Center for Innovation & Entrepreneurship
 - **Eligibility:** UCI students, alumni, faculty, and partner-school teams
 - **Format:** Multi-round (Concept, Quarter, Semi-final / Board Room Pitch, Grand Finale) with track awards across Business Products & Services, Consumer Products, Consumer Services, Life Sciences, and Social Enterprise (categories vary slightly by year), plus overall Grand Prize, Runner-Up, and specialty awards (MIE, Audience Favorite)
-- **Prizes:** Cash plus in-kind professional services (legal, accounting, mentorship, prototyping access). The 2026 cash pool exceeds $100,000.
+- **Prizes:** Cash plus in-kind professional services (legal, accounting, mentorship, prototyping access). The 2026 edition awarded $113,500 in disclosed cash (announced as "over $100,000") plus AWS website-build credits for all semi-finalists.
 - **First held:** 2009 (22nd annual edition in 2026). This archive's main per-year tables start at 2017; pre-2017 winners are summarized in the [Pre-2017 Editions](#pre-2017-editions-20092016) section.
 
 ## How to Read This Archive
@@ -57,16 +57,17 @@ All numbers below are computed directly from the tables in this archive and cove
 
 | Year      | Disclosed Total | Notes                                                       |
 |-----------|-----------------|-------------------------------------------------------------|
+| 2026      | ~$113,500       | 22nd edition. Announced "over $100,000"; the sum of all award line-items is $113,500, including the new $10,000 Beall Applied Innovation Award. Excludes in-kind AWS credits |
 | 2025      | ~$103,500       | Announced pool of "$150,000+" includes in-kind services     |
 | 2024      | ~$100,000       |                                                             |
 | 2023      | ~$100,000       |                                                             |
 | 2022      | ~$100,000       |                                                             |
-| 2021      | ~$41,000        | Corrected 2026-05-12 from $46K: MoodCloud and REMSYS tied for CS 1st and **split a single $5,000 prize** ($2,500 each), not $5,000 each. Shaka $17,500 (GP + BP 1st combined) confirmed 2026-05-11; several track-award amounts still undisclosed |
-| 2020      | ~$101,000       | Highest Grand Prize on record at $25,000                    |
+| 2021      | ~$61,000        | Updated 2026-05-13 to $61,000 per the official NVC-2021 Report ("$61,000 in cash awarded"); several track amounts were undisclosed in press materials |
+| 2020      | ~$91,000        | Updated 2026-05-13 to $91,000 per the official NVC-2019-2020 Report. Baby Box's widely quoted $25,000 was a combined Grand Prize + Consumer Products 1st |
 | 2019      | ~$70,000        | Several rows undisclosed (Tech Surge 1st, CS 2nd tie, CP 2nd) |
-| 2018      | ~$92,500        | No overall Grand Prize / Runner-Up awarded that year        |
-| 2017      | ~$64,500        | Smaller per-track prizes ($4,000 / $1,500) before 2018 reset |
-| **Total** | **~$772,500**   | Corrected 2026-05-12 from $777,500 after the MoodCloud/REMSYS tie-prize correction. Excludes still-undisclosed amounts and the value of in-kind services |
+| 2018      | ~$100,000       | Updated 2026-05-12: added Tech Surge 3rd/4th line items; no overall Grand Prize / Runner-Up awarded that year |
+| 2017      | ~$85,500        | Updated 2026-05-12: added Tech Surge honorable mentions, Outstanding Undergrad, and the co-located Blum Center runners-up; small per-track prizes ($4,000 / $1,500) before the 2018 reset |
+| **Total** | **~$934,500**   | 2017–2026. Per-year figures reconciled 2026-07-04 with the canonical [`data/nvc.json`](data/nvc.json), which incorporates primary-source PDF corrections. Excludes still-undisclosed amounts and the value of in-kind services |
 
 ### Theme evolution
 
@@ -81,6 +82,7 @@ All numbers below are computed directly from the tables in this archive and cove
 | 2023 | Hardware Innovation and Marketplace Platforms              |
 | 2024 | Artificial Intelligence (AI) and Industrial Safety         |
 | 2025 | Sustainability, Student Life Solutions, and Medical Tech   |
+| 2026 | Artificial Intelligence in Healthcare and Education Access  |
 
 Themes are inferred from the dominant project areas of each year's finalists and aren't always official UCI labels. Three currents recur across nearly every year: **medical / life sciences**, **sustainability**, and **consumer-facing platforms**. They appear under different banners but rarely disappear entirely.
 
@@ -116,7 +118,7 @@ Of the **114 teams researched** as of 2026-05-12 (out of 117 total in the archiv
 | ACQUIRED                  | 2     | 1.8%            |
 | SHUT DOWN                 | 1     | 0.9%            |
 
-The dominant outcome category is "no findable public outcome" (61%): consumer apps and social-enterprise winners from 2013 to 2022 disproportionately produce no traceable post-competition footprint. Of the 45 teams with findable outcomes, 31 are still operating in some form, with the highest survival rate in medical / life-sciences tracks where long FDA timelines and grant pipelines keep even pre-revenue companies alive. The 5 PIVOTED entries reflect teams whose original concept was wound down or repurposed: Wing → Wing Assistant (managed-VA service) is the cleanest going concern; COMPAS, Carbo, iBesties, and SnapHealth represent technology / academic / brand pivots of varying outcome quality. 2026 finalists (Abner Computing, Simly, PAQQ, RestWing, CuraVoice, Pipeline, LAMON, NeuroStrat, Ascend First, BrickCycle) will be researched after the May 21, 2026 Grand Finale.
+The dominant outcome category is "no findable public outcome" (61%): consumer apps and social-enterprise winners from 2013 to 2022 disproportionately produce no traceable post-competition footprint. Of the 45 teams with findable outcomes, 31 are still operating in some form, with the highest survival rate in medical / life-sciences tracks where long FDA timelines and grant pipelines keep even pre-revenue companies alive. The 5 PIVOTED entries reflect teams whose original concept was wound down or repurposed: Wing → Wing Assistant (managed-VA service) is the cleanest going concern; COMPAS, Carbo, iBesties, and SnapHealth represent technology / academic / brand pivots of varying outcome quality. The ten 2026 finalists (Pipeline, NeuroStrat, LAMON, Ascend First, RestWing, Simly, Abner Computing, PAQQ, CuraVoice, BrickCycle) now have full award results recorded in [`years/2026.md`](years/2026.md), but their post-competition outcomes are too recent to research (the Grand Finale was May 21, 2026) and are excluded from the distribution above.
 
 ### How prizes have shifted over time
 
@@ -130,11 +132,13 @@ The dominant outcome category is "no findable public outcome" (61%): consumer ap
 
 Each year links to its dedicated page with the full awards table and notes. Cross-cutting insights (totals, repeat founders, theme evolution) live in [Cross-Year Analytics](#cross-year-analytics) above.
 
-### [2026 Competition (Upcoming) →](years/2026.md)
+### [2026 Competition →](years/2026.md)
 
-**Status:** Grand Finale scheduled for May 21, 2026 (22nd edition); Board Room round held May 8, 2026.
-**Confirmed finalists (10 teams per Merage NVC page):** Abner Computing, Simly (Business Products & Services); PAQQ, RestWing (Consumer Products); CuraVoice, Pipeline (Consumer Services); LAMON, NeuroStrat (Life Sciences); Ascend First, BrickCycle (Social Enterprise).
-**Confirmed structure:** $20,000 Grand Prize, $5,000 Runner-Up, 5 standard tracks, $100,000+ cash pool plus AWS credits.
+**Theme:** Artificial Intelligence in Healthcare and Education Access
+**Edition:** 22nd annual (Grand Finale May 21, 2026)
+**Grand Prize:** **Pipeline** ($20,000), AI transfer-planning platform generating personalized term-by-term roadmaps for community college students.
+**Runner-Up:** **NeuroStrat** ($5,000), mobile memory game that screens for early Alzheimer's in ~10 minutes.
+**Notable:** A new **Beall Applied Innovation Award** ($10,000, the archive's largest specialty award) went to **LAMON** (AI dementia detection via speech biomarkers). AI-native ventures took at least 6 of the 10 finalist slots; the Alzheimer's/dementia pair LAMON + NeuroStrat swept Life Sciences 1st/2nd. Disclosed cash total: $113,500.
 
 ### [2025 Competition →](years/2025.md)
 

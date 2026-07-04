@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-11",
+  "last_updated": "2026-07-04",
   "competition": {
     "name": "Stella Zhang New Venture Competition",
     "former_names": ["Merage Business Plan Competition", "UCI New Venture Competition"],
@@ -71,31 +71,212 @@
   "years": [
     {
       "year": 2026,
-      "status": "upcoming",
-      "edition": "22nd annual",
+      "status": "completed",
+      "theme": "Artificial Intelligence in Healthcare and Education Access",
+      "theme_note": "Inferred from dominant finalist areas, not an official UCI label. At least 6 of 10 finalists were AI-native; the two dominant clusters were cognitive-health/Alzheimer's detection (LAMON, NeuroStrat) and community-college education access (Pipeline, Ascend First).",
+      "edition_number": "22nd annual",
       "grand_finale": {
         "date": "2026-05-21",
-        "time": "5:00-9:00 PM PT",
-        "venue": "SB1 Merage Auditorium, 4291 Pereira Drive, Suite 2300, Irvine, CA 92627"
+        "time": "5:30-8:00 PM PT",
+        "venue": "SB1 Auditorium, UCI Paul Merage School of Business, 4293 Pereira Drive, Irvine, CA (Building 222)",
+        "venue_note": "Corrected 2026-07-04 per news.uci.edu (2026-05-05). The prior archive value '5:00-9:00 PM PT / 4291 Pereira Drive, Suite 2300, Irvine, CA 92627' was erroneous: the official time is 5:30-8:00 PM, the street number is 4293, and ZIP 92627 is Costa Mesa (UCI campus is 92697)."
       },
       "tracks": ["Business Products & Services", "Consumer Products", "Consumer Services", "Life Sciences", "Social Enterprise"],
-      "prize_pool_announced": "Over $100,000 plus AWS credits for all semi-finalists",
+      "prize_pool_announced": "Over $100,000 (Cash) plus AWS credits for all semi-finalists",
+      "prize_pool_note": "UCI framed the pool as 'over $100,000'; the sum of all disclosed cash award line-items is $113,500. AWS website-build credits are in-kind for every semi-finalist and are not counted in the cash total.",
+      "disclosed_cash_total_usd": 113500,
       "structure": {
         "grand_prize_usd": 20000,
         "runner_up_usd": 5000,
         "track_first_usd": 10000,
-        "track_second_usd": 5000
+        "track_second_usd": 5000,
+        "specialty_awards": {
+          "Beall Applied Innovation Award": 10000,
+          "MIE Award": 2500,
+          "Fan Favorite": 1000
+        }
       },
+      "judges": [
+        "Isabelle Bart (Founder, Impact Innovator; recurring NVC judge, also 2022 and 2023)",
+        "Scott Joslyn (UCI Health Ventures)",
+        "Jasmine J. (last name not published)",
+        "Matt Sand (co-founder & President, 3DEO)",
+        "Charla Triplett (Founder, Catalyze; University Lab Partners)"
+      ],
+      "judges_source": "https://ocstartupcouncil.org/oc-startups-news/2026/6/12/meet-the-stella-zhang-competition-champions",
       "finalists": {
-        "Business Products & Services": ["Abner Computing", "Simly"],
-        "Consumer Products": ["PAQQ", "RestWing"],
-        "Consumer Services": ["CuraVoice", "Pipeline"],
+        "Business Products & Services": ["Simly", "Abner Computing"],
+        "Consumer Products": ["RestWing", "PAQQ"],
+        "Consumer Services": ["Pipeline", "CuraVoice"],
         "Life Sciences": ["LAMON", "NeuroStrat"],
-        "Social Enterprise": ["Ascend First", "BrickCycle"]
+        "Social Enterprise": ["BrickCycle", "Ascend First"]
       },
-      "finalists_note": "10 finalists per Merage NVC page as of 2026-05-12: two per track. An earlier archive pass recorded 'AegleBio, Billify, NeuroBoost, Grad2Go' as named semi-finalists; those teams do not appear on the current finalist page and could not be re-verified against a primary source on 2026-05-12.",
-      "finalists_source": "https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html",
-      "awards": []
+      "finalists_note": "10 finalists, two per track. An earlier archive pass recorded 'AegleBio, Billify, NeuroBoost, Grad2Go' as named semi-finalists; those teams did not appear on the finalist page and could not be verified against a primary source (removed 2026-05-12).",
+      "results_sources": [
+        "https://merage.uci.edu/research-faculty/centers/innovation-entrepreneurship/new-venture-competiton.html",
+        "https://ocstartupcouncil.org/oc-startups-news/2026/6/12/meet-the-stella-zhang-competition-champions",
+        "https://newuniversity.org/2026/05/19/ucis-shark-tank-the-stella-zhang-new-venture-competition/",
+        "https://news.uci.edu/2026/05/05/paul-merage-school-of-business-to-host-grand-finale-of-stella-zhang-new-venture-competition/",
+        "https://mind.uci.edu/uci-mind-trainees-win-two-awards-at-the-stella-zhang-new-venture-competition/"
+      ],
+      "awards": [
+        {
+          "category": "Grand Prize",
+          "place": "Winner",
+          "team": "Pipeline",
+          "prize_text": "$20,000",
+          "prize_amount_usd": 20000,
+          "project": "AI-powered transfer-planning platform that generates personalized, term-by-term roadmaps for community college students based on university requirements, simplifying the transfer process at low cost.",
+          "members": ["Tyler Maher (CEO; 4th-year Business Administration)", "Cem Yilidiz (CTO; 3rd-year Informatics)", "Jacob Douglas Speciale (2nd-year Political Science)"],
+          "members_note": "Roster per New University (2026-05-19); the official Merage and OC Startup Council pages list venture names only. The New University source spells the CTO's surname 'Yilidiz' (likely 'Yildiz'). Pipeline's combined take was $30,000 (Grand Prize + Consumer Services 1st)."
+        },
+        {
+          "category": "Runner-Up",
+          "place": "Winner",
+          "team": "NeuroStrat",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Mobile memory game that screens for early signs of Alzheimer's disease in as little as 10 minutes by testing recall of picture details (targeting hippocampal function).",
+          "members": ["Casey Vanderlip (co-creator; MD/PhD candidate in Neuroscience, UCI Stark Lab / UCI MIND)"],
+          "members_note": "Casey Vanderlip is the only publicly named team member; New University references a broader unnamed team. Not to be confused with the unrelated 'NeuroStrat BI' (Montreal business-intelligence consultancy)."
+        },
+        {
+          "category": "Specialty (Beall Applied Innovation Award)",
+          "place": "Winner",
+          "team": "LAMON",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI platform for early detection of dementia / neurodegenerative disease using speech-based digital biomarkers and transformer models; originated in Dr. Sajjadi's UCI Neurology lab.",
+          "members": ["Dr. Pooyan Mobtahej (postdoctoral fellow, UCI Neurology)", "Jacob Thomas (Sajjadi Lab, UCI Neurology)", "Sarvenaz Ghaedi (Sajjadi Lab, UCI Neurology)", "Dr. Ahmad Sajjadi (lab director, UCI Neurology; UCI MIND)"],
+          "members_note": "Full 4-person roster per UCI MIND official coverage of the team's two awards. The Beall Applied Innovation Award ($10,000) is the largest specialty award in the archive and appears for the first time in 2026."
+        },
+        {
+          "category": "Specialty (MIE Award)",
+          "place": "Winner",
+          "team": "Ascend First",
+          "prize_text": "$2,500",
+          "prize_amount_usd": 2500,
+          "project": "AI-powered transfer-success platform providing personalized transfer plans, mentorship, academic roadmaps, and ROI insights for community college students.",
+          "members": [],
+          "members_note": "No public source names Ascend First's team. The MIE (Master of Innovation & Entrepreneurship) Award implies at least one member is in that UCI program, but no name is confirmed. Distinct from the other 2026 transfer-platform team, Pipeline."
+        },
+        {
+          "category": "Specialty (Fan Favorite)",
+          "place": "Winner",
+          "team": "RestWing",
+          "prize_text": "$1,000",
+          "prize_amount_usd": 1000,
+          "project": "Patent-protected ergonomic headrest attachment that clips onto existing headrests and provides adjustable side support to reduce neck strain on long rides.",
+          "members": [],
+          "members_note": "No official roster published. Likely founder Sahil Kulkarni (UCI; Zotbotics Robotics Club) per LinkedIn search snippets; not directly verifiable (LinkedIn returned HTTP 999) and therefore not asserted as confirmed."
+        },
+        {
+          "category": "Track Award (Business Products & Services)",
+          "place": "1st",
+          "team": "Simly",
+          "team_aliases": ["SimlyAI", "Simly EHR"],
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI-native simulated electronic health record (EHR) for affordable, high-fidelity medical training; a lower-cost alternative to traditional simulation platforms, piloting at the UCI School of Medicine.",
+          "members": [],
+          "members_note": "No roster published (gated product app). Styled 'SimlyAI' in the OC Startup Council recap; product branded 'Simly EHR'. Unrelated to 'SimCare AI' and 'Simbie AI'."
+        },
+        {
+          "category": "Track Award (Business Products & Services)",
+          "place": "2nd",
+          "team": "Abner Computing",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Multi-provider AI inference platform that routes requests across GPU providers in real time based on price, latency, and reliability, reducing cost and downtime for enterprises.",
+          "members": []
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "1st",
+          "team": "RestWing",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Patent-protected ergonomic headrest attachment that clips onto existing headrests and provides adjustable side support to reduce neck strain on long rides.",
+          "members": [],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Specialty (Fan Favorite)", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Consumer Products)",
+          "place": "2nd",
+          "team": "PAQQ",
+          "team_aliases": ["PAQQ LLC", "PAQQ Smart Bags"],
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Smart bag and app ecosystem that uses RFID tracking and AI-powered recommendations to help users pack smarter and avoid forgetting essentials.",
+          "members": ["Elaine Gracia", "Labitta Vindi", "Ellis Park", "Jake Monarch"],
+          "members_note": "Four names from the PAQQ LinkedIn company page (linked from the Merage NVC page) as associated people; roles and UCI affiliation not published or independently confirmed."
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "1st",
+          "team": "Pipeline",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI-powered transfer-planning platform that generates personalized, term-by-term roadmaps for community college students based on university requirements.",
+          "members": ["Tyler Maher (CEO)", "Cem Yilidiz (CTO)", "Jacob Douglas Speciale"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Grand Prize", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Consumer Services)",
+          "place": "2nd",
+          "team": "CuraVoice",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "AI-powered voice-simulation platform that helps healthcare students practice bedside communication through personalized voice scenarios and real-time feedback.",
+          "members": ["Sakhi Patel (co-founder; UCI PharmD candidate)", "Shrey Modi (technical co-founder; CSU Long Beach, non-UCI)"],
+          "members_note": "Two co-founders per a March 2025 UCI ANTrepreneur AI Innovation Challenge spotlight (pre-NVC); no 2026 NVC source lists the roster, so treat as company founders rather than a verified NVC roster."
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "1st",
+          "team": "LAMON",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "AI platform for early detection of dementia / neurodegenerative disease using speech-based digital biomarkers and transformer models.",
+          "members": ["Dr. Pooyan Mobtahej", "Jacob Thomas", "Sarvenaz Ghaedi", "Dr. Ahmad Sajjadi"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Specialty (Beall Applied Innovation Award)", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Life Sciences)",
+          "place": "2nd",
+          "team": "NeuroStrat",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "Mobile memory game that screens for early signs of Alzheimer's disease in as little as 10 minutes.",
+          "members": ["Casey Vanderlip"],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Runner-Up", "place": "Winner"}
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "1st",
+          "team": "BrickCycle",
+          "prize_text": "$10,000",
+          "prize_amount_usd": 10000,
+          "project": "Transforms recycled plastic, glass, and seashell waste into durable, non-fired bricks that lower carbon emissions while improving insulation.",
+          "members": [],
+          "members_note": "No public source names the team. Unrelated to 'BrickCycle Habitats' (Vancouver, BC) and the Australian 'Brick Cycle'."
+        },
+        {
+          "category": "Track Award (Social Enterprise)",
+          "place": "2nd",
+          "team": "Ascend First",
+          "prize_text": "$5,000",
+          "prize_amount_usd": 5000,
+          "project": "AI-powered transfer-success platform with personalized transfer plans, mentorship, roadmaps, and ROI insights for community college students.",
+          "members": [],
+          "is_cross_listing": true,
+          "cross_listed_with": {"category": "Specialty (MIE Award)", "place": "Winner"}
+        }
+      ]
     },
     {
       "year": 2025,
@@ -1611,6 +1792,8 @@
       }
     ],
     "disclosed_cash_totals_by_year_usd": {
+      "2026": 113500,
+      "2026_note": "22nd edition (Grand Finale 2026-05-21). Sum of all 15 disclosed cash award line-items: Grand Prize $20K + Runner-Up $5K + Beall Applied Innovation $10K + MIE $2.5K + Fan Favorite $1K + five tracks x ($10K + $5K) = $113,500. UCI's announced 'over $100,000' understates this. Excludes in-kind AWS credits. A one-off automated summary rendered an OC Startup Council recap as '$93,500'; that figure is not in the source and does not match the line-item sum.",
       "2025": 103500,
       "2024": 100000,
       "2023": 100000,
@@ -1630,6 +1813,8 @@
       "2013_note": "Added 2026-05-12: full sub-winner rosters and prize details recovered from Samueli engineering primary source. LAS $15K + ValveStrong $14K ($7.5K + $6K Orange Residency + $500 Concept Paper) + NoreGen $33.5K ($3.5K + $30K SoM Life Sciences Award) + Nobles $2.5K + Bloom Diagnostics $2.5K. Excludes $2,750 in-kind TechPortal Calit2 award to MEGAL!NE.",
       "total_2017_to_2025": 821000,
       "total_2017_to_2025_note": "Updated 2026-05-12 to $821,000: previous $772,500 + 2017 +$21,000 (Tech Surge HMs, Outstanding Undergrad, Loy Loy/Pure Game Blum Center co-located) + 2018 +$7,500 (Tech Surge 3rd/4th). 2017 column now reflects the full slate listed in the Merage 2017 press release.",
+      "total_2017_to_2026": 934500,
+      "total_2017_to_2026_note": "Added 2026-07-04: $821,000 (2017-2025) + $113,500 (2026) = $934,500 in disclosed cash awards across the ten editions with per-year tables.",
       "total_pre_2017_known": 150000,
       "total_pre_2017_note": "Pre-2017 cash totals are confirmed only for 2013 ($67,500) and 2016 ($82,500). 2009, 2012, 2014 partial totals are known but team-by-team rosters incomplete; 2010, 2011, 2015 remain structural gaps in the indexed public record."
     }

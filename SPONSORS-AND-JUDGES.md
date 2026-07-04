@@ -2,7 +2,7 @@
 
 [← Back to main archive](README.md)
 
-Institutional context for the Stella Zhang New Venture Competition: financial backers, the naming gift, judging panels by year (where named publicly), and program staff. Last updated 2026-05-11.
+Institutional context for the Stella Zhang New Venture Competition: financial backers, the naming gift, judging panels by year (where named publicly), and program staff. Last updated 2026-07-04.
 
 ## Naming Gift
 
@@ -57,6 +57,18 @@ Source: [Merage NVC page](https://merage.uci.edu/research-faculty/centers/innova
   - Confirmed NVC judge: **Richard Matthew** (Blum Center Faculty Director).
 
 ## Judging Panels by Year
+
+### 2026 (22nd annual)
+
+Five Grand Finale judges named in the OC Startup Council post-event recap:
+
+- **Isabelle Bart** (Founder, Impact Innovator; NSF I-Corps lead instructor at UCI; former Director of the UCI Beall Applied Innovation SBDC and former Executive Director of RevHub OC) - a recurring NVC judge (also 2022 and 2023)
+- **Scott Joslyn** (J. Scott Joslyn; leads innovation/technology at UCI Health and UCI Health Ventures; PharmD, MBA)
+- **Jasmine J.** (full last name not published in indexed sources)
+- **Matt Sand** (co-founder & President, 3DEO; his current LinkedIn headline also lists "President & CEO, Avalon")
+- **Charla Triplett** (Founder & President, Catalyze; Director of Venture Acceleration, University Lab Partners)
+
+Source: [OC Startup Council, "Meet the Stella Zhang New Venture Competition 2026 Champions" (Jun 2026)](https://ocstartupcouncil.org/oc-startups-news/2026/6/12/meet-the-stella-zhang-competition-champions)
 
 ### 2023 (19th annual)
 
@@ -175,6 +187,6 @@ Source: [Merage workshop event archive (Jan 2022)](https://merage.uci.edu/events
 - **Full 2025 judging panel:** five named judges (parallel to 2023's published list) likely exists in the official 2025 NVC report PDF, which is password-protected.
 - **2018 to 2022 judging panels:** not preserved in indexed public sources.
 - **Per-track judging assignments:** not published.
-- **2026 judging panel:** will be published with the May 21, 2026 Grand Finale press release.
+- **2026 judging panel:** resolved 2026-07-04 (five judges named in the OC Startup Council recap; see the [2026 section](#2026-22nd-annual) above). One judge is published only as "Jasmine J." with no full last name.
 
 For the password-protected NVC report PDFs (which would likely fill most gaps in one pass), the contact is Sara Heimann (`sheimann@uci.edu`) at the Beall Center.
