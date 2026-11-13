@@ -39,7 +39,7 @@ This document records each year's award categories, finalist teams, prize amount
 - **Host:** UCI Paul Merage School of Business, Beall Center for Innovation & Entrepreneurship
 - **Eligibility:** UCI students, alumni, faculty, and partner-school teams
 - **Format:** Multi-round (Concept, Quarter, Semi-final / Board Room Pitch, Grand Finale) with track awards across Business Products & Services, Consumer Products, Consumer Services, Life Sciences, and Social Enterprise (categories vary slightly by year), plus overall Grand Prize, Runner-Up, and specialty awards (MIE, Audience Favorite)
-- **Prizes:** Cash plus in-kind professional services (legal, accounting, mentorship, prototyping access). The 2026 edition awarded $113,500 in disclosed cash (announced as "over $100,000") plus AWS website-build credits for all semi-finalists.
+- **Prizes:** Cash plus in-kind professional services (legal, accounting, mentorship, prototyping access). The 2026 edition awarded $103,500 in confirmed cash (announced as "over $100,000"), plus AWS website-build credits for all semi-finalists and a $10,000 Beall Applied Innovation Award whose cash-vs-in-kind status is undisclosed (see `data/nvc.json`).
 - **First held:** 2009 (22nd annual edition in 2026). This archive's main per-year tables start at 2017; pre-2017 winners are summarized in the [Pre-2017 Editions](#pre-2017-editions-20092016) section.
 
 ## How to Read This Archive
@@ -57,7 +57,7 @@ All numbers below are computed directly from the tables in this archive and cove
 
 | Year      | Disclosed Total | Notes                                                       |
 |-----------|-----------------|-------------------------------------------------------------|
-| 2026      | ~$113,500       | 22nd edition. Announced "over $100,000"; the sum of all award line-items is $113,500, including the new $10,000 Beall Applied Innovation Award. Excludes in-kind AWS credits |
+| 2026      | ~$103,500       | 22nd edition. Announced "over $100,000". Excludes the $10,000 Beall Applied Innovation Award (cash-vs-in-kind undisclosed; total is $113,500 if it counts as cash) and in-kind AWS credits |
 | 2025      | ~$103,500       | Announced pool of "$150,000+" includes in-kind services     |
 | 2024      | ~$100,000       |                                                             |
 | 2023      | ~$100,000       |                                                             |
@@ -67,7 +67,7 @@ All numbers below are computed directly from the tables in this archive and cove
 | 2019      | ~$70,000        | Several rows undisclosed (Tech Surge 1st, CS 2nd tie, CP 2nd) |
 | 2018      | ~$100,000       | Updated 2026-05-12: added Tech Surge 3rd/4th line items; no overall Grand Prize / Runner-Up awarded that year |
 | 2017      | ~$85,500        | Updated 2026-05-12: added Tech Surge honorable mentions, Outstanding Undergrad, and the co-located Blum Center runners-up; small per-track prizes ($4,000 / $1,500) before the 2018 reset |
-| **Total** | **~$934,500**   | 2017–2026. Per-year figures reconciled 2026-07-04 with the canonical [`data/nvc.json`](data/nvc.json), which incorporates primary-source PDF corrections. Excludes still-undisclosed amounts and the value of in-kind services |
+| **Total** | **~$924,500**   | 2017–2026. Per-year figures reconciled 2026-11-13 with the canonical [`data/nvc.json`](data/nvc.json), which incorporates primary-source PDF corrections. Is $934,500 if the 2026 Beall Applied Innovation Award counts as cash. Excludes still-undisclosed amounts and the value of in-kind services |
 
 ### Theme evolution
 
@@ -138,7 +138,7 @@ Each year links to its dedicated page with the full awards table and notes. Cros
 **Edition:** 22nd annual (Grand Finale May 21, 2026)
 **Grand Prize:** **Pipeline** ($20,000), AI transfer-planning platform generating personalized term-by-term roadmaps for community college students.
 **Runner-Up:** **NeuroStrat** ($5,000), mobile memory game that screens for early Alzheimer's in ~10 minutes.
-**Notable:** A new **Beall Applied Innovation Award** ($10,000, the archive's largest specialty award) went to **LAMON** (AI dementia detection via speech biomarkers). AI-native ventures took at least 6 of the 10 finalist slots; the Alzheimer's/dementia pair LAMON + NeuroStrat swept Life Sciences 1st/2nd. Disclosed cash total: $113,500.
+**Notable:** A new **Beall Applied Innovation Award** ($10,000, the archive's largest specialty award) went to **LAMON** (AI dementia detection via speech biomarkers); its cash-vs-in-kind status is undisclosed. AI-native ventures took at least 6 of the 10 finalist slots; the Alzheimer's/dementia pair LAMON + NeuroStrat swept Life Sciences 1st/2nd. Confirmed cash total: $103,500 ($113,500 if the Beall award is cash).
 
 ### [2025 Competition →](years/2025.md)
 

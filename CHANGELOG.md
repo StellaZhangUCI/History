@@ -4,7 +4,7 @@
 
 This file captures substantive changes to the archive. For per-commit detail, run `git log`.
 
-## Coverage at a glance (current, 2026-07-04)
+## Coverage at a glance (current, 2026-11-13)
 
 | Aspect                          | Status                                                                                          |
 |---------------------------------|-------------------------------------------------------------------------------------------------|
@@ -15,9 +15,27 @@ This file captures substantive changes to the archive. For per-commit detail, ru
 | Confirmed acquisitions          | 2 (LAS to Medtronic Apr 2020; No Decaf Allowed to Moongoat Coffee Roasters Dec 2022)            |
 | Notable rebrand                 | Mechanodontics to BRIUS Technologies; $46.2M total per Tracxn / Fundz / MergerLinks             |
 | Notable pivots                  | Wing to Wing Assistant ($2.1M seed Oct 2021); COMPAS IP licensed to OpsGuru spin-out 2017 (stalled); Carbo into Prof. Krichmar's CARL research line at UCI |
-| Disclosed cash 2017 to 2026     | ~$934,500 ($821,000 for 2017-2025 per `data/nvc.json` primary-source corrections + $113,500 for 2026). The README analytics table was reconciled to these canonical figures on 2026-07-04 |
+| Disclosed cash 2017 to 2026     | ~$924,500 confirmed ($821,000 for 2017-2025 per `data/nvc.json` primary-source corrections + $103,500 confirmed for 2026; $934,500 if the 2026 Beall Applied Innovation Award counts as cash). Reconciled 2026-11-13 |
 | Disclosed cash pre-2017 partial | $67,500 (2013) + $82,500 (2016) = $150,000 confirmed; 2009/2012/2014/2015 partials remain      |
-| Verification audit              | 38 passes against cited sources completed; 16 factual errors corrected + 6 stale derived figures caught and fixed; latest pass added full giv 2019 roster (Lucas Erb, Haven King, Ryan Luu, Nisarg Shah), expanded UniSafe 2019 to 3 named members (Upasana Mustafi + Praveen Ravisankar added), and DISCONFIRMED the prior "possible giv → Givsum" BACKLOG lead per UCI Beall and Butterworth 2019 winners page |
+| Verification audit              | 39 passes against cited sources completed; 16 factual errors corrected + 7 stale derived figures caught and fixed; latest pass flagged the 2026 Beall Applied Innovation Award's cash-vs-in-kind status as unconfirmed and removed it from the confirmed cash total |
+
+## 2026-11-13
+
+### Corrected: 2026 disclosed cash total (thirty-ninth verification pass)
+
+A parallel verification pass on the companion site (stellazhanguci.github.io) re-examined the 2026 award sourcing and flagged that the $10,000 Beall Applied Innovation Award (LAMON) was being counted as confirmed cash without a source that actually says so. The Merage NVC page frames Beall Applied Innovation's involvement as a Wayfinder Incubator and mentorship package rather than a stated cash prize, and neither the OC Startup Council recap nor mind.uci.edu's coverage specifies cash versus in-kind for that line item.
+
+This pass does not claim the award is in-kind, only that it is unconfirmed either way, and moves it out of the confirmed-cash figure accordingly:
+
+- **2026 confirmed cash: $103,500** (was $113,500). The Beall Applied Innovation Award is excluded pending confirmation; the total is $113,500 if it turns out to be cash.
+- **Total 2017-2026: $924,500 confirmed** (was $934,500; $934,500 if the Beall award is cash).
+- LAMON's combined Life Sciences 1st + Beall Applied Innovation figure in `years/2026.md` updated from a flat $20,000 to $10,000 confirmed / $20,000 if-cash, for consistency.
+
+No other 2026 facts changed; the award table, judges, roster, venue and theme additions from the 2026-07-04 pass all stand.
+
+**Files touched:** `data/nvc.json` (`disclosed_cash_total_usd`, `disclosed_cash_totals_by_year_usd.2026`, `total_2017_to_2026`, and their notes), `README.md` (prize summary, disclosed-cash table, 2026 highlight), `years/2026.md` (cash-total note, cross-listings line), `CHANGELOG.md` (this entry + coverage table).
+
+Cross-checks: `data/nvc.json` schema-valid; the main site repo (stellazhanguci.github.io) was updated in the same pass to carry the identical confirmed/if-cash framing, so the two repos no longer disagree on this figure.
 
 ## 2026-07-04
 

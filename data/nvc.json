@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-11-13",
   "competition": {
     "name": "Stella Zhang New Venture Competition",
     "former_names": ["Merage Business Plan Competition", "UCI New Venture Competition"],
@@ -83,8 +83,9 @@
       },
       "tracks": ["Business Products & Services", "Consumer Products", "Consumer Services", "Life Sciences", "Social Enterprise"],
       "prize_pool_announced": "Over $100,000 (Cash) plus AWS credits for all semi-finalists",
-      "prize_pool_note": "UCI framed the pool as 'over $100,000'; the sum of all disclosed cash award line-items is $113,500. AWS website-build credits are in-kind for every semi-finalist and are not counted in the cash total.",
-      "disclosed_cash_total_usd": 113500,
+      "prize_pool_note": "UCI framed the pool as 'over $100,000'. The sum of all disclosed award line-items is $113,500, but $10,000 of that is the Beall Applied Innovation Award, which Merage frames as tied to a Wayfinder Incubator and mentorship package rather than a stated cash prize; no source confirms whether it is paid as cash or in-kind. Confirmed cash (excluding that award) is $103,500; the figure is $113,500 if it is cash. AWS website-build credits are in-kind for every semi-finalist and are not counted either way.",
+      "disclosed_cash_total_usd": 103500,
+      "disclosed_cash_total_usd_if_beall_is_cash": 113500,
       "structure": {
         "grand_prize_usd": 20000,
         "runner_up_usd": 5000,
@@ -1792,8 +1793,8 @@
       }
     ],
     "disclosed_cash_totals_by_year_usd": {
-      "2026": 113500,
-      "2026_note": "22nd edition (Grand Finale 2026-05-21). Sum of all 15 disclosed cash award line-items: Grand Prize $20K + Runner-Up $5K + Beall Applied Innovation $10K + MIE $2.5K + Fan Favorite $1K + five tracks x ($10K + $5K) = $113,500. UCI's announced 'over $100,000' understates this. Excludes in-kind AWS credits. A one-off automated summary rendered an OC Startup Council recap as '$93,500'; that figure is not in the source and does not match the line-item sum.",
+      "2026": 103500,
+      "2026_note": "22nd edition (Grand Finale 2026-05-21). Confirmed cash: Grand Prize $20K + Runner-Up $5K + MIE $2.5K + Fan Favorite $1K + five tracks x ($10K + $5K) = $103,500. The $10,000 Beall Applied Innovation Award is excluded: Merage frames it as a Wayfinder Incubator and mentorship package, and no source confirms it is paid as cash rather than in-kind. If it is cash, the total is $113,500. UCI's announced 'over $100,000' covers only the core track/grand-prize pool. Excludes in-kind AWS credits. A one-off automated summary rendered an OC Startup Council recap as '$93,500'; that figure is not in the source and does not match either line-item sum.",
       "2025": 103500,
       "2024": 100000,
       "2023": 100000,
@@ -1813,8 +1814,8 @@
       "2013_note": "Added 2026-05-12: full sub-winner rosters and prize details recovered from Samueli engineering primary source. LAS $15K + ValveStrong $14K ($7.5K + $6K Orange Residency + $500 Concept Paper) + NoreGen $33.5K ($3.5K + $30K SoM Life Sciences Award) + Nobles $2.5K + Bloom Diagnostics $2.5K. Excludes $2,750 in-kind TechPortal Calit2 award to MEGAL!NE.",
       "total_2017_to_2025": 821000,
       "total_2017_to_2025_note": "Updated 2026-05-12 to $821,000: previous $772,500 + 2017 +$21,000 (Tech Surge HMs, Outstanding Undergrad, Loy Loy/Pure Game Blum Center co-located) + 2018 +$7,500 (Tech Surge 3rd/4th). 2017 column now reflects the full slate listed in the Merage 2017 press release.",
-      "total_2017_to_2026": 934500,
-      "total_2017_to_2026_note": "Added 2026-07-04: $821,000 (2017-2025) + $113,500 (2026) = $934,500 in disclosed cash awards across the ten editions with per-year tables.",
+      "total_2017_to_2026": 924500,
+      "total_2017_to_2026_note": "Updated 2026-11-13: $821,000 (2017-2025) + $103,500 (2026 confirmed cash) = $924,500. Was $934,500 pending the Beall Applied Innovation Award's cash-vs-in-kind status; see the 2026_note. The figure is $934,500 if that award is cash.",
       "total_pre_2017_known": 150000,
       "total_pre_2017_note": "Pre-2017 cash totals are confirmed only for 2013 ($67,500) and 2016 ($82,500). 2009, 2012, 2014 partial totals are known but team-by-team rosters incomplete; 2010, 2011, 2015 remain structural gaps in the indexed public record."
     }

@@ -10,7 +10,7 @@ Last reviewed: 2026-07-04 (2026 Grand Finale results added).
 
 ### 2026 Grand Finale results - RESOLVED 2026-07-04
 
-The 2026 Grand Finale was held May 21, 2026. Full results are now recorded in [`years/2026.md`](years/2026.md) and [`data/nvc.json`](data/nvc.json): Grand Prize (Pipeline, $20,000), Runner-Up (NeuroStrat), three specialty awards (Beall Applied Innovation Award to LAMON, MIE Award to Ascend First, Fan Favorite to RestWing), and 1st/2nd in all five tracks. Disclosed cash total $113,500; the five-judge panel is recorded in [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md#2026-22nd-annual).
+The 2026 Grand Finale was held May 21, 2026. Full results are now recorded in [`years/2026.md`](years/2026.md) and [`data/nvc.json`](data/nvc.json): Grand Prize (Pipeline, $20,000), Runner-Up (NeuroStrat), three specialty awards (Beall Applied Innovation Award to LAMON, MIE Award to Ascend First, Fan Favorite to RestWing), and 1st/2nd in all five tracks. Confirmed disclosed cash total $103,500 ($113,500 if the Beall Applied Innovation Award counts as cash; see the 2026-11-13 CHANGELOG entry); the five-judge panel is recorded in [`SPONSORS-AND-JUDGES.md`](SPONSORS-AND-JUDGES.md#2026-22nd-annual).
 
 **Still open for 2026:**
 
